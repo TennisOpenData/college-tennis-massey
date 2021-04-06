@@ -880,7 +880,6 @@ date	where	score	winner	loser
 20210221	H	4-3	Boise State	Gonzaga
 20210221	H	4-3	Oregon	Washington
 20210221	A	6-1	Texas A&M	Vanderbilt
-20210221	A	1-0	Auburn	Florida
 20210221	H	6-1	Florida	Auburn
 20210221	A	7-0	Ole Miss	Arkansas
 20210221	A	5-2	Mississippi State	Tulane
@@ -1140,7 +1139,6 @@ date	where	score	winner	loser
 20210227	H	8-1	UW Eau Claire	UW Superior
 20210227	H	9-0	UW Whitewater	Millikin
 20210227	H	9-0	Whitman	Whitworth
-20210227	H	4-3	Guilford	Roanoke
 20210227	H	8-1	Birmingham Southern	Marion Military
 20210227	A	9-0	Oglethorpe	LaGrange
 20210227	A	5-1	Southwestern (TX)	Schreiner
@@ -1458,7 +1456,6 @@ date	where	score	winner	loser
 20210306	H	5-2	Valdosta State	Delta State
 20210306	A	4-3	Mississippi College	Christian Brothers
 20210306	H	4-3	MSU-Texas	Southern Arkansas
-20210306	H	1-0	St. Mary's (TX)	OLLU (TX)
 20210306	H	7-0	Cameron	Oklahoma Baptist
 20210306	H	7-0	West Liberty	Wesleyan (WV)
 20210306	N	7-0	Northwest Missouri	McKendree
@@ -1483,7 +1480,6 @@ date	where	score	winner	loser
 20210306	H	8-1	Salisbury	Virginia Wesleyan
 20210306	H	7-2	Southern Virginia	Christopher Newport
 20210306	H	6-3	Hamline	Wartburg
-20210306	H	2-0	St. Norbert	Northwestern (MN)
 20210306	A	7-2	Wabash	Franklin (IN)
 20210306	N	6-3	UW La Crosse	Bethel (MN)
 20210306	H	7-2	Lewis & Clark (OR)	Puget Sound
@@ -1618,7 +1614,6 @@ date	where	score	winner	loser
 20210308	H	7-2	Southern Virginia	Averett
 20210308	A	5-2	St. Thomas (FL)	Milligan
 20210308	H	5-2	Warner	Walsh
-20210308	H	1-0	Collin County (TX)	NMMI
 20210308	H	7-2	Jones	Meridian (MS)
 20210309	H	5-2	Virginia Tech	Florida State
 20210309	H	6-1	Central Florida	South Alabama
@@ -2193,7 +2188,6 @@ date	where	score	winner	loser
 20210320	A	5-2	Southern Indiana	Quincy
 20210320	H	7-0	Cedarville	Ohio Wesleyan
 20210320	H	4-2	Walsh	Findlay
-20210320	A	1-0	Shorter	Tuskegee
 20210320	H	6-1	West Florida	Spring Hill
 20210320	H	5-0	West Florida	Texas Tyler
 20210320	A	4-3	West Alabama	Lee (TN)
@@ -2248,7 +2242,6 @@ date	where	score	winner	loser
 20210320	H	9-0	Whitman	Linfield
 20210320	A	0-0	Hampden-Sydney	William Peace
 20210320	A	9-0	Washington & Lee	Virginia Wesleyan
-20210320	H	2-2	Geneva	St. Vincent
 20210320	H	6-3	Centre	Birmingham Southern
 20210320	A	9-0	Oglethorpe	Hendrix
 20210320	H	7-2	Rhodes	Berry
@@ -2346,7 +2339,6 @@ date	where	score	winner	loser
 20210321	H	6-1	Carson-Newman	Newberry
 20210321	H	7-0	Queens (NC)	Virginia Wise
 20210321	A	5-2	Barry	Palm Beach Atlantic
-20210321	A	1-0	Immaculata	Moravian
 20210321	A	0-0	Dubuque	Buena Vista
 20210321	A	7-2	Loras	Nebraska Wesleyan
 20210321	A	6-3	Christopher Newport	Washington & Lee
@@ -2411,7 +2403,6 @@ date	where	score	winner	loser
 20210323	H	4-3	Presbyterian	Campbell
 20210323	A	0-0	UC Riverside	Hawaii
 20210323	H	7-0	Elon	Longwood
-20210323	A	2-0	S.C. State	Georgia Southern
 20210323	H	4-3	Fairleigh Dickinson	St. Francis (NY)
 20210323	H	7-0	UCLA	UC Irvine
 20210323	H	7-0	USC	Stanford
@@ -2578,7 +2569,6 @@ date	where	score	winner	loser
 20210326	A	6-3	Trine	Anderson (IN)
 20210326	H	9-0	St. John's (MN)	Minnesota Morris
 20210326	N	6-3	Wabash	IU South Bend
-20210326	A	3-1	Emory & Henry	Ferrum
 20210326	A	9-0	Webster	Illinois College
 20210326	H	7-0	Doane	Northwestern (IA)
 20210326	H	6-1	Missouri Valley	Grand View
@@ -2637,7 +2627,6 @@ date	where	score	winner	loser
 20210327	H	6-1	North Greenville	Chowan
 20210327	H	4-3	Southern Wesleyan	Barton
 20210327	A	0-0	St. Thomas Aquinas	Daemen
-20210327	N	2-0	Ouachita Baptist	Collin County (TX)
 20210327	A	7-0	Southern Arkansas	Oklahoma Baptist
 20210327	H	4-3	Ashland	Davenport
 20210327	A	6-1	Grand Valley State	Northwood
@@ -2699,7 +2688,6 @@ date	where	score	winner	loser
 20210327	H	8-1	UW Whitewater	Wheaton (IL)
 20210327	H	5-4	George Fox	Pacific (OR)
 20210327	A	9-0	Lewis & Clark (OR)	Willamette
-20210327	A	4-3	Pacific Lutheran	Puget Sound
 20210327	A	9-0	Whitman	Whitworth
 20210327	A	0-0	John Carroll	Otterbein
 20210327	H	9-0	Virginia Wesleyan	Shenandoah
@@ -2861,7 +2849,6 @@ date	where	score	winner	loser
 20210330	A	6-1	Wingate	Limestone
 20210330	A	5-2	Thomas More	Georgetown (KY)
 20210330	H	8-1	Trine	Alma
-20210330	A	3-2	Franciscan	Washington & Jefferson
 20210330	H	9-0	Principia	St. Louis - Pharmacy
 20210330	A	0-0	NC Wesleyan	Methodist (NC)
 20210330	H	7-0	Union (KY)	Milligan
@@ -2876,7 +2863,6 @@ date	where	score	winner	loser
 20210331	H	4-3	Texas	Texas A&M
 20210331	A	0-0	Georgetown	James Madison
 20210331	H	7-0	St. John's (NY)	Villanova
-20210331	H	3-3	Quinnipiac	Bryant
 20210331	A	7-0	West Alabama	Spring Hill
 20210331	A	0-0	Fairmont State	Bluefield State
 20210331	N	7-0	Northwest Missouri	Rockhurst
@@ -3143,7 +3129,6 @@ date	where	score	winner	loser
 20210403	A	5-4	Oglethorpe	Birmingham Southern
 20210403	N	6-3	Principia	Coe College
 20210403	H	6-3	Webster	St. Louis - Pharmacy
-20210403	H	3-3	Webster	Westminster (MO)
 20210403	A	9-0	Carnegie Mellon	Allegheny
 20210403	H	9-0	Chicago	North Central (IL)
 20210403	H	8-1	Chicago	North Central (IL)
