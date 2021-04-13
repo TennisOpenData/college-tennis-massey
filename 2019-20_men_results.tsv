@@ -4,18 +4,15 @@ date	where	score	winner	loser
 20190907	H	4-0	Morgan State	Harford (MD)
 20190907	A	6-1	Millersville	Daemen
 20190907	N	8-1	Anderson (IN)	Fontbonne
-20190907	N	3-0	Manchester	Olivet
 20190907	A	9-0	Susquehanna	Penn College
 20190907	N	0-0	Calvin	Wooster
-20190908	N	2-1	Coppin State	Harford (MD)
 20190908	H	7-0	Bucknell	Dickinson
-20190908	N	3-1	Loyola (MD)	Harford (MD)
 20190908	A	7-0	Millersville	Roberts Wesleyan
 20190908	A	8-1	Illinois Wesleyan	Dubuque
 20190908	N	6-3	Illinois Wesleyan	Loras
 20190909	A	6-1	SNHU	Post
-20190910	H	0-0	SNHU	Colby-Sawyer
-20190910	H	0-0	Brevard	Piedmont
+20190910	A	0-0	Colby-Sawyer	SNHU
+20190910	A	0-0	Piedmont	Brevard
 20190911	A	8-0	Susquehanna	Lycoming
 20190912	A	5-2	Maryville (MO)	McKendree
 20190912	A	7-0	UTPB	CSU-Pueblo
@@ -32,19 +29,17 @@ date	where	score	winner	loser
 20190914	N	5-2	Newman	Colorado Mesa
 20190914	N	4-0	Metropolitan State	Newman
 20190914	H	7-0	Millersville	Frostburg State
-20190914	H	2-0	Newberry	USC Sumter
-20190914	H	0-0	Newberry	USC Sumter
 20190914	A	5-4	York (PA)	Lebanon Valley
 20190914	A	7-2	Elizabethtown	Lycoming
 20190914	A	5-3	Cornell College	Simpson (IA)
 20190914	N	4-3	Oberlin	Findlay
 20190914	A	5-2	Wittenberg	Indiana East
+20190914	A	0-0	USC Sumter	Newberry
 20190915	A	7-0	Newman	CSU-Pueblo
 20190915	N	5-2	Young Harris (GA)	Lees-McRae
 20190915	A	6-1	Young Harris (GA)	Mars Hill
 20190915	H	8-1	Stevenson	Catholic
 20190915	A	4-3	Wooster	Walsh
-20190915	H	2-0	Emory & Henry	Maryville (TN)
 20190917	H	7-0	Stonehill	Emerson
 20190917	H	5-2	Millersville	Jefferson
 20190917	A	9-0	West Chester	Arcadia
@@ -67,7 +62,6 @@ date	where	score	winner	loser
 20190921	A	0-0	Colby-Sawyer	Amherst
 20190921	H	9-0	Anderson (IN)	Franklin (IN)
 20190921	A	7-2	Juniata	King's (PA)
-20190921	H	4-2	Moravian	Misericordia
 20190921	N	9-0	Hobart & William Smith	Colby-Sawyer
 20190921	A	9-0	Vassar	Bard
 20190921	H	8-1	Lebanon Valley	Susquehanna
@@ -78,16 +72,16 @@ date	where	score	winner	loser
 20190922	A	5-0	Muhlenberg	DeSales
 20190922	N	7-1	Muhlenberg	Moravian
 20190922	H	6-3	Colby-Sawyer	Springfield
-20190922	H	0-0	Miami Hamilton	Muskingum
 20190922	H	6-3	Drew	Arcadia
 20190922	H	9-0	UMass Boston	Salve Regina
 20190922	N	0-0	Arcadia	Misericordia
 20190922	H	5-4	Penn State - Harrisburg	Elizabethtown
 20190922	A	7-2	Clark (MA)	JWU Providence
+20190922	A	0-0	Muskingum	Miami Hamilton
 20190923	H	7-0	Chestnut Hill	Kutztown
 20190923	A	7-2	Bentley	Eastern Nazarene
-20190923	N	0-0	Buena Vista	Iowa Central
 20190923	A	7-2	Ursinus	Penn State - Abington
+20190923	N	0-0	Iowa Central	Buena Vista
 20190924	H	6-3	Buena Vista	Northwestern (IA)
 20190924	H	9-0	Susquehanna	Alvernia
 20190924	H	9-0	Lycoming	Misericordia
@@ -104,9 +98,8 @@ date	where	score	winner	loser
 20190926	A	5-1	Penn State - Harrisburg	Alvernia
 20190927	A	6-1	Sciences (Philadelphia)	West Chester
 20190927	H	9-0	Mount Union	Franciscan
-20190928	N		UAB	William Carey
 20190928	N	6-1	Colorado Mesa	Colorado College
-20190928	H	0-0	York (PA)	Gettysburg
+20190928	A	0-0	Gettysburg	York (PA)
 20190928	N	6-3	Juniata	Franciscan
 20190928	H	6-3	Susquehanna	Penn State - Harrisburg
 20190928	H	7-2	Arcadia	Moravian
@@ -116,23 +109,19 @@ date	where	score	winner	loser
 20190928	H	8-1	Lewis & Clark (OR)	Willamette
 20190928	A	0-0	Muskingum	Cornerstone
 20190929	A	7-0	Niagara	Daemen
-20190929	N		New Orleans	William Carey
-20190929	N		South Alabama	William Carey
 20190929	H	7-0	Chestnut Hill	Bloomsburg
 20190929	A	7-0	McKendree	Oakland City
 20190929	A	6-1	SNHU	Post
 20190929	H	6-1	Franklin (IN)	Manchester
 20190929	A	7-0	Otterbein	Franciscan
 20190930	H	7-2	Allegheny	Houghton
-20191001	A	2-1	Emory & Henry	Johnson (TN)
 20191001	A	6-1	Principia	Lindenwood-Belleville
 20191002	H	6-1	Loyola (MD)	Dickinson
 20191002	H	5-2	District of Columbia	Sciences (Philadelphia)
 20191002	A	7-0	Davis & Elkins	Shepherd
 20191002	N	6-1	Anderson (SC)	Emmanuel (GA)
-20191002	H	0-0	Lebanon Valley	Eastern (PA)
-20191002	H	0-0	Ramapo	Farmingdale State
-20191003	A	3-2	Alvernia	DeSales
+20191002	A	0-0	Eastern (PA)	Lebanon Valley
+20191002	A	0-0	Farmingdale State	Ramapo
 20191004	A	4-3	Emmanuel (GA)	Newberry
 20191004	A	5-2	District of Columbia	Shepherd
 20191004	H	6-1	Rockhurst	Ottawa
@@ -186,10 +175,8 @@ date	where	score	winner	loser
 20191014	H	6-3	Ramapo	Baruch
 20191015	A	6-1	Jefferson	West Chester
 20191015	A	5-1	Anderson (SC)	North Greenville
-20191015	H	4-3	Endicott	Colby-Sawyer
 20191016	H	0-0	Post	Franklin Pierce
 20191016	H	5-2	North Georgia	Emmanuel (GA)
-20191016	H	4-3	Ozarks	John Brown
 20191018	H	5-2	Emmanuel (GA)	Lincoln Memorial
 20191018	H	4-0	Illinois Springfield	Lindenwood-Belleville
 20191018	H	4-1	Illinois Springfield	Olivet Nazarene
@@ -679,7 +666,6 @@ date	where	score	winner	loser
 20200131	H	5-2	Wake Forest	Central Florida
 20200131	H	7-0	Temple	Connecticut
 20200131	A	4-3	Tulane	LSU
-20200131	H	0-0	South Florida	Mississippi State
 20200131	H	6-1	Liberty	Longwood
 20200131	A	5-2	Lipscomb	Northern Kentucky
 20200131	H	5-2	Weber State	Colorado Mesa
@@ -708,6 +694,7 @@ date	where	score	winner	loser
 20200131	A	6-1	Texas A&M	Tulsa
 20200131	N	6-1	Alabama	Drake
 20200131	H	4-2	Ole Miss	Oklahoma State
+20200131	A	0-0	Mississippi State	South Florida
 20200131	H	7-0	Tennessee	Georgia State
 20200131	H	7-0	Tennessee	Mercer
 20200131	H	4-1	Vanderbilt	Middle Tennessee
@@ -749,7 +736,6 @@ date	where	score	winner	loser
 20200201	A	4-0	Florida Gulf Coast	Bethune Cookman
 20200201	A	5-2	Kennesaw State	Samford
 20200201	A	5-2	Lipscomb	Dayton
-20200201	H	0-0	Stetson	Embry-Riddle (FL)
 20200201	H	4-3	North Florida	Georgia Southern
 20200201	N	4-0	DePaul	Toledo
 20200201	N	5-2	Georgetown	Binghamton
@@ -836,6 +822,7 @@ date	where	score	winner	loser
 20200201	N	4-3	Carson-Newman	Lee (TN)
 20200201	H	4-3	Lincoln Memorial	Cumberlands (KY)
 20200201	H	6-1	Wingate	Belmont Abbey
+20200201	A	0-0	Embry-Riddle (FL)	Stetson
 20200201	H	7-2	Coe College	Doane
 20200201	H	9-0	Coe College	Dubuque
 20200201	H	6-0	East Texas Baptist	Texas Lutheran
@@ -960,7 +947,7 @@ date	where	score	winner	loser
 20200204	H	8-1	Riverside	San Diego Mesa
 20200204	A	5-4	Saddleback	Palomar
 20200204	H	9-0	San Diego City	Orange Coast
-20200204	H	0-0	Bakersfield	Glendale (CA)
+20200204	A	0-0	Glendale (CA)	Bakersfield
 20200204	H	6-3	Ventura	Santa Barbara City
 20200205	H	6-1	Hawaii	St. Mary's (CA)
 20200205	H	5-2	UCSD	Point Loma (CA)
@@ -972,7 +959,6 @@ date	where	score	winner	loser
 20200205	A	9-0	Harding	Hendrix
 20200205	H	5-2	Concordia (CA)	Cerritos
 20200205	H	5-2	Limestone	Catawba
-20200205	N	4-0	Laredo (TX)	OLLU (TX)
 20200206	H	4-1	Virginia	TCU
 20200206	H	5-2	Baylor	Wake Forest
 20200206	A	4-2	Marquette	Wisconsin
@@ -1101,6 +1087,7 @@ date	where	score	winner	loser
 20200208	A	4-3	UCSD	Biola
 20200208	A	6-1	College of Charleston	Florida A&M
 20200208	A	4-3	Drexel	Lehigh
+20200208	A	0-0	Elon	Winthrop
 20200208	H	6-1	UNC Wilmington	Campbell
 20200208	H	4-0	Florida Atlantic	DePaul
 20200208	H	4-3	Florida Atlantic	South Alabama
@@ -1211,12 +1198,12 @@ date	where	score	winner	loser
 20200208	H	5-4	Carnegie Mellon	Southern Virginia
 20200208	A	9-0	CWRU	Hope
 20200208	N	7-2	CWRU	Rose-Hulman
-20200208	H	0-0	Huntingdon	Wallace State
 20200208	N	8-1	Covenant	Belhaven
 20200208	A	4-3	Cowley County (KS)	Southeastern (OK)
 20200208	N	7-2	Tyler JC (TX)	Trinity (TX)
 20200208	N	7-2	Oxford (GA)	Hinds (MS)
 20200208	H	7-2	Marion Military	East Central (MS)
+20200208	A	0-0	Wallace State	Huntingdon
 20200208	H	9-0	Copiah-Lincoln (MS)	Holmes (MS)
 20200208	N	8-1	Jones	Oxford (GA)
 20200208	A	5-4	Gulf Coast (MS)	Itawamba (MS)
@@ -1227,7 +1214,6 @@ date	where	score	winner	loser
 20200208	N	4-3	St. Edward's (TX)	West Alabama
 20200208	N	7-0	Green Bay	MSOE
 20200208	A	9-0	Green Bay	St. Norbert
-20200208	H	0-0	Winthrop	Elon
 20200209	A	5-2	Dayton	Duquesne
 20200209	A	6-1	Fordham	Connecticut
 20200209	A	4-2	VCU	ETSU
@@ -1321,7 +1307,7 @@ date	where	score	winner	loser
 20200210	A	4-3	West Florida	Florida Southern
 20200210	A	5-2	Wesleyan (WV)	Lincoln Memorial
 20200210	A	4-3	Azusa Pacific	Biola
-20200210	H	0-0	Limestone	Newberry
+20200210	A	0-0	Newberry	Limestone
 20200210	H	9-0	NC Wesleyan	Shaw
 20200210	H	0-0	Seward County (KS)	Bethel (KS)
 20200211	H	4-2	Georgetown	Drexel
@@ -1329,7 +1315,6 @@ date	where	score	winner	loser
 20200211	H	4-0	Rice	A&M-Corpus Christi
 20200211	N	7-0	UCLA	Western Michigan
 20200211	A	6-1	USC	Wisconsin
-20200211	H	0-0	Southern Arkansas	Centenary (LA)
 20200211	A	0-0	Shorter	Valdosta State
 20200211	H	4-1	Point Loma (CA)	San Diego Christian
 20200211	H	7-0	Edinboro	Roberts Wesleyan
@@ -1344,6 +1329,7 @@ date	where	score	winner	loser
 20200211	A	9-0	Riverside	Palomar
 20200211	H	8-1	Cerritos	Fullerton
 20200211	H	9-0	Ventura	Saddleback
+20200211	A	0-0	Centenary (LA)	Southern Arkansas
 20200211	N	8-1	Earlham	Grove City
 20200211	A	5-4	Earlham	Ohio Wesleyan
 20200212	A	6-1	VCU	James Madison
@@ -1573,14 +1559,12 @@ date	where	score	winner	loser
 20200215	H	6-1	Limestone	USC Sumter
 20200215	A	4-3	Tusculum	Newberry
 20200215	H	4-3	Spring Hill	Florida A&M
-20200215	H	0-0	Tuskegee	Huntingdon
 20200215	A	0-0	Central (IA)	St. Ambrose
 20200215	A	5-4	Coe College	Augustana (IL)
 20200215	A	4-3	Howard Payne	Southwest (NM)
 20200215	H	7-2	LeTourneau	Mary Hardin-Baylor
 20200215	A	7-2	McMurry	Schreiner
 20200215	A	9-0	Ozarks	Hendrix
-20200215	N	3-2	Ozarks	John Brown
 20200215	H	9-0	Christopher Newport	Chowan
 20200215	H	5-4	Augustana (IL)	Rose-Hulman
 20200215	A	8-1	Carthage	Edgewood
@@ -1620,6 +1604,7 @@ date	where	score	winner	loser
 20200215	A	7-2	Greenville	Albion
 20200215	H	5-4	Carnegie Mellon	Swarthmore
 20200215	A	9-0	Chicago	Kalamazoo
+20200215	A	0-0	Huntingdon	Tuskegee
 20200215	N	0-0	Eastern Florida	Tyler JC (TX)
 20200215	A	0-0	Iowa Central	Gustavus Adolphus
 20200215	N	9-0	Tyler JC (TX)	Barton County (KS)
@@ -1642,7 +1627,6 @@ date	where	score	winner	loser
 20200216	A	4-1	St. John's (NY)	Bryant
 20200216	N	7-0	Idaho	George Fox
 20200216	A	7-0	Montana	Lewis-Clark (ID)
-20200216	H	0-0	Longwood	Howard
 20200216	H	5-0	Penn State	St. Bonaventure
 20200216	H	5-1	Penn State	St. Francis (PA)
 20200216	A	4-3	UC Irvine	Pacific (CA)
@@ -1663,6 +1647,7 @@ date	where	score	winner	loser
 20200216	A	4-3	Fairfield	Colgate
 20200216	N	4-1	Monmouth (NJ)	George Mason
 20200216	A	4-3	Siena	Connecticut
+20200216	A	0-0	Howard	Longwood
 20200216	H	5-2	Air Force	Seward County (KS)
 20200216	H	5-2	Air Force	Idaho State
 20200216	A	5-2	Nevada	Sacramento State
@@ -1689,7 +1674,6 @@ date	where	score	winner	loser
 20200216	H	7-0	Santa Clara	Holy Names
 20200216	H	4-0	San Francisco	Boise State
 20200216	A	4-2	Lees-McRae	Montreat
-20200216	H	0-0	Johnson C. Smith	Pfeiffer
 20200216	H	4-3	Davenport	Southern Indiana
 20200216	H	6-1	Grand Valley State	Walsh
 20200216	H	4-3	Northwood	Tiffin
@@ -1723,13 +1707,14 @@ date	where	score	winner	loser
 20200216	N	6-3	Carnegie Mellon	Denison
 20200216	H	9-0	Rochester (NY)	Nazareth
 20200216	H	5-4	Wash U	Southwest Baptist (MO)
+20200216	A	0-0	Pfeiffer	Johnson C. Smith
 20200216	H	4-2	Iowa	Wichita State
 20200217	H	7-0	Idaho	Whitman
 20200217	A	6-1	Campbell	NCCU
 20200217	H	4-2	Indiana	UC Santa Barbara
 20200217	H	4-0	Indiana	Xavier
 20200217	A	7-0	UC Riverside	Holy Cross (MA)
-20200217	H	0-0	Alcorn State	Delta State
+20200217	A	0-0	Delta State	Alcorn State
 20200217	H	0-0	Birmingham Southern	Martin Methodist
 20200217	H	5-4	Occidental	UC Santa Cruz
 20200218	H	5-0	Hawaii	Washington
@@ -1737,18 +1722,16 @@ date	where	score	winner	loser
 20200218	H	4-3	Brown	Boston College
 20200218	H	7-0	Western Michigan	Ferris State
 20200218	H	7-0	Austin Peay	Cumberland (TN)
-20200218	H	0-0	Wofford	North Greenville
 20200218	A	6-1	Mount Olive	Chowan
+20200218	A	0-0	North Greenville	Wofford
 20200218	H	5-2	Concordia (CA)	Point Loma (CA)
-20200218	H	3-0	Transylvania	Berea
 20200218	A	0-0	Wallace State	Martin Methodist
 20200218	A	9-0	American River	Folsom Lake
 20200218	H	8-1	Shasta	Diablo Valley
-20200218	H	4-4	Irvine Valley	Hope International
 20200218	A	5-4	Saddleback	El Camino
 20200218	A	7-2	Grossmont	Palomar
 20200218	H	7-2	Cerritos	Victor Valley
-20200218	H	0-0	Glendale (CA)	Santa Barbara City
+20200218	A	0-0	Santa Barbara City	Glendale (CA)
 20200218	H	7-2	Ventura	Riverside
 20200219	H	4-3	Tulsa	Arkansas
 20200219	H	4-3	Radford	UNC Greensboro
@@ -1764,21 +1747,21 @@ date	where	score	winner	loser
 20200219	H	7-2	Eastern Florida	Bates
 20200220	A	7-0	Wayne State	Lawrence Tech
 20200220	A	9-0	Cameron	Collin County (TX)
-20200220	H	0-0	North Georgia	Anderson (SC)
+20200220	A	0-0	Anderson (SC)	North Georgia
 20200220	A	0-0	Lenoir-Rhyne	Limestone
-20200220	H	0-0	Mars Hill	Wingate
+20200220	A	0-0	Wingate	Mars Hill
 20200220	H	6-0	Benedict	Fort Valley State
-20200220	H	0-0	Benedict	Lane
 20200220	H	4-0	Benedict	Tuskegee
+20200220	A	0-0	Lane	Benedict
 20200220	H	7-2	Lake Forest	MSOE
 20200220	H	0-0	Lake Forest	Roosevelt
 20200220	H	5-4	Santa Rosa	Chabot
 20200220	H	6-3	Fullerton	Riverside
 20200220	H	9-0	Irvine Valley	Saddleback
-20200220	N	0-0	Desert	Cerritos
 20200220	A	5-4	Mt. San Jacinto	El Camino
 20200220	H	9-0	San Diego City	Imperial Valley
 20200220	H	6-3	San Diego Mesa	Palomar
+20200220	N	0-0	Cerritos	Desert
 20200221	H	4-0	St. Joseph's (PA)	Connecticut
 20200221	A	7-0	Miami (FL)	Clemson
 20200221	H	5-2	SMU	South Florida
@@ -1861,11 +1844,11 @@ date	where	score	winner	loser
 20200221	A	5-4	Modesto	Fresno
 20200221	H	8-1	Solano	Folsom Lake
 20200221	A	9-0	Santa Rosa	Diablo Valley
-20200221	N	0-0	Santa Rosa	Grossmont
 20200221	H	6-3	Chabot	Grossmont
-20200221	H	0-0	Riverside	LA Pierce
+20200221	N	0-0	Grossmont	Santa Rosa
 20200221	H	9-0	San Diego City	Saddleback
 20200221	A	5-4	Glendale (CA)	Orange Coast
+20200221	A	0-0	LA Pierce	Riverside
 20200221	H	5-2	East Carolina	Bryant
 20200221	A	4-3	George Washington	Dayton
 20200221	H	7-0	Southern Utah	Colorado Mesa
@@ -1913,6 +1896,7 @@ date	where	score	winner	loser
 20200222	N	4-0	Princeton	Arizona
 20200222	N	4-3	Marist	La Salle
 20200222	A	4-3	Binghamton	Hofstra
+20200222	A	0-0	Northern Illinois	Green Bay
 20200222	N	4-0	Morgan State	Villanova
 20200222	A	4-1	New Mexico	Drake
 20200222	H	4-3	Bryant	Babson
@@ -1963,7 +1947,6 @@ date	where	score	winner	loser
 20200222	A	7-0	Southern Wesleyan	Johnson C. Smith
 20200222	A	6-1	Harding	Arkansas Ft. Smith
 20200222	N	4-3	Oklahoma Baptist	Newman
-20200222	N	0-0	Southern Arkansas	Seward County (KS)
 20200222	N	4-1	Southern Arkansas	Southwest Baptist (MO)
 20200222	A	6-1	Findlay	Ferris State
 20200222	A	4-3	Hillsdale	Purdue Northwest
@@ -1983,7 +1966,6 @@ date	where	score	winner	loser
 20200222	H	5-2	Tusculum	Young Harris (GA)
 20200222	A	6-1	Barry	Flagler
 20200222	H	5-2	Florida Southern	Lynn
-20200222	H	0-0	Penn State Behrend	Otterbein
 20200222	H	9-0	Coe College	Simpson (IA)
 20200222	H	7-2	Coe College	Wheaton (IL)
 20200222	N	7-2	Luther (IA)	St. Scholastica
@@ -2018,9 +2000,9 @@ date	where	score	winner	loser
 20200222	A	9-0	UW La Crosse	Dubuque
 20200222	N	9-0	UW La Crosse	Lawrence
 20200222	H	8-1	UW Whitewater	Carthage
-20200222	H	0-0	Pacific Lutheran	Spokane
+20200222	A	0-0	Otterbein	Penn State Behrend
 20200222	A	0-0	Ferrum	Lynchburg
-20200222	A	4-0	Hendrix	Fontbonne
+20200222	A	0-0	Randolph	Pfeiffer
 20200222	H	9-0	Millsaps	Louisiana College
 20200222	H	6-3	Schreiner	Mary Hardin-Baylor
 20200222	H	9-0	Trinity (TX)	Cal Lutheran
@@ -2035,10 +2017,11 @@ date	where	score	winner	loser
 20200222	A	4-3	Averett	Bluefield
 20200222	H	6-3	Covenant	Birmingham Southern
 20200222	N	5-4	NC Wesleyan	Washington & Lee
-20200222	H	0-0	Pfeiffer	Randolph
+20200222	N	0-0	Seward County (KS)	Southern Arkansas
 20200222	A	5-4	Eastern Florida	ASA (Miami)
 20200222	N	8-1	USC Sumter	Jones
 20200222	N	7-2	USC Sumter	Wallace State
+20200222	A	0-0	Spokane	Pacific Lutheran
 20200222	H	9-0	East Central (MS)	Holmes (MS)
 20200222	A	8-1	Itawamba (MS)	Hinds (MS)
 20200222	N	9-0	Jones	Gadsden State
@@ -2049,7 +2032,6 @@ date	where	score	winner	loser
 20200222	A	5-2	George Washington	Xavier
 20200222	N	4-2	St. Edward's (TX)	Southeastern (OK)
 20200222	H	5-2	UAH	Bellarmine
-20200222	H	0-0	Green Bay	Northern Illinois
 20200223	H	4-3	Clemson	Florida Atlantic
 20200223	A	4-2	Miami (FL)	Georgia Tech
 20200223	N	6-0	Tulsa	Binghamton
@@ -2142,7 +2124,6 @@ date	where	score	winner	loser
 20200223	H	7-0	Wright State	Thomas More
 20200223	H	4-1	Appalachian State	Winthrop
 20200223	A	4-3	Iowa	Denver
-20200223	N	3-2	St. Edward's (TX)	Hawaii Hilo
 20200223	H	6-1	UAH	Martin Methodist
 20200224	H	4-3	Utah State	Louisiana
 20200224	H	4-3	Tennessee State	North Alabama
@@ -2165,17 +2146,17 @@ date	where	score	winner	loser
 20200225	H	7-2	Pima (AZ)	Mesa (AZ)
 20200225	H	8-1	Marion Military	Meridian (MS)
 20200225	H	8-1	East Central (MS)	Hinds (MS)
-20200225	H	0-0	Holmes (MS)	Gulf Coast (MS)
 20200225	H	9-0	Itawamba (MS)	Southwest (MS)
 20200225	H	7-2	Jones	Copiah-Lincoln (MS)
+20200225	A	0-0	Gulf Coast (MS)	Holmes (MS)
 20200225	A	9-0	American River	Modesto
 20200225	A	9-0	Solano	Diablo Valley
 20200225	H	9-0	Santa Rosa	Shasta
 20200225	A	6-3	Fullerton	El Camino
 20200225	A	8-1	Irvine Valley	Orange Coast
 20200225	A	7-2	Riverside	Saddleback
-20200225	H	0-0	Grossmont	San Diego Mesa
 20200225	A	9-0	San Diego City	Palomar
+20200225	A	0-0	San Diego Mesa	Grossmont
 20200226	H	5-2	Davidson	Presbyterian
 20200226	H	7-0	UNC Asheville	Tusculum
 20200226	H	7-0	Elon	NC A&T
@@ -2300,7 +2281,6 @@ date	where	score	winner	loser
 20200228	A	9-0	CMS	Cal Lutheran
 20200228	H	9-0	Occidental	Clark (MA)
 20200228	H	6-3	Redlands	Washington & Lee
-20200228	H	1-0	Covenant	Maryville (TN)
 20200228	N	9-0	Seward County (KS)	Jacksonville (TX)
 20200228	H	9-0	Tyler JC (TX)	Collin County (TX)
 20200228	A	0-0	Coastal Alabama	Wallace State
@@ -2422,17 +2402,15 @@ date	where	score	winner	loser
 20200229	H	6-3	St. Thomas (MN)	St. Olaf
 20200229	H	5-4	Cornell College	MSOE
 20200229	N	6-3	Grinnell	Augustana (SD)
-20200229	N	2-0	Illinois College	Greenville
 20200229	A	0-0	St. Norbert	Concordia (WI)
-20200229	H	0-0	Concordia (WI)	UW La Crosse
 20200229	H	9-0	Wheaton (MA)	Endicott
 20200229	H	8-1	Babson	Vassar
 20200229	N	8-1	TCNJ	Dickinson
 20200229	A	8-1	UW Eau Claire	Carthage
 20200229	N	8-1	UW Eau Claire	Lake Forest
+20200229	A	0-0	UW La Crosse	Concordia (WI)
 20200229	A	9-0	UW Whitewater	Ohio Wesleyan
 20200229	N	8-1	UW Whitewater	Wooster
-20200229	H	0-0	Lewis & Clark (OR)	Treasure Valley
 20200229	H	5-4	Linfield	Otterbein
 20200229	A	9-0	Whitworth	Puget Sound
 20200229	A	8-1	Millsaps	Birmingham Southern
@@ -2450,12 +2428,12 @@ date	where	score	winner	loser
 20200229	H	0-0	Emory	Cumberland (TN)
 20200229	H	9-0	Northwestern (MN)	Dubuque
 20200229	A	9-0	Averett	Randolph
-20200229	H	4-0	Covenant	Johnson (TN)
 20200229	H	6-3	Covenant	Transylvania
 20200229	A	9-0	LaGrange	Huntingdon
 20200229	H	8-1	Eastern Florida	Davenport
 20200229	A	5-2	USC Sumter	Benedict
 20200229	N	6-3	Tyler JC (TX)	Seward County (KS)
+20200229	A	0-0	Treasure Valley	Lewis & Clark (OR)
 20200229	H	5-4	East Central (MS)	Gadsden State
 20200229	A	5-4	Jones	Gulf Coast (MS)
 20200229	A	6-3	Meridian (MS)	Copiah-Lincoln (MS)
@@ -2566,8 +2544,8 @@ date	where	score	winner	loser
 20200301	H	5-2	Iowa	Nebraska
 20200302	H	4-0	Longwood	NC A&T
 20200302	N	4-3	Sacred Heart	Charleston
-20200302	H	0-0	Alcorn State	UTRGV
-20200302	H	0-0	Alcorn State	UTRGV
+20200302	A	0-0	UTRGV	Alcorn State
+20200302	A	0-0	UTRGV	Alcorn State
 20200302	A	4-3	Pepperdine	Oklahoma
 20200302	A	4-3	San Diego	UC Santa Barbara
 20200302	N	6-1	Concordia (NY)	Cedarville
@@ -2625,7 +2603,6 @@ date	where	score	winner	loser
 20200303	A	7-2	Otterbein	Willamette
 20200303	N	7-2	Grove City	Houghton
 20200303	H	8-1	Caltech	Clark (MA)
-20200303	A	4-3	Pfeiffer	Covenant
 20200303	H	8-1	Cowley County (KS)	Tabor
 20200303	A	7-2	Folsom Lake	Shasta
 20200303	H	9-0	Modesto	Reedley
@@ -2651,13 +2628,12 @@ date	where	score	winner	loser
 20200304	H	6-1	Elon	College of Charleston
 20200304	N	5-2	Mount St. Mary's (MD)	Holy Cross (MA)
 20200304	A	7-0	Texas Arlington	Sacramento State
-20200304	H	0-0	Jackson State	Mississippi College
-20200304	N	0-0	Grand Valley State	Florida Southern
 20200304	N	4-3	Wayne State	Sacred Heart
 20200304	H	5-2	Maryville (MO)	Lake Superior St.
 20200304	N	4-3	Cedarville	Ohio Northern
 20200304	A	4-3	Findlay	Eckerd
 20200304	N	5-2	Walsh	Davis & Elkins
+20200304	A	0-0	Mississippi College	Jackson State
 20200304	A	7-0	North Georgia	Georgia College
 20200304	A	5-2	Anderson (SC)	Tusculum
 20200304	A	6-1	Lincoln Memorial	King (TN)
@@ -2665,6 +2641,7 @@ date	where	score	winner	loser
 20200304	A	6-1	Wingate	Carson-Newman
 20200304	A	7-0	Wingate	Virginia Wise
 20200304	N	4-1	Saint Leo	Hawaii Pacific
+20200304	N	0-0	Florida Southern	Grand Valley State
 20200304	N	4-0	Lynn	Mercyhurst
 20200304	N	6-3	North Central (IL)	Emerson
 20200304	N	0-0	St. John Fisher	Wilkes
@@ -2693,7 +2670,7 @@ date	where	score	winner	loser
 20200305	N	4-0	Hawaii Pacific	Palm Beach Atlantic
 20200305	H	7-0	Embry-Riddle (FL)	Wayne State
 20200305	N	8-1	Eastern Nazarene	Wilkes
-20200305	H	0-0	Puget Sound	Otterbein
+20200305	A	0-0	Otterbein	Puget Sound
 20200305	N	9-0	Oglethorpe	Houghton
 20200305	H	7-2	Caltech	Christopher Newport
 20200305	A	9-0	American River	Chabot
@@ -2710,7 +2687,6 @@ date	where	score	winner	loser
 20200306	A	4-0	Temple	Georgetown
 20200306	A	4-3	Central Florida	Texas Tech
 20200306	A	4-3	Bellarmine	Young Harris (GA)
-20200306	H	0-0	Lipscomb	Belmont
 20200306	H	7-0	TCU	Tulsa
 20200306	H	5-2	Texas	Tulane
 20200306	H	4-3	DePaul	Northern Illinois
@@ -2730,6 +2706,7 @@ date	where	score	winner	loser
 20200306	H	6-1	UNLV	Loyola Marymount
 20200306	H	5-2	Bryant	Brandeis
 20200306	N	6-1	Fairleigh Dickinson	Merrimack
+20200306	A	0-0	Belmont	Lipscomb
 20200306	A	6-1	Jacksonville State	Southern Miss
 20200306	H	4-1	Oregon	New Mexico
 20200306	H	6-1	Texas A&M	South Carolina
@@ -2752,7 +2729,6 @@ date	where	score	winner	loser
 20200306	H	4-1	St. Mary's (CA)	New Mexico State
 20200306	N	5-2	Concordia (NY)	Grand Valley State
 20200306	N	6-1	Barton	Tiffin
-20200306	H	0-0	King (TN)	Limestone
 20200306	A	6-1	Harding	TAMU-Texarkana
 20200306	H	6-1	Drury	Southern Indiana
 20200306	H	5-2	Maryville (MO)	Purdue Northwest
@@ -2763,6 +2739,7 @@ date	where	score	winner	loser
 20200306	N	7-0	Cameron	Colorado Mesa
 20200306	N	4-0	Cameron	Metropolitan State
 20200306	A	5-1	UTPB	Texas Wesleyan
+20200306	A	0-0	West Liberty	Concord
 20200306	A	5-2	Wesleyan (WV)	Benedict
 20200306	N	7-0	Southwest Baptist (MO)	CSU-Pueblo
 20200306	N	6-1	Southwest Baptist (MO)	Metropolitan State
@@ -2771,6 +2748,7 @@ date	where	score	winner	loser
 20200306	A	4-0	Concordia (CA)	Sonoma State
 20200306	N	4-1	Columbus State	Azusa Pacific
 20200306	N	7-0	Flagler	Montevallo
+20200306	A	0-0	Limestone	King (TN)
 20200306	H	7-0	Lenoir-Rhyne	Mars Hill
 20200306	N	7-0	Newberry	Wilkes
 20200306	A	0-0	Tuskegee	Huntingdon
@@ -2780,7 +2758,6 @@ date	where	score	winner	loser
 20200306	H	7-2	Texas Dallas	McMurry
 20200306	A	8-1	Salisbury	Washington (MD)
 20200306	N	6-3	Albion	St. John Fisher
-20200306	H	1-1	Illinois College	Webster
 20200306	H	8-1	Denison	Hope
 20200306	H	5-2	Wooster	Hope
 20200306	N	6-3	Ohio Northern	St. John's (MN)
@@ -2800,7 +2777,6 @@ date	where	score	winner	loser
 20200306	A	5-4	Riverside	Cerritos
 20200306	H	8-1	Ventura	San Diego City
 20200306	A	4-3	Appalachian State	Charlotte
-20200306	H	0-0	Concord	West Liberty
 20200306	H	4-1	Iowa	Louisville
 20200306	A	6-1	Minnesota	Washington
 20200306	N	4-2	St. Edward's (TX)	Southern Arkansas
@@ -2820,11 +2796,8 @@ date	where	score	winner	loser
 20200307	A	0-0	UNC Asheville	College of Charleston
 20200307	A	4-3	Illinois	Northwestern
 20200307	N	4-1	Cal Poly	Lamar
-20200307	H	0-0	Drexel	Binghamton
 20200307	H	5-2	Elon	Richmond
 20200307	N	4-1	Old Dominion	New Mexico
-20200307	H	0-0	Southern Miss	Mississippi Valley
-20200307	H	0-0	Southern Miss	Mississippi Valley
 20200307	N	4-2	UTSA	Loyola Marymount
 20200307	A	7-0	Cleveland State	St. Bonaventure
 20200307	H	7-0	Columbia	Florida Atlantic
@@ -2832,11 +2805,12 @@ date	where	score	winner	loser
 20200307	H	4-3	Penn	William & Mary
 20200307	H	7-0	Yale	Fairfield
 20200307	H	6-1	Yale	NJIT
-20200307	H	0-0	Niagara	Lafayette
+20200307	A	0-0	Binghamton	Drexel
 20200307	H	5-2	Bryant	Fairleigh Dickinson
 20200307	A	4-2	Belmont	UAB
 20200307	H	7-0	Tennessee Tech	Lipscomb
 20200307	H	4-2	Colgate	Hofstra
+20200307	A	0-0	Lafayette	Niagara
 20200307	H	4-1	Navy	Temple
 20200307	H	4-0	Navy	Wagner
 20200307	H	7-0	Arkansas	Arkansas Pine Bluff
@@ -2846,6 +2820,8 @@ date	where	score	winner	loser
 20200307	N	4-1	Abilene Christian	Prairie View A&M
 20200307	A	4-3	North Dakota	Oral Roberts
 20200307	A	4-1	Alabama State	Alabama A&M
+20200307	A	0-0	Mississippi Valley	Southern Miss
+20200307	A	0-0	Mississippi Valley	Southern Miss
 20200307	A	4-0	BYU	Utah
 20200307	A	4-1	San Diego	Pacific (CA)
 20200307	H	4-3	Belmont Abbey	Wesleyan (WV)
@@ -2872,13 +2848,12 @@ date	where	score	winner	loser
 20200307	H	4-3	Coker	Tusculum
 20200307	H	4-3	Lincoln Memorial	Catawba
 20200307	H	4-3	Newberry	Carson-Newman
-20200307	H	0-0	Spring Hill	Huntingdon
 20200307	N	5-2	Palm Beach Atlantic	SNHU
 20200307	H	4-1	Rollins	Wayne State
-20200307	H	0-0	Central (IA)	Simpson (IA)
 20200307	H	7-2	Loras	Lawrence
 20200307	A	9-0	Luther (IA)	Central (IA)
 20200307	N	7-2	Luther (IA)	Simpson (IA)
+20200307	A	0-0	Simpson (IA)	Central (IA)
 20200307	A	5-4	Texas Dallas	Austin
 20200307	H	6-3	Salisbury	Stevens
 20200307	N	6-3	Franklin & Marshall	TCNJ
@@ -2890,7 +2865,7 @@ date	where	score	winner	loser
 20200307	N	0-0	Bethel (MN)	UW La Crosse
 20200307	H	8-1	Grinnell	Concordia (NE)
 20200307	H	9-0	Grinnell	St. Olaf
-20200307	H	0-0	Illinois College	Knox (IL)
+20200307	A	0-0	Knox (IL)	Illinois College
 20200307	A	6-3	Illinois Tech	Calvin
 20200307	H	7-2	DePauw	Principia
 20200307	N	6-3	Kenyon	Mary Washington
@@ -2899,13 +2874,12 @@ date	where	score	winner	loser
 20200307	H	7-2	MIT	Colby
 20200307	H	9-0	George Fox	Lewis & Clark (OR)
 20200307	A	7-2	Linfield	Willamette
-20200307	H	0-0	Pacific Lutheran	Otterbein
 20200307	A	9-0	Whitman	Whitworth
+20200307	A	0-0	Otterbein	Pacific Lutheran
 20200307	H	9-0	Guilford	Johnson C. Smith
 20200307	A	0-0	Randolph	St. Mary's (MD)
-20200307	H	0-0	Randolph-Macon	Shenandoah
+20200307	A	0-0	Shenandoah	Randolph-Macon
 20200307	H	8-1	Virginia Wesleyan	Emory & Henry
-20200307	H	0-0	Hendrix	Centenary (LA)
 20200307	N	0-0	Austin	Cal Lutheran
 20200307	N	9-0	Trinity (TX)	East Texas Baptist
 20200307	N	9-0	Trinity (TX)	Schreiner
@@ -2917,11 +2891,12 @@ date	where	score	winner	loser
 20200307	H	9-0	Emory	Rhodes
 20200307	H	5-4	NYU	Southern Virginia
 20200307	A	0-0	Huntingdon	Mobile
+20200307	A	0-0	Huntingdon	Spring Hill
 20200307	H	0-0	Collin County (TX)	Kansas Wesleyan
 20200307	H	6-2	Collin County (TX)	Ozarks
 20200307	H	8-1	Barton County (KS)	Iowa Central
+20200307	N	0-0	ASA (Miami)	Wallace State
 20200307	A	0-0	Jacksonville (TX)	TAMU-Texarkana
-20200307	N	0-0	Wallace State	ASA (Miami)
 20200307	A	0-0	Jones	Blue Mountain
 20200307	H	7-2	Gulf Coast (MS)	Itawamba (MS)
 20200307	A	0-0	Folsom Lake	Bakersfield
@@ -2929,6 +2904,7 @@ date	where	score	winner	loser
 20200307	A	0-0	San Diego City	Santa Barbara City
 20200307	H	5-2	Fresno State	Santa Clara
 20200307	A	5-2	Wright State	Chicago State
+20200307	A	0-0	Centenary (LA)	Hendrix
 20200307	A	4-2	George Washington	Longwood
 20200307	H	0-0	La Salle	St. Francis (NY)
 20200307	A	5-2	St. Edward's (TX)	St. Mary's (TX)
@@ -3006,13 +2982,11 @@ date	where	score	winner	loser
 20200308	N	4-0	Barry	Valdosta State
 20200308	H	7-0	Eckerd	West Chester
 20200308	H	7-0	Embry-Riddle (FL)	Bentley
-20200308	H	0-0	Ozarks	Centenary (LA)
-20200308	N	0-0	Gordon (MA)	Cornell College
 20200308	N	8-1	Carroll (WI)	Penn State - Harrisburg
-20200308	N	4-3	Transylvania	Monmouth (IL)
 20200308	N	7-2	Vassar	Hardin-Simmons
 20200308	H	7-2	Stevenson	Randolph
-20200308	N	0-0	Lawrence	Dominican (IL)
+20200308	N	0-0	Cornell College	Gordon (MA)
+20200308	N	0-0	Dominican (IL)	Lawrence
 20200308	A	8-1	Colby	Babson
 20200308	H	7-2	Connecticut College	Union (NY)
 20200308	N	6-3	Coast Guard	Post
@@ -3037,6 +3011,7 @@ date	where	score	winner	loser
 20200308	N	9-0	Tyler JC (TX)	Cowley County (KS)
 20200308	N	7-2	Abraham Baldwin	USC Sumter
 20200308	N	5-4	Harford (MD)	USC Sumter
+20200308	A	0-0	Centenary (LA)	Ozarks
 20200308	H	4-3	Iowa	Cornell
 20200308	H	5-2	Minnesota	Wisconsin
 20200308	A	5-2	Northern Colorado	Montana State
@@ -3051,9 +3026,9 @@ date	where	score	winner	loser
 20200309	H	6-1	UCLA	Liberty
 20200309	N	7-0	Lehigh	Bentley
 20200309	A	4-3	Navy	UNC Greensboro
-20200309	H	0-0	Arkansas	Jackson State
-20200309	H	0-0	Arkansas	Jackson State
 20200309	A	6-1	Furman	Pacific (CA)
+20200309	A	0-0	Jackson State	Arkansas
+20200309	A	0-0	Jackson State	Arkansas
 20200309	H	6-1	Loyola Marymount	Utah State
 20200309	H	4-2	Chestnut Hill	District of Columbia
 20200309	H	5-2	Barton	Fairmont State
@@ -3113,6 +3088,7 @@ date	where	score	winner	loser
 20200310	N	4-3	NCCU	Saint Louis
 20200310	N	6-1	Belmont	Quinnipiac
 20200310	H	4-0	Texas Arlington	A&M-Corpus Christi
+20200310	A	0-0	Jackson State	Arkansas Pine Bluff
 20200310	N	7-0	Lees-McRae	Post
 20200310	N	4-3	St. Thomas Aquinas	Bentley
 20200310	N	7-0	Harding	Emporia State
@@ -3141,7 +3117,6 @@ date	where	score	winner	loser
 20200310	N	8-1	Washington (MD)	Transylvania
 20200310	N	7-2	Ursinus	DeSales
 20200310	N	9-0	Ursinus	Northwestern (MN)
-20200310	N	3-2	Colby-Sawyer	DeSales
 20200310	N	9-0	Monmouth (IL)	Wabash
 20200310	A	0-0	Wittenberg	Guilford
 20200310	N	5-4	Penn State - Harrisburg	Penn State Behrend
@@ -3155,7 +3130,6 @@ date	where	score	winner	loser
 20200310	N	6-1	CWRU	Lehigh
 20200310	N	5-4	Piedmont	Dickinson
 20200310	A	7-0	Barton County (KS)	Sterling (KS)
-20200310	N	2-0	Tyler JC (TX)	ASA (Miami)
 20200310	N	0-0	Abraham Baldwin	Cowley County (KS)
 20200310	N	6-2	Harford (MD)	Wallace State
 20200310	A	5-4	Jones	East Central (MS)
@@ -3166,11 +3140,10 @@ date	where	score	winner	loser
 20200310	H	8-0	Foothill	Mission
 20200310	A	0-0	Fullerton	Riverside
 20200310	A	0-0	Irvine Valley	Saddleback
-20200310	H	0-0	Desert	Mt. San Jacinto
-20200310	H	0-0	Cerritos	Ventura
+20200310	A	0-0	Mt. San Jacinto	Desert
+20200310	A	0-0	Ventura	Cerritos
 20200310	A	0-0	East Carolina	UC Riverside
 20200310	A	0-0	Concord	Georgia College
-20200310	H	0-0	Arkansas Pine Bluff	Jackson State
 20200311	H	7-0	Virginia	William & Mary
 20200311	A	4-1	Memphis	LSU
 20200311	A	0-0	SMU	Loyola Marymount
@@ -3182,12 +3155,12 @@ date	where	score	winner	loser
 20200311	A	6-1	TCU	Rice
 20200311	N	7-0	Creighton	Northern Kentucky
 20200311	N	4-3	Radford	George Mason
-20200311	H	0-0	UC Santa Barbara	UNLV
-20200311	H	0-0	Morgan State	Loyola (MD)
+20200311	A	0-0	UNLV	UC Santa Barbara
 20200311	N	5-2	Fairleigh Dickinson	Fairfield
 20200311	N	7-0	Belmont	James Madison
 20200311	A	9-0	Bucknell	San Diego Mesa
 20200311	N	7-0	Lehigh	Carnegie Mellon
+20200311	A	0-0	Loyola (MD)	Morgan State
 20200311	H	7-0	Mercer	Alcorn State
 20200311	A	0-0	Samford	Portland
 20200311	A	0-0	Abilene Christian	UMKC
@@ -3199,7 +3172,6 @@ date	where	score	winner	loser
 20200311	H	6-1	St. Mary's (CA)	Furman
 20200311	H	5-2	Belmont Abbey	Augusta
 20200311	N	6-1	Chowan	Kutztown
-20200311	H	0-0	Shaw	Fairmont State
 20200311	N	4-3	Harding	Northwest Missouri
 20200311	H	7-0	Southern Arkansas	Emporia State
 20200311	N	5-2	Ferris State	Rockhurst
@@ -3209,6 +3181,7 @@ date	where	score	winner	loser
 20200311	N	6-1	UMSL	Michigan Tech
 20200311	A	4-3	Delta State	Tennessee Wesleyan
 20200311	A	0-0	Montevallo	West Alabama
+20200311	A	0-0	Fairmont State	Shaw
 20200311	N	4-3	SNHU	Lees-McRae
 20200311	H	4-0	Concordia (CA)	UCSD
 20200311	H	5-2	Hawaii Pacific	Wash U
@@ -3227,27 +3200,26 @@ date	where	score	winner	loser
 20200311	N	5-4	Ithaca	Dickinson
 20200311	A	5-2	RPI	Le Moyne
 20200311	A	8-1	Vassar	Whittier
-20200311	N	0-0	Wabash	Brevard
 20200311	N	6-3	Mount Union	Greenville
 20200311	H	9-0	CMS	Haverford
 20200311	N	8-1	Webster	Gettysburg
 20200311	N	9-0	CWRU	Millsaps
 20200311	N	8-1	CWRU	Rhodes
 20200311	N	9-0	CWRU	Wheaton (IL)
+20200311	N	0-0	Brevard	Wabash
 20200311	A	0-0	Barton County (KS)	Kansas Wesleyan
 20200311	N	7-0	East Carolina	Bucknell
 20200312	H	5-2	Davidson	St. Joseph's (PA)
-20200312	N	0-0	Creighton	Boston University
 20200312	N	7-0	Marquette	Georgetown
-20200312	N	0-0	Xavier	Appalachian State
 20200312	N	4-0	Radford	Georgetown (KY)
 20200312	N	7-0	Radford	Norfolk State
 20200312	N	0-0	UNC Asheville	Keiser
 20200312	N	4-0	James Madison	Appalachian State
-20200312	N	0-0	James Madison	Fairfield
+20200312	N	0-0	Fairfield	James Madison
 20200312	A	5-2	Austin Peay	Southern Indiana
 20200312	A	0-0	Arizona	Pepperdine
 20200312	A	0-0	USC	UCLA
+20200312	N	0-0	Boston University	Creighton
 20200312	H	4-3	UNC Greensboro	Presbyterian
 20200312	H	4-3	Incarnate Word	Butler
 20200312	N	0-0	Alabama A&M	Mississippi Valley
@@ -3284,12 +3256,13 @@ date	where	score	winner	loser
 20200312	N	9-0	Hampden-Sydney	Wabash
 20200312	N	5-4	Webster	Penn State Behrend
 20200312	N	5-4	Piedmont	Ursinus
-20200312	H	0-0	Folsom Lake	Chabot
-20200312	H	0-0	Santa Rosa	Foothill
+20200312	A	0-0	Chabot	Folsom Lake
+20200312	A	0-0	Foothill	Santa Rosa
+20200312	A	0-0	Orange Coast	Irvine Valley
 20200312	A	0-0	Fullerton	San Diego Mesa
-20200312	H	0-0	Irvine Valley	Orange Coast
-20200312	H	0-0	Riverside	Saddleback
+20200312	A	0-0	Saddleback	Riverside
 20200312	A	0-0	East Carolina	UC Irvine
+20200312	N	0-0	Appalachian State	Xavier
 20200312	A	0-0	Concord	Augusta
 20200312	A	0-0	Connecticut	Brown
 20200313	N	0-0	George Mason	Saint Louis
@@ -3297,194 +3270,193 @@ date	where	score	winner	loser
 20200313	A	0-0	Boston College	N.C. State
 20200313	A	0-0	Clemson	Wake Forest
 20200313	A	0-0	Duke	Florida State
-20200313	H	0-0	Georgia Tech	Notre Dame
 20200313	A	0-0	Louisville	Virginia Tech
-20200313	H	0-0	Miami (FL)	North Carolina
-20200313	H	0-0	N.C. State	UNC Greensboro
-20200313	H	0-0	Tulane	Minnesota
-20200313	H	0-0	South Florida	South Alabama
-20200313	H	0-0	Bellarmine	Cedarville
-20200313	H	0-0	NJIT	Sacred Heart
-20200313	H	0-0	Stetson	Coastal Carolina
-20200313	H	0-0	Villanova	Bryant
+20200313	A	0-0	Notre Dame	Georgia Tech
+20200313	A	0-0	North Carolina	Miami (FL)
 20200313	A	0-0	Idaho	Metropolitan State
-20200313	H	0-0	Northern Arizona	Louisiana
-20200313	H	0-0	Portland State	Weber State
-20200313	H	0-0	Michigan	Michigan State
-20200313	H	0-0	Nebraska	Wisconsin
-20200313	H	0-0	Cal Poly	Utah State
-20200313	N	0-0	UNC Wilmington	Penn
+20200313	A	0-0	Weber State	Portland State
+20200313	A	0-0	Michigan State	Michigan
+20200313	A	0-0	Wisconsin	Nebraska
 20200313	A	0-0	Middle Tennessee	Rice
 20200313	A	0-0	IUPUI	Northern Illinois
 20200313	A	0-0	IUPUI	Northern Illinois
 20200313	A	0-0	Illinois - Chicago	Cardinal Stritch
 20200313	A	0-0	Youngstown State	Georgia Southern
+20200313	N	0-0	Penn	UNC Wilmington
 20200313	A	0-0	Toledo	Buffalo
-20200313	N	0-0	Norfolk State	Chowan
-20200313	H	0-0	New Mexico	Grand Canyon
+20200313	A	0-0	Utah State	Cal Poly
+20200313	A	0-0	Bryant	Villanova
+20200313	A	0-0	Sacred Heart	NJIT
+20200313	A	0-0	Texas A&M	Mississippi State
 20200313	A	0-0	Arkansas	Kentucky
-20200313	H	0-0	Florida	Georgia
-20200313	H	0-0	Mississippi State	Texas A&M
-20200313	H	0-0	South Carolina	Tennessee
+20200313	A	0-0	Tennessee	South Carolina
+20200313	A	0-0	Georgia	Florida
 20200313	A	9-0	The Citadel	Texas Dallas
-20200313	H	0-0	ETSU	Mercer
-20200313	H	0-0	Omaha	UMKC
+20200313	A	0-0	Mercer	ETSU
+20200313	A	0-0	UNC Greensboro	N.C. State
+20200313	A	0-0	Coastal Carolina	Stetson
+20200313	A	0-0	South Alabama	South Florida
+20200313	A	0-0	Louisiana	Northern Arizona
 20200313	N	0-0	Alabama A&M	Jackson State
-20200313	H	0-0	Alabama State	Alcorn State
+20200313	A	0-0	Alcorn State	Alabama State
+20200313	A	0-0	Grand Canyon	New Mexico
+20200313	A	0-0	Loyola Marymount	Fresno State
 20200313	H	7-0	San Diego	Liberty
+20200313	N	0-0	Chowan	Norfolk State
 20200313	A	0-0	Ashland	Coker
 20200313	A	0-0	Ferris State	Eckerd
 20200313	A	0-0	Northwood	Florida Southern
+20200313	A	0-0	McKendree	Southwest Baptist (MO)
+20200313	A	0-0	Cedarville	Bellarmine
+20200313	N	0-0	Valdosta State	Christian Brothers
 20200313	A	0-0	Auburn Montgomery	Rollins
-20200313	N	0-0	Christian Brothers	Valdosta State
 20200313	A	0-0	Christian Brothers	Birmingham Southern
 20200313	A	0-0	Dallas Baptist	MSU-Texas
-20200313	N	0-0	Texas Tyler	Stonehill
-20200313	H	0-0	Charleston	Frostburg State
-20200313	H	0-0	Southwest Baptist (MO)	McKendree
 20200313	N	0-0	Bentley	Ithaca
-20200313	H	0-0	Columbus State	Wingate
+20200313	N	0-0	Stonehill	Texas Tyler
+20200313	A	0-0	Holy Names	Sonoma State
 20200313	N	4-2	Edinboro	UMSL
+20200313	A	0-0	Wingate	Columbus State
 20200313	A	0-0	Concordia (TX)	Pacific (OR)
+20200313	A	0-0	Frostburg State	Charleston
 20200313	A	8-1	Southern Virginia	Virginia Wesleyan
 20200313	N	5-4	Carthage	Washington (MD)
 20200313	A	0-0	Haverford	Chapman
-20200313	H	0-0	Bard	St. Lawrence
 20200313	A	0-0	RPI	Redlands
 20200313	A	0-0	Skidmore	Pomona-Pitzer
+20200313	A	0-0	St. Lawrence	Bard
 20200313	H	0-0	Alma	Spring Arbor
 20200313	A	0-0	Gustavus Adolphus	St. Mary's (MN)
 20200313	N	5-4	Monmouth (IL)	Northwestern (MN)
 20200313	A	0-0	Lawrence	Marian (WI)
-20200313	H	0-0	TCNJ	NYU
 20200313	N	7-2	Berry	Lake Forest
 20200313	N	8-1	Rhodes	Washington (MD)
-20200313	N	0-0	Colorado College	Brevard
 20200313	A	0-0	Schreiner	Laredo (TX)
 20200313	N	5-4	Greenville	Cornell College
-20200313	H	0-0	Gadsden State	Wallace State
+20200313	A	0-0	NYU	TCNJ
+20200313	N	0-0	Brevard	Colorado College
+20200313	A	0-0	Wallace State	Gadsden State
 20200313	A	0-0	East Central (MS)	Gulf Coast (MS)
 20200313	H	0-0	San Diego Mesa	St. Katherine
-20200313	H	0-0	Fresno State	Loyola Marymount
-20200313	H	0-0	Sonoma State	Holy Names
+20200313	A	0-0	Minnesota	Tulane
+20200313	A	0-0	UMKC	Omaha
 20200313	A	0-0	Winthrop	Tennessee Tech
 20200314	A	0-0	Fordham	Hofstra
-20200314	H	0-0	Wichita State	Abilene Christian
-20200314	H	0-0	Florida Gulf Coast	Penn
-20200314	H	0-0	Kennesaw State	Chattanooga
-20200314	N	0-0	North Florida	South Alabama
 20200314	A	0-0	TCU	Illinois
-20200314	H	0-0	Texas	Columbia
 20200314	A	0-0	Idaho	Northern Colorado
 20200314	A	0-0	Idaho State	George Fox
 20200314	A	0-0	Weber State	Portland
 20200314	A	0-0	Gardner-Webb	Longwood
-20200314	H	0-0	Purdue	Niagara
-20200314	H	0-0	Cal Poly	BYU
-20200314	H	0-0	Drexel	Bryant
-20200314	H	0-0	Florida Atlantic	Army
-20200314	H	0-0	Florida Atlantic	Cleveland State
-20200314	N	0-0	Youngstown State	Troy
-20200314	N	0-0	Yale	Loyola Marymount
+20200314	A	0-0	Cleveland State	Florida Atlantic
+20200314	A	0-0	Columbia	Texas
+20200314	A	0-0	Penn	Florida Gulf Coast
+20200314	N	0-0	Fairfield	North Dakota
+20200314	A	0-0	Niagara	Purdue
 20200314	A	0-0	Ball State	Chicago State
 20200314	N	0-0	Air Force	Louisiana
+20200314	A	0-0	Bryant	Drexel
 20200314	A	0-0	Sacred Heart	St. Francis (NY)
+20200314	A	0-0	Army	Florida Atlantic
 20200314	A	0-0	Colgate	Holy Cross (MA)
-20200314	H	0-0	ETSU	Wofford
-20200314	N	0-0	Abilene Christian	Northwest Missouri
+20200314	A	0-0	Chattanooga	Kennesaw State
+20200314	A	0-0	Wofford	ETSU
+20200314	A	0-0	Abilene Christian	Wichita State
 20200314	N	0-0	Denver	Grand Canyon
-20200314	H	0-0	Omaha	Gustavus Adolphus
 20200314	H	0-0	Omaha	Midland (NE)
-20200314	N	0-0	North Dakota	Fairfield
-20200314	H	0-0	Alabama State	Prairie View A&M
+20200314	N	0-0	South Alabama	North Florida
+20200314	N	0-0	Troy	Youngstown State
 20200314	N	0-0	Jackson State	Mississippi Valley
-20200314	H	0-0	Concordia (NY)	Staten Island
+20200314	A	0-0	Prairie View A&M	Alabama State
+20200314	A	0-0	BYU	Cal Poly
+20200314	N	0-0	Loyola Marymount	Yale
 20200314	A	0-0	Virginia State	District of Columbia
-20200314	H	0-0	Daemen	Walsh
 20200314	A	0-0	Roberts Wesleyan	Mercyhurst
 20200314	A	0-0	Harding	Delta State
-20200314	H	0-0	Purdue Northwest	North Central (IL)
-20200314	H	0-0	Montevallo	Valdosta State
+20200314	A	0-0	Walsh	Daemen
+20200314	A	0-0	Valdosta State	Montevallo
 20200314	A	0-0	Auburn Montgomery	Florida Southern
 20200314	A	0-0	Arkansas Ft. Smith	Ozarks
-20200314	H	0-0	UTPB	Sul Ross State
-20200314	H	0-0	UTPB	WNM
-20200314	H	0-0	Azusa Pacific	Colorado Mesa
+20200314	A	0-0	WNM	UTPB
+20200314	N	0-0	Northwest Missouri	Abilene Christian
+20200314	A	0-0	Colorado Mesa	Azusa Pacific
 20200314	A	0-0	Catawba	Tusculum
 20200314	H	0-0	Carson-Newman	Bluefield
-20200314	H	0-0	Spring Hill	Birmingham Southern
-20200314	H	0-0	Wartburg	Iowa Central
-20200314	H	0-0	Christopher Newport	Southern Virginia
+20200314	A	0-0	Sul Ross State	UTPB
 20200314	N	0-0	Mary Washington	Washington & Lee
+20200314	A	0-0	Southern Virginia	Christopher Newport
+20200314	A	0-0	North Central (IL)	Purdue Northwest
 20200314	N	0-0	Johns Hopkins	Kenyon
 20200314	N	0-0	Johns Hopkins	UW Superior
 20200314	A	0-0	Haverford	Caltech
 20200314	A	0-0	Muhlenberg	Wilkes
 20200314	N	0-0	Swarthmore	Tufts
-20200314	N	0-0	Scranton	Colorado College
+20200314	A	0-0	Staten Island	Concordia (NY)
 20200314	A	0-0	UMass Boston	Emerson
 20200314	A	0-0	Vassar	Chapman
 20200314	N	0-0	Stevens	NYU
 20200314	A	0-0	Adrian	Ohio Northern
 20200314	A	0-0	Gustavus Adolphus	St. Olaf
-20200314	H	0-0	Lakeland	Lawrence
+20200314	A	0-0	Gustavus Adolphus	Omaha
+20200314	A	0-0	Lawrence	Lakeland
 20200314	A	0-0	Pacific (OR)	Puget Sound
-20200314	H	0-0	Pacific Lutheran	Willamette
+20200314	A	0-0	Willamette	Pacific Lutheran
+20200314	A	0-0	Birmingham Southern	Spring Hill
+20200314	N	0-0	Colorado College	Scranton
 20200314	H	0-0	Minnesota Morris	St. Mary's (MN)
-20200314	H	0-0	Covenant	LaGrange
+20200314	A	0-0	LaGrange	Covenant
 20200314	H	0-0	William Peace	St. Mary's (MD)
 20200314	A	0-0	Seward County (KS)	McPherson
+20200314	A	0-0	Iowa Central	Wartburg
 20200314	A	0-0	George Washington	Stetson
 20200314	A	0-0	UAH	Shorter
 20200315	A	0-0	Davidson	UNC Greensboro
 20200315	H	0-0	Fordham	St. Francis (NY)
 20200315	A	0-0	VCU	Georgia State
-20200315	H	0-0	Clemson	Notre Dame
 20200315	A	0-0	Duke	Miami (FL)
-20200315	H	0-0	Florida State	Florida A&M
-20200315	H	0-0	Florida State	North Carolina
 20200315	A	0-0	N.C. State	Wake Forest
+20200315	A	0-0	Notre Dame	Clemson
+20200315	A	0-0	North Carolina	Florida State
 20200315	A	0-0	Virginia	Virginia Tech
 20200315	A	0-0	Memphis	Tulane
-20200315	H	0-0	SMU	Utah
-20200315	H	0-0	South Florida	North Florida
 20200315	A	0-0	Bellarmine	DePauw
-20200315	N	0-0	North Alabama	Mississippi Valley
-20200315	H	0-0	Montana	Montana State
-20200315	H	0-0	Northern Arizona	Air Force
+20200315	A	0-0	North Florida	South Florida
+20200315	A	0-0	Montana State	Montana
 20200315	A	0-0	Hampton	Longwood
 20200315	A	0-0	USC Upstate	Winthrop
-20200315	H	0-0	Michigan State	Ohio State
+20200315	A	0-0	Ohio State	Michigan State
 20200315	A	0-0	Southern Miss	New Orleans
-20200315	N	0-0	Cleveland State	Army
+20200315	N	0-0	Monmouth (NJ)	North Dakota
 20200315	A	0-0	Niagara	Kentucky
 20200315	A	0-0	Niagara	Kentucky
 20200315	A	0-0	Binghamton	Buffalo
-20200315	H	0-0	Western Michigan	Wayne State
-20200315	H	0-0	Western Michigan	Wayne State
-20200315	H	0-0	New Mexico	Denver
+20200315	A	0-0	Air Force	Northern Arizona
 20200315	A	0-0	Jacksonville State	Mississippi State
-20200315	H	0-0	Lehigh	Loyola (MD)
+20200315	A	0-0	Utah	SMU
+20200315	N	0-0	Army	Cleveland State
+20200315	A	0-0	Loyola (MD)	Lehigh
+20200315	A	0-0	Texas A&M	Ole Miss
 20200315	A	0-0	Arkansas	Vanderbilt
-20200315	H	0-0	Florida	Tennessee
 20200315	A	0-0	LSU	Mississippi State
-20200315	H	0-0	Ole Miss	Texas A&M
+20200315	A	0-0	Tennessee	Florida
 20200315	A	0-0	Georgia	South Carolina
-20200315	N	0-0	North Dakota	Monmouth (NJ)
-20200315	H	0-0	Georgia Southern	Troy
+20200315	A	0-0	Denver	New Mexico
+20200315	A	0-0	Troy	Georgia Southern
 20200315	N	0-0	Alabama A&M	Arkansas Pine Bluff
-20200315	H	0-0	Virginia State	West Chester
+20200315	N	0-0	Mississippi Valley	North Alabama
 20200315	H	0-0	Davenport	Prairie State
+20200315	A	0-0	Wayne State	Western Michigan
+20200315	A	0-0	Wayne State	Western Michigan
 20200315	A	0-0	Southern Indiana	Findlay
 20200315	N	0-0	Auburn Montgomery	Millersville
+20200315	A	0-0	Colorado Mesa	Fresno State
 20200315	N	0-0	Colorado Mesa	Holy Names
 20200315	N	0-0	North Georgia	Wingate
-20200315	H	0-0	Benedict	Virginia Wise
+20200315	A	0-0	West Chester	Virginia State
+20200315	A	0-0	Virginia Wise	Benedict
+20200315	N	0-0	Coe College	Salisbury
 20200315	A	0-0	Concordia (TX)	George Fox
-20200315	N	0-0	Salisbury	Coe College
 20200315	N	0-0	Goucher	St. Lawrence
 20200315	A	0-0	Stevens	TCNJ
-20200315	H	0-0	Wilkes	Yeshiva
 20200315	N	0-0	Bethel (MN)	Colorado College
 20200315	A	0-0	St. John's (MN)	St. Thomas (MN)
 20200315	N	0-0	Allegheny	Virginia Wesleyan
@@ -3492,192 +3464,194 @@ date	where	score	winner	loser
 20200315	A	0-0	Amherst	Chapman
 20200315	A	0-0	Babson	Whittier
 20200315	A	0-0	Lewis & Clark (OR)	Whitman
-20200315	H	0-0	Pacific Lutheran	Pacific (OR)
-20200315	H	0-0	Randolph-Macon	Ferrum
+20200315	A	0-0	Pacific (OR)	Pacific Lutheran
+20200315	A	0-0	Ferrum	Randolph-Macon
 20200315	A	0-0	Birmingham Southern	Huntingdon
-20200315	H	0-0	Fresno State	Colorado Mesa
+20200315	A	0-0	Yeshiva	Wilkes
+20200315	A	0-0	Florida A&M	Florida State
 20200315	A	0-0	George Washington	Florida Gulf Coast
-20200316	H	0-0	Northern Kentucky	Niagara
 20200316	A	0-0	Harvard	San Diego State
+20200316	A	0-0	Niagara	Northern Kentucky
 20200316	H	0-0	Ball State	Taylor
 20200316	H	0-0	Ball State	Taylor
 20200316	A	0-0	Tennessee Tech	Mercer
-20200316	H	0-0	New Orleans	Colgate
+20200316	A	0-0	Colgate	New Orleans
 20200316	A	0-0	Oral Roberts	Coastal Carolina
-20200316	H	0-0	Harding	Ouachita Baptist
 20200316	N	0-0	Oklahoma Baptist	Mobile
+20200316	A	0-0	Ouachita Baptist	Harding
 20200316	H	0-0	Lake Superior St.	Prairie State
 20200316	N	0-0	MSU-Texas	Rollins
 20200316	N	0-0	Southwest Baptist (MO)	North Georgia
-20200316	H	0-0	Biola	Colorado Mesa
-20200316	H	0-0	Lander	Limestone
-20200316	N	0-0	Millersville	Hope
+20200316	A	0-0	Colorado Mesa	Biola
+20200316	A	0-0	Limestone	Lander
 20200316	H	0-0	Barry	Keiser
 20200316	N	0-0	Coe College	Colorado College
-20200316	N	0-0	Salisbury	Hope
-20200316	N	0-0	Goucher	Colorado College
 20200316	N	0-0	Hobart & William Smith	UW La Crosse
-20200316	N	0-0	St. Lawrence	Bethel (MN)
+20200316	N	0-0	Hope	Millersville
+20200316	N	0-0	Hope	Salisbury
+20200316	N	0-0	Bethel (MN)	St. Lawrence
 20200316	N	0-0	Grinnell	Wooster
+20200316	N	0-0	Colorado College	Goucher
 20200316	H	0-0	Schreiner	Sterling (KS)
 20200316	A	0-0	Folsom Lake	Reedley
-20200317	H	0-0	Miami (FL)	Rice
 20200317	A	0-0	NJIT	Bethune Cookman
-20200317	H	0-0	Baylor	Columbia
-20200317	H	0-0	Georgetown	William & Mary
-20200317	H	0-0	Gardner-Webb	Winthrop
-20200317	H	0-0	USC Upstate	Furman
 20200317	A	0-0	Indiana	Arizona State
 20200317	A	0-0	College of Charleston	New Orleans
-20200317	N	0-0	Southern Miss	Colgate
+20200317	A	0-0	William & Mary	Georgetown
+20200317	A	0-0	Rice	Miami (FL)
+20200317	A	0-0	Columbia	Baylor
+20200317	N	0-0	Dartmouth	Connecticut
 20200317	A	0-0	Princeton	Loyola Marymount
 20200317	A	0-0	Yale	Santa Clara
-20200317	H	0-0	Morgan State	NCCU
+20200317	A	0-0	NCCU	Morgan State
 20200317	A	0-0	Eastern Illinois	Alabama State
+20200317	N	0-0	Colgate	Southern Miss
+20200317	A	0-0	Furman	USC Upstate
 20200317	A	0-0	UNC Greensboro	Wofford
-20200317	N	0-0	North Dakota	Florida A&M
 20200317	A	0-0	Emmanuel (GA)	North Greenville
-20200317	N	0-0	Oklahoma Baptist	Auburn Montgomery
-20200317	H	0-0	Southern Arkansas	MSU-Texas
-20200317	H	0-0	Ashland	Wesleyan (WV)
+20200317	N	0-0	Auburn Montgomery	Oklahoma Baptist
 20200317	A	0-0	Salem - WV	Mercyhurst
+20200317	A	0-0	MSU-Texas	Southern Arkansas
+20200317	A	0-0	Wesleyan (WV)	Ashland
 20200317	A	0-0	Southwest Baptist (MO)	Columbus State
 20200317	A	0-0	St. Michael's	Roger Williams
-20200317	H	0-0	Catawba	Newberry
+20200317	A	0-0	Newberry	Catawba
 20200317	A	0-0	Penn State Behrend	Houghton
 20200317	N	0-0	Coe College	Grinnell
-20200317	N	0-0	St. Lawrence	Grinnell
 20200317	N	0-0	Messiah	St. Mary's (MD)
-20200317	N	0-0	Hope	Bethel (MN)
 20200317	N	0-0	Hope	UW Superior
-20200317	N	0-0	Macalester	Allegheny
+20200317	N	0-0	Bethel (MN)	Hope
+20200317	N	0-0	Grinnell	St. Lawrence
+20200317	N	0-0	Allegheny	Macalester
 20200317	A	0-0	Bowdoin	Pomona-Pitzer
 20200317	N	0-0	Hamilton	Wooster
 20200317	A	0-0	Trinity (CT)	Chapman
-20200317	H	0-0	Whittier	Principia
+20200317	A	0-0	Principia	Whittier
 20200317	A	0-0	Hinds (MS)	Holmes (MS)
-20200317	H	0-0	Meridian (MS)	Southwest (MS)
-20200317	H	0-0	Cosumnes  River	Reedley
 20200317	A	0-0	Fresno	Modesto
-20200317	H	0-0	Orange Coast	Riverside
-20200317	H	0-0	Fullerton	Ventura
-20200317	H	0-0	Imperial Valley	San Diego City
-20200317	H	0-0	Mt. San Jacinto	El Camino
+20200317	A	0-0	Reedley	Cosumnes  River
+20200317	A	0-0	Riverside	Orange Coast
 20200317	A	0-0	Palomar	San Diego Mesa
+20200317	A	0-0	San Diego City	Imperial Valley
+20200317	A	0-0	El Camino	Mt. San Jacinto
+20200317	A	0-0	Ventura	Fullerton
+20200317	N	0-0	Florida A&M	North Dakota
+20200317	A	0-0	Southwest (MS)	Meridian (MS)
 20200317	A	0-0	UAH	Montevallo
-20200317	N	0-0	Connecticut	Dartmouth
-20200318	H	0-0	George Mason	Harford (MD)
-20200318	H	0-0	Virginia Tech	Wake Forest
-20200318	H	0-0	Memphis	Dartmouth
-20200318	H	0-0	SMU	Wisconsin
+20200317	A	0-0	Winthrop	Gardner-Webb
+20200318	A	0-0	Wake Forest	Virginia Tech
 20200318	A	0-0	Bellarmine	UMSL
-20200318	H	0-0	North Alabama	Chattanooga
 20200318	A	0-0	USC Upstate	Wofford
 20200318	A	0-0	Purdue	Arizona
+20200318	A	0-0	Wisconsin	SMU
 20200318	A	0-0	College of Charleston	Nicholls State
 20200318	A	0-0	Hofstra	Loyola (MD)
-20200318	N	0-0	IUPUI	Hobart & William Smith
 20200318	N	0-0	IUPUI	Monmouth (NJ)
+20200318	A	0-0	Dartmouth	Memphis
 20200318	A	0-0	Princeton	Pepperdine
 20200318	N	0-0	Morgan State	NC A&T
 20200318	A	0-0	Colgate	Loyola - New Orleans
-20200318	H	0-0	Holy Cross (MA)	St. Michael's
+20200318	A	0-0	Chattanooga	North Alabama
 20200318	A	0-0	Concordia (NY)	Post
-20200318	H	0-0	Sciences (Philadelphia)	Dominican (NY)
-20200318	H	0-0	Virginia State	Davis & Elkins
+20200318	A	0-0	Dominican (NY)	Sciences (Philadelphia)
 20200318	A	0-0	Oklahoma Baptist	West Florida
-20200318	N	0-0	Ouachita Baptist	MSU-Texas
 20200318	H	0-0	Kentucky Wesleyan	Oakland City
-20200318	H	0-0	Christian Brothers	Delta State
-20200318	N	0-0	Texas Tyler	Rollins
+20200318	A	0-0	Delta State	Christian Brothers
+20200318	N	0-0	MSU-Texas	Ouachita Baptist
 20200318	A	0-0	WNM	Concordia (CA)
+20200318	A	0-0	Davis & Elkins	Virginia State
+20200318	A	0-0	St. Michael's	Holy Cross (MA)
 20200318	A	0-0	Augusta	Benedict
-20200318	N	0-0	Millersville	Embry-Riddle (FL)
 20200318	A	0-0	West Chester	Eastern (PA)
-20200318	H	0-0	Anderson (SC)	Mars Hill
-20200318	H	0-0	Lincoln Memorial	Tusculum
+20200318	A	0-0	Mars Hill	Anderson (SC)
+20200318	A	0-0	Tusculum	Lincoln Memorial
+20200318	N	0-0	Embry-Riddle (FL)	Millersville
+20200318	N	0-0	Rollins	Texas Tyler
 20200318	N	0-0	Coe College	Wooster
-20200318	N	0-0	Franklin & Marshall	Colorado College
-20200318	N	0-0	Scranton	Hobart & William Smith
-20200318	N	0-0	St. Lawrence	Illinois Tech
+20200318	N	0-0	Hobart & William Smith	IUPUI
+20200318	N	0-0	Hobart & William Smith	Scranton
 20200318	N	0-0	Bethel (MN)	Indiana East
-20200318	N	0-0	Knox (IL)	Emory & Henry
-20200318	H	0-0	Ohio Wesleyan	Wittenberg
+20200318	N	0-0	Illinois Tech	St. Lawrence
+20200318	A	0-0	Wittenberg	Ohio Wesleyan
 20200318	A	0-0	Amherst	Redlands
-20200318	H	0-0	Wesleyan (CT)	Coast Guard
+20200318	A	0-0	Coast Guard	Wesleyan (CT)
 20200318	A	0-0	Whitman	Pomona-Pitzer
-20200318	H	0-0	Merchant Marine	Yeshiva
+20200318	N	0-0	Emory & Henry	Knox (IL)
+20200318	N	0-0	Colorado College	Franklin & Marshall
+20200318	A	0-0	Yeshiva	Merchant Marine
 20200318	A	0-0	Principia	Cal Lutheran
 20200318	A	0-0	Fontbonne	Webster
+20200318	A	0-0	Harford (MD)	George Mason
 20200319	A	0-0	St. Joseph's (PA)	Delaware
-20200319	H	0-0	SMU	Columbia
-20200319	H	0-0	Tulane	Oklahoma State
-20200319	H	0-0	Florida Gulf Coast	Drake
 20200319	A	0-0	NJIT	Embry-Riddle (FL)
+20200319	A	0-0	Oklahoma State	Tulane
 20200319	A	0-0	Oklahoma State	New Orleans
-20200319	H	0-0	Campbell	Morgan State
 20200319	A	0-0	Gardner-Webb	UNC Greensboro
 20200319	A	0-0	Indiana	Arizona
 20200319	A	0-0	Hofstra	Mount St. Mary's (MD)
-20200319	H	0-0	Florida Atlantic	Rice
-20200319	H	0-0	Brown	Bryant
+20200319	A	0-0	Rice	Florida Atlantic
+20200319	A	0-0	Columbia	SMU
 20200319	A	0-0	Harvard	San Diego
-20200319	N	0-0	North Dakota	UMKC
+20200319	A	0-0	Morgan State	Campbell
+20200319	A	0-0	Bryant	Brown
+20200319	A	0-0	Drake	Florida Gulf Coast
 20200319	A	0-0	Alcorn State	Jackson State
 20200319	A	0-0	Southern Wesleyan	Limestone
 20200319	A	0-0	Grand Valley State	Lewis
 20200319	A	0-0	Cedarville	West Liberty
 20200319	N	0-0	Southwest Baptist (MO)	Auburn Montgomery
-20200319	H	0-0	Newman	Washburn-Topeka
+20200319	A	0-0	Washburn-Topeka	Newman
 20200319	N	0-0	Millersville	Indiana East
-20200319	N	0-0	Coe College	Bates
 20200319	N	0-0	Salisbury	St. Lawrence
 20200319	A	0-0	Salve Regina	Springfield
 20200319	A	0-0	Staten Island	Queens (NY)
 20200319	N	0-0	Hobart & William Smith	Hope
-20200319	N	0-0	St. Lawrence	Knox (IL)
-20200319	N	0-0	Hope	Hamilton
 20200319	N	0-0	Bethel (MN)	Springfield
-20200319	N	0-0	Hamilton	Colorado College
+20200319	N	0-0	Knox (IL)	St. Lawrence
+20200319	N	0-0	Bates	Coe College
+20200319	N	0-0	Hamilton	Hope
 20200319	A	0-0	Tufts	Caltech
 20200319	N	0-0	Ramapo	St. Mary's (MD)
 20200319	H	0-0	Shenandoah	Lynchburg
-20200319	H	0-0	Fresno	Chabot
-20200319	H	0-0	Orange Coast	El Camino
+20200319	N	0-0	Colorado College	Hamilton
+20200319	A	0-0	Chabot	Fresno
 20200319	A	0-0	Riverside	Glendale (CA)
 20200319	A	0-0	Grossmont	San Diego Mesa
-20200319	H	0-0	Palomar	San Diego City
+20200319	A	0-0	San Diego City	Palomar
+20200319	A	0-0	El Camino	Orange Coast
 20200319	A	0-0	Connecticut	Memphis
+20200319	N	0-0	UMKC	North Dakota
 20200320	A	0-0	Clemson	Duke
 20200320	A	0-0	Miami (FL)	Notre Dame
 20200320	A	0-0	N.C. State	Virginia
 20200320	A	0-0	Wichita State	UTSA
 20200320	H	0-0	Bellarmine	Indiana Southeast
-20200320	N	0-0	Stetson	Drake
-20200320	H	0-0	Oklahoma	Texas A&M
-20200320	N	0-0	Texas	Harvard
-20200320	N	0-0	Creighton	Air Force
 20200320	A	0-0	Michigan	Ohio State
-20200320	H	0-0	Middle Tennessee	Dartmouth
-20200320	H	0-0	Middle Tennessee	Tennessee State
+20200320	A	0-0	William & Mary	East Carolina
 20200320	N	0-0	Southern Miss	Loyola - New Orleans
-20200320	H	0-0	Cleveland State	Binghamton
+20200320	A	0-0	Dartmouth	Middle Tennessee
+20200320	N	0-0	Harvard	Texas
+20200320	A	0-0	Binghamton	Cleveland State
 20200320	A	0-0	Buffalo	Western Michigan
+20200320	N	0-0	Air Force	Creighton
 20200320	H	0-0	Bryant	St. Francis (NY)
-20200320	H	0-0	Austin Peay	Jacksonville State
-20200320	H	0-0	Arkansas	LSU
+20200320	A	0-0	Jacksonville State	Austin Peay
+20200320	A	0-0	Tennessee State	Middle Tennessee
+20200320	A	0-0	Texas A&M	Oklahoma
 20200320	A	0-0	Florida	Ole Miss
-20200320	H	0-0	Mississippi State	South Carolina
-20200320	H	0-0	Kentucky	Vanderbilt
+20200320	A	0-0	LSU	Arkansas
+20200320	A	0-0	South Carolina	Mississippi State
+20200320	A	0-0	Vanderbilt	Kentucky
 20200320	A	0-0	Abilene Christian	Nicholls State
 20200320	N	0-0	Incarnate Word	Trinity (TX)
-20200320	H	0-0	Illinois State	UMKC
-20200320	H	0-0	Coastal Carolina	South Alabama
+20200320	N	0-0	Drake	Stetson
+20200320	A	0-0	South Alabama	Coastal Carolina
+20200320	A	0-0	Troy	Appalachian State
 20200320	A	0-0	Chestnut Hill	Concordia (NY)
 20200320	A	0-0	Lees-McRae	Mount Olive
-20200320	H	0-0	Harding	McKendree
 20200320	N	0-0	Grand Valley State	Southern Indiana
-20200320	H	0-0	Illinois Springfield	UMSL
+20200320	A	0-0	McKendree	Harding
+20200320	A	0-0	UMSL	Illinois Springfield
 20200320	A	0-0	Christian Brothers	West Alabama
 20200320	A	0-0	Salem - WV	Charleston
 20200320	A	0-0	St. Mary's (TX)	Texas Tyler
@@ -3687,92 +3661,90 @@ date	where	score	winner	loser
 20200320	A	0-0	Fairmont State	Mercyhurst
 20200320	N	0-0	Southwest Baptist (MO)	West Florida
 20200320	A	0-0	Concordia (CA)	Point Loma (CA)
-20200320	H	0-0	Hawaii Hilo	Carleton
-20200320	H	0-0	CSU-Pueblo	Seward County (KS)
 20200320	A	0-0	Howard Payne	LeTourneau
 20200320	N	0-0	Hardin-Simmons	Mary Washington
-20200320	N	0-0	Johns Hopkins	Hobart & William Smith
-20200320	H	0-0	Scranton	Lawrence
-20200320	H	0-0	Scranton	Lawrence
-20200320	N	0-0	Hope	Grinnell
+20200320	N	0-0	Hobart & William Smith	Johns Hopkins
 20200320	N	0-0	Hope	Lawrence
+20200320	A	0-0	Carleton	Hawaii Hilo
+20200320	N	0-0	Grinnell	Hope
+20200320	A	0-0	Lawrence	Scranton
+20200320	A	0-0	Lawrence	Scranton
 20200320	A	0-0	Tufts	Pomona-Pitzer
 20200320	N	0-0	Babson	Emory
 20200320	A	0-0	Whitman	Caltech
-20200320	H	0-0	Randolph	Ferrum
-20200320	H	0-0	Chapman	Principia
+20200320	A	0-0	Ferrum	Randolph
+20200320	A	0-0	Principia	Chapman
 20200320	H	0-0	Webster	St. Louis - Pharmacy
-20200320	H	0-0	Collin County (TX)	Jacksonville (TX)
+20200320	A	0-0	Seward County (KS)	CSU-Pueblo
 20200320	N	0-0	Eastern Florida	USC Sumter
+20200320	A	0-0	Jacksonville (TX)	Collin County (TX)
 20200320	A	0-0	Wallace State	Meridian (MS)
-20200320	H	0-0	Copiah-Lincoln (MS)	Southwest (MS)
 20200320	A	0-0	Hinds (MS)	Itawamba (MS)
 20200320	A	0-0	Holmes (MS)	Meridian (MS)
 20200320	A	0-0	Chabot	Riverside
-20200320	H	0-0	Fullerton	San Diego City
-20200320	H	0-0	East Carolina	William & Mary
-20200320	H	0-0	Appalachian State	Troy
-20200320	H	0-0	Iowa	Minnesota
+20200320	A	0-0	San Diego City	Fullerton
+20200320	A	0-0	Minnesota	Iowa
+20200320	A	0-0	Southwest (MS)	Copiah-Lincoln (MS)
+20200320	A	0-0	UMKC	Illinois State
 20200320	A	0-0	Winthrop	Charlotte
 20200321	A	0-0	Davidson	George Mason
-20200321	H	0-0	VCU	UNC Wilmington
-20200321	H	0-0	Central Florida	North Florida
-20200321	H	0-0	South Florida	Florida Atlantic
-20200321	H	0-0	Florida Gulf Coast	Stetson
-20200321	H	0-0	TCU	Columbia
+20200321	A	0-0	Stetson	Florida Gulf Coast
+20200321	A	0-0	North Florida	Central Florida
 20200321	A	0-0	Idaho State	UC Riverside
-20200321	H	0-0	Northern Arizona	Boise State
-20200321	H	0-0	Hampton	Delaware
 20200321	A	0-0	Longwood	UNC Asheville
-20200321	H	0-0	UC Riverside	Seattle
+20200321	A	0-0	Delaware	Hampton
 20200321	A	0-0	Delaware	Norfolk State
 20200321	A	0-0	Hofstra	James Madison
+20200321	A	0-0	UNC Wilmington	VCU
+20200321	A	0-0	Florida Atlantic	South Florida
 20200321	A	0-0	Northern Kentucky	Wright State
+20200321	A	0-0	Columbia	TCU
 20200321	A	0-0	Princeton	San Diego
 20200321	A	0-0	Niagara	Quinnipiac
 20200321	N	0-0	Binghamton	John Carroll
-20200321	N	0-0	UNLV	Portland
+20200321	A	0-0	Boise State	Northern Arizona
 20200321	A	0-0	New Mexico	New Mexico State
 20200321	A	0-0	Mount St. Mary's (MD)	Wagner
 20200321	A	0-0	Austin Peay	Belmont
-20200321	H	0-0	Army	Lafayette
-20200321	H	0-0	Army	Loyola (MD)
 20200321	A	0-0	Colgate	Navy
+20200321	A	0-0	Lafayette	Army
+20200321	A	0-0	Loyola (MD)	Army
+20200321	A	0-0	Navy	George Washington
 20200321	A	0-0	ETSU	Furman
 20200321	A	0-0	North Dakota	Illinois State
-20200321	H	0-0	Georgia Southern	Texas Arlington
-20200321	H	0-0	Georgia State	Louisiana
-20200321	H	0-0	Concordia (NY)	Sciences (Philadelphia)
-20200321	H	0-0	Jefferson	Post
+20200321	A	0-0	Louisiana	Georgia State
+20200321	A	0-0	Texas Arlington	Georgia Southern
+20200321	A	0-0	Seattle	UC Riverside
+20200321	N	0-0	Portland	UNLV
+20200321	A	0-0	Post	Jefferson
+20200321	A	0-0	Sciences (Philadelphia)	Concordia (NY)
 20200321	A	0-0	King (TN)	Mount Olive
 20200321	A	0-0	North Greenville	Limestone
 20200321	A	0-0	District of Columbia	Dominican (NY)
-20200321	H	0-0	Ashland	Michigan Tech
-20200321	H	0-0	Davenport	Northwood
 20200321	A	0-0	Ferris State	Purdue Northwest
 20200321	A	0-0	Lake Superior St.	Wayne State
+20200321	A	0-0	Michigan Tech	Ashland
+20200321	A	0-0	Northwood	Davenport
 20200321	A	0-0	McKendree	UMSL
-20200321	H	0-0	Illinois Springfield	Quincy
+20200321	A	0-0	Quincy	Illinois Springfield
 20200321	H	0-0	Cedarville	Midway
 20200321	A	0-0	Findlay	Walsh
 20200321	H	0-0	Hillsdale	Lawrence Tech
 20200321	A	0-0	Delta State	Lee (TN)
-20200321	H	0-0	Auburn Montgomery	Christian Brothers
+20200321	A	0-0	Christian Brothers	Auburn Montgomery
 20200321	N	0-0	Christian Brothers	West Florida
 20200321	A	0-0	Mississippi College	Montevallo
 20200321	A	0-0	West Florida	Columbus State
-20200321	H	0-0	Bluefield State	Davis & Elkins
 20200321	A	0-0	Cameron	Dallas Baptist
 20200321	A	0-0	Arkansas Ft. Smith	MSU-Texas
-20200321	H	0-0	Texas Tyler	Howard Payne
+20200321	A	0-0	Davis & Elkins	Bluefield State
 20200321	A	0-0	West Liberty	Wesleyan (WV)
-20200321	H	0-0	Newman	Northwest Missouri
+20200321	A	0-0	Northwest Missouri	Newman
 20200321	H	0-0	Assumption	Le Moyne
 20200321	H	0-0	SNHU	Adelphi
-20200321	N	0-0	Metropolitan State	Seward County (KS)
 20200321	A	0-0	Metropolitan State	CSU-Pueblo
-20200321	H	0-0	Georgia College	Young Harris (GA)
-20200321	H	0-0	Kutztown	West Chester
+20200321	A	0-0	Young Harris (GA)	Georgia College
+20200321	A	0-0	West Chester	Kutztown
 20200321	A	0-0	Anderson (SC)	Catawba
 20200321	A	0-0	Tusculum	Wingate
 20200321	A	0-0	Barry	Embry-Riddle (FL)
@@ -3782,657 +3754,657 @@ date	where	score	winner	loser
 20200321	A	0-0	Wartburg	St. Mary's (MN)
 20200321	A	0-0	Louisiana College	Ozarks
 20200321	A	0-0	Belhaven	LeTourneau
-20200321	H	0-0	Hardin-Simmons	Austin
+20200321	A	0-0	Howard Payne	Texas Tyler
 20200321	A	0-0	Mary Hardin-Baylor	Sul Ross State
 20200321	A	0-0	Christopher Newport	York (PA)
 20200321	A	0-0	Mary Washington	Trinity (TX)
-20200321	H	0-0	North Central (IL)	Lake Forest
-20200321	H	0-0	Dickinson	Muhlenberg
 20200321	N	0-0	Franklin & Marshall	Washington & Lee
-20200321	H	0-0	Haverford	Goucher
-20200321	H	0-0	Swarthmore	Washington & Lee
-20200321	H	0-0	Susquehanna	King's (PA)
+20200321	A	0-0	Muhlenberg	Dickinson
+20200321	A	0-0	Goucher	Haverford
+20200321	A	0-0	King's (PA)	Susquehanna
 20200321	A	0-0	Wilkes	Wesleyan (CT)
 20200321	A	0-0	Gustavus Adolphus	St. John's (MN)
+20200321	A	0-0	Lake Forest	North Central (IL)
 20200321	A	0-0	Whitman	Redlands
 20200321	A	0-0	Willamette	San Diego Mesa
 20200321	A	0-0	Baldwin Wallace	Capital (OH)
-20200321	H	0-0	Randolph-Macon	Roanoke
+20200321	A	0-0	Roanoke	Randolph-Macon
+20200321	A	0-0	Washington & Lee	Swarthmore
 20200321	A	0-0	Berry	LaGrange
+20200321	A	0-0	Austin	Hardin-Simmons
 20200321	H	0-0	Fontbonne	Oakland City
 20200321	H	0-0	Webster	Oakland City
-20200321	N	0-0	Cowley County (KS)	Collin County (TX)
+20200321	N	0-0	Huntingdon	Centenary (LA)
+20200321	N	0-0	Collin County (TX)	Cowley County (KS)
+20200321	N	0-0	Seward County (KS)	Metropolitan State
 20200321	A	0-0	Wallace State	Gulf Coast (MS)
 20200321	A	0-0	Copiah-Lincoln (MS)	Itawamba (MS)
 20200321	A	0-0	Chabot	Fullerton
-20200321	N	0-0	Centenary (LA)	Huntingdon
-20200321	H	0-0	George Washington	Navy
 20200321	A	0-0	La Salle	Lehigh
 20200321	A	0-0	St. Edward's (TX)	Texas Tyler
 20200321	A	0-0	St. Edward's (TX)	Tyler JC (TX)
 20200321	A	0-0	Green Bay	Youngstown State
 20200322	A	0-0	Davidson	George Washington
 20200322	A	0-0	Saint Louis	Illinois State
-20200322	H	0-0	Boston College	Miami (FL)
 20200322	A	0-0	Clemson	North Carolina
-20200322	H	0-0	Duke	Georgia Tech
 20200322	A	0-0	Florida State	Notre Dame
-20200322	H	0-0	Louisville	N.C. State
-20200322	H	0-0	Virginia	Wake Forest
-20200322	H	0-0	Virginia Tech	William & Mary
-20200322	H	0-0	Tulsa	LSU
-20200322	H	0-0	Tulane	Wichita State
-20200322	H	0-0	South Florida	Middle Tennessee
+20200322	A	0-0	Georgia Tech	Duke
+20200322	A	0-0	Miami (FL)	Boston College
+20200322	A	0-0	N.C. State	Louisville
+20200322	A	0-0	Wake Forest	Virginia
+20200322	A	0-0	Wichita State	Tulane
 20200322	A	0-0	Wichita State	New Orleans
 20200322	A	0-0	Bellarmine	Hillsdale
-20200322	H	0-0	Liberty	UNC Wilmington
 20200322	A	0-0	Lipscomb	Furman
 20200322	A	0-0	Texas	San Diego
 20200322	A	0-0	St. John's (NY)	Quinnipiac
-20200322	H	0-0	Northern Arizona	Sacramento State
+20200322	A	0-0	Sacramento State	Northern Arizona
 20200322	A	0-0	Illinois	Kentucky
+20200322	A	0-0	Nebraska	Minnesota
 20200322	A	0-0	Cal Poly	Santa Clara
 20200322	A	0-0	Delaware	Penn
+20200322	A	0-0	UNC Wilmington	Liberty
+20200322	A	0-0	William & Mary	Virginia Tech
+20200322	A	0-0	Middle Tennessee	South Florida
 20200322	A	0-0	Old Dominion	Penn
-20200322	H	0-0	Southern Miss	Arkansas Pine Bluff
-20200322	H	0-0	Cleveland State	Green Bay
 20200322	A	0-0	IUPUI	Northern Kentucky
-20200322	H	0-0	Fairfield	Niagara
-20200322	H	0-0	Northern Illinois	Toledo
-20200322	H	0-0	Coppin State	Colgate
+20200322	A	0-0	Niagara	Fairfield
+20200322	A	0-0	Toledo	Northern Illinois
 20200322	A	0-0	UNLV	Oregon
-20200322	H	0-0	Fairleigh Dickinson	Mount St. Mary's (MD)
+20200322	A	0-0	Mount St. Mary's (MD)	Fairleigh Dickinson
 20200322	A	0-0	Arizona	Utah
 20200322	H	0-0	Boston University	St. Francis (NY)
-20200322	H	0-0	Arkansas	Texas A&M
-20200322	H	0-0	Auburn	Alabama State
+20200322	A	0-0	Colgate	Coppin State
+20200322	A	0-0	Texas A&M	Arkansas
 20200322	A	0-0	Florida	Mississippi State
+20200322	A	0-0	LSU	Tulsa
 20200322	A	0-0	Abilene Christian	New Orleans
 20200322	A	0-0	Omaha	St. Mary's (CA)
-20200322	H	0-0	Coastal Carolina	Troy
-20200322	H	0-0	Georgia Southern	Louisiana
-20200322	H	0-0	Georgia State	Texas Arlington
+20200322	A	0-0	South Alabama	Appalachian State
+20200322	A	0-0	Troy	Coastal Carolina
+20200322	A	0-0	Louisiana	Georgia Southern
+20200322	A	0-0	Texas Arlington	Georgia State
+20200322	A	0-0	Alabama State	Auburn
 20200322	A	0-0	Gonzaga	Portland
-20200322	H	0-0	Post	District of Columbia
+20200322	A	0-0	District of Columbia	Post
 20200322	A	0-0	Ouachita Baptist	Newman
-20200322	H	0-0	Ashland	Lake Superior St.
+20200322	A	0-0	Lake Superior St.	Ashland
 20200322	A	0-0	Michigan Tech	Wayne State
 20200322	A	0-0	Northwood	Purdue Northwest
 20200322	N	0-0	Drury	Indianapolis
 20200322	A	0-0	Delta State	Shorter
+20200322	A	0-0	Mississippi College	UAH
 20200322	A	0-0	Salem - WV	West Liberty
 20200322	N	0-0	SNHU	Queens (NY)
-20200322	H	0-0	Augusta	Young Harris (GA)
-20200322	H	0-0	Columbus State	Queens (NC)
-20200322	N	0-0	North Georgia	Barry
-20200322	H	0-0	Bloomsburg	West Chester
+20200322	A	0-0	Young Harris (GA)	Augusta
+20200322	A	0-0	West Chester	Bloomsburg
+20200322	A	0-0	Queens (NC)	Columbus State
+20200322	N	0-0	Barry	North Georgia
 20200322	A	0-0	Penn State - Altoona	Susquehanna
 20200322	A	0-0	Louisiana College	Hendrix
-20200322	H	0-0	McMurry	Austin
 20200322	A	0-0	Christopher Newport	Swarthmore
-20200322	H	0-0	Franklin & Marshall	Goucher
-20200322	H	0-0	Franklin & Marshall	Goucher
 20200322	A	0-0	UC Santa Cruz	Chapman
-20200322	H	0-0	Ithaca	Skidmore
-20200322	N	0-0	Hamline	Birmingham Southern
-20200322	H	0-0	Wesleyan (CT)	Brandeis
+20200322	A	0-0	Goucher	Franklin & Marshall
+20200322	A	0-0	Goucher	Franklin & Marshall
+20200322	A	0-0	Skidmore	Ithaca
 20200322	A	0-0	Pacific Lutheran	Whittier
-20200322	N	0-0	Whitman	Southwestern (TX)
-20200322	H	0-0	Guilford	Randolph-Macon
+20200322	A	0-0	Randolph-Macon	Guilford
+20200322	N	0-0	Birmingham Southern	Hamline
+20200322	A	0-0	Austin	McMurry
+20200322	N	0-0	Southwestern (TX)	Whitman
 20200322	A	0-0	St. Joseph's (Long Island)	Yeshiva
-20200322	H	0-0	Appalachian State	South Alabama
+20200322	A	0-0	Brandeis	Wesleyan (CT)
 20200322	A	0-0	Concord	Fairmont State
 20200322	A	0-0	Iowa	Wisconsin
-20200322	H	0-0	Minnesota	Nebraska
-20200322	H	0-0	UAH	Mississippi College
+20200322	A	0-0	Arkansas Pine Bluff	Southern Miss
+20200322	A	0-0	Green Bay	Cleveland State
 20200323	A	0-0	North Alabama	Alabama A&M
 20200323	A	0-0	Seattle	Azusa Pacific
-20200323	H	0-0	Mount Olive	NC Wesleyan
 20200323	A	0-0	Charleston	Concord
-20200323	N	0-0	Union (NY)	Huntingdon
 20200323	N	0-0	Calvin	Lawrence
 20200323	A	0-0	Allegheny	Westminster (PA)
 20200323	A	0-0	Williams	Westmont
+20200323	A	0-0	UW Eau Claire	Schreiner
 20200323	A	0-0	George Fox	Whittier
-20200323	H	0-0	Schreiner	UW Eau Claire
 20200323	A	0-0	Webster	Wash U
+20200323	N	0-0	Huntingdon	Union (NY)
+20200323	A	0-0	NC Wesleyan	Mount Olive
 20200323	A	0-0	Wallace State	Jones
-20200323	H	0-0	Copiah-Lincoln (MS)	Gulf Coast (MS)
+20200323	A	0-0	Gulf Coast (MS)	Copiah-Lincoln (MS)
 20200324	A	0-0	VCU	Virginia Tech
-20200324	H	0-0	Central Florida	Nebraska
-20200324	H	0-0	Oklahoma State	Texas A&M
-20200324	N	0-0	Eastern Washington	Brown
 20200324	A	0-0	Montana	Sacramento State
-20200324	H	0-0	Hampton	UC Riverside
+20200324	A	0-0	Nebraska	Central Florida
 20200324	A	0-0	Cal Poly	California
+20200324	A	0-0	UC Riverside	Hampton
 20200324	A	0-0	UC Riverside	Norfolk State
 20200324	A	0-0	UCSD	Desert
 20200324	A	0-0	Drexel	A&M-Corpus Christi
-20200324	H	0-0	Rider	Wagner
+20200324	N	0-0	Brown	Eastern Washington
 20200324	A	0-0	UNLV	UCLA
+20200324	A	0-0	Wagner	Rider
 20200324	A	0-0	Austin Peay	Tennessee State
-20200324	H	0-0	California	Omaha
+20200324	A	0-0	Texas A&M	Oklahoma State
+20200324	A	0-0	Omaha	California
 20200324	A	0-0	Chestnut Hill	Sciences (Philadelphia)
-20200324	H	0-0	Concordia (NY)	Jefferson
+20200324	A	0-0	Jefferson	Concordia (NY)
 20200324	A	0-0	Post	Dominican (NY)
 20200324	A	0-0	Roberts Wesleyan	RIT
 20200324	A	0-0	Oklahoma Baptist	Cameron
 20200324	A	0-0	Ouachita Baptist	Emporia State
 20200324	A	0-0	Southern Arkansas	Spring Hill
-20200324	H	0-0	Davenport	UMSL
+20200324	A	0-0	UMSL	Davenport
 20200324	A	0-0	Montevallo	Georgia Gwinnett
 20200324	A	0-0	Montevallo	Georgia Gwinnett
 20200324	A	0-0	North Georgia	Florida Southern
-20200324	H	0-0	Anderson (SC)	Carson-Newman
-20200324	H	0-0	Baruch	John Jay
-20200324	H	0-0	Mt. St. Joseph	Capital (OH)
+20200324	A	0-0	Carson-Newman	Anderson (SC)
+20200324	A	0-0	John Jay	Baruch
 20200324	A	0-0	UC Santa Cruz	Redlands
 20200324	A	0-0	UMass Boston	Lesley
 20200324	N	0-0	Calvin	Hamline
-20200324	N	0-0	Hamilton	Birmingham Southern
-20200324	N	0-0	Middlebury	George Fox
+20200324	N	0-0	George Fox	Middlebury
 20200324	A	0-0	Pacific Lutheran	Cal Lutheran
+20200324	A	0-0	Capital (OH)	Mt. St. Joseph
+20200324	N	0-0	Birmingham Southern	Hamilton
 20200324	A	0-0	Hendrix	Centenary (LA)
-20200324	H	0-0	Coastal Alabama	Wallace State
+20200324	A	0-0	Wallace State	Coastal Alabama
 20200324	A	0-0	East Central (MS)	Meridian (MS)
-20200324	H	0-0	Hinds (MS)	Jones
+20200324	A	0-0	Jones	Hinds (MS)
 20200324	A	0-0	Gulf Coast (MS)	Southwest (MS)
-20200324	H	0-0	Cosumnes  River	Modesto
 20200324	A	0-0	Fresno	Reedley
+20200324	A	0-0	Modesto	Cosumnes  River
 20200324	A	0-0	Cabrillo	Foothill
-20200324	H	0-0	Chabot	Mission
-20200324	H	0-0	Irvine Valley	Riverside
-20200324	H	0-0	Grossmont	San Diego City
+20200324	A	0-0	Mission	Chabot
+20200324	A	0-0	Riverside	Irvine Valley
 20200324	A	0-0	Imperial Valley	San Diego Mesa
-20200324	H	0-0	Cerritos	El Camino
-20200325	H	0-0	George Mason	Richmond
-20200325	H	0-0	St. Joseph's (PA)	Lehigh
-20200325	H	0-0	Duke	North Carolina
+20200324	A	0-0	San Diego City	Grossmont
+20200324	A	0-0	El Camino	Cerritos
+20200325	A	0-0	Richmond	George Mason
 20200325	A	0-0	N.C. State	South Carolina
-20200325	H	0-0	Central Florida	Arkansas
-20200325	H	0-0	Texas Tech	Northwestern
+20200325	A	0-0	North Carolina	Duke
 20200325	A	0-0	Eastern Washington	UC Irvine
 20200325	A	0-0	Montana	Sonoma State
-20200325	H	0-0	Campbell	UC Riverside
 20200325	A	0-0	Gardner-Webb	UNC Asheville
-20200325	H	0-0	UC Irvine	Seattle
+20200325	A	0-0	Northwestern	Texas Tech
+20200325	A	0-0	UC Riverside	Campbell
 20200325	A	0-0	UC Riverside	Methodist (NC)
-20200325	H	0-0	Delaware	Jefferson
-20200325	H	0-0	Delaware	Loyola (MD)
 20200325	A	0-0	Drexel	UTRGV
 20200325	A	0-0	Brown	Loyola Marymount
-20200325	H	0-0	San Diego State	Stanford
-20200325	H	0-0	Alabama A&M	UAH
-20200325	N	0-0	Southern Arkansas	Auburn Montgomery
-20200325	H	0-0	Grand Valley State	Northwood
+20200325	A	0-0	Stanford	San Diego State
+20200325	A	0-0	Lehigh	St. Joseph's (PA)
+20200325	A	0-0	Loyola (MD)	Delaware
+20200325	A	0-0	Arkansas	Central Florida
+20200325	A	0-0	Seattle	UC Irvine
+20200325	A	0-0	Jefferson	Delaware
+20200325	A	0-0	Northwood	Grand Valley State
 20200325	A	0-0	Cedarville	Wittenberg
+20200325	A	0-0	Walsh	Salem - WV
 20200325	N	0-0	Montevallo	Young Harris (GA)
+20200325	N	0-0	Auburn Montgomery	Southern Arkansas
 20200325	A	0-0	Lee (TN)	Shorter
-20200325	H	0-0	Bluefield State	Fairmont State
-20200325	H	0-0	Salem - WV	Walsh
-20200325	H	0-0	West Liberty	Washington & Jefferson
+20200325	A	0-0	Fairmont State	Bluefield State
 20200325	A	0-0	SNHU	St. Michael's
-20200325	H	0-0	Azusa Pacific	Middlebury
-20200325	H	0-0	Concordia (CA)	Hawaii Hilo
+20200325	A	0-0	Hawaii Hilo	Concordia (CA)
 20200325	A	0-0	Young Harris (GA)	Georgia Gwinnett
-20200325	H	0-0	Bloomsburg	Millersville
+20200325	A	0-0	Millersville	Bloomsburg
 20200325	A	0-0	Catawba	Queens (NC)
 20200325	A	0-0	Mars Hill	Tusculum
 20200325	A	0-0	Benedict	Spring Hill
-20200325	H	0-0	LeTourneau	Hendrix
 20200325	A	0-0	Frostburg State	McDaniel
 20200325	A	0-0	Washington (MD)	Goucher
 20200325	A	0-0	Scranton	Messiah
-20200325	N	0-0	St. Olaf	Huntingdon
-20200325	N	0-0	Oberlin	Huntingdon
-20200325	N	0-0	George Fox	American River
+20200325	A	0-0	Middlebury	Azusa Pacific
+20200325	A	0-0	UW Eau Claire	Southwestern (TX)
 20200325	A	0-0	George Fox	Riverside
 20200325	A	0-0	Pacific Lutheran	Westmont
 20200325	A	0-0	Capital (OH)	Shawnee State
 20200325	H	0-0	Bridgewater	Lynchburg
-20200325	H	0-0	Guilford	Washington & Lee
 20200325	A	0-0	Roanoke	Washington & Lee
+20200325	A	0-0	Washington & Lee	Guilford
+20200325	A	0-0	Washington & Jefferson	West Liberty
 20200325	N	0-0	Birmingham Southern	UW Whitewater
-20200325	H	0-0	Southwestern (TX)	UW Eau Claire
-20200325	H	0-0	Mt. St. Mary (NY)	Yeshiva
+20200325	A	0-0	Hendrix	LeTourneau
+20200325	A	0-0	Yeshiva	Mt. St. Mary (NY)
+20200325	N	0-0	Huntingdon	Oberlin
+20200325	N	0-0	Huntingdon	St. Olaf
 20200325	A	0-0	Barton County (KS)	Cowley County (KS)
 20200325	A	0-0	Hinds (MS)	Meridian (MS)
+20200325	N	0-0	American River	George Fox
+20200325	A	0-0	UAH	Alabama A&M
 20200326	A	0-0	Florida Gulf Coast	Kennesaw State
-20200326	H	0-0	Lipscomb	Stetson
 20200326	A	0-0	NJIT	Liberty
-20200326	H	0-0	North Alabama	North Florida
+20200326	A	0-0	Stetson	Lipscomb
+20200326	A	0-0	North Florida	North Alabama
 20200326	A	0-0	DePaul	UC Irvine
 20200326	A	0-0	Montana	UC Davis
 20200326	A	0-0	Montana State	UC Davis
 20200326	A	0-0	UC Riverside	NC A&T
 20200326	A	0-0	UC Riverside	NCCU
 20200326	A	0-0	Hofstra	Marist
-20200326	H	0-0	Old Dominion	UTSA
-20200326	H	0-0	Fairleigh Dickinson	Wagner
+20200326	A	0-0	UTSA	Old Dominion
+20200326	A	0-0	Wagner	Fairleigh Dickinson
 20200326	A	0-0	Jacksonville State	Troy
 20200326	A	0-0	ETSU	Georgia State
+20200326	A	0-0	UNC Greensboro	East Carolina
 20200326	A	0-0	Gonzaga	San Diego
-20200326	H	0-0	Chestnut Hill	Concordia (NY)
-20200326	H	0-0	Jefferson	West Chester
+20200326	A	0-0	Concordia (NY)	Chestnut Hill
 20200326	A	0-0	Sciences (Philadelphia)	Millersville
 20200326	A	0-0	Ouachita Baptist	Washburn-Topeka
 20200326	A	0-0	Southern Arkansas	West Florida
-20200326	H	0-0	Lewis	UMSL
+20200326	A	0-0	UMSL	Lewis
 20200326	A	0-0	Montevallo	Reinhardt
+20200326	A	0-0	West Chester	Jefferson
 20200326	N	0-0	Benedict	Fort Valley State
 20200326	N	0-0	Benedict	Lane
 20200326	N	0-0	Benedict	Tuskegee
-20200326	H	0-0	Concordia (TX)	UW Eau Claire
-20200326	H	0-0	East Texas Baptist	Hendrix
 20200326	A	0-0	Baruch	Rutgers - Newark
 20200326	A	0-0	Brooklyn	Farmingdale State
 20200326	N	0-0	UC Santa Cruz	Williams
-20200326	H	0-0	Hobart & William Smith	Ithaca
-20200326	H	0-0	Allegheny	Grove City
+20200326	A	0-0	Ithaca	Hobart & William Smith
+20200326	A	0-0	UW Eau Claire	Concordia (TX)
 20200326	A	0-0	George Fox	Caltech
-20200326	N	0-0	Linfield	American River
 20200326	A	0-0	Pacific Lutheran	Occidental
-20200326	H	0-0	Hampden-Sydney	Randolph
+20200326	A	0-0	Randolph	Hampden-Sydney
+20200326	A	0-0	Grove City	Allegheny
+20200326	A	0-0	Hendrix	East Texas Baptist
 20200326	A	0-0	Webster	Westminster (MO)
 20200326	A	0-0	Pima (AZ)	Mesa (AZ)
 20200326	A	0-0	Copiah-Lincoln (MS)	East Central (MS)
+20200326	N	0-0	American River	Linfield
 20200326	A	0-0	Solano	Chabot
-20200326	H	0-0	Imperial Valley	Palomar
-20200326	H	0-0	San Diego City	San Diego Mesa
-20200326	H	0-0	El Camino	Victor Valley
-20200326	H	0-0	East Carolina	UNC Greensboro
-20200327	H	0-0	Duquesne	St. Bonaventure
+20200326	A	0-0	Palomar	Imperial Valley
+20200326	A	0-0	San Diego Mesa	San Diego City
+20200326	A	0-0	Victor Valley	El Camino
 20200327	A	0-0	Fordham	George Washington
-20200327	H	0-0	George Mason	La Salle
-20200327	H	0-0	Richmond	UTSA
+20200327	A	0-0	St. Bonaventure	Duquesne
 20200327	A	0-0	Clemson	Louisville
-20200327	H	0-0	Florida State	Wake Forest
 20200327	A	0-0	Georgia Tech	N.C. State
-20200327	H	0-0	Notre Dame	Virginia Tech
-20200327	H	0-0	North Carolina	Virginia
+20200327	A	0-0	Virginia	North Carolina
+20200327	A	0-0	Virginia Tech	Notre Dame
+20200327	A	0-0	Wake Forest	Florida State
 20200327	A	0-0	Tulane	Old Dominion
 20200327	A	0-0	South Florida	Tulsa
-20200327	H	0-0	Bellarmine	Indianapolis
 20200327	A	0-0	Oklahoma	Texas
 20200327	A	0-0	Oklahoma State	TCU
 20200327	N	0-0	DePaul	Eastern Washington
-20200327	H	0-0	Longwood	Winthrop
-20200327	H	0-0	Longwood	Winthrop
-20200327	H	0-0	Illinois	Minnesota
-20200327	H	0-0	Hawaii	UC Santa Barbara
+20200327	A	0-0	UC Santa Barbara	Hawaii
 20200327	H	0-0	Delaware	St. Francis (NY)
 20200327	A	0-0	William & Mary	Middle Tennessee
 20200327	N	0-0	Charlotte	Denver
 20200327	A	0-0	Southern Miss	Ole Miss
-20200327	H	0-0	Buffalo	Boston University
+20200327	A	0-0	UTSA	Richmond
 20200327	A	0-0	Northern Illinois	Western Michigan
-20200327	H	0-0	UNLV	Air Force
+20200327	A	0-0	Air Force	UNLV
 20200327	A	0-0	New Mexico	San Diego State
 20200327	A	0-0	California	UCLA
+20200327	A	0-0	Boston University	Buffalo
 20200327	A	0-0	Arkansas	Florida
 20200327	A	0-0	Auburn	Texas A&M
-20200327	H	0-0	Tennessee	Vanderbilt
-20200327	H	0-0	Georgia	Kentucky
+20200327	A	0-0	Kentucky	Georgia
+20200327	A	0-0	Vanderbilt	Tennessee
 20200327	A	0-0	Coastal Carolina	Louisiana
 20200327	A	0-0	Alabama State	Arkansas Pine Bluff
-20200327	H	0-0	Grand Canyon	UTRGV
-20200327	H	0-0	BYU	Portland
+20200327	A	0-0	UTRGV	Grand Canyon
 20200327	A	0-0	Pacific (CA)	Santa Clara
-20200327	H	0-0	Concordia (NY)	SNHU
-20200327	H	0-0	Chowan	Limestone
+20200327	A	0-0	Portland	BYU
 20200327	A	0-0	King (TN)	North Greenville
 20200327	A	0-0	Lees-McRae	Southern Wesleyan
 20200327	N	0-0	Harding	St. Edward's (TX)
 20200327	A	0-0	Ouachita Baptist	Rockhurst
-20200327	N	0-0	Southern Arkansas	Valdosta State
 20200327	A	0-0	Southern Arkansas	West Alabama
 20200327	A	0-0	Ashland	Davenport
-20200327	H	0-0	Grand Valley State	Michigan Tech
-20200327	H	0-0	Lake Superior St.	Northwood
-20200327	H	0-0	Purdue Northwest	Wayne State
+20200327	A	0-0	Michigan Tech	Grand Valley State
+20200327	A	0-0	Northwood	Lake Superior St.
+20200327	A	0-0	Wayne State	Purdue Northwest
+20200327	A	0-0	Indianapolis	Bellarmine
+20200327	N	0-0	Valdosta State	Southern Arkansas
+20200327	A	0-0	Auburn Montgomery	UAH
 20200327	A	0-0	MSU-Texas	UTPB
 20200327	A	0-0	Dallas Baptist	WNM
-20200327	H	0-0	Arkansas Ft. Smith	Texas Tyler
-20200327	H	0-0	Fairmont State	West Liberty
-20200327	H	0-0	Azusa Pacific	Hawaii Hilo
+20200327	A	0-0	Texas Tyler	Arkansas Ft. Smith
+20200327	A	0-0	West Liberty	Fairmont State
+20200327	A	0-0	SNHU	Concordia (NY)
 20200327	A	0-0	Concordia (CA)	Desert
+20200327	A	0-0	Hawaii Hilo	Azusa Pacific
 20200327	A	0-0	Anderson (SC)	Wingate
+20200327	A	0-0	Limestone	Chowan
 20200327	N	0-0	Benedict	LeMoyne-Owen
 20200327	A	0-0	Hardin-Simmons	Southwestern (TX)
-20200327	H	0-0	Mary Hardin-Baylor	Austin
 20200327	H	0-0	Southern Virginia	St. Mary's (MD)
-20200327	H	0-0	Amherst	Trinity (TX)
 20200327	A	0-0	Middlebury	Pomona-Pitzer
-20200327	H	0-0	Bridgewater	Washington & Lee
-20200327	H	0-0	Washington & Lee	Ferrum
+20200327	A	0-0	Ferrum	Washington & Lee
+20200327	A	0-0	Washington & Lee	Bridgewater
+20200327	A	0-0	Austin	Mary Hardin-Baylor
+20200327	A	0-0	Trinity (TX)	Amherst
 20200327	A	0-0	Occidental	Redlands
 20200327	A	0-0	Webster	St. Louis - Pharmacy
 20200327	H	0-0	Illinois Valley	Prairie State
 20200327	A	0-0	East Central (MS)	Southwest (MS)
-20200327	H	0-0	Hinds (MS)	Holmes (MS)
-20200327	H	0-0	Itawamba (MS)	Meridian (MS)
-20200327	H	0-0	Jones	Gulf Coast (MS)
+20200327	A	0-0	Holmes (MS)	Hinds (MS)
+20200327	A	0-0	Meridian (MS)	Itawamba (MS)
+20200327	A	0-0	Gulf Coast (MS)	Jones
 20200327	A	0-0	Modesto	Reedley
-20200327	H	0-0	Cabrillo	Chabot
+20200327	A	0-0	Chabot	Cabrillo
 20200327	A	0-0	Foothill	Mission
 20200327	A	0-0	Appalachian State	Texas Arlington
 20200327	A	0-0	Iowa	Penn State
-20200327	H	0-0	UAH	Auburn Montgomery
+20200327	A	0-0	La Salle	George Mason
+20200327	A	0-0	Minnesota	Illinois
+20200327	A	0-0	Winthrop	Longwood
+20200327	A	0-0	Winthrop	Longwood
 20200328	A	0-0	Fordham	George Mason
-20200328	N	0-0	VCU	Denver
-20200328	H	0-0	Temple	Monmouth (NJ)
-20200328	H	0-0	Tulsa	Drake
 20200328	A	0-0	Bellarmine	Southern Indiana
 20200328	A	0-0	Florida Gulf Coast	Liberty
-20200328	H	0-0	Lipscomb	North Florida
 20200328	A	0-0	NJIT	Kennesaw State
-20200328	H	0-0	North Alabama	Stetson
-20200328	H	0-0	Baylor	Texas Tech
+20200328	A	0-0	Stetson	North Alabama
+20200328	A	0-0	North Florida	Lipscomb
+20200328	A	0-0	Texas Tech	Baylor
 20200328	A	0-0	DePaul	UC Riverside
 20200328	A	0-0	St. John's (NY)	Binghamton
 20200328	A	0-0	Campbell	UNC Asheville
 20200328	A	0-0	USC Upstate	Hampton
 20200328	A	0-0	Indiana	Michigan State
-20200328	H	0-0	Michigan	Purdue
-20200328	H	0-0	Northwestern	Wisconsin
+20200328	A	0-0	Purdue	Michigan
+20200328	A	0-0	Wisconsin	Northwestern
 20200328	A	0-0	Cal Poly	Hawaii
 20200328	H	0-0	UC Riverside	Westmont
 20200328	A	0-0	Hofstra	Quinnipiac
-20200328	H	0-0	Cleveland State	Youngstown State
-20200328	H	0-0	IUPUI	Wright State
-20200328	H	0-0	Illinois - Chicago	Northern Kentucky
-20200328	H	0-0	Harvard	Trinity (TX)
-20200328	H	0-0	Penn	Princeton
-20200328	H	0-0	Niagara	Siena
-20200328	H	0-0	Ball State	Toledo
+20200328	A	0-0	Northern Kentucky	Illinois - Chicago
+20200328	A	0-0	Youngstown State	Cleveland State
+20200328	A	0-0	Princeton	Penn
+20200328	A	0-0	Monmouth (NJ)	Temple
+20200328	A	0-0	Siena	Niagara
+20200328	A	0-0	Toledo	Ball State
 20200328	A	0-0	Eastern Illinois	McKendree
 20200328	A	0-0	Stanford	UCLA
-20200328	H	0-0	Army	Bucknell
+20200328	A	0-0	Bucknell	Army
 20200328	A	0-0	Colgate	Lehigh
-20200328	H	0-0	Lafayette	Loyola (MD)
-20200328	H	0-0	Chattanooga	UNC Greensboro
+20200328	A	0-0	Loyola (MD)	Lafayette
 20200328	A	0-0	Furman	Georgia Southern
-20200328	H	0-0	Incarnate Word	Lamar
+20200328	A	0-0	UNC Greensboro	Chattanooga
+20200328	A	0-0	Lamar	Incarnate Word
+20200328	N	0-0	Denver	VCU
 20200328	A	0-0	Drake	Oral Roberts
-20200328	H	0-0	Georgia State	South Alabama
+20200328	A	0-0	Drake	Tulsa
+20200328	A	0-0	South Alabama	Georgia State
 20200328	A	0-0	Jackson State	Prairie View A&M
 20200328	N	0-0	New Mexico State	UTRGV
-20200328	H	0-0	Loyola Marymount	Pepperdine
+20200328	A	0-0	Pepperdine	Loyola Marymount
 20200328	A	0-0	St. Mary's (CA)	Santa Clara
 20200328	A	0-0	Post	Sciences (Philadelphia)
-20200328	H	0-0	Barton	Limestone
 20200328	A	0-0	Emmanuel (GA)	Mount Olive
 20200328	A	0-0	Lees-McRae	North Greenville
 20200328	A	0-0	Harding	Oklahoma Baptist
-20200328	H	0-0	Oklahoma Baptist	St. Edward's (TX)
 20200328	A	0-0	Ashland	Purdue Northwest
-20200328	H	0-0	Davenport	Wayne State
-20200328	H	0-0	Indianapolis	Lewis
+20200328	A	0-0	Wayne State	Davenport
+20200328	A	0-0	Drury	Southwest Baptist (MO)
+20200328	A	0-0	Lewis	Indianapolis
 20200328	A	0-0	Illinois Springfield	McKendree
-20200328	H	0-0	Cedarville	Hillsdale
-20200328	H	0-0	Findlay	Tiffin
-20200328	H	0-0	Kentucky Wesleyan	Walsh
+20200328	A	0-0	Hillsdale	Cedarville
+20200328	A	0-0	Tiffin	Findlay
+20200328	A	0-0	Walsh	Kentucky Wesleyan
 20200328	N	0-0	Valdosta State	West Alabama
-20200328	H	0-0	Lee (TN)	Mississippi College
+20200328	A	0-0	Mississippi College	Lee (TN)
 20200328	A	0-0	MSU-Texas	WNM
-20200328	H	0-0	Cameron	Texas Tyler
 20200328	A	0-0	Dallas Baptist	UTPB
-20200328	H	0-0	Charleston	West Liberty
+20200328	A	0-0	Texas Tyler	Cameron
+20200328	A	0-0	West Liberty	Charleston
 20200328	A	0-0	Wesleyan (WV)	Bluefield
-20200328	H	0-0	Southwest Baptist (MO)	Drury
-20200328	H	0-0	Newman	Emporia State
+20200328	A	0-0	Emporia State	Newman
 20200328	H	0-0	Newman	Southwestern (KS)
-20200328	H	0-0	Adelphi	Assumption
+20200328	A	0-0	Assumption	Adelphi
 20200328	A	0-0	Bentley	Le Moyne
-20200328	H	0-0	Stonehill	St. Michael's
-20200328	H	0-0	Azusa Pacific	Biola
-20200328	H	0-0	Metropolitan State	CSU-Pueblo
+20200328	A	0-0	St. Michael's	Stonehill
+20200328	A	0-0	Biola	Azusa Pacific
 20200328	A	0-0	Augusta	Francis Marion
 20200328	A	0-0	Bloomsburg	Edinboro
 20200328	A	0-0	Kutztown	Mercyhurst
-20200328	H	0-0	Carson-Newman	Catawba
+20200328	A	0-0	CSU-Pueblo	Metropolitan State
+20200328	A	0-0	Catawba	Carson-Newman
+20200328	A	0-0	Limestone	Barton
 20200328	A	0-0	Lenoir-Rhyne	Tusculum
 20200328	N	0-0	Benedict	Spring Hill
 20200328	A	0-0	Florida Southern	Rollins
 20200328	N	0-0	Coe College	Nebraska Wesleyan
 20200328	A	0-0	Dubuque	Nebraska Wesleyan
-20200328	H	0-0	Concordia (TX)	Hardin-Simmons
 20200328	A	0-0	Howard Payne	Mary Hardin-Baylor
+20200328	A	0-0	Hardin-Simmons	Concordia (TX)
 20200328	A	0-0	LeTourneau	Ozarks
 20200328	A	0-0	Christopher Newport	Mary Washington
+20200328	A	0-0	Frostburg State	Concord
 20200328	H	0-0	Mary Washington	St. Mary's (MD)
-20200328	H	0-0	North Central (IL)	Principia
-20200328	H	0-0	Wheaton (IL)	Principia
-20200328	H	0-0	Dickinson	Haverford
+20200328	A	0-0	Washington (MD)	Muhlenberg
 20200328	A	0-0	Johns Hopkins	Georgia Gwinnett
 20200328	A	0-0	Johns Hopkins	Ursinus
-20200328	H	0-0	Muhlenberg	Washington (MD)
-20200328	H	0-0	Swarthmore	TCNJ
+20200328	A	0-0	Haverford	Dickinson
 20200328	A	0-0	Manchester	Transylvania
-20200328	H	0-0	Drew	Goucher
-20200328	H	0-0	Elizabethtown	Susquehanna
+20200328	A	0-0	Goucher	Drew
+20200328	A	0-0	Susquehanna	Elizabethtown
 20200328	A	0-0	UMass Boston	Rhode Island College
 20200328	A	0-0	Hobart & William Smith	St. Lawrence
-20200328	H	0-0	Stevens	Wilkes
+20200328	A	0-0	Wilkes	Stevens
 20200328	A	0-0	Bethel (MN)	St. Mary's (MN)
-20200328	H	0-0	Cornell College	Knox (IL)
-20200328	H	0-0	Cornell College	Lake Forest
-20200328	H	0-0	Grinnell	Lake Forest
-20200328	H	0-0	Illinois College	Lawrence
-20200328	N	0-0	Lawrence	Monmouth (IL)
-20200328	N	0-0	Lawrence	Monmouth (IL)
+20200328	N	0-0	Monmouth (IL)	Lawrence
+20200328	N	0-0	Monmouth (IL)	Lawrence
+20200328	A	0-0	Knox (IL)	Cornell College
+20200328	A	0-0	Lake Forest	Cornell College
+20200328	A	0-0	Lake Forest	Grinnell
+20200328	A	0-0	Lawrence	Illinois College
 20200328	A	0-0	Wooster	Denison
-20200328	H	0-0	Bowdoin	Wesleyan (CT)
+20200328	A	0-0	Wesleyan (CT)	Bowdoin
+20200328	A	0-0	TCNJ	Swarthmore
 20200328	A	0-0	Capital (OH)	Ohio Christian
 20200328	A	0-0	Mount Union	Ohio Northern
-20200328	H	0-0	Bridgewater	Virginia Wesleyan
-20200328	H	0-0	Guilford	Randolph
-20200328	H	0-0	Hampden-Sydney	Washington & Lee
+20200328	A	0-0	Randolph	Guilford
+20200328	A	0-0	Virginia Wesleyan	Bridgewater
+20200328	A	0-0	Washington & Lee	Hampden-Sydney
 20200328	A	0-0	Schreiner	Southwestern (TX)
-20200328	H	0-0	Chapman	Whittier
-20200328	H	0-0	Caltech	Occidental
+20200328	A	0-0	Trinity (TX)	Harvard
+20200328	A	0-0	Occidental	Caltech
 20200328	A	0-0	Redlands	Cal Lutheran
+20200328	A	0-0	Whittier	Chapman
+20200328	A	0-0	Principia	North Central (IL)
+20200328	A	0-0	Principia	Wheaton (IL)
 20200328	A	0-0	NYU	Rochester (NY)
-20200328	H	0-0	Brevard	Huntingdon
+20200328	A	0-0	Huntingdon	Brevard
 20200328	A	0-0	American River	Cerritos
 20200328	A	0-0	Modesto	Bakersfield
-20200328	N	0-0	Modesto	Grossmont
-20200328	H	0-0	Concord	Frostburg State
+20200328	N	0-0	Grossmont	Modesto
+20200328	A	0-0	Wright State	IUPUI
+20200328	A	0-0	St. Edward's (TX)	Oklahoma Baptist
 20200328	H	0-0	Green Bay	Cardinal Stritch
 20200329	A	0-0	Duquesne	Cleveland State
-20200329	H	0-0	George Mason	George Washington
-20200329	H	0-0	St. Bonaventure	Siena
-20200329	H	0-0	VCU	Denver
-20200329	H	0-0	Boston College	Virginia Tech
 20200329	A	0-0	Clemson	N.C. State
-20200329	H	0-0	Duke	Virginia
-20200329	H	0-0	Louisville	Illinois State
-20200329	H	0-0	Miami (FL)	Wake Forest
-20200329	H	0-0	Temple	Binghamton
+20200329	A	0-0	Virginia	Duke
+20200329	A	0-0	Virginia Tech	Boston College
+20200329	A	0-0	Wake Forest	Miami (FL)
 20200329	A	0-0	Tulane	Tulsa
-20200329	H	0-0	Bellarmine	Walsh
 20200329	A	0-0	Oklahoma	TCU
-20200329	H	0-0	Northern Arizona	Northern Colorado
-20200329	H	0-0	Illinois	Wisconsin
-20200329	H	0-0	Indiana	Michigan
-20200329	H	0-0	Michigan State	Purdue
-20200329	H	0-0	Northwestern	Toledo
-20200329	H	0-0	UC Irvine	Brown
-20200329	H	0-0	UCSD	Hawaii Hilo
-20200329	H	0-0	James Madison	Navy
-20200329	H	0-0	Rice	Denver
-20200329	H	0-0	UTSA	Lamar
-20200329	H	0-0	Cleveland State	Findlay
-20200329	H	0-0	Illinois - Chicago	Wright State
+20200329	A	0-0	Michigan	Indiana
+20200329	A	0-0	Purdue	Michigan State
+20200329	A	0-0	Wisconsin	Illinois
+20200329	A	0-0	College of Charleston	East Carolina
+20200329	A	0-0	Brown	UC Irvine
 20200329	A	0-0	Fairfield	Monmouth (NJ)
 20200329	A	0-0	Marist	Lehigh
+20200329	A	0-0	Siena	St. Bonaventure
+20200329	A	0-0	Binghamton	Temple
+20200329	A	0-0	Toledo	Northwestern
 20200329	H	0-0	Morgan State	St. Francis (NY)
-20200329	H	0-0	San Diego State	Air Force
+20200329	A	0-0	Air Force	San Diego State
 20200329	A	0-0	New Mexico	UNLV
 20200329	A	0-0	Tennessee Tech	Tennessee
 20200329	A	0-0	Arizona	Arizona State
 20200329	A	0-0	Boston University	Navy
 20200329	A	0-0	Colgate	Lafayette
+20200329	A	0-0	Navy	James Madison
 20200329	A	0-0	Arkansas	South Carolina
 20200329	A	0-0	Auburn	LSU
-20200329	H	0-0	Ole Miss	Mississippi State
+20200329	A	0-0	Mississippi State	Ole Miss
 20200329	A	0-0	Kentucky	Tennessee
-20200329	H	0-0	Mercer	Wofford
-20200329	H	0-0	North Dakota	Valparaiso
+20200329	A	0-0	Wofford	Mercer
+20200329	A	0-0	Lamar	UTSA
+20200329	A	0-0	Denver	Rice
+20200329	A	0-0	Denver	VCU
+20200329	A	0-0	Illinois State	Louisville
 20200329	A	0-0	Coastal Carolina	Texas Arlington
-20200329	H	0-0	Georgia Southern	South Alabama
-20200329	H	0-0	Georgia State	Troy
-20200329	N	0-0	UTRGV	UMKC
+20200329	A	0-0	South Alabama	Georgia Southern
+20200329	A	0-0	Troy	Georgia State
 20200329	A	0-0	Portland	San Diego
 20200329	A	0-0	Concordia (NY)	District of Columbia
-20200329	H	0-0	Francis Marion	Georgia College
 20200329	A	0-0	Daemen	Ashland
 20200329	A	0-0	Roberts Wesleyan	Le Moyne
 20200329	A	0-0	Ferris State	Northwood
 20200329	A	0-0	Grand Valley State	Purdue Northwest
 20200329	A	0-0	Lake Superior St.	Michigan Tech
+20200329	A	0-0	Findlay	Cleveland State
+20200329	A	0-0	Walsh	Bellarmine
+20200329	A	0-0	Delta State	Auburn Montgomery
 20200329	A	0-0	Valdosta State	West Florida
-20200329	H	0-0	Auburn Montgomery	Delta State
 20200329	H	0-0	Christian Brothers	Martin Methodist
 20200329	A	0-0	Mississippi College	Shorter
-20200329	H	0-0	Augustana (SD)	St. John's (MN)
 20200329	A	0-0	Fairmont State	Millersville
 20200329	A	0-0	Assumption	Springfield
-20200329	H	0-0	Metropolitan State	Colorado College
+20200329	A	0-0	Hawaii Hilo	UCSD
+20200329	N	0-0	Lander	UAH
+20200329	A	0-0	Georgia College	Francis Marion
 20200329	A	0-0	Bloomsburg	Mercyhurst
 20200329	A	0-0	Anderson (SC)	Lincoln Memorial
 20200329	A	0-0	Tusculum	Virginia Wise
 20200329	A	0-0	Embry-Riddle (FL)	Keiser
-20200329	H	0-0	Buena Vista	Dubuque
+20200329	A	0-0	Dubuque	Buena Vista
 20200329	A	0-0	Frostburg State	West Virginia State
-20200329	H	0-0	Endicott	Emerson
 20200329	A	0-0	Johns Hopkins	Emory
 20200329	A	0-0	Goucher	Scranton
-20200329	H	0-0	Moravian	Susquehanna
-20200329	H	0-0	Hobart & William Smith	NYU
+20200329	A	0-0	Susquehanna	Moravian
 20200329	N	0-0	Hobart & William Smith	NYU
-20200329	H	0-0	Stevens	Ithaca
-20200329	H	0-0	Delaware Valley	Wilkes
+20200329	A	0-0	Ithaca	Stevens
 20200329	A	0-0	Manhattanville	Yeshiva
+20200329	A	0-0	Wilkes	Delaware Valley
+20200329	A	0-0	St. John's (MN)	Augustana (SD)
 20200329	A	0-0	Cornell College	Grinnell
-20200329	H	0-0	Grinnell	Ripon
-20200329	H	0-0	Knox (IL)	Lake Forest
+20200329	A	0-0	Lake Forest	Knox (IL)
+20200329	A	0-0	Ripon	Grinnell
 20200329	A	0-0	Wooster	Wittenberg
-20200329	H	0-0	Connecticut College	Wesleyan (CT)
-20200329	H	0-0	TCNJ	Oneonta
+20200329	A	0-0	Wesleyan (CT)	Connecticut College
+20200329	A	0-0	Emerson	Endicott
+20200329	A	0-0	Oneonta	TCNJ
 20200329	A	0-0	Austin	Schreiner
+20200329	A	0-0	Colorado College	Metropolitan State
 20200329	A	0-0	Trinity (TX)	Brandeis
+20200329	A	0-0	NYU	Hobart & William Smith
 20200329	H	0-0	Sauk Valley (IL)	Prairie State
-20200329	H	0-0	East Carolina	College of Charleston
+20200329	A	0-0	Wright State	Illinois - Chicago
 20200329	A	0-0	Appalachian State	Louisiana
+20200329	A	0-0	George Washington	George Mason
 20200329	A	0-0	Iowa	Ohio State
 20200329	A	0-0	Minnesota	Northwestern
-20200329	N	0-0	UAH	Lander
-20200330	H	0-0	Central Florida	Cornell
-20200330	H	0-0	UC Irvine	Delaware
-20200330	H	0-0	UCSD	Hawaii Pacific
+20200329	A	0-0	Northern Colorado	Northern Arizona
+20200329	N	0-0	UMKC	UTRGV
+20200329	A	0-0	Valparaiso	North Dakota
+20200330	A	0-0	Delaware	UC Irvine
+20200330	A	0-0	Cornell	Central Florida
 20200330	A	0-0	Furman	Mercer
 20200330	A	0-0	Salem - WV	Frostburg State
 20200330	A	0-0	Charleston	Davis & Elkins
+20200330	A	0-0	Hawaii Pacific	UCSD
 20200330	A	0-0	Cowley County (KS)	Seward County (KS)
-20200330	H	0-0	Jones	Southwest (MS)
+20200330	A	0-0	Southwest (MS)	Jones
 20200330	A	0-0	UAH	Georgia College
-20200331	H	0-0	UCSD	Delaware
-20200331	H	0-0	UNC Wilmington	UNC Greensboro
-20200331	H	0-0	Texas Arlington	MSU-Texas
+20200331	A	0-0	Delaware	UCSD
+20200331	A	0-0	UNC Greensboro	UNC Wilmington
 20200331	A	0-0	Barton	Mount Olive
-20200331	H	0-0	North Greenville	Southern Wesleyan
-20200331	H	0-0	Harding	Southern Arkansas
+20200331	A	0-0	Southern Wesleyan	North Greenville
+20200331	A	0-0	Southern Arkansas	Harding
 20200331	H	0-0	Delta State	William Carey
+20200331	A	0-0	MSU-Texas	Texas Arlington
 20200331	A	0-0	Davis & Elkins	Fairmont State
-20200331	H	0-0	Shepherd	Millersville
-20200331	H	0-0	Biola	Concordia (CA)
+20200331	A	0-0	Concordia (CA)	Biola
 20200331	A	0-0	Hawaii Pacific	Point Loma (CA)
 20200331	A	0-0	Augusta	Columbus State
+20200331	A	0-0	Millersville	Shepherd
 20200331	H	0-0	West Chester	Cabrini
-20200331	H	0-0	Catawba	Lenoir-Rhyne
-20200331	H	0-0	Mary Washington	Johns Hopkins
-20200331	H	0-0	Franklin & Marshall	Ursinus
+20200331	A	0-0	Lenoir-Rhyne	Catawba
 20200331	A	0-0	Gettysburg	Johns Hopkins
+20200331	A	0-0	Johns Hopkins	Mary Washington
 20200331	A	0-0	Haverford	Washington (MD)
+20200331	A	0-0	Ursinus	Franklin & Marshall
 20200331	A	0-0	Baruch	Brooklyn
-20200331	H	0-0	Regis (MA)	UMass Boston
-20200331	H	0-0	Misericordia	Wilkes
+20200331	A	0-0	UMass Boston	Regis (MA)
+20200331	A	0-0	Wilkes	Misericordia
 20200331	A	0-0	Calvin	Spring Arbor
 20200331	A	0-0	Capital (OH)	Bethel (IN)
-20200331	H	0-0	Lynchburg	Roanoke
-20200331	H	0-0	Berry	Covenant
+20200331	A	0-0	Roanoke	Lynchburg
 20200331	A	0-0	Farmingdale State	St. Joseph's (Long Island)
 20200331	A	0-0	St. Joseph's (Brooklyn)	Yeshiva
-20200331	H	0-0	Principia	Webster
+20200331	A	0-0	Webster	Principia
+20200331	A	0-0	Covenant	Berry
 20200331	A	0-0	Barton County (KS)	Seward County (KS)
 20200331	A	0-0	East Central (MS)	Hinds (MS)
-20200331	H	0-0	Holmes (MS)	Jones
-20200331	H	0-0	Meridian (MS)	Gulf Coast (MS)
-20200331	H	0-0	Desert	El Camino
-20200331	H	0-0	Grossmont	Imperial Valley
+20200331	A	0-0	Jones	Holmes (MS)
+20200331	A	0-0	Gulf Coast (MS)	Meridian (MS)
+20200331	A	0-0	Imperial Valley	Grossmont
+20200331	A	0-0	El Camino	Desert
 20200401	A	0-0	Temple	Tulsa
-20200401	H	0-0	Tulsa	Wichita State
+20200401	A	0-0	Wichita State	Tulsa
 20200401	A	0-0	Hampton	James Madison
-20200401	H	0-0	USC Upstate	UNC Asheville
+20200401	A	0-0	UNC Asheville	USC Upstate
 20200401	A	0-0	Northwestern	Purdue
 20200401	A	0-0	Cal Poly	San Diego State
-20200401	H	0-0	UC Riverside	Delaware
-20200401	H	0-0	IUPUI	Ball State
+20200401	A	0-0	Delaware	UC Riverside
+20200401	A	0-0	Ball State	IUPUI
 20200401	A	0-0	New Orleans	Nicholls State
 20200401	A	0-0	Chestnut Hill	Post
 20200401	A	0-0	Concordia (NY)	Dominican (NY)
 20200401	A	0-0	Jefferson	Sciences (Philadelphia)
 20200401	A	0-0	Francis Marion	Wingate
-20200401	H	0-0	Northwood	Wayne State
-20200401	H	0-0	Bluefield State	Tusculum
-20200401	H	0-0	Azusa Pacific	Hawaii Pacific
-20200401	H	0-0	North Georgia	Young Harris (GA)
+20200401	A	0-0	Wayne State	Northwood
+20200401	A	0-0	Hawaii Pacific	Azusa Pacific
+20200401	A	0-0	Young Harris (GA)	North Georgia
+20200401	A	0-0	Tusculum	Bluefield State
 20200401	A	0-0	Franklin & Marshall	McDaniel
 20200401	A	0-0	Hunter	Farmingdale State
 20200401	A	0-0	Catholic	Goucher
 20200401	A	0-0	Denison	Kenyon
-20200401	H	0-0	Babson	MIT
-20200401	H	0-0	Springfield	Coast Guard
-20200401	H	0-0	Heidelberg	Ohio Northern
+20200401	A	0-0	MIT	Babson
+20200401	A	0-0	Coast Guard	Springfield
+20200401	A	0-0	Ohio Northern	Heidelberg
 20200401	A	0-0	Jones	Meridian (MS)
 20200401	A	0-0	UAH	Valdosta State
-20200402	H	0-0	George Mason	Norfolk State
-20200402	H	0-0	Saint Louis	McKendree
 20200402	A	0-0	Kennesaw State	Stetson
 20200402	A	0-0	Liberty	North Florida
-20200402	H	0-0	NJIT	North Alabama
-20200402	H	0-0	Baylor	Texas
+20200402	A	0-0	North Alabama	NJIT
+20200402	A	0-0	Texas	Baylor
 20200402	A	0-0	Sacramento State	Air Force
 20200402	A	0-0	Gardner-Webb	Appalachian State
-20200402	H	0-0	Belmont	Tennessee Tech
+20200402	A	0-0	Norfolk State	George Mason
+20200402	A	0-0	Tennessee Tech	Belmont
 20200402	A	0-0	Abilene Christian	Lamar
 20200402	A	0-0	Incarnate Word	Nicholls State
-20200402	H	0-0	Francis Marion	Coker
+20200402	A	0-0	McKendree	Saint Louis
 20200402	A	0-0	UMSL	Wash U
-20200402	H	0-0	Davis & Elkins	West Virginia State
-20200402	H	0-0	Biola	Hawaii Pacific
-20200402	H	0-0	Simpson (IA)	Wartburg
-20200402	H	0-0	Frostburg State	Wesleyan (WV)
-20200402	H	0-0	Curry	UMass Boston
-20200402	H	0-0	Baruch	Lehman
+20200402	A	0-0	West Virginia State	Davis & Elkins
+20200402	A	0-0	Wesleyan (WV)	Frostburg State
+20200402	A	0-0	Bentley	Connecticut
+20200402	A	0-0	Hawaii Pacific	Biola
+20200402	A	0-0	Coker	Francis Marion
+20200402	A	0-0	Wartburg	Simpson (IA)
+20200402	A	0-0	Lehman	Baruch
+20200402	A	0-0	UMass Boston	Curry
 20200402	A	0-0	Williams	Pomona-Pitzer
-20200402	H	0-0	Capital (OH)	Marietta
+20200402	A	0-0	Marietta	Capital (OH)
 20200402	A	0-0	Colorado College	Southwestern (TX)
 20200402	H	0-0	Moraine Valley (IL)	Prairie State
 20200402	A	0-0	Hinds (MS)	Southwest (MS)
-20200402	H	0-0	Fullerton	Irvine Valley
-20200402	H	0-0	Riverside	Grossmont
-20200402	H	0-0	Connecticut	Bentley
-20200403	H	0-0	Dayton	Youngstown State
-20200403	H	0-0	Clemson	Virginia Tech
-20200403	H	0-0	Clemson	Virginia Tech
+20200402	A	0-0	Irvine Valley	Fullerton
+20200402	A	0-0	Grossmont	Riverside
 20200403	A	0-0	Duke	Notre Dame
-20200403	H	0-0	Florida State	Louisville
-20200403	H	0-0	Georgia Tech	Virginia
-20200403	H	0-0	Miami (FL)	N.C. State
-20200403	H	0-0	Memphis	South Florida
-20200403	H	0-0	Tulane	Central Florida
+20200403	A	0-0	Louisville	Florida State
+20200403	A	0-0	N.C. State	Miami (FL)
+20200403	A	0-0	Virginia	Georgia Tech
+20200403	A	0-0	Virginia Tech	Clemson
+20200403	A	0-0	Virginia Tech	Clemson
+20200403	A	0-0	Central Florida	Tulane
+20200403	A	0-0	South Florida	Memphis
 20200403	A	0-0	Bellarmine	Lindenwood
 20200403	A	0-0	TCU	Texas Tech
 20200403	A	0-0	Butler	DePaul
@@ -4440,137 +4412,137 @@ date	where	score	winner	loser
 20200403	A	0-0	Campbell	Winthrop
 20200403	A	0-0	Michigan	Minnesota
 20200403	A	0-0	Michigan State	Wisconsin
+20200403	A	0-0	Northwestern	Iowa
 20200403	A	0-0	Ohio State	Purdue
 20200403	A	0-0	Cal Poly	UC Irvine
 20200403	A	0-0	Drexel	William & Mary
-20200403	H	0-0	Hofstra	Wagner
-20200403	H	0-0	Florida Atlantic	Middle Tennessee
-20200403	H	0-0	Southern Miss	UTSA
+20200403	A	0-0	Middle Tennessee	Florida Atlantic
+20200403	A	0-0	UTSA	Southern Miss
+20200403	A	0-0	Youngstown State	Dayton
 20200403	A	0-0	Ball State	Western Michigan
 20200403	A	0-0	Boise State	Air Force
-20200403	H	0-0	New Mexico	Utah State
-20200403	H	0-0	Austin Peay	Eastern Illinois
-20200403	H	0-0	Arizona	UCLA
-20200403	H	0-0	Arizona State	USC
-20200403	H	0-0	Bucknell	Colgate
-20200403	H	0-0	Arkansas	Georgia
+20200403	A	0-0	Utah State	New Mexico
+20200403	A	0-0	Wagner	Hofstra
+20200403	A	0-0	Eastern Illinois	Austin Peay
+20200403	A	0-0	UCLA	Arizona
+20200403	A	0-0	USC	Arizona State
+20200403	A	0-0	Colgate	Bucknell
 20200403	A	0-0	Florida	Vanderbilt
-20200403	H	0-0	Kentucky	South Carolina
+20200403	A	0-0	South Carolina	Kentucky
+20200403	A	0-0	Georgia	Arkansas
 20200403	A	0-0	Furman	Samford
-20200403	H	0-0	Denver	Oral Roberts
 20200403	A	0-0	Illinois State	Valparaiso
-20200403	H	0-0	Coastal Carolina	Georgia Southern
+20200403	A	0-0	Oral Roberts	Denver
+20200403	A	0-0	Georgia Southern	Coastal Carolina
+20200403	A	0-0	Georgia State	Appalachian State
 20200403	A	0-0	Prairie View A&M	UTRGV
 20200403	A	0-0	Prairie View A&M	UTRGV
-20200403	H	0-0	Gonzaga	Santa Clara
 20200403	A	0-0	Loyola Marymount	Pacific (CA)
+20200403	A	0-0	Santa Clara	Gonzaga
 20200403	A	0-0	Belmont Abbey	North Greenville
 20200403	A	0-0	Mount Olive	Southern Wesleyan
-20200403	H	0-0	Daemen	District of Columbia
 20200403	A	0-0	Roberts Wesleyan	Houghton
+20200403	A	0-0	District of Columbia	Daemen
 20200403	A	0-0	Oklahoma Baptist	Ouachita Baptist
 20200403	N	0-0	Southern Arkansas	UTPB
 20200403	A	0-0	Ashland	Northwood
-20200403	H	0-0	Ferris State	Grand Valley State
+20200403	A	0-0	Grand Valley State	Ferris State
 20200403	A	0-0	Indianapolis	McKendree
-20200403	H	0-0	Maryville (MO)	Southern Indiana
-20200403	H	0-0	Illinois Springfield	Lewis
+20200403	A	0-0	Lewis	Illinois Springfield
 20200403	A	0-0	UMSL	Quincy
-20200403	H	0-0	Cedarville	Kentucky Wesleyan
+20200403	A	0-0	Southern Indiana	Maryville (MO)
+20200403	A	0-0	William Jewell	Southwest Baptist (MO)
+20200403	A	0-0	Kentucky Wesleyan	Cedarville
 20200403	A	0-0	Delta State	West Florida
+20200403	A	0-0	Montevallo	Lee (TN)
+20200403	N	0-0	Valdosta State	Mississippi College
 20200403	A	0-0	Auburn Montgomery	West Alabama
-20200403	H	0-0	Lee (TN)	Montevallo
-20200403	N	0-0	Mississippi College	Valdosta State
 20200403	A	0-0	Salem - WV	Fairmont State
 20200403	A	0-0	Cameron	St. Edward's (TX)
 20200403	A	0-0	Arkansas Ft. Smith	St. Mary's (TX)
-20200403	H	0-0	Texas Tyler	WNM
-20200403	H	0-0	Southwest Baptist (MO)	William Jewell
-20200403	H	0-0	Azusa Pacific	Concordia (CA)
+20200403	A	0-0	WNM	Texas Tyler
+20200403	A	0-0	Shepherd	Frostburg State
 20200403	A	0-0	Colorado Mesa	Metropolitan State
+20200403	A	0-0	Concordia (CA)	Azusa Pacific
 20200403	A	0-0	Edinboro	West Chester
 20200403	A	0-0	Mercyhurst	Millersville
 20200403	H	0-0	Tusculum	Montreat
 20200403	A	0-0	Barry	Rollins
 20200403	A	0-0	Embry-Riddle (FL)	Florida Southern
 20200403	A	0-0	Concordia (TX)	McMurry
-20200403	H	0-0	Frostburg State	Shepherd
-20200403	H	0-0	St. Mary's (MD)	York (PA)
 20200403	A	0-0	Southern Virginia	Goucher
-20200403	H	0-0	Millikin	Webster
-20200403	H	0-0	Babson	Brandeis
-20200403	H	0-0	MIT	NYU
-20200403	H	0-0	George Fox	Puget Sound
+20200403	A	0-0	York (PA)	St. Mary's (MD)
+20200403	A	0-0	Puget Sound	George Fox
 20200403	A	0-0	Lynchburg	Randolph
-20200403	H	0-0	Austin	Southwestern (TX)
-20200403	H	0-0	Chapman	Occidental
+20200403	A	0-0	Southwestern (TX)	Austin
 20200403	A	0-0	Caltech	Whittier
+20200403	A	0-0	Occidental	Chapman
 20200403	A	0-0	Principia	Wash U
+20200403	A	0-0	Webster	Millikin
+20200403	A	0-0	Brandeis	Babson
+20200403	A	0-0	NYU	MIT
 20200403	A	0-0	Seward County (KS)	Bethany (KS)
-20200403	H	0-0	Tyler JC (TX)	Jacksonville (TX)
+20200403	A	0-0	Jacksonville (TX)	Tyler JC (TX)
 20200403	A	0-0	Gadsden State	Wallace State
 20200403	A	0-0	Copiah-Lincoln (MS)	Southwest (MS)
 20200403	A	0-0	East Central (MS)	Holmes (MS)
-20200403	H	0-0	Hinds (MS)	Meridian (MS)
 20200403	A	0-0	Itawamba (MS)	Jones
+20200403	A	0-0	Meridian (MS)	Hinds (MS)
 20200403	A	0-0	Chabot	Foothill
 20200403	A	0-0	East Carolina	Wichita State
-20200403	H	0-0	Appalachian State	Georgia State
 20200403	A	0-0	George Washington	Richmond
-20200403	H	0-0	Iowa	Northwestern
-20200404	H	0-0	Memphis	Arkansas Pine Bluff
 20200404	A	0-0	SMU	Wichita State
-20200404	H	0-0	Temple	Howard
 20200404	A	0-0	Bellarmine	Maryville (MO)
-20200404	H	0-0	Florida Gulf Coast	North Alabama
 20200404	A	0-0	Kennesaw State	North Florida
 20200404	A	0-0	Liberty	Stetson
-20200404	H	0-0	NJIT	Lipscomb
+20200404	A	0-0	Lipscomb	NJIT
+20200404	A	0-0	North Alabama	Florida Gulf Coast
 20200404	N	0-0	Creighton	Drake
 20200404	A	0-0	Idaho	Montana
-20200404	H	0-0	Idaho State	Northern Arizona
-20200404	H	0-0	Hampton	UNC Asheville
-20200404	H	0-0	USC Upstate	Campbell
+20200404	A	0-0	Northern Arizona	Idaho State
+20200404	A	0-0	Campbell	USC Upstate
+20200404	A	0-0	UNC Asheville	Hampton
 20200404	A	0-0	Cal Poly	UC Riverside
 20200404	A	0-0	Hawaii	UC Davis
-20200404	H	0-0	UC Riverside	Concordia (CA)
 20200404	A	0-0	Drexel	James Madison
-20200404	H	0-0	William & Mary	Navy
 20200404	N	0-0	Charlotte	Middle Tennessee
-20200404	H	0-0	Florida Atlantic	Old Dominion
+20200404	A	0-0	Old Dominion	Florida Atlantic
 20200404	A	0-0	Illinois - Chicago	IUPUI
-20200404	H	0-0	Brown	Cornell
-20200404	H	0-0	Dartmouth	Princeton
-20200404	H	0-0	Harvard	Penn
-20200404	H	0-0	Fairfield	Holy Cross (MA)
+20200404	A	0-0	Cornell	Brown
+20200404	A	0-0	Penn	Harvard
+20200404	A	0-0	Princeton	Dartmouth
 20200404	A	0-0	Monmouth (NJ)	Quinnipiac
 20200404	A	0-0	Marist	Siena
 20200404	A	0-0	Binghamton	Toledo
+20200404	A	0-0	Howard	Temple
 20200404	N	0-0	Boston University	Colgate
-20200404	H	0-0	Lehigh	Navy
+20200404	A	0-0	Holy Cross (MA)	Fairfield
+20200404	A	0-0	Navy	Lehigh
+20200404	A	0-0	Navy	William & Mary
 20200404	A	0-0	Chattanooga	Wofford
 20200404	A	0-0	Mercer	UNC Greensboro
 20200404	A	0-0	Abilene Christian	A&M-Corpus Christi
 20200404	A	0-0	Lamar	New Orleans
-20200404	H	0-0	Illinois State	Omaha
-20200404	H	0-0	North Dakota	Drake
-20200404	H	0-0	South Alabama	Texas Arlington
+20200404	A	0-0	Drake	North Dakota
+20200404	A	0-0	Omaha	Illinois State
 20200404	A	0-0	Louisiana	Troy
+20200404	A	0-0	Texas Arlington	South Alabama
+20200404	A	0-0	Alabama A&M	Florida A&M
 20200404	A	0-0	Alabama State	Spring Hill
 20200404	H	0-0	Jackson State	Xavier (LA)
 20200404	A	0-0	BYU	San Diego
 20200404	A	0-0	Loyola Marymount	St. Mary's (CA)
 20200404	A	0-0	Concordia (NY)	Jefferson
 20200404	A	0-0	Belmont Abbey	Southern Wesleyan
-20200404	H	0-0	Emmanuel (GA)	Limestone
 20200404	A	0-0	Francis Marion	Young Harris (GA)
 20200404	A	0-0	Mount Olive	North Greenville
 20200404	A	0-0	District of Columbia	Roberts Wesleyan
-20200404	H	0-0	Davenport	Purdue Northwest
-20200404	H	0-0	Ferris State	Michigan Tech
-20200404	H	0-0	Grand Valley State	Lake Superior St.
+20200404	A	0-0	Lake Superior St.	Grand Valley State
+20200404	A	0-0	Michigan Tech	Ferris State
+20200404	A	0-0	Purdue Northwest	Davenport
+20200404	A	0-0	Indianapolis	Illinois Springfield
 20200404	A	0-0	Lewis	McKendree
-20200404	H	0-0	Illinois Springfield	Indianapolis
+20200404	A	0-0	Rockhurst	Southwest Baptist (MO)
 20200404	A	0-0	Southern Indiana	Lindenwood
 20200404	A	0-0	Hillsdale	Kentucky Wesleyan
 20200404	N	0-0	Delta State	Valdosta State
@@ -4579,780 +4551,782 @@ date	where	score	winner	loser
 20200404	A	0-0	Cameron	St. Mary's (TX)
 20200404	A	0-0	Arkansas Ft. Smith	St. Edward's (TX)
 20200404	A	0-0	UTPB	Texas Tyler
-20200404	H	0-0	Davis & Elkins	Frostburg State
-20200404	H	0-0	West Liberty	West Virginia State
-20200404	H	0-0	Southwest Baptist (MO)	Rockhurst
-20200404	H	0-0	Assumption	St. Michael's
+20200404	A	0-0	West Virginia State	West Liberty
 20200404	A	0-0	Adelphi	Bentley
-20200404	H	0-0	Le Moyne	Hobart & William Smith
+20200404	A	0-0	St. Michael's	Assumption
 20200404	A	0-0	Colorado Mesa	CSU-Pueblo
+20200404	A	0-0	Concordia (CA)	UC Riverside
+20200404	A	0-0	Hawaii Pacific	Sonoma State
 20200404	A	0-0	Lander	North Georgia
-20200404	H	0-0	Bloomsburg	Kutztown
 20200404	A	0-0	Edinboro	Millersville
+20200404	A	0-0	Kutztown	Bloomsburg
 20200404	A	0-0	Mercyhurst	West Chester
-20200404	H	0-0	Anderson (SC)	Virginia Wise
-20200404	H	0-0	Catawba	Mars Hill
-20200404	H	0-0	Central (IA)	Coe College
-20200404	N	0-0	Dubuque	Carleton
+20200404	A	0-0	Limestone	Emmanuel (GA)
+20200404	A	0-0	Mars Hill	Catawba
+20200404	A	0-0	Virginia Wise	Anderson (SC)
+20200404	A	0-0	Coe College	Central (IA)
+20200404	N	0-0	Coe College	Buena Vista
 20200404	A	0-0	Dubuque	Luther (IA)
 20200404	A	0-0	Buena Vista	Central (IA)
-20200404	N	0-0	Buena Vista	Coe College
-20200404	H	0-0	East Texas Baptist	Ozarks
-20200404	H	0-0	Hardin-Simmons	Sul Ross State
-20200404	H	0-0	LeTourneau	Louisiana College
-20200404	H	0-0	Texas Dallas	Southwestern (TX)
+20200404	A	0-0	Louisiana College	LeTourneau
+20200404	A	0-0	Ozarks	East Texas Baptist
+20200404	A	0-0	Sul Ross State	Hardin-Simmons
 20200404	A	0-0	Mary Hardin-Baylor	McMurry
 20200404	A	0-0	Christopher Newport	CWRU
-20200404	H	0-0	Mary Washington	Carnegie Mellon
+20200404	A	0-0	Frostburg State	Davis & Elkins
 20200404	A	0-0	Southern Virginia	Johns Hopkins
-20200404	H	0-0	North Central (IL)	Carroll (WI)
-20200404	H	0-0	North Central (IL)	Northwestern (MN)
+20200404	A	0-0	Carroll (WI)	North Central (IL)
+20200404	A	0-0	Washington (MD)	Gettysburg
 20200404	A	0-0	Franklin & Marshall	Haverford
-20200404	H	0-0	Gettysburg	Washington (MD)
-20200404	H	0-0	Johns Hopkins	Muhlenberg
+20200404	A	0-0	Muhlenberg	Johns Hopkins
 20200404	N	0-0	Defiance	Oakland City
 20200404	H	0-0	Franklin (IN)	Oakland City
-20200404	H	0-0	Catholic	Moravian
 20200404	A	0-0	Elizabethtown	Goucher
+20200404	A	0-0	Moravian	Catholic
 20200404	A	0-0	Scranton	Susquehanna
 20200404	A	0-0	Bard	Hobart & William Smith
+20200404	A	0-0	Hobart & William Smith	Le Moyne
 20200404	A	0-0	Ithaca	TCNJ
-20200404	H	0-0	RPI	St. Lawrence
-20200404	H	0-0	Bethel (MN)	St. John's (MN)
+20200404	A	0-0	St. Lawrence	RPI
+20200404	N	0-0	Carleton	Dubuque
+20200404	A	0-0	St. John's (MN)	Bethel (MN)
 20200404	A	0-0	Cornell College	Lawrence
 20200404	A	0-0	Cornell College	Ripon
 20200404	A	0-0	Grinnell	St. Norbert
 20200404	A	0-0	Knox (IL)	Lawrence
 20200404	A	0-0	Knox (IL)	St. Norbert
 20200404	A	0-0	Allegheny	Wittenberg
-20200404	H	0-0	Kenyon	Ohio Northern
-20200404	H	0-0	Oberlin	Wittenberg
+20200404	A	0-0	Wittenberg	Oberlin
 20200404	A	0-0	Middlebury	Wesleyan (CT)
+20200404	A	0-0	Wheaton (MA)	Springfield
 20200404	A	0-0	Babson	Coast Guard
-20200404	H	0-0	Springfield	Wheaton (MA)
-20200404	H	0-0	George Fox	Pacific Lutheran
-20200404	H	0-0	Lewis & Clark (OR)	Puget Sound
+20200404	A	0-0	Pacific Lutheran	George Fox
+20200404	A	0-0	Puget Sound	Lewis & Clark (OR)
 20200404	N	0-0	Capital (OH)	CWRU
 20200404	A	0-0	Capital (OH)	John Carroll
+20200404	A	0-0	Ohio Northern	Kenyon
 20200404	A	0-0	Bridgewater	Emory & Henry
-20200404	H	0-0	Lynchburg	Virginia Wesleyan
-20200404	H	0-0	Randolph	Virginia Wesleyan
-20200404	H	0-0	Berry	Hendrix
+20200404	A	0-0	Virginia Wesleyan	Lynchburg
+20200404	A	0-0	Virginia Wesleyan	Randolph
 20200404	A	0-0	Birmingham Southern	Sewanee
+20200404	A	0-0	Hendrix	Berry
 20200404	A	0-0	Hendrix	Covenant
 20200404	A	0-0	Colorado College	Schreiner
-20200404	H	0-0	Schreiner	Texas Lutheran
+20200404	A	0-0	Southwestern (TX)	Texas Dallas
+20200404	A	0-0	Texas Lutheran	Schreiner
 20200404	H	0-0	Chapman	Cal Lutheran
-20200404	H	0-0	Caltech	Pomona-Pitzer
-20200404	H	0-0	Redlands	Whittier
-20200404	H	0-0	Huntingdon	Maryville (TN)
+20200404	A	0-0	Pomona-Pitzer	Caltech
+20200404	A	0-0	Whittier	Redlands
+20200404	A	0-0	Carnegie Mellon	Mary Washington
+20200404	A	0-0	Northwestern (MN)	North Central (IL)
+20200404	A	0-0	Maryville (TN)	Huntingdon
 20200404	A	0-0	Marion Military	East Central (MS)
-20200404	H	0-0	Copiah-Lincoln (MS)	Holmes (MS)
+20200404	A	0-0	Holmes (MS)	Copiah-Lincoln (MS)
 20200404	N	0-0	East Carolina	SMU
-20200404	H	0-0	Florida A&M	Alabama A&M
-20200404	H	0-0	Sonoma State	Hawaii Pacific
 20200404	A	0-0	Southern Utah	Weber State
 20200404	A	0-0	UAH	Morehouse
+20200404	A	0-0	Arkansas Pine Bluff	Memphis
 20200404	A	0-0	Green Bay	Wright State
 20200405	A	0-0	Duquesne	Youngstown State
 20200405	A	0-0	St. Bonaventure	Lafayette
-20200405	H	0-0	Boston College	Duke
-20200405	H	0-0	Clemson	Virginia
-20200405	H	0-0	Florida State	N.C. State
-20200405	H	0-0	Georgia Tech	Virginia Tech
+20200405	A	0-0	Duke	Boston College
 20200405	A	0-0	Louisville	Miami (FL)
-20200405	H	0-0	Notre Dame	Eastern Illinois
+20200405	A	0-0	N.C. State	Florida State
 20200405	A	0-0	North Carolina	Notre Dame
-20200405	H	0-0	Temple	Lehigh
-20200405	H	0-0	Tulsa	Central Florida
+20200405	A	0-0	Virginia	Clemson
+20200405	A	0-0	Virginia Tech	Georgia Tech
+20200405	A	0-0	Central Florida	Tulsa
 20200405	A	0-0	South Florida	Tulane
-20200405	H	0-0	Bellarmine	Hanover
 20200405	A	0-0	NJIT	St. John's (NY)
 20200405	A	0-0	Baylor	TCU
 20200405	A	0-0	Texas	Texas Tech
 20200405	A	0-0	Creighton	North Dakota
-20200405	H	0-0	DePaul	Xavier
-20200405	H	0-0	Villanova	Wilkes
 20200405	H	0-0	St. John's (NY)	St. Francis (NY)
+20200405	A	0-0	Xavier	DePaul
 20200405	A	0-0	Eastern Washington	Montana
 20200405	A	0-0	Idaho	Montana State
-20200405	H	0-0	Idaho State	Southern Utah
 20200405	A	0-0	Northern Arizona	Weber State
-20200405	H	0-0	Longwood	Bluefield State
 20200405	A	0-0	Illinois	Iowa
 20200405	A	0-0	Michigan	Wisconsin
 20200405	A	0-0	Michigan State	Minnesota
 20200405	A	0-0	Penn State	Purdue
-20200405	H	0-0	Purdue	IUPUI
 20200405	A	0-0	UC Irvine	UC Santa Barbara
 20200405	A	0-0	College of Charleston	James Madison
-20200405	H	0-0	Delaware	Sciences (Philadelphia)
 20200405	A	0-0	Hofstra	UNC Wilmington
 20200405	A	0-0	Charlotte	Florida Atlantic
 20200405	N	0-0	Middle Tennessee	Old Dominion
 20200405	N	0-0	Rice	UTSA
-20200405	H	0-0	Northern Kentucky	Green Bay
-20200405	H	0-0	Brown	Columbia
-20200405	H	0-0	Dartmouth	Penn
-20200405	H	0-0	Harvard	Princeton
+20200405	A	0-0	IUPUI	Purdue
+20200405	A	0-0	Columbia	Brown
+20200405	A	0-0	Penn	Dartmouth
+20200405	A	0-0	Princeton	Harvard
 20200405	A	0-0	Quinnipiac	Siena
-20200405	H	0-0	Ball State	Binghamton
+20200405	A	0-0	Binghamton	Ball State
 20200405	A	0-0	Morgan State	Norfolk State
-20200405	H	0-0	Air Force	Utah State
 20200405	A	0-0	Boise State	New Mexico
+20200405	A	0-0	Utah State	Air Force
 20200405	N	0-0	Eastern Illinois	Marian (IN)
+20200405	A	0-0	Eastern Illinois	Notre Dame
 20200405	A	0-0	Tennessee Tech	Arkansas
-20200405	H	0-0	Arizona	USC
-20200405	H	0-0	Arizona State	UCLA
+20200405	A	0-0	UCLA	Arizona State
+20200405	A	0-0	USC	Arizona
 20200405	A	0-0	Boston University	Bucknell
-20200405	H	0-0	Texas A&M	Incarnate Word
-20200405	H	0-0	Arkansas	Tennessee
+20200405	A	0-0	Lehigh	Temple
 20200405	A	0-0	Auburn	Mississippi State
-20200405	H	0-0	Florida	Kentucky
 20200405	A	0-0	LSU	Texas A&M
-20200405	H	0-0	Mississippi State	Jackson State
+20200405	A	0-0	Tennessee	Arkansas
+20200405	A	0-0	Kentucky	Florida
 20200405	A	0-0	Chattanooga	Furman
+20200405	A	0-0	Incarnate Word	Texas A&M
 20200405	A	0-0	Denver	Valparaiso
-20200405	H	0-0	Coastal Carolina	Georgia State
+20200405	A	0-0	Georgia Southern	Appalachian State
+20200405	A	0-0	Georgia State	Coastal Carolina
 20200405	A	0-0	Louisiana	South Alabama
 20200405	A	0-0	Texas Arlington	Troy
-20200405	H	0-0	Portland	Santa Clara
+20200405	A	0-0	Jackson State	Mississippi State
+20200405	A	0-0	Santa Clara	Portland
+20200405	A	0-0	Sciences (Philadelphia)	Delaware
 20200405	A	0-0	Francis Marion	North Georgia
 20200405	A	0-0	Francis Marion	North Georgia
-20200405	H	0-0	Ashland	Wayne State
 20200405	A	0-0	Davenport	Grand Valley State
-20200405	H	0-0	Ferris State	Lake Superior St.
+20200405	A	0-0	Lake Superior St.	Ferris State
 20200405	A	0-0	Michigan Tech	Northwood
-20200405	H	0-0	UMSL	Northwest Missouri
+20200405	A	0-0	Wayne State	Ashland
+20200405	A	0-0	Bluefield State	Longwood
 20200405	A	0-0	Salem - WV	Davis & Elkins
 20200405	A	0-0	Fairmont State	Bloomsburg
-20200405	H	0-0	Southwest Baptist (MO)	Wash U
+20200405	A	0-0	Northwest Missouri	UMSL
 20200405	A	0-0	Adelphi	Stonehill
 20200405	A	0-0	Holy Names	UC Santa Cruz
 20200405	H	0-0	Augusta	Prairie State
 20200405	A	0-0	Lander	Young Harris (GA)
-20200405	H	0-0	Columbus State	Georgia College
-20200405	H	0-0	Anderson (SC)	Newberry
+20200405	A	0-0	Georgia College	Columbus State
+20200405	A	0-0	Newberry	Anderson (SC)
 20200405	A	0-0	Queens (NC)	Tusculum
 20200405	A	0-0	Barry	Eckerd
-20200405	H	0-0	Coe College	UW Whitewater
-20200405	H	0-0	Wartburg	Edgewood
 20200405	H	0-0	Wartburg	Grand View
 20200405	A	0-0	Christopher Newport	Carnegie Mellon
 20200405	A	0-0	Salisbury	Franklin & Marshall
-20200405	H	0-0	Nichols	NYU
-20200405	H	0-0	Baruch	Staten Island
-20200405	H	0-0	Franklin (IN)	Capital (OH)
-20200405	H	0-0	Catholic	Elizabethtown
+20200405	A	0-0	Staten Island	Baruch
+20200405	A	0-0	Hanover	Bellarmine
 20200405	A	0-0	Drew	Susquehanna
-20200405	H	0-0	Goucher	Harford (MD)
-20200405	H	0-0	Goucher	Moravian
+20200405	A	0-0	Elizabethtown	Catholic
+20200405	A	0-0	Moravian	Goucher
 20200405	A	0-0	Ithaca	Vassar
-20200405	H	0-0	Skidmore	St. Lawrence
+20200405	A	0-0	St. Lawrence	Skidmore
 20200405	N	0-0	King's (PA)	Wilkes
+20200405	A	0-0	Wilkes	Villanova
 20200405	A	0-0	St. John's (MN)	St. Mary's (MN)
 20200405	A	0-0	Cornell College	St. Norbert
 20200405	A	0-0	Grinnell	Lawrence
 20200405	A	0-0	Knox (IL)	Ripon
 20200405	N	0-0	Edgewood	Grand View
+20200405	A	0-0	Edgewood	Wartburg
 20200405	A	0-0	Allegheny	Ohio Wesleyan
-20200405	H	0-0	Wooster	Oberlin
-20200405	H	0-0	Emerson	Springfield
+20200405	A	0-0	Oberlin	Wooster
+20200405	A	0-0	Springfield	Emerson
 20200405	A	0-0	TCNJ	Rutgers - Camden
 20200405	A	0-0	TCNJ	Rutgers - Newark
-20200405	H	0-0	Linfield	Pacific Lutheran
-20200405	H	0-0	Pacific (OR)	Whitman
-20200405	H	0-0	Guilford	Lynchburg
-20200405	H	0-0	Randolph-Macon	Washington & Lee
+20200405	A	0-0	UW Whitewater	Coe College
+20200405	A	0-0	Pacific Lutheran	Linfield
+20200405	A	0-0	Whitman	Pacific (OR)
+20200405	A	0-0	Capital (OH)	Franklin (IN)
+20200405	A	0-0	Lynchburg	Guilford
+20200405	A	0-0	Washington & Lee	Randolph-Macon
 20200405	A	0-0	Birmingham Southern	Centre
 20200405	A	0-0	Farmingdale State	Yeshiva
+20200405	A	0-0	NYU	Nichols
+20200405	A	0-0	Wash U	Southwest Baptist (MO)
 20200405	A	0-0	Berea	Huntingdon
-20200405	N	0-0	Eastern Florida	ASA (Miami)
-20200405	H	0-0	Appalachian State	Georgia Southern
+20200405	N	0-0	ASA (Miami)	Eastern Florida
+20200405	A	0-0	Harford (MD)	Goucher
 20200405	A	0-0	George Washington	VCU
-20200406	H	0-0	Hampton	Morgan State
-20200406	H	0-0	Le Moyne	SNHU
+20200405	A	0-0	Southern Utah	Idaho State
+20200405	A	0-0	Green Bay	Northern Kentucky
+20200406	A	0-0	Morgan State	Hampton
+20200406	A	0-0	SNHU	Le Moyne
+20200406	A	0-0	Metropolitan State	Northern Colorado
 20200406	A	0-0	Kutztown	Millersville
-20200406	H	0-0	Eckerd	Embry-Riddle (FL)
-20200406	H	0-0	Roger Williams	UMass Boston
+20200406	A	0-0	Embry-Riddle (FL)	Eckerd
+20200406	A	0-0	UMass Boston	Roger Williams
 20200406	A	0-0	Greenville	Webster
-20200406	H	0-0	Northern Colorado	Metropolitan State
 20200406	A	0-0	UAH	Lee (TN)
 20200406	H	0-0	Connecticut	Queens (NY)
-20200407	H	0-0	St. Joseph's (PA)	Drexel
 20200407	A	0-0	VCU	William & Mary
-20200407	H	0-0	Tulsa	Baylor
-20200407	H	0-0	Xavier	Binghamton
+20200407	A	0-0	Baylor	Tulsa
 20200407	A	0-0	USC Upstate	Gardner-Webb
-20200407	H	0-0	Mercer	Jackson State
-20200407	H	0-0	Incarnate Word	A&M-Corpus Christi
-20200407	H	0-0	Concordia (NY)	Post
-20200407	H	0-0	Belmont Abbey	Mount Olive
+20200407	A	0-0	Drexel	St. Joseph's (PA)
+20200407	A	0-0	Binghamton	Xavier
+20200407	A	0-0	A&M-Corpus Christi	Incarnate Word
+20200407	A	0-0	Jackson State	Mercer
+20200407	A	0-0	Post	Concordia (NY)
+20200407	A	0-0	Mount Olive	Belmont Abbey
 20200407	A	0-0	Ouachita Baptist	Southern Arkansas
-20200407	H	0-0	Fairmont State	Wesleyan (WV)
 20200407	A	0-0	Davis & Elkins	West Liberty
-20200407	N	0-0	Shepherd	Mercyhurst
+20200407	A	0-0	Wesleyan (WV)	Fairmont State
+20200407	N	0-0	Mercyhurst	Shepherd
 20200407	A	0-0	Catawba	Coker
 20200407	A	0-0	Anderson (IN)	Taylor
-20200407	H	0-0	Wooster	Kenyon
+20200407	A	0-0	Kenyon	Wooster
 20200407	A	0-0	Bridgewater	Hampden-Sydney
 20200407	A	0-0	Marion Military	Wallace State
-20200407	H	0-0	Copiah-Lincoln (MS)	Jones
-20200407	H	0-0	Hinds (MS)	Gulf Coast (MS)
-20200408	H	0-0	George Mason	Longwood
-20200408	H	0-0	Temple	Drexel
+20200407	A	0-0	Jones	Copiah-Lincoln (MS)
+20200407	A	0-0	Gulf Coast (MS)	Hinds (MS)
 20200408	A	0-0	Kennesaw State	North Alabama
+20200408	A	0-0	Longwood	George Mason
 20200408	A	0-0	UCSD	Point Loma (CA)
-20200408	H	0-0	Elon	UNC Greensboro
+20200408	A	0-0	Drexel	Temple
 20200408	A	0-0	Quinnipiac	Bryant
+20200408	A	0-0	Binghamton	Wright State
 20200408	A	0-0	Coppin State	Morgan State
-20200408	H	0-0	Tennessee State	Alabama A&M
-20200408	H	0-0	Chattanooga	Samford
-20200408	H	0-0	Furman	Wofford
+20200408	A	0-0	Samford	Chattanooga
+20200408	A	0-0	UNC Greensboro	Elon
+20200408	A	0-0	Wofford	Furman
+20200408	A	0-0	Coastal Carolina	Appalachian State
 20200408	A	0-0	Georgia Southern	Georgia State
 20200408	A	0-0	South Alabama	Troy
-20200408	H	0-0	Louisiana	Texas Arlington
-20200408	H	0-0	Dominican (NY)	West Chester
-20200408	H	0-0	Southern Wesleyan	Anderson (SC)
-20200408	H	0-0	UMSL	Southern Indiana
+20200408	A	0-0	Texas Arlington	Louisiana
+20200408	A	0-0	Alabama A&M	Tennessee State
+20200408	A	0-0	Southern Indiana	UMSL
 20200408	A	0-0	Delta State	Mississippi College
 20200408	A	0-0	Fairmont State	West Virginia State
 20200408	A	0-0	Adelphi	Le Moyne
 20200408	A	0-0	Adelphi	Le Moyne
 20200408	A	0-0	Concordia (CA)	Westmont
-20200408	H	0-0	Carson-Newman	Tusculum
-20200408	H	0-0	Eckerd	Rollins
+20200408	A	0-0	West Chester	Dominican (NY)
+20200408	A	0-0	Anderson (SC)	Southern Wesleyan
+20200408	A	0-0	Tusculum	Carson-Newman
+20200408	A	0-0	Rollins	Eckerd
 20200408	A	0-0	Penn State Behrend	Allegheny
 20200408	A	0-0	Coe College	Cornell College
 20200408	A	0-0	Dubuque	Wartburg
 20200408	A	0-0	East Texas Baptist	LeTourneau
-20200408	H	0-0	Dickinson	Gettysburg
 20200408	A	0-0	Washington (MD)	McDaniel
-20200408	H	0-0	Franklin & Marshall	Johns Hopkins
+20200408	A	0-0	Gettysburg	Dickinson
+20200408	A	0-0	Johns Hopkins	Franklin & Marshall
 20200408	A	0-0	Baruch	Hunter
 20200408	A	0-0	Franklin (IN)	Manchester
 20200408	A	0-0	Hanover	Transylvania
 20200408	H	0-0	Drew	Cal Lutheran
-20200408	H	0-0	Hobart & William Smith	Rochester (NY)
-20200408	H	0-0	Eastern (PA)	Wilkes
+20200408	A	0-0	Wilkes	Eastern (PA)
 20200408	A	0-0	Adrian	Alma
-20200408	H	0-0	Hope	Olivet
-20200408	H	0-0	Denison	Wittenberg
-20200408	H	0-0	Babson	Emerson
+20200408	A	0-0	Olivet	Hope
+20200408	A	0-0	Wittenberg	Denison
+20200408	A	0-0	Emerson	Babson
 20200408	H	0-0	TCNJ	Cal Lutheran
 20200408	A	0-0	Baldwin Wallace	Ohio Northern
 20200408	A	0-0	Capital (OH)	Heidelberg
-20200408	H	0-0	Farmingdale State	Purchase
-20200408	H	0-0	Fontbonne	Webster
+20200408	A	0-0	Purchase	Farmingdale State
+20200408	A	0-0	Webster	Fontbonne
+20200408	A	0-0	Rochester (NY)	Hobart & William Smith
 20200408	A	0-0	Fresno State	Air Force
-20200408	H	0-0	Wright State	Binghamton
-20200408	H	0-0	Appalachian State	Coastal Carolina
 20200409	A	0-0	Duquesne	Georgetown
-20200409	H	0-0	Duke	Louisville
 20200409	A	0-0	Florida State	Virginia
+20200409	A	0-0	Louisville	Duke
 20200409	A	0-0	Miami (FL)	Virginia Tech
-20200409	H	0-0	N.C. State	Notre Dame
-20200409	H	0-0	Memphis	Tulsa
+20200409	A	0-0	Notre Dame	N.C. State
 20200409	A	0-0	SMU	Texas Arlington
-20200409	H	0-0	Tulane	Florida Atlantic
+20200409	A	0-0	Tulsa	Memphis
 20200409	A	0-0	Liberty	Lipscomb
 20200409	A	0-0	NJIT	North Florida
 20200409	A	0-0	Baylor	Oklahoma State
-20200409	H	0-0	Oklahoma	Texas Tech
-20200409	H	0-0	Rice	Lamar
+20200409	A	0-0	Texas Tech	Oklahoma
+20200409	A	0-0	Florida Atlantic	Tulane
 20200409	A	0-0	Fairfield	Marist
 20200409	A	0-0	Nevada	New Mexico
 20200409	A	0-0	UNLV	Utah State
 20200409	A	0-0	Boston University	Lafayette
-20200409	H	0-0	Chicago State	UTRGV
-20200409	H	0-0	Pepperdine	Portland
+20200409	A	0-0	Lamar	Rice
+20200409	A	0-0	UTRGV	Chicago State
+20200409	A	0-0	Portland	Pepperdine
 20200409	H	0-0	Concordia (NY)	St. Francis (NY)
 20200409	H	0-0	Oklahoma Baptist	John Brown
 20200409	A	0-0	Auburn Montgomery	Lee (TN)
 20200409	N	0-0	St. Mary's (TX)	CSU-Pueblo
 20200409	N	0-0	St. Mary's (TX)	WNM
-20200409	H	0-0	UTPB	Metropolitan State
-20200409	N	0-0	WNM	Metropolitan State
+20200409	A	0-0	Fairmont State	Charleston
 20200409	A	0-0	Davis & Elkins	Wesleyan (WV)
-20200409	H	0-0	Charleston	Fairmont State
+20200409	A	0-0	West Virginia State	Concord
 20200409	H	0-0	Emporia State	Baker
-20200409	H	0-0	Newman	Barton County (KS)
-20200409	H	0-0	Biola	Gustavus Adolphus
-20200409	H	0-0	Columbus State	Lander
+20200409	A	0-0	Metropolitan State	UTPB
+20200409	N	0-0	Metropolitan State	WNM
+20200409	A	0-0	Lander	Columbus State
+20200409	N	0-0	CSU-Pueblo	St. Edward's (TX)
 20200409	A	0-0	Central (IA)	Wartburg
 20200409	A	0-0	Concordia (TX)	Mary Hardin-Baylor
 20200409	A	0-0	Hardin-Simmons	McMurry
-20200409	H	0-0	Nichols	UMass Boston
+20200409	A	0-0	UMass Boston	Nichols
+20200409	A	0-0	Gustavus Adolphus	Biola
 20200409	A	0-0	Gustavus Adolphus	Pomona-Pitzer
 20200409	A	0-0	Bridgewater	Randolph-Macon
-20200409	H	0-0	Hampden-Sydney	Lynchburg
+20200409	A	0-0	Lynchburg	Hampden-Sydney
 20200409	H	0-0	Roanoke	Bluefield
-20200409	H	0-0	Southwestern (TX)	Trinity (TX)
+20200409	A	0-0	Trinity (TX)	Southwestern (TX)
 20200409	A	0-0	Fontbonne	Principia
 20200409	H	0-0	Lake County (IL)	Prairie State
-20200409	H	0-0	Coastal Alabama	Gulf Coast (MS)
-20200409	H	0-0	Concord	West Virginia State
-20200409	N	0-0	St. Edward's (TX)	CSU-Pueblo
+20200409	A	0-0	Barton County (KS)	Newman
+20200409	A	0-0	Gulf Coast (MS)	Coastal Alabama
 20200409	A	0-0	St. Edward's (TX)	UTPB
-20200410	H	0-0	Davidson	Appalachian State
 20200410	A	0-0	Duquesne	George Mason
-20200410	H	0-0	VCU	Old Dominion
+20200410	A	0-0	Richmond	East Carolina
 20200410	A	0-0	Boston College	Clemson
-20200410	H	0-0	Temple	Fairleigh Dickinson
-20200410	H	0-0	Bellarmine	McKendree
-20200410	H	0-0	Idaho	Northern Arizona
-20200410	H	0-0	Idaho State	Montana
-20200410	H	0-0	Campbell	UNC Greensboro
-20200410	H	0-0	Indiana	Wisconsin
-20200410	H	0-0	Michigan State	Nebraska
-20200410	H	0-0	Cal Poly	UC Davis
+20200410	A	0-0	Montana	Idaho State
+20200410	A	0-0	Northern Arizona	Idaho
+20200410	A	0-0	Nebraska	Michigan State
+20200410	A	0-0	Wisconsin	Indiana
 20200410	A	0-0	Hawaii	UC Riverside
-20200410	H	0-0	UCSD	Azusa Pacific
-20200410	H	0-0	Hofstra	Siena
+20200410	A	0-0	UC Davis	Cal Poly
 20200410	A	0-0	Florida Atlantic	South Alabama
-20200410	H	0-0	Middle Tennessee	Georgia State
-20200410	H	0-0	Cleveland State	Northern Kentucky
+20200410	A	0-0	Old Dominion	VCU
+20200410	A	0-0	Northern Kentucky	Cleveland State
 20200410	A	0-0	Illinois - Chicago	Green Bay
 20200410	A	0-0	Brown	Dartmouth
-20200410	H	0-0	Columbia	Princeton
-20200410	H	0-0	Cornell	Penn
+20200410	A	0-0	Penn	Cornell
+20200410	A	0-0	Princeton	Columbia
 20200410	A	0-0	Monmouth (NJ)	Colgate
-20200410	H	0-0	Toledo	Western Michigan
-20200410	H	0-0	Sacred Heart	Wagner
+20200410	A	0-0	Siena	Hofstra
+20200410	A	0-0	Western Michigan	Toledo
+20200410	A	0-0	Fairleigh Dickinson	Temple
+20200410	A	0-0	Wagner	Sacred Heart
 20200410	A	0-0	Arizona	Oregon
 20200410	A	0-0	Boston University	Lehigh
+20200410	A	0-0	Texas A&M	Georgia
 20200410	A	0-0	Arkansas	Auburn
 20200410	A	0-0	Florida	South Carolina
 20200410	A	0-0	LSU	Tennessee
+20200410	A	0-0	Ole Miss	Kentucky
 20200410	A	0-0	Mississippi State	Vanderbilt
-20200410	H	0-0	Georgia	Texas A&M
-20200410	H	0-0	Kentucky	Ole Miss
+20200410	A	0-0	UNC Greensboro	Campbell
 20200410	A	0-0	Abilene Christian	Incarnate Word
 20200410	A	0-0	New Orleans	A&M-Corpus Christi
 20200410	A	0-0	Drake	Omaha
 20200410	A	0-0	North Dakota	Denver
-20200410	H	0-0	Seattle	UTRGV
+20200410	A	0-0	Georgia State	Middle Tennessee
+20200410	A	0-0	UTRGV	Seattle
 20200410	A	0-0	BYU	Santa Clara
 20200410	A	0-0	Gonzaga	Loyola Marymount
-20200410	H	0-0	St. Mary's (CA)	San Diego
-20200410	H	0-0	Barton	Salem - WV
+20200410	A	0-0	San Diego	St. Mary's (CA)
 20200410	A	0-0	Daemen	Queens (NY)
-20200410	H	0-0	Ashland	Grand Valley State
 20200410	A	0-0	Davenport	Michigan Tech
 20200410	A	0-0	Ferris State	Wayne State
-20200410	H	0-0	Lake Superior St.	Purdue Northwest
+20200410	A	0-0	Grand Valley State	Ashland
+20200410	A	0-0	Purdue Northwest	Lake Superior St.
 20200410	A	0-0	Drury	UMSL
-20200410	H	0-0	Indianapolis	Lindenwood
-20200410	H	0-0	Lewis	Maryville (MO)
+20200410	A	0-0	McKendree	Bellarmine
+20200410	A	0-0	Maryville (MO)	Lewis
 20200410	A	0-0	Illinois Springfield	Southern Indiana
-20200410	H	0-0	Cedarville	Findlay
+20200410	A	0-0	Findlay	Cedarville
 20200410	A	0-0	Christian Brothers	Mississippi College
+20200410	A	0-0	Salem - WV	Barton
 20200410	N	0-0	St. Mary's (TX)	Metropolitan State
 20200410	A	0-0	St. Mary's (TX)	UTPB
-20200410	H	0-0	Dallas Baptist	Texas Tyler
-20200410	H	0-0	UTPB	CSU-Pueblo
+20200410	A	0-0	Texas Tyler	Dallas Baptist
+20200410	A	0-0	Lindenwood	Indianapolis
+20200410	A	0-0	Azusa Pacific	UCSD
+20200410	N	0-0	Metropolitan State	St. Edward's (TX)
 20200410	A	0-0	Columbus State	Francis Marion
+20200410	A	0-0	CSU-Pueblo	UTPB
 20200410	A	0-0	Anderson (SC)	Coker
 20200410	A	0-0	Catawba	Virginia Wise
 20200410	A	0-0	Catawba	Virginia Wise
-20200410	H	0-0	Millikin	North Central (IL)
+20200410	A	0-0	North Central (IL)	Millikin
 20200410	A	0-0	Adrian	Hope
 20200410	A	0-0	Denison	Wabash
-20200410	H	0-0	DePauw	Wittenberg
-20200410	H	0-0	Trinity (CT)	Springfield
-20200410	H	0-0	TCNJ	Ramapo
+20200410	A	0-0	Wittenberg	DePauw
+20200410	A	0-0	Springfield	Trinity (CT)
+20200410	A	0-0	Ramapo	TCNJ
 20200410	A	0-0	Capital (OH)	Otterbein
 20200410	A	0-0	Marietta	Ohio Northern
-20200410	H	0-0	Berry	Sewanee
-20200410	H	0-0	Birmingham Southern	Hendrix
-20200410	H	0-0	Caltech	Chapman
+20200410	A	0-0	Hendrix	Birmingham Southern
+20200410	A	0-0	Sewanee	Berry
+20200410	A	0-0	Chapman	Caltech
 20200410	A	0-0	Pomona-Pitzer	Redlands
 20200410	A	0-0	Carnegie Mellon	Wash U
 20200410	A	0-0	DuPage (IL)	Prairie State
-20200410	H	0-0	East Carolina	Richmond
 20200410	A	0-0	Wright State	Youngstown State
+20200410	A	0-0	Appalachian State	Davidson
 20200410	A	0-0	La Salle	Lafayette
 20200410	A	0-0	Minnesota	Purdue
-20200410	N	0-0	St. Edward's (TX)	Metropolitan State
 20200410	N	0-0	St. Edward's (TX)	WNM
 20200410	A	0-0	UAH	West Alabama
-20200411	H	0-0	George Mason	Navy
+20200411	N	0-0	Richmond	Connecticut
 20200411	A	0-0	Duke	N.C. State
 20200411	A	0-0	Florida State	Virginia Tech
 20200411	A	0-0	Miami (FL)	Virginia
 20200411	A	0-0	Notre Dame	Wake Forest
-20200411	H	0-0	Memphis	Wichita State
-20200411	H	0-0	SMU	Tulsa
-20200411	H	0-0	SMU	Trinity (TX)
-20200411	H	0-0	Bellarmine	Illinois Springfield
+20200411	A	0-0	Tulsa	SMU
+20200411	A	0-0	Wichita State	Memphis
 20200411	A	0-0	Florida Gulf Coast	North Florida
-20200411	H	0-0	Kennesaw State	Lipscomb
-20200411	H	0-0	Liberty	North Alabama
+20200411	A	0-0	Lipscomb	Kennesaw State
 20200411	A	0-0	NJIT	Stetson
+20200411	A	0-0	North Alabama	Liberty
 20200411	A	0-0	Baylor	Oklahoma
-20200411	H	0-0	Oklahoma State	Texas Tech
 20200411	A	0-0	TCU	Texas
-20200411	H	0-0	Eastern Washington	Northern Arizona
+20200411	A	0-0	Texas Tech	Oklahoma State
 20200411	A	0-0	Montana State	Weber State
-20200411	H	0-0	Michigan	Nebraska
+20200411	A	0-0	Northern Arizona	Eastern Washington
+20200411	A	0-0	Nebraska	Michigan
 20200411	A	0-0	Hawaii	UC Irvine
-20200411	H	0-0	Delaware	Coppin State
-20200411	H	0-0	Delaware	Navy
-20200411	H	0-0	Drexel	Hofstra
+20200411	A	0-0	Hofstra	Drexel
 20200411	A	0-0	UNC Wilmington	Coastal Carolina
 20200411	A	0-0	William & Mary	Old Dominion
-20200411	H	0-0	UTSA	Abilene Christian
-20200411	H	0-0	Cleveland State	Wright State
 20200411	A	0-0	IUPUI	Green Bay
 20200411	A	0-0	Northern Kentucky	Youngstown State
 20200411	A	0-0	Siena	Fairleigh Dickinson
-20200411	H	0-0	Howard	Morgan State
+20200411	A	0-0	Coppin State	Delaware
+20200411	A	0-0	Morgan State	Howard
 20200411	A	0-0	Nevada	Air Force
-20200411	H	0-0	Austin Peay	Tennessee Tech
-20200411	H	0-0	USC	UCLA
+20200411	A	0-0	Tennessee Tech	Austin Peay
+20200411	A	0-0	UCLA	USC
 20200411	N	0-0	Army	Boston University
+20200411	A	0-0	Navy	Delaware
+20200411	A	0-0	Navy	George Mason
 20200411	A	0-0	Chattanooga	ETSU
 20200411	A	0-0	Mercer	Samford
-20200411	H	0-0	Lamar	Nicholls State
-20200411	H	0-0	Denver	Illinois State
-20200411	H	0-0	Omaha	Northwest Missouri
-20200411	H	0-0	Loyola Marymount	Portland
-20200411	H	0-0	Santa Clara	San Diego
-20200411	H	0-0	Post	Sciences (Philadelphia)
+20200411	A	0-0	Abilene Christian	UTSA
+20200411	A	0-0	Nicholls State	Lamar
+20200411	A	0-0	Illinois State	Denver
+20200411	A	0-0	North Dakota	Northern Colorado
+20200411	A	0-0	Portland	Loyola Marymount
+20200411	A	0-0	San Diego	Santa Clara
+20200411	A	0-0	Sciences (Philadelphia)	Post
 20200411	A	0-0	Lees-McRae	Limestone
-20200411	H	0-0	Mount Olive	Salem - WV
 20200411	A	0-0	Roberts Wesleyan	Queens (NY)
 20200411	A	0-0	District of Columbia	Adelphi
-20200411	H	0-0	Ashland	Ferris State
+20200411	A	0-0	Ferris State	Ashland
 20200411	A	0-0	Grand Valley State	Wayne State
-20200411	H	0-0	Michigan Tech	Purdue Northwest
-20200411	H	0-0	Indianapolis	Maryville (MO)
-20200411	H	0-0	Lewis	Lindenwood
+20200411	A	0-0	Purdue Northwest	Michigan Tech
 20200411	A	0-0	McKendree	Kentucky Wesleyan
 20200411	A	0-0	McKendree	Southern Indiana
-20200411	H	0-0	Findlay	Hillsdale
+20200411	A	0-0	Maryville (MO)	Indianapolis
+20200411	A	0-0	Illinois Springfield	Bellarmine
+20200411	A	0-0	Hillsdale	Findlay
 20200411	A	0-0	Walsh	CWRU
-20200411	H	0-0	Delta State	Montevallo
+20200411	A	0-0	Montevallo	Delta State
 20200411	A	0-0	Auburn Montgomery	West Florida
-20200411	H	0-0	MSU-Texas	Texas Tyler
+20200411	A	0-0	Salem - WV	Mount Olive
+20200411	A	0-0	Texas Tyler	MSU-Texas
 20200411	H	0-0	Davis & Elkins	Bluefield
-20200411	H	0-0	Shepherd	Bloomsburg
+20200411	A	0-0	Northwest Missouri	Omaha
 20200411	A	0-0	Southwest Baptist (MO)	UMSL
+20200411	A	0-0	Lindenwood	Lewis
 20200411	A	0-0	Azusa Pacific	Point Loma (CA)
 20200411	N	0-0	Colorado Mesa	Colorado College
-20200411	H	0-0	Concordia (CA)	Gustavus Adolphus
+20200411	A	0-0	Bloomsburg	Shepherd
 20200411	A	0-0	Edinboro	Mercyhurst
-20200411	H	0-0	Coe College	Carleton
-20200411	H	0-0	Christopher Newport	Salisbury
-20200411	H	0-0	Illinois Wesleyan	North Central (IL)
-20200411	H	0-0	Dickinson	Ursinus
+20200411	A	0-0	Salisbury	Christopher Newport
+20200411	A	0-0	North Central (IL)	Illinois Wesleyan
 20200411	A	0-0	Franklin & Marshall	Washington (MD)
-20200411	H	0-0	Johns Hopkins	Cal Lutheran
-20200411	H	0-0	Johns Hopkins	Swarthmore
-20200411	H	0-0	Haverford	Wilkes
-20200411	H	0-0	Oswego	Farmingdale State
+20200411	A	0-0	Swarthmore	Johns Hopkins
+20200411	A	0-0	Ursinus	Dickinson
 20200411	A	0-0	Goucher	Susquehanna
 20200411	A	0-0	UMass Boston	Bridgewater State
-20200411	H	0-0	St. Lawrence	Union (NY)
+20200411	A	0-0	Union (NY)	St. Lawrence
+20200411	A	0-0	Wilkes	Haverford
 20200411	A	0-0	Alma	Calvin
+20200411	A	0-0	Carleton	Coe College
+20200411	A	0-0	Gustavus Adolphus	Concordia (CA)
 20200411	A	0-0	Gustavus Adolphus	Hope International
 20200411	A	0-0	Knox (IL)	Marian (WI)
 20200411	A	0-0	Lawrence	Ripon
-20200411	H	0-0	Allegheny	Wooster
 20200411	A	0-0	Denison	DePauw
+20200411	A	0-0	Wooster	Allegheny
 20200411	A	0-0	Wesleyan (CT)	Williams
 20200411	A	0-0	Babson	Clark (MA)
-20200411	H	0-0	Oneonta	Farmingdale State
-20200411	H	0-0	Lewis & Clark (OR)	Linfield
-20200411	H	0-0	Pacific (OR)	Willamette
+20200411	A	0-0	Linfield	Lewis & Clark (OR)
 20200411	A	0-0	Pacific Lutheran	Puget Sound
+20200411	A	0-0	Willamette	Pacific (OR)
 20200411	N	0-0	Capital (OH)	Thiel
 20200411	A	0-0	Capital (OH)	Westminster (PA)
 20200411	A	0-0	Randolph-Macon	Randolph
-20200411	H	0-0	Berry	Centre
+20200411	A	0-0	Centre	Berry
 20200411	A	0-0	Hendrix	Millsaps
-20200411	H	0-0	Chapman	Redlands
+20200411	A	0-0	Trinity (TX)	SMU
+20200411	A	0-0	Cal Lutheran	Johns Hopkins
+20200411	A	0-0	Redlands	Chapman
+20200411	A	0-0	Farmingdale State	Oneonta
+20200411	A	0-0	Farmingdale State	Oswego
 20200411	N	0-0	Carnegie Mellon	UW Whitewater
 20200411	A	0-0	Iowa Central	Prairie State
+20200411	A	0-0	Wright State	Cleveland State
 20200411	A	0-0	Iowa	Michigan State
-20200411	H	0-0	Northern Colorado	North Dakota
-20200411	N	0-0	Connecticut	Richmond
-20200412	H	0-0	Clemson	South Carolina
-20200412	H	0-0	Tulane	Rice
-20200412	H	0-0	South Florida	Central Florida
-20200412	H	0-0	Idaho State	Montana State
+20200412	A	0-0	Central Florida	South Florida
 20200412	A	0-0	Montana	Weber State
-20200412	H	0-0	Indiana	Minnesota
-20200412	H	0-0	Purdue	Wisconsin
-20200412	H	0-0	UC Riverside	UC Santa Barbara
+20200412	A	0-0	Montana State	Idaho State
+20200412	A	0-0	Wisconsin	Purdue
+20200412	A	0-0	UC Santa Barbara	UC Riverside
 20200412	A	0-0	UNC Wilmington	Georgia State
-20200412	H	0-0	Brown	Harvard
+20200412	A	0-0	Rice	Tulane
 20200412	A	0-0	Columbia	Penn
 20200412	A	0-0	Cornell	Princeton
-20200412	H	0-0	Boise State	UNLV
+20200412	A	0-0	Harvard	Brown
+20200412	A	0-0	UNLV	Boise State
 20200412	A	0-0	Arizona	Washington
 20200412	A	0-0	Army	Lehigh
-20200412	H	0-0	Tennessee	Texas A&M
+20200412	A	0-0	Texas A&M	Tennessee
+20200412	A	0-0	Mississippi State	Kentucky
+20200412	A	0-0	South Carolina	Clemson
 20200412	A	0-0	Georgia	LSU
-20200412	H	0-0	Kentucky	Mississippi State
-20200412	N	0-0	UC Santa Cruz	Gustavus Adolphus
-20200412	H	0-0	Amherst	Wesleyan (CT)
+20200412	A	0-0	Illinois State	Northern Colorado
+20200412	N	0-0	Gustavus Adolphus	UC Santa Cruz
 20200412	A	0-0	Middlebury	Williams
+20200412	A	0-0	Wesleyan (CT)	Amherst
 20200412	A	0-0	George Fox	Whitman
 20200412	A	0-0	Iowa	Michigan
-20200412	H	0-0	Northern Colorado	Illinois State
+20200412	A	0-0	Minnesota	Indiana
 20200412	A	0-0	Connecticut	East Carolina
 20200413	A	0-0	Delaware	Lafayette
-20200413	H	0-0	Mount St. Mary's (MD)	Bloomsburg
-20200413	H	0-0	Incarnate Word	New Orleans
-20200413	H	0-0	Post	Adelphi
+20200413	A	0-0	New Orleans	Incarnate Word
 20200413	H	0-0	Southern Indiana	Oakland City
+20200413	A	0-0	Adelphi	Post
 20200413	A	0-0	North Georgia	Limestone
+20200413	A	0-0	Bloomsburg	Mount St. Mary's (MD)
 20200413	A	0-0	Carleton	Macalester
 20200413	H	0-0	Capital (OH)	Concordia (MI)
 20200413	A	0-0	Webster	Westminster (MO)
-20200414	H	0-0	NJIT	Monmouth (NJ)
-20200414	H	0-0	UC Irvine	UC Riverside
-20200414	H	0-0	Illinois - Chicago	Chicago State
-20200414	H	0-0	Fairfield	Quinnipiac
-20200414	H	0-0	Marist	Army
+20200414	A	0-0	UC Riverside	UC Irvine
+20200414	A	0-0	Monmouth (NJ)	NJIT
+20200414	A	0-0	Quinnipiac	Fairfield
+20200414	A	0-0	Army	Marist
+20200414	A	0-0	Chicago State	Illinois - Chicago
 20200414	A	0-0	Concordia (NY)	Queens (NY)
-20200414	H	0-0	Oklahoma Baptist	Cowley County (KS)
-20200414	H	0-0	Auburn Montgomery	Montevallo
+20200414	A	0-0	Montevallo	Auburn Montgomery
 20200414	A	0-0	Lee (TN)	Young Harris (GA)
-20200414	H	0-0	Mississippi College	West Alabama
-20200414	H	0-0	Le Moyne	Stonehill
+20200414	A	0-0	West Alabama	Mississippi College
+20200414	A	0-0	Stonehill	Le Moyne
 20200414	A	0-0	Texas Dallas	Trinity (TX)
-20200414	H	0-0	St. Mary's (MD)	Baruch
 20200414	A	0-0	North Central (IL)	Wheaton (IL)
+20200414	A	0-0	Washington (MD)	Swarthmore
 20200414	A	0-0	Franklin & Marshall	Gettysburg
 20200414	H	0-0	Johns Hopkins	McDaniel
-20200414	H	0-0	Swarthmore	Washington (MD)
+20200414	A	0-0	Baruch	St. Mary's (MD)
 20200414	A	0-0	Manchester	Taylor
-20200414	H	0-0	UMass Boston	UMass Dartmouth
-20200414	H	0-0	Hood	Messiah
-20200414	H	0-0	Calvin	Hope
-20200414	H	0-0	Allegheny	Thiel
+20200414	A	0-0	UMass Dartmouth	UMass Boston
+20200414	A	0-0	Messiah	Hood
+20200414	A	0-0	Hope	Calvin
 20200414	A	0-0	Randolph-Macon	Virginia Wesleyan
-20200414	H	0-0	Farmingdale State	Mt. St. Mary (NY)
+20200414	A	0-0	Thiel	Allegheny
+20200414	A	0-0	Mt. St. Mary (NY)	Farmingdale State
 20200414	H	0-0	McHenry County (IL)	Prairie State
+20200414	A	0-0	Cowley County (KS)	Oklahoma Baptist
 20200415	A	0-0	Kennesaw State	Mercer
-20200415	H	0-0	Coppin State	Navy
-20200415	H	0-0	UCLA	Pepperdine
-20200415	H	0-0	Lafayette	Lehigh
+20200415	A	0-0	Lehigh	Lafayette
 20200415	A	0-0	Loyola (MD)	Navy
+20200415	A	0-0	Navy	Coppin State
 20200415	A	0-0	Abilene Christian	Southwest (NM)
-20200415	H	0-0	Lamar	A&M-Corpus Christi
-20200415	H	0-0	Concordia (NY)	Dominican (NY)
-20200415	H	0-0	North Greenville	Lander
+20200415	A	0-0	A&M-Corpus Christi	Lamar
+20200415	A	0-0	Pepperdine	UCLA
+20200415	A	0-0	Dominican (NY)	Concordia (NY)
 20200415	A	0-0	Roberts Wesleyan	Onondaga (NY)
 20200415	A	0-0	Salem - WV	Wesleyan (WV)
-20200415	H	0-0	Dallas Baptist	LeTourneau
 20200415	A	0-0	Fairmont State	Frostburg State
-20200415	H	0-0	Coe College	Loras
-20200415	H	0-0	Juniata	Susquehanna
-20200415	H	0-0	Carleton	St. Olaf
-20200415	H	0-0	Knox (IL)	Monmouth (IL)
-20200415	H	0-0	Babson	Springfield
+20200415	A	0-0	Lander	North Greenville
+20200415	A	0-0	Loras	Coe College
+20200415	A	0-0	LeTourneau	Dallas Baptist
+20200415	A	0-0	Susquehanna	Juniata
+20200415	A	0-0	St. Olaf	Carleton
+20200415	A	0-0	Monmouth (IL)	Knox (IL)
+20200415	A	0-0	Lawrence	Green Bay
+20200415	A	0-0	Allegheny	Franciscan
 20200415	A	0-0	Emerson	MIT
-20200415	H	0-0	Franciscan	Allegheny
+20200415	A	0-0	Springfield	Babson
 20200415	A	0-0	Huntingdon	LaGrange
-20200415	H	0-0	Green Bay	Lawrence
 20200416	A	0-0	Virginia State	Salem - WV
 20200416	A	0-0	Kentucky Wesleyan	Oakland City
 20200416	A	0-0	MSU-Texas	St. Edward's (TX)
-20200416	H	0-0	Fairmont State	Shepherd
+20200416	A	0-0	Shepherd	Fairmont State
 20200416	A	0-0	Millersville	West Chester
-20200416	H	0-0	Mary Hardin-Baylor	Centenary (LA)
-20200416	H	0-0	Defiance	Capital (OH)
-20200416	H	0-0	UMass Boston	Clark (MA)
 20200416	H	0-0	Calvin	Bethel (IN)
-20200416	H	0-0	Allegheny	Washington & Jefferson
+20200416	A	0-0	Clark (MA)	UMass Boston
+20200416	A	0-0	Capital (OH)	Defiance
+20200416	A	0-0	Ohio Northern	Earlham
+20200416	A	0-0	Washington & Jefferson	Allegheny
 20200416	A	0-0	Elgin (IL)	Prairie State
-20200416	H	0-0	Earlham	Ohio Northern
+20200416	A	0-0	Centenary (LA)	Mary Hardin-Baylor
 20200417	A	0-0	Montana	Southern Utah
 20200417	A	0-0	Montana State	Northern Arizona
-20200417	H	0-0	Illinois	Michigan State
 20200417	A	0-0	Michigan	Northwestern
+20200417	A	0-0	Michigan State	Illinois
 20200417	A	0-0	Ohio State	Wisconsin
-20200417	H	0-0	UC Davis	UC Riverside
+20200417	A	0-0	Penn State	Minnesota
+20200417	A	0-0	Purdue	Iowa
+20200417	A	0-0	UC Riverside	UC Davis
 20200417	A	0-0	UCSD	Holy Names
-20200417	H	0-0	Arizona	Stanford
-20200417	H	0-0	Arizona State	California
+20200417	A	0-0	California	Arizona State
+20200417	A	0-0	Stanford	Arizona
 20200417	H	0-0	New Orleans	Florida National
 20200417	A	0-0	Denver	Drake
-20200417	H	0-0	Omaha	Valparaiso
-20200417	H	0-0	Barton	North Greenville
-20200417	H	0-0	Chowan	Southern Wesleyan
 20200417	A	0-0	Mount Olive	Limestone
-20200417	H	0-0	District of Columbia	Queens (NY)
-20200417	H	0-0	Oklahoma Baptist	Seward County (KS)
-20200417	N	0-0	Southern Arkansas	Newman
+20200417	A	0-0	North Greenville	Barton
+20200417	A	0-0	Southern Wesleyan	Chowan
+20200417	A	0-0	Queens (NY)	District of Columbia
 20200417	N	0-0	Southern Arkansas	Washburn-Topeka
-20200417	H	0-0	Lewis	Southern Indiana
 20200417	A	0-0	McKendree	Lindenwood
-20200417	H	0-0	Illinois Springfield	Maryville (MO)
-20200417	H	0-0	UMSL	Rockhurst
+20200417	A	0-0	Maryville (MO)	Illinois Springfield
+20200417	A	0-0	Rockhurst	UMSL
+20200417	A	0-0	Southern Indiana	Lewis
 20200417	A	0-0	Cedarville	Walsh
-20200417	H	0-0	Salem - WV	Shepherd
 20200417	A	0-0	MSU-Texas	St. Mary's (TX)
 20200417	A	0-0	Dallas Baptist	St. Edward's (TX)
-20200417	H	0-0	Arkansas Ft. Smith	WNM
-20200417	H	0-0	Colorado Mesa	Metropolitan State
-20200417	N	0-0	Metropolitan State	CSU-Pueblo
+20200417	A	0-0	WNM	Arkansas Ft. Smith
+20200417	A	0-0	Shepherd	Salem - WV
+20200417	N	0-0	Newman	Southern Arkansas
+20200417	A	0-0	Metropolitan State	Colorado Mesa
+20200417	N	0-0	CSU-Pueblo	Metropolitan State
 20200417	A	0-0	Central (IA)	Doane
 20200417	A	0-0	Ozarks	Millsaps
 20200417	H	0-0	Texas Dallas	TAMU-Texarkana
 20200417	A	0-0	Augustana (IL)	Grinnell
-20200417	H	0-0	Ithaca	Union (NY)
-20200417	H	0-0	Hamline	St. Mary's (MN)
-20200417	H	0-0	Macalester	St. John's (MN)
-20200417	H	0-0	Wooster	Ohio Wesleyan
+20200417	A	0-0	Union (NY)	Ithaca
+20200417	A	0-0	St. John's (MN)	Macalester
+20200417	A	0-0	St. Mary's (MN)	Hamline
+20200417	A	0-0	Ohio Wesleyan	Wooster
 20200417	A	0-0	Bridgewater	Ferrum
 20200417	A	0-0	Randolph	Roanoke
 20200417	A	0-0	Caltech	Cal Lutheran
 20200417	A	0-0	Principia	Westminster (MO)
-20200417	H	0-0	Iowa	Purdue
-20200417	H	0-0	Minnesota	Penn State
+20200417	A	0-0	Seward County (KS)	Oklahoma Baptist
+20200417	A	0-0	Valparaiso	Omaha
 20200418	A	0-0	Duquesne	Carnegie Mellon
-20200418	H	0-0	George Mason	St. Joseph's (PA)
-20200418	H	0-0	Bellarmine	Lewis
+20200418	A	0-0	St. Joseph's (PA)	George Mason
+20200418	A	0-0	Florida Gulf Coast	NJIT
 20200418	A	0-0	Kennesaw State	Liberty
-20200418	H	0-0	Lipscomb	North Alabama
-20200418	H	0-0	NJIT	Florida Gulf Coast
+20200418	A	0-0	North Alabama	Lipscomb
 20200418	A	0-0	North Florida	Stetson
-20200418	H	0-0	Cal Poly	UC Santa Barbara
-20200418	H	0-0	UC Davis	UC Irvine
+20200418	A	0-0	UC Irvine	UC Davis
+20200418	A	0-0	UC Santa Barbara	Cal Poly
 20200418	A	0-0	Cleveland State	IUPUI
-20200418	H	0-0	Illinois - Chicago	Youngstown State
+20200418	A	0-0	Youngstown State	Illinois - Chicago
 20200418	A	0-0	Brown	Princeton
-20200418	H	0-0	Penn	Yale
+20200418	A	0-0	Yale	Penn
 20200418	A	0-0	Fairfield	Siena
 20200418	A	0-0	Marist	Quinnipiac
+20200418	A	0-0	Air Force	New Mexico
 20200418	A	0-0	San Diego State	UNLV
-20200418	H	0-0	New Mexico	Air Force
-20200418	H	0-0	Arizona State	Stanford
-20200418	H	0-0	UCLA	Utah
+20200418	A	0-0	Stanford	Arizona State
+20200418	A	0-0	Utah	UCLA
 20200418	A	0-0	Army	Navy
-20200418	H	0-0	Drake	Valparaiso
 20200418	A	0-0	North Dakota	Gustavus Adolphus
-20200418	H	0-0	BYU	Loyola Marymount
-20200418	H	0-0	Portland	St. Mary's (CA)
+20200418	A	0-0	Loyola Marymount	BYU
+20200418	A	0-0	St. Mary's (CA)	Portland
 20200418	A	0-0	Concordia (NY)	Sciences (Philadelphia)
 20200418	A	0-0	Jefferson	Post
 20200418	A	0-0	Belmont Abbey	Limestone
-20200418	H	0-0	Barton	Southern Wesleyan
-20200418	H	0-0	Chowan	North Greenville
-20200418	H	0-0	Francis Marion	Lander
+20200418	A	0-0	North Greenville	Chowan
+20200418	A	0-0	Southern Wesleyan	Barton
 20200418	A	0-0	Virginia State	Bloomsburg
-20200418	H	0-0	Daemen	Roberts Wesleyan
 20200418	A	0-0	Queens (NY)	Millersville
-20200418	H	0-0	District of Columbia	West Chester
-20200418	H	0-0	Oklahoma Baptist	Southern Arkansas
-20200418	H	0-0	Oklahoma Baptist	Washburn-Topeka
-20200418	H	0-0	Indianapolis	Southern Indiana
+20200418	A	0-0	Roberts Wesleyan	Daemen
+20200418	A	0-0	Southern Arkansas	Oklahoma Baptist
+20200418	A	0-0	Lewis	Bellarmine
 20200418	A	0-0	Maryville (MO)	McKendree
-20200418	H	0-0	Illinois Springfield	Lindenwood
-20200418	H	0-0	UMSL	William Jewell
-20200418	H	0-0	Auburn Montgomery	Mississippi College
+20200418	A	0-0	Southern Indiana	Indianapolis
+20200418	A	0-0	William Jewell	UMSL
+20200418	A	0-0	Mississippi College	Auburn Montgomery
 20200418	A	0-0	West Alabama	Georgia Gwinnett
-20200418	H	0-0	Bluefield State	Mercyhurst
 20200418	A	0-0	Dallas Baptist	St. Mary's (TX)
-20200418	H	0-0	Arkansas Ft. Smith	UTPB
-20200418	H	0-0	Fairmont State	Edinboro
+20200418	A	0-0	UTPB	Arkansas Ft. Smith
+20200418	A	0-0	West Liberty	Frostburg State
 20200418	A	0-0	Southwest Baptist (MO)	Quincy
+20200418	A	0-0	Lindenwood	Illinois Springfield
+20200418	A	0-0	Washburn-Topeka	Oklahoma Baptist
 20200418	A	0-0	Le Moyne	St. Michael's
-20200418	H	0-0	Colorado Mesa	CSU-Pueblo
-20200418	H	0-0	Columbus State	North Georgia
-20200418	H	0-0	Dubuque	Simpson (IA)
+20200418	A	0-0	Lander	Francis Marion
+20200418	A	0-0	North Georgia	Columbus State
+20200418	A	0-0	Edinboro	Fairmont State
+20200418	A	0-0	Mercyhurst	Bluefield State
+20200418	A	0-0	West Chester	District of Columbia
+20200418	A	0-0	CSU-Pueblo	Colorado Mesa
+20200418	A	0-0	Simpson (IA)	Dubuque
 20200418	A	0-0	Wartburg	Macalester
 20200418	A	0-0	Wartburg	St. Thomas (MN)
-20200418	H	0-0	Belhaven	Ozarks
-20200418	H	0-0	Concordia (TX)	Sul Ross State
-20200418	H	0-0	Howard Payne	McMurry
-20200418	H	0-0	Hardin-Simmons	Mary Hardin-Baylor
 20200418	A	0-0	LeTourneau	Texas Dallas
+20200418	A	0-0	McMurry	Howard Payne
+20200418	A	0-0	Ozarks	Belhaven
+20200418	A	0-0	Sul Ross State	Concordia (TX)
+20200418	A	0-0	Mary Hardin-Baylor	Hardin-Simmons
 20200418	A	0-0	Christopher Newport	St. Mary's (MD)
-20200418	H	0-0	Frostburg State	West Liberty
 20200418	A	0-0	Mary Washington	TCNJ
 20200418	A	0-0	York (PA)	Goucher
 20200418	A	0-0	Dickinson	Washington (MD)
-20200418	H	0-0	Franklin & Marshall	Swarthmore
-20200418	H	0-0	Haverford	Johns Hopkins
+20200418	A	0-0	Johns Hopkins	Haverford
+20200418	A	0-0	Swarthmore	Franklin & Marshall
 20200418	A	0-0	Defiance	Transylvania
 20200418	A	0-0	UC Santa Cruz	George Fox
-20200418	H	0-0	Catholic	Susquehanna
-20200418	H	0-0	Goucher	Juniata
-20200418	H	0-0	UMass Boston	Southern Maine
-20200418	H	0-0	Hobart & William Smith	Skidmore
-20200418	H	0-0	RIT	St. Lawrence
+20200418	A	0-0	Juniata	Goucher
+20200418	A	0-0	Susquehanna	Catholic
+20200418	A	0-0	Southern Maine	UMass Boston
+20200418	A	0-0	Skidmore	Hobart & William Smith
+20200418	A	0-0	St. Lawrence	RIT
 20200418	A	0-0	Manhattanville	Farmingdale State
-20200418	H	0-0	Calvin	Olivet
-20200418	H	0-0	Carleton	Hamline
-20200418	H	0-0	Carleton	St. Thomas (MN)
+20200418	A	0-0	Olivet	Calvin
 20200418	A	0-0	Gustavus Adolphus	Macalester
-20200418	H	0-0	Cornell College	Monmouth (IL)
-20200418	H	0-0	Cornell College	Illinois College
-20200418	H	0-0	Grinnell	Monmouth (IL)
-20200418	H	0-0	Grinnell	Illinois College
-20200418	H	0-0	Lawrence	St. Norbert
-20200418	H	0-0	Allegheny	Oberlin
-20200418	H	0-0	Wooster	Wabash
+20200418	A	0-0	Hamline	Carleton
+20200418	A	0-0	St. Thomas (MN)	Carleton
+20200418	A	0-0	Monmouth (IL)	Cornell College
+20200418	A	0-0	Monmouth (IL)	Grinnell
+20200418	A	0-0	Illinois College	Cornell College
+20200418	A	0-0	Illinois College	Grinnell
+20200418	A	0-0	St. Norbert	Lawrence
+20200418	A	0-0	Oberlin	Allegheny
+20200418	A	0-0	Wabash	Wooster
+20200418	A	0-0	Wittenberg	Wright State
 20200418	A	0-0	Amherst	Williams
-20200418	H	0-0	Babson	Rochester (NY)
 20200418	A	0-0	MIT	Springfield
-20200418	H	0-0	George Fox	Pacific (OR)
-20200418	H	0-0	Lewis & Clark (OR)	Willamette
-20200418	H	0-0	Pacific Lutheran	Whitman
-20200418	H	0-0	Capital (OH)	Ohio Northern
+20200418	A	0-0	Pacific (OR)	George Fox
+20200418	A	0-0	Whitman	Pacific Lutheran
+20200418	A	0-0	Willamette	Lewis & Clark (OR)
+20200418	A	0-0	Ohio Northern	Capital (OH)
 20200418	A	0-0	Berry	Birmingham Southern
-20200418	H	0-0	Hendrix	Sewanee
+20200418	A	0-0	Sewanee	Hendrix
 20200418	A	0-0	Cal Lutheran	Occidental
 20200418	A	0-0	Cal Lutheran	Whittier
-20200418	H	0-0	Chapman	Pomona-Pitzer
-20200418	H	0-0	Brandeis	NYU
-20200418	H	0-0	Covenant	Huntingdon
-20200418	H	0-0	Wright State	Wittenberg
+20200418	A	0-0	Pomona-Pitzer	Chapman
+20200418	A	0-0	NYU	Brandeis
+20200418	A	0-0	Rochester (NY)	Babson
+20200418	A	0-0	Huntingdon	Covenant
 20200418	A	0-0	Concord	Davis & Elkins
+20200418	A	0-0	Valparaiso	Drake
+20200419	A	0-0	St. Joseph's (PA)	George Washington
 20200419	A	0-0	Montana	Northern Arizona
-20200419	H	0-0	Illinois	Michigan
 20200419	A	0-0	Indiana	Iowa
-20200419	H	0-0	Nebraska	Purdue
+20200419	A	0-0	Michigan	Illinois
+20200419	A	0-0	Ohio State	Minnesota
 20200419	A	0-0	Penn State	Wisconsin
+20200419	A	0-0	Purdue	Nebraska
 20200419	A	0-0	UCSD	Sonoma State
 20200419	A	0-0	Cleveland State	Illinois - Chicago
-20200419	H	0-0	IUPUI	Youngstown State
+20200419	A	0-0	Youngstown State	IUPUI
 20200419	A	0-0	Brown	Penn
-20200419	H	0-0	Princeton	Yale
-20200419	H	0-0	Monmouth (NJ)	Siena
-20200419	H	0-0	Monmouth (NJ)	Siena
+20200419	A	0-0	Yale	Princeton
 20200419	A	0-0	Quinnipiac	Rider
-20200419	H	0-0	Arizona	California
+20200419	A	0-0	Siena	Monmouth (NJ)
+20200419	A	0-0	Siena	Monmouth (NJ)
+20200419	A	0-0	California	Arizona
 20200419	A	0-0	Denver	Omaha
 20200419	A	0-0	North Dakota	Iowa
 20200419	A	0-0	Pacific (CA)	Portland
 20200419	A	0-0	Pepperdine	San Diego
-20200419	H	0-0	Jefferson	Bloomsburg
 20200419	A	0-0	Post	Bentley
 20200419	A	0-0	Shaw	Salem - WV
-20200419	H	0-0	Findlay	Kentucky Wesleyan
-20200419	H	0-0	Hillsdale	Walsh
-20200419	H	0-0	Shepherd	West Chester
+20200419	A	0-0	Kentucky Wesleyan	Findlay
+20200419	A	0-0	Walsh	Hillsdale
 20200419	A	0-0	Hawaii Hilo	Holy Names
-20200419	H	0-0	Columbus State	Young Harris (GA)
-20200419	H	0-0	Coe College	Luther (IA)
+20200419	A	0-0	Young Harris (GA)	Columbus State
+20200419	A	0-0	Bloomsburg	Jefferson
+20200419	A	0-0	West Chester	Shepherd
+20200419	A	0-0	Penn State - Altoona	Frostburg State
+20200419	A	0-0	Dubuque	Augustana (IL)
+20200419	A	0-0	Luther (IA)	Coe College
 20200419	A	0-0	Christopher Newport	Johns Hopkins
-20200419	H	0-0	Frostburg State	Penn State - Altoona
-20200419	H	0-0	Augustana (IL)	Dubuque
-20200419	H	0-0	Washington (MD)	Virginia Wesleyan
 20200419	A	0-0	Manchester	Holy Cross (IN)
-20200419	H	0-0	Mt. St. Joseph	Transylvania
+20200419	A	0-0	Transylvania	Mt. St. Joseph
 20200419	A	0-0	UC Santa Cruz	Pacific (OR)
 20200419	A	0-0	Bard	Ithaca
-20200419	H	0-0	Hobart & William Smith	Union (NY)
+20200419	A	0-0	Union (NY)	Hobart & William Smith
 20200419	A	0-0	Wilkes	TCNJ
 20200419	A	0-0	Wilkes	TCNJ
-20200419	H	0-0	Bethel (MN)	Carleton
+20200419	A	0-0	Carleton	Bethel (MN)
 20200419	A	0-0	St. Mary's (MN)	St. Olaf
 20200419	A	0-0	Grinnell	Knox (IL)
 20200419	A	0-0	Lake Forest	Lawrence
@@ -5360,66 +5334,64 @@ date	where	score	winner	loser
 20200419	A	0-0	Denison	Oberlin
 20200419	A	0-0	Hamilton	Wesleyan (CT)
 20200419	A	0-0	Tufts	Williams
-20200419	H	0-0	Babson	NYU
 20200419	A	0-0	Clark (MA)	Emerson
 20200419	A	0-0	George Fox	Linfield
 20200419	A	0-0	Lewis & Clark (OR)	Pacific (OR)
-20200419	H	0-0	Bridgewater	Guilford
-20200419	H	0-0	Washington & Lee	Methodist (NC)
+20200419	A	0-0	Guilford	Bridgewater
+20200419	A	0-0	Virginia Wesleyan	Washington (MD)
 20200419	A	0-0	Berry	Millsaps
 20200419	A	0-0	Centre	Hendrix
+20200419	A	0-0	NYU	Babson
 20200419	H	0-0	Maryville (TN)	Oakland City
+20200419	A	0-0	Methodist (NC)	Washington & Lee
 20200419	A	0-0	Concord	Wesleyan (WV)
-20200419	H	0-0	George Washington	St. Joseph's (PA)
-20200419	H	0-0	Minnesota	Ohio State
 20200420	A	0-0	Shaw	Davis & Elkins
 20200420	A	0-0	Arkansas Ft. Smith	John Brown
-20200420	H	0-0	JWU Providence	UMass Boston
 20200420	H	0-0	Anderson (IN)	Spring Arbor
-20200420	H	0-0	Adrian	Olivet
+20200420	A	0-0	UMass Boston	JWU Providence
+20200420	A	0-0	Olivet	Adrian
 20200421	A	0-0	Fordham	Eastern Florida
 20200421	A	0-0	UMSL	Lindenwood
 20200421	A	0-0	Cedarville	Indiana East
 20200421	A	0-0	Luther (IA)	Wartburg
-20200421	H	0-0	Gettysburg	Messiah
+20200421	A	0-0	Messiah	Gettysburg
 20200421	A	0-0	Greenville	Principia
 20200421	A	0-0	Waubonsee (IL)	Prairie State
-20200422	H	0-0	Salisbury	Johns Hopkins
 20200422	A	0-0	Elmhurst	North Central (IL)
 20200422	A	0-0	Dickinson	Franklin & Marshall
 20200422	A	0-0	Johns Hopkins	Washington (MD)
+20200422	A	0-0	Johns Hopkins	Salisbury
 20200422	A	0-0	UMass Boston	Castleton State
 20200422	A	0-0	Adrian	Calvin
 20200422	A	0-0	Bates	Wesleyan (CT)
-20200422	H	0-0	Babson	Wheaton (MA)
+20200422	A	0-0	Wheaton (MA)	Babson
 20200422	A	0-0	Clark (MA)	Springfield
 20200422	A	0-0	Emerson	Coast Guard
 20200422	H	0-0	Capital (OH)	Pikeville
 20200422	A	0-0	Ohio Northern	Otterbein
 20200422	A	0-0	Washington & Lee	Sewanee
-20200422	H	0-0	Caltech	Redlands
-20200422	H	0-0	Purchase	Yeshiva
-20200422	H	0-0	Sarah Lawrence	Farmingdale State
-20200423	H	0-0	Loras	Wartburg
+20200422	A	0-0	Redlands	Caltech
+20200422	A	0-0	Farmingdale State	Sarah Lawrence
+20200422	A	0-0	Yeshiva	Purchase
+20200423	A	0-0	Wartburg	Loras
 20200423	A	0-0	Baruch	Farmingdale State
-20200423	H	0-0	Ithaca	Hamilton
 20200423	A	0-0	Alma	Hope
+20200423	A	0-0	Hamilton	Ithaca
 20200424	A	0-0	Salem - WV	Bluefield State
-20200424	H	0-0	Bridgewater	Shenandoah
-20200424	H	0-0	Lynchburg	Randolph-Macon
-20200424	H	0-0	Cowley County (KS)	Seward County (KS)
-20200425	H	0-0	Brown	Yale
+20200424	A	0-0	Randolph-Macon	Lynchburg
+20200424	A	0-0	Shenandoah	Bridgewater
+20200424	A	0-0	Seward County (KS)	Cowley County (KS)
+20200425	A	0-0	Yale	Brown
 20200425	A	0-0	Buena Vista	Wartburg
 20200425	H	0-0	Wartburg	Nebraska Wesleyan
-20200425	H	0-0	Dickinson	Johns Hopkins
+20200425	A	0-0	Washington (MD)	Ursinus
 20200425	A	0-0	Franklin & Marshall	Muhlenberg
-20200425	H	0-0	Johns Hopkins	Washington & Lee
-20200425	H	0-0	Swarthmore	Goucher
-20200425	H	0-0	Ursinus	Washington (MD)
-20200425	H	0-0	Anderson (IN)	Transylvania
+20200425	A	0-0	Johns Hopkins	Dickinson
+20200425	A	0-0	Transylvania	Anderson (IN)
+20200425	A	0-0	Goucher	Swarthmore
 20200425	A	0-0	UMass Boston	Salem State
 20200425	A	0-0	Hobart & William Smith	Vassar
-20200425	H	0-0	Ithaca	RPI
+20200425	A	0-0	RPI	Ithaca
 20200425	A	0-0	Alvernia	Messiah
 20200425	A	0-0	Carleton	Gustavus Adolphus
 20200425	A	0-0	St. John's (MN)	St. Olaf
@@ -5427,15 +5399,16 @@ date	where	score	winner	loser
 20200425	A	0-0	Capital (OH)	Mount Union
 20200425	A	0-0	John Carroll	Ohio Northern
 20200425	A	0-0	Emory & Henry	Randolph
+20200425	A	0-0	Washington & Lee	Johns Hopkins
 20200425	A	0-0	Farmingdale State	St. Joseph's (Brooklyn)
 20200426	A	0-0	Central (IA)	Dubuque
 20200426	A	0-0	Central (IA)	Loras
 20200426	A	0-0	Augustana (IL)	North Central (IL)
-20200426	H	0-0	Franklin (IN)	Transylvania
+20200426	A	0-0	Transylvania	Franklin (IN)
 20200426	A	0-0	Hobart & William Smith	RPI
 20200426	A	0-0	Ithaca	St. Lawrence
 20200426	A	0-0	Carleton	St. John's (MN)
 20200426	A	0-0	Trinity (CT)	Wesleyan (CT)
-20200426	H	0-0	Sarah Lawrence	Yeshiva
+20200426	A	0-0	Yeshiva	Sarah Lawrence
 20200428	A	0-0	Dubuque	Loras
 20200520	N	0-0	Barton	Findlay
