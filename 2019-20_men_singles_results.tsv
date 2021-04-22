@@ -3034,13 +3034,11 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20190920	440447	513840	N	   F	North Carolina	Joshua Peck         	Texas	Cleeve Harper       	1-6, 6-4, 6-2
 20190920	453487	513854	N	   F	Wake Forest	Yuval Solomon       	Auburn	Tom Wright          	Default
 20190920	453487	446520	N	   F	Wake Forest	Yuval Solomon       	Tennessee	Andrew Rogers       	6-2, 6-4
-20190920	497656	401908	N	   F	Wake Forest	Siddhant Banthia    	Fresno State	Zdenek Derkas       	6-3, 1-6, 6-1
 20190920	497656	444925	N	   F	Wake Forest	Siddhant Banthia    	ETSU	Frazier Rengifo     	6-4, 7-5
 20190920	488308	513840	N	   F	Liberty	Josh Wilson         	Texas	Cleeve Harper       	6-7(7), 6-4, 6-2
 20190920	486712	454831	N	   F	Texas	Chih Chi Huang      	Tulane	Hamish Stewart      	6-2, 1-6, 6-3
 20190920	486712	495917	N	   F	Texas	Chih Chi Huang      	Alabama	Jeremy Gschwendtner 	6-2, 7-5
 20190920	513840	393233	N	   F	Texas	Cleeve Harper       	South Carolina	Thomas Brown        	6-2, 6-4
-20190920	401908	488308	N	   F	Fresno State	Zdenek Derkas       	Liberty	Josh Wilson         	4-6, 7-6(2), 6-2
 20190920	429133	485952	N	   F	Arizona	Filip Malbasic      	South Carolina	Beau Pelletier      	6-2, 6-0
 20190920	429133	491254	N	   F	Arizona	Filip Malbasic      	North Carolina	Brian Cernoch       	6-3, 6-1
 20190920	444974	497074	N	   F	Arizona	Alejandro Requant-Bicardi	SMU	Huntley Allen       	3-6, 6-2, 6-2
@@ -3056,7 +3054,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20190920	485952	485936	N	   F	South Carolina	Beau Pelletier      	ETSU	Yusuf Khamis        	6-1, 1-6, 6-1
 20190920	511593	444925	N	   F	South Carolina	Phillip Jordan      	ETSU	Frazier Rengifo     	6-0, 6-0
 20190920	511593	513966	N	   F	South Carolina	Phillip Jordan      	SMU	Caleb Chakravarthi  	Default
-20190920	511597	489509	N	   F	South Carolina	Connor Thomson      	Fresno State	Angus Bradshaw      	6-0, 6-3
 20190920	461891	489589	N	   F	Tennessee	Adam Walton         	Miami (FL)	Franco Aubone       	6-1, 6-0
 20190920	444925	497074	N	   F	ETSU	Frazier Rengifo     	SMU	Huntley Allen       	6-2, 6-4
 20190920	405135	453379	N	  QF	Tulane	Luis Erlenbusch     	North Carolina	Simon Soendergaard  	6-3, 6-4
@@ -3067,14 +3064,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20190920	403773	405135	N	  16	Miami (FL)	Dane Dunlap         	Tulane	Luis Erlenbusch     	6-3, 1-6, 7-6(3)
 20190920	418054	490435	N	  16	Texas	Yuya Ito            	Wake Forest	Brant Fenno         	6-4, 6-2
 20190920	513841	497925	N	  16	Texas	Siem Woldeab        	Arizona	Jonas Ziverts       	4-6, 6-4, 6-0
-20190920	489509	418564	N	  16	Fresno State	Angus Bradshaw      	Miami (FL)	Bojan Jankulovski   	6-1, 6-3
 20190920	513853	421782	N	  16	Auburn	Tyler Stice         	North Carolina	Mac Kiger           	6-3, 7-5
 20190920	485260	513924	N	  16	South Carolina	Raphael Lambling    	Arizona	Nick Lagaev         	6-2, 6-7(5), 6-2
 20190920	511597	513957	N	  16	South Carolina	Connor Thomson      	SMU	Jordi Redelijk      	6-1, 6-0
 20190920	490120	403773	N	    	SMU	Carles Sarrio Tamarit	Miami (FL)	Dane Dunlap         	6-4, 6-2
 20190920	405135	418564	N	    	Tulane	Luis Erlenbusch     	Miami (FL)	Bojan Jankulovski   	5-7, 6-2, 6-3
 20190920	405135	497925	N	    	Tulane	Luis Erlenbusch     	Arizona	Jonas Ziverts       	6-2, 7-6(4)
-20190920	434419	401908	N	    	Tulane	Ewan Moore          	Fresno State	Zdenek Derkas       	6-0, 6-3
 20190920	434419	461891	N	    	Tulane	Ewan Moore          	Tennessee	Adam Walton         	6-2, 2-6, 6-3
 20190920	434419	489591	N	    	Tulane	Ewan Moore          	Miami (FL)	Francisco Bastias   	6-4, 6-2
 20190920	489591	495917	N	    	Miami (FL)	Francisco Bastias   	Alabama	Jeremy Gschwendtner 	6-3, 6-3
@@ -3096,13 +3091,10 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20190920	418054	513841	N	    	Texas	Yuya Ito            	Texas	Siem Woldeab        	6-2, 6-4
 20190920	513841	490120	N	    	Texas	Siem Woldeab        	SMU	Carles Sarrio Tamarit	1-6, 6-0, 6-4
 20190920	513841	513853	N	    	Texas	Siem Woldeab        	Auburn	Tyler Stice         	6-1, 7-5
-20190920	401908	440447	N	    	Fresno State	Zdenek Derkas       	North Carolina	Joshua Peck         	6-4, 2-6, 1-0
-20190920	489509	403773	N	    	Fresno State	Angus Bradshaw      	Miami (FL)	Dane Dunlap         	6-3, 3-6, 7-5
 20190920	429133	454831	N	    	Arizona	Filip Malbasic      	Tulane	Hamish Stewart      	6-3, 6-7(7), 6-4
 20190920	513924	513957	N	    	Arizona	Nick Lagaev         	SMU	Jordi Redelijk      	6-3, 6-0
 20190920	438760	489591	N	    	Alabama	Edson Ortiz         	Miami (FL)	Francisco Bastias   	6-1, 4-6, 6-4
 20190920	511593	444974	N	    	South Carolina	Phillip Jordan      	Arizona	Alejandro Requant-Bicardi	7-6(4), 6-4
-20190920	485260	489509	N	    	South Carolina	Raphael Lambling    	Fresno State	Angus Bradshaw      	7-5, 6-4
 20190920	485260	490120	N	    	South Carolina	Raphael Lambling    	SMU	Carles Sarrio Tamarit	6-3, 6-4
 20190920	485261	491254	N	    	South Carolina	Daniel Rodrigues    	North Carolina	Brian Cernoch       	7-6(6), 6-2
 20190920	485261	453605	N	    	South Carolina	Daniel Rodrigues    	Miami (FL)	Adria Soriano Barrera	6-1, 6-3
@@ -4508,17 +4500,13 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20190926	412687	459901	N	  32	Texas A&M	Hady Habib          	Weber State	Kris Van Wyk        	6-1, 6-2
 20190926	384588	385696	N	  32	Texas A&M	Juan Carlos Aguilar 	Valparaiso	Brandon Ancona      	6-4, 6-2
 20190926	408256	488309	N	  32	Grand Canyon	Lorenzo Fucile      	Liberty	Nicaise Muamba      	7-6(1), 7-6(7)
-20190926	501835	401908	N	  32	Pepperdine	Corrado Summaria    	Fresno State	Zdenek Derkas       	6-2, 6-1
 20190926	455403	438881	N	 C-F	Mercer	Oliver Stuart       	San Diego	Gui Osorio          	4-6, 6-3, 6-4
 20190926	455403	397744	N	C-SF	Mercer	Oliver Stuart       	South Alabama	Loic Cloes          	6-3, 6-3
-20190926	438881	401908	N	C-SF	San Diego	Gui Osorio          	Fresno State	Zdenek Derkas       	6-2, 6-2
-20190926	401908	435103	N	C-QF	Fresno State	Zdenek Derkas       	A&M-Corpus Christi	William Mottet      	7-5, 7-6(3)
 20190926	455403	458070	N	C-QF	Mercer	Oliver Stuart       	Navy	Andrew Ton          	6-2, 6-2
 20190926	397744	424430	N	C-QF	South Alabama	Loic Cloes          	Baylor	Sven Lah            	
 20190926	438881	488309	N	C-QF	San Diego	Gui Osorio          	Liberty	Nicaise Muamba      	7-6(6), 6-3
 20190926	488309	398131	N	C-16	Liberty	Nicaise Muamba      	Alabama State	Alexis Collard      	6-3, 6-1
 20190926	424430	385696	N	C-16	Baylor	Sven Lah            	Valparaiso	Brandon Ancona      	7-5, 6-2
-20190926	401908	459901	N	C-16	Fresno State	Zdenek Derkas       	Weber State	Kris Van Wyk        	6-4, 6-4
 20190926	455403	386471	N	C-16	Mercer	Oliver Stuart       	Bryant	Guido Argentini     	6-0, 6-1
 20190926	435103	417857	N	C-16	A&M-Corpus Christi	William Mottet      	Belmont	Hendrik Inno        	6-4, 6-3
 20190926	397744	389412	N	C-16	South Alabama	Loic Cloes          	Monmouth (NJ)	Max Benaim          	6-2, 6-0
@@ -4775,9 +4763,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20190927	485349	488907	N	  32	Santa Clara	Arthur Neuhaus      	St. Mary's (CA)	Abhishek Bastola    	7-6(6), 6-4
 20190927	509749	437657	N	  32	Santa Clara	Nick Cmager         	Sonoma State	Max Nudell          	7-5, 1-6, 6-4
 20190927	387947	453284	N	  32	Santa Clara	Jesus Barajas       	Sacramento State	Josh Snowdon-Poole  	6-1, 6-0
-20190927	449006	516069	N	  32	Sonoma State	Santiago Sarudiansky	Fresno State	Daniel Baturyn      	6-4, 7-5
 20190927	425878	488907	N	C-32	Sacramento State	Hermont Legaspi     	St. Mary's (CA)	Abhishek Bastola    	6-1, 2-1
-20190927	516069	453284	N	C-32	Fresno State	Daniel Baturyn      	Sacramento State	Josh Snowdon-Poole  	6-2, 6-1
 20190927	396951	396207	N	C-32	Pacific (CA)	Tadiwa Chinamo      	Sacramento State	Louis Chabut        	3-6, 7-5, 1-0(11)
 20190927	513811	437657	N	C-32	Pacific (CA)	Coby McCaig         	Sonoma State	Max Nudell          	3-6, 6-4, 1-0(8)
 20190927	391764	515749	N	C-32	St. Mary's (CA)	Matis Bot           	Holy Names	Guillermo Romo      	7-5, 3-6, 1-0(5)
@@ -4806,7 +4792,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20190927	489946	488307	N	  32	Nevada	Delmas NTcha        	Sacramento State	Abdulaziz Albayouk  	6-3, 6-1
 20190927	489947	488912	N	  32	Nevada	Daniel Dudockin     	Sonoma State	Harry Cohen         	6-2, 6-0
 20190927	498658	516082	N	  32	Nevada	Gvidas Motuzas      	St. Mary's (CA)	Karlo Divkovic      	6-0, 3-6, 3-6
-20190927	413321	410704	N	  32	Pacific (CA)	Nathan Hampton      	Fresno State	Bailey Gong         	6-4, 6-1
 20190927	416652	515757	N	  32	Pacific (CA)	John Horoz Garner   	Portland	Dustin Kua          	6-2, 6-1
 20190927	513812	497841	N	  32	Pacific (CA)	Manroop Saini       	Holy Names	Dimitrije Vukovic   	7-5, 5-7, 6-3
 20190927	513813	515747	N	  32	Pacific (CA)	Toi Kobayashi       	Holy Names	Alfonso De Simon    	6-0, 6-3
@@ -4816,7 +4801,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20190927	497840	429315	N	  32	Holy Names	Joseph Greco        	St. Mary's (CA)	Akbar Mamirov       	6-3, 7-5
 20190927	488307	497841	N	C-32	Sacramento State	Abdulaziz Albayouk  	Holy Names	Dimitrije Vukovic   	7-6(4), 1-6, 1-0(7)
 20190927	510975	515747	N	C-32	Sacramento State	Anton De La Puente  	Holy Names	Alfonso De Simon    	6-0, 6-3
-20190927	410704	497839	N	C-32	Fresno State	Bailey Gong         	Holy Names	Giovanni Fragalle   	6-3, 6-2
 20190927	489464	497838	N	C-32	Portland	Arjun Mariyappa     	Holy Names	Philip Achenbach    	6-0, 6-0
 20190927	515757	512220	N	C-32	Portland	Dustin Kua          	UC Davis	Mitchell Davis      	6-3, 6-4
 20190927	429315	510974	N	C-32	St. Mary's (CA)	Akbar Mamirov       	Sacramento State	Elliot Arnarp       	7-6(3), 6-2
@@ -4830,8 +4814,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20190927	455986	489460	N	    	UC Davis	Chethan Swanson     	Portland	Nicklas Oberg       	6-3, 6-4
 20190927	455986	489462	N	    	UC Davis	Chethan Swanson     	Portland	Issa Yoshida        	6-1, 2-6, 1-0(6)
 20190927	490414	391764	N	    	UC Davis	Daniel Landa        	St. Mary's (CA)	Matis Bot           	4-6, 6-2, 1-0(8)
-20190927	516069	413321	N	    	Fresno State	Daniel Baturyn      	Pacific (CA)	Nathan Hampton      	6-4, 7-5
-20190927	516069	425878	N	    	Fresno State	Daniel Baturyn      	Sacramento State	Hermont Legaspi     	6-3, 6-3
 20190927	498658	437657	N	    	Nevada	Gvidas Motuzas      	Sonoma State	Max Nudell          	6-7(3), 7-6(4), 1-0(4)
 20190927	396951	417743	N	    	Pacific (CA)	Tadiwa Chinamo      	Santa Clara	Vasileios Iliopoulos	6-4, 3-6, 1-0(9)
 20190927	404557	509749	N	    	Pacific (CA)	Akram El Sallaly    	Santa Clara	Nick Cmager         	6-3, 6-4
@@ -4844,7 +4826,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20190927	489463	513811	N	    	Portland	Leo Hibi            	Pacific (CA)	Coby McCaig         	6-4, 6-4
 20190927	489463	498658	N	    	Portland	Leo Hibi            	Nevada	Gvidas Motuzas      	6-1, 6-4
 20190927	489464	512220	N	    	Portland	Arjun Mariyappa     	UC Davis	Mitchell Davis      	6-2, 6-1
-20190927	489464	410704	N	    	Portland	Arjun Mariyappa     	Fresno State	Bailey Gong         	6-2, 6-1
 20190927	515757	510979	N	    	Portland	Dustin Kua          	Sacramento State	Michael Vizcarra    	6-3, 6-4
 20190927	515758	485349	N	    	Portland	Kostya Nesterenko   	Santa Clara	Arthur Neuhaus      	6-1, 6-3
 20190927	414282	497838	N	    	St. Mary's (CA)	Jackson Hawk        	Holy Names	Philip Achenbach    	6-4, 6-4
@@ -4852,7 +4833,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20190927	501999	515509	N	    	St. Mary's (CA)	Andy Watterson      	Sonoma State	Marco Alvarez       	6-2, 6-4
 20190927	485352	396951	N	    	Santa Clara	Santiago Hinojosa   	Pacific (CA)	Tadiwa Chinamo      	6-4, 7-6(4)
 20190927	417743	418723	N	    	Santa Clara	Vasileios Iliopoulos	UC Davis	Arjith Jayaraman    	3-6, 6-1, 1-0(7)
-20190927	428312	410704	N	    	Holy Names	Javier Luque        	Fresno State	Bailey Gong         	5-7, 6-0, 1-0(8)
 20190927	497840	510975	N	    	Holy Names	Joseph Greco        	Sacramento State	Anton De La Puente  	2-6, 7-5, 1-0(9)
 20190927	497841	510974	N	    	Holy Names	Dimitrije Vukovic   	Sacramento State	Elliot Arnarp       	7-5, 7-6(4)
 20190927	515749	513813	N	    	Holy Names	Guillermo Romo      	Pacific (CA)	Toi Kobayashi       	6-0, 6-4
@@ -7719,25 +7699,18 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20191004	509740	493852	N	    	Monmouth (NJ)	Christof Zeiler     	Villanova	Matthew Jones       	6-1, 7-5
 20191004	509741	424441	N	    	Monmouth (NJ)	Charles Gortzounian 	Drexel	Youssef Lahlou      	6-0, 6-3
 20191004	463315	429315	N	   F	Cal Poly	Andrew Whitehouse   	St. Mary's (CA)	Akbar Mamirov       	7-5, 6-3
-20191004	429315	410704	N	  SF	St. Mary's (CA)	Akbar Mamirov       	Fresno State	Bailey Gong         	6-4, 6-2
 20191004	463315	414282	N	  QF	Cal Poly	Andrew Whitehouse   	St. Mary's (CA)	Jackson Hawk        	6-4, 6-1
-20191004	410704	510974	N	  QF	Fresno State	Bailey Gong         	Sacramento State	Elliot Arnarp       	6-3, 6-4
 20191004	429315	486601	N	  QF	St. Mary's (CA)	Akbar Mamirov       	San Francisco	David Woodland      	6-4, 3-6, 6-2
 20191004	486601	414282	N	 C-F	San Francisco	David Woodland      	St. Mary's (CA)	Jackson Hawk        	6-4, 6-2
 20191004	414282	513235	N	C-SF	St. Mary's (CA)	Jackson Hawk        	UC Riverside	Diego Gomez         	7-5, 6-3
 20191004	486601	510974	N	C-SF	San Francisco	David Woodland      	Sacramento State	Elliot Arnarp       	5-7, 6-2, 1-0(7)
 20191004	510974	513235	N	    	Sacramento State	Elliot Arnarp       	UC Riverside	Diego Gomez         	6-7(6), 6-4, 1-0(8)
-20191004	401908	488500	N	   F	Fresno State	Zdenek Derkas       	San Francisco	Nitzan Ricklis      	6-3, 6-2
-20191004	401908	410113	N	  SF	Fresno State	Zdenek Derkas       	San Francisco	Paul Giraud         	6-4, 6-2
 20191004	488500	425878	N	  SF	San Francisco	Nitzan Ricklis      	Sacramento State	Hermont Legaspi     	6-7, 6-0, 4-4
 20191004	425878	451276	N	  QF	Sacramento State	Hermont Legaspi     	Cal Poly	Roman Shenkiryk     	6-1, 7-5
-20191004	401908	499455	N	  QF	Fresno State	Zdenek Derkas       	St. Mary's (CA)	James Watt          	7-6(12), 6-1
 20191004	410113	516082	N	  QF	San Francisco	Paul Giraud         	St. Mary's (CA)	Karlo Divkovic      	6-3, 6-2
 20191004	488500	418723	N	  QF	San Francisco	Nitzan Ricklis      	UC Davis	Arjith Jayaraman    	6-1, 3-6, 6-2
 20191004	425878	490414	N	  16	Sacramento State	Hermont Legaspi     	UC Davis	Daniel Landa        	6-2, 6-1
-20191004	451276	516070	N	  16	Cal Poly	Roman Shenkiryk     	Fresno State	Johannes Seeman     	2-6, 7-5, 6-4
 20191004	418723	513234	N	  16	UC Davis	Arjith Jayaraman    	UC Riverside	Daniel Velek        	7-6(5), 1-6, 6-2
-20191004	401908	510978	N	  16	Fresno State	Zdenek Derkas       	Sacramento State	Carlos Rodriguez    	6-3, 6-0
 20191004	499455	512219	N	  16	St. Mary's (CA)	James Watt          	UC Davis	Andrei Volgin       	7-6(6), 7-5
 20191004	516082	513936	N	  16	St. Mary's (CA)	Karlo Divkovic      	Cal Poly	Fernando Fonseca    	6-4, 6-7(4), 7-6(4)
 20191004	410113	455986	N	  16	San Francisco	Paul Giraud         	UC Davis	Chethan Swanson     	6-3, 6-3
@@ -7747,27 +7720,20 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20191004	513234	490414	N	C-SF	UC Riverside	Daniel Velek        	UC Davis	Daniel Landa        	6-1, 6-2
 20191004	513936	455986	N	C-QF	Cal Poly	Fernando Fonseca    	UC Davis	Chethan Swanson     	6-3, 6-1
 20191004	512219	510978	N	C-QF	UC Davis	Andrei Volgin       	Sacramento State	Carlos Rodriguez    	6-2, 6-4
-20191004	490414	516070	N	C-QF	UC Davis	Daniel Landa        	Fresno State	Johannes Seeman     	6-4, 6-7, 1-0(6)
 20191004	513234	488909	N	C-QF	UC Riverside	Daniel Velek        	St. Mary's (CA)	Boris Reckow        	6-4, 6-2
 20191004	513936	490414	N	    	Cal Poly	Fernando Fonseca    	UC Davis	Daniel Landa        	6-2, 6-2
 20191004	451276	418723	N	    	Cal Poly	Roman Shenkiryk     	UC Davis	Arjith Jayaraman    	6-4, 7-6(5)
 20191004	455986	499455	N	    	UC Davis	Chethan Swanson     	St. Mary's (CA)	James Watt          	1-6, 5-5
 20191004	455986	510978	N	    	UC Davis	Chethan Swanson     	Sacramento State	Carlos Rodriguez    	6-3, 0-6, 1-0(11)
-20191004	516070	516082	N	    	Fresno State	Johannes Seeman     	St. Mary's (CA)	Karlo Divkovic      	6-0, 6-4
-20191004	516070	488909	N	    	Fresno State	Johannes Seeman     	St. Mary's (CA)	Boris Reckow        	6-1, 6-0
 20191004	488909	510978	N	    	St. Mary's (CA)	Boris Reckow        	Sacramento State	Carlos Rodriguez    	6-0, 6-4
 20191004	499455	451276	N	    	St. Mary's (CA)	James Watt          	Cal Poly	Roman Shenkiryk     	6-0, 4-6, 1-0(3)
 20191004	410113	425878	N	    	San Francisco	Paul Giraud         	Sacramento State	Hermont Legaspi     	6-2, 6-2
-20191004	486600	516069	N	   F	San Francisco	Phuc Huynh          	Fresno State	Daniel Baturyn      	3-6, 6-4, 6-3
-20191004	516069	488907	N	  SF	Fresno State	Daniel Baturyn      	St. Mary's (CA)	Abhishek Bastola    	6-1, 6-1
 20191004	512423	486600	N	  SF	San Francisco	Johan Garpered      	San Francisco	Phuc Huynh          	6-1, 6-3
-20191004	516069	501999	N	  QF	Fresno State	Daniel Baturyn      	St. Mary's (CA)	Andy Watterson      	6-3, 6-3
 20191004	488907	513935	N	  QF	St. Mary's (CA)	Abhishek Bastola    	Cal Poly	Alexis Delisle      	3-6, 6-2, 6-3
 20191004	486600	391764	N	  QF	San Francisco	Phuc Huynh          	St. Mary's (CA)	Matis Bot           	7-5, 6-0
 20191004	512423	512218	N	  QF	San Francisco	Johan Garpered      	UC Davis	Brett Brinkman      	6-2, 7-6(4)
 20191004	513935	512424	N	  16	Cal Poly	Alexis Delisle      	San Francisco	Mitch Johnson       	7-5, 6-2
 20191004	512218	510979	N	  16	UC Davis	Brett Brinkman      	Sacramento State	Michael Vizcarra    	6-3, 6-0
-20191004	516069	418441	N	  16	Fresno State	Daniel Baturyn      	UC Davis	Dariush Jalali      	6-2, 7-5
 20191004	488907	512220	N	  16	St. Mary's (CA)	Abhishek Bastola    	UC Davis	Mitchell Davis      	6-0, 6-1
 20191004	501999	513237	N	  16	St. Mary's (CA)	Andy Watterson      	UC Riverside	Nikita Horunzhy     	7-5, 6-0
 20191004	391764	510975	N	  16	St. Mary's (CA)	Matis Bot           	Sacramento State	Anton De La Puente  	7-6(3), 6-0
@@ -8933,15 +8899,11 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20191011	516989	513936	N	   F	Oregon	Brandon Lam         	Cal Poly	Fernando Fonseca    	7-6(4), 6-3
 20191011	513936	416764	N	  SF	Cal Poly	Fernando Fonseca    	San Diego State	David Hough         	3-6, 6-4, 6-4
 20191011	516989	485739	N	  SF	Oregon	Brandon Lam         	UC Santa Barbara	Alex Soto           	7-5, 7-5
-20191011	513936	516069	N	  QF	Cal Poly	Fernando Fonseca    	Fresno State	Daniel Baturyn      	6-0, 7-5
 20191011	485739	488086	N	  QF	UC Santa Barbara	Alex Soto           	Cal Poly	Karapet Vardanyan   	7-6(7), 6-2
 20191011	416764	459007	N	  QF	San Diego State	David Hough         	Stanford	Sam Turchetta       	7-5, 6-4
-20191011	516989	516070	N	  QF	Oregon	Brandon Lam         	Fresno State	Johannes Seeman     	6-3, 6-3
 20191011	488086	488297	N	  16	Cal Poly	Karapet Vardanyan   	Stanford	Tomas Kopczynski    	6-2, 6-1
 20191011	513936	448102	N	  16	Cal Poly	Fernando Fonseca    	UC Santa Barbara	Wilhelm Saiga       	6-4, 4-6, 6-4
 20191011	485739	430238	N	  16	UC Santa Barbara	Alex Soto           	San Diego State	Ignacio Martinez    	6-4, 6-3
-20191011	516069	445952	N	  16	Fresno State	Daniel Baturyn      	Oregon	Charles Roberts     	6-3, 3-6, 6-4
-20191011	516070	440730	N	  16	Fresno State	Johannes Seeman     	UCLA	Bryce Pereira       	6-2, 7-6(4)
 20191011	416764	420234	N	  16	San Diego State	David Hough         	Loyola Marymount	Max Kaiser          	6-2, 6-4
 20191011	516989	451276	N	  16	Oregon	Brandon Lam         	Cal Poly	Roman Shenkiryk     	6-3, 3-6, 7-6(3)
 20191011	459007	489260	N	  16	Stanford	Sam Turchetta       	UCLA	Max Wild            	6-1, 6-1
@@ -8952,11 +8914,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20191011	448102	445952	N	C-QF	UC Santa Barbara	Wilhelm Saiga       	Oregon	Charles Roberts     	6-2, 7-5
 20191011	430238	488297	N	C-QF	San Diego State	Ignacio Martinez    	Stanford	Tomas Kopczynski    	7-6(1), 6-1
 20191011	420234	489260	N	C-QF	Loyola Marymount	Max Kaiser          	UCLA	Max Wild            	
-20191011	488086	516070	N	    	Cal Poly	Karapet Vardanyan   	Fresno State	Johannes Seeman     	3-6, 6-3, 6-2
-20191011	488086	516069	N	    	Cal Poly	Karapet Vardanyan   	Fresno State	Daniel Baturyn      	7-5, 6-1
 20191011	448102	430238	N	    	UC Santa Barbara	Wilhelm Saiga       	San Diego State	Ignacio Martinez    	6-0, 7-5
-20191011	516069	459007	N	    	Fresno State	Daniel Baturyn      	Stanford	Sam Turchetta       	6-0, 7-5
-20191011	516070	459007	N	    	Fresno State	Johannes Seeman     	Stanford	Sam Turchetta       	6-3, 6-3
 20191011	416764	485739	N	    	San Diego State	David Hough         	UC Santa Barbara	Alex Soto           	6-4, 6-2
 20191011	445952	489260	N	    	Oregon	Charles Roberts     	UCLA	Max Wild            	
 20191011	445952	440730	N	    	Oregon	Charles Roberts     	UCLA	Bryce Pereira       	4-0
@@ -8969,7 +8927,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20191011	410869	461380	N	  QF	San Diego State	Rafael Gonzalez Almazan	UC Santa Barbara	Luka Vukmanovic     	6-2, 6-3
 20191011	491769	465000	N	  QF	Oregon	Evan Felcher        	California	Thomas Wright       	7-6(5), 6-2
 20191011	489258	512047	N	  QF	UCLA	Blaine Hovenier     	UC Santa Barbara	Joshua Williams     	6-2, 6-4
-20191011	512047	410704	N	  16	UC Santa Barbara	Joshua Williams     	Fresno State	Bailey Gong         	6-1, 6-2
 20191011	410869	516992	N	  16	San Diego State	Rafael Gonzalez Almazan	Oregon	Giorgio Soemarno    	6-1, 7-5
 20191011	465000	393200	N	  16	California	Thomas Wright       	Loyola Marymount	Ryan Brown          	6-4, 4-6, 6-3
 20191011	491769	512845	N	  16	Oregon	Evan Felcher        	Loyola Marymount	Alvaro Gonzalez     	6-2, 7-6(8)
@@ -8977,12 +8934,10 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20191011	488085	489258	N	    	Cal Poly	Cambell Nakayama    	UCLA	Blaine Hovenier     	6-3, 6-1
 20191011	512047	465000	N	    	UC Santa Barbara	Joshua Williams     	California	Thomas Wright       	6-3, 6-4
 20191011	512047	512402	N	    	UC Santa Barbara	Joshua Williams     	Stanford	Dean Stratakos      	6-3, 6-2
-20191011	461380	410704	N	    	UC Santa Barbara	Luka Vukmanovic     	Fresno State	Bailey Gong         	7-6(3), 7-5
 20191011	516992	393200	N	    	Oregon	Giorgio Soemarno    	Loyola Marymount	Ryan Brown          	6-4, 1-6, 9-7
 20191011	512402	461380	N	    	Stanford	Dean Stratakos      	UC Santa Barbara	Luka Vukmanovic     	7-6, 6-0
 20191011	489258	410869	N	    	UCLA	Blaine Hovenier     	San Diego State	Rafael Gonzalez Almazan	6-7(5), 7-6(3), 1-0(6)
 20191011	512847	465000	N	    	Loyola Marymount	Emin Torlic         	California	Thomas Wright       	6-4, 6-1
-20191011	512847	410704	N	    	Loyola Marymount	Emin Torlic         	Fresno State	Bailey Gong         	6-1, 6-1
 20191011	393200	512845	N	    	Loyola Marymount	Ryan Brown          	Loyola Marymount	Alvaro Gonzalez     	6-4, 6-4
 20191011	512845	516992	N	    	Loyola Marymount	Alvaro Gonzalez     	Oregon	Giorgio Soemarno    	6-1, 6-2
 20191011	512847	516992	N	    	Loyola Marymount	Emin Torlic         	Oregon	Giorgio Soemarno    	6-0, 4-6, 6-2
@@ -11905,7 +11860,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20191025	488500	413443	N	  64	San Francisco	Nitzan Ricklis      	Portland	Tom Hann            	6-4, 6-4
 20191025	512423	420928	N	  64	San Francisco	Johan Garpered      	California	Can Kaya            	3-6, 6-3, 6-3
 20191025	388620	492439	N	 128	Eastern Washington	Martin Bats         	Portland State	Nikola Dimitrijevic 	6-1, 6-7(3), 6-4
-20191025	492005	489509	N	 128	Eastern Washington	Mik Balce           	Fresno State	Angus Bradshaw      	3-6, 6-4, 6-4
 20191025	492007	486600	N	 128	Eastern Washington	Wout Doumen         	San Francisco	Phuc Huynh          	7-5, 6-1
 20191025	416401	514980	N	 128	Portland State	Otto Holtari        	Seattle	Lars Schmassmann    	6-1, 6-1
 20191025	446003	516992	N	 128	Portland State	Sam Roberts         	Oregon	Giorgio Soemarno    	6-1, 2-6, 6-4
@@ -11929,7 +11883,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20191025	409547	489460	N	 128	Oregon	Ty Gentry           	Portland	Nicklas Oberg       	6-4, 6-0
 20191025	491768	485349	N	 128	Oregon	Joshua Charlton     	Santa Clara	Arthur Neuhaus      	7-6(7), 6-3
 20191025	512404	414282	N	 128	Stanford	Neel Rajesh         	St. Mary's (CA)	Jackson Hawk        	6-1, 6-2
-20191025	512403	516070	N	 128	Stanford	Filip Kolasinski    	Fresno State	Johannes Seeman     	6-4, 6-4
 20191025	448080	516989	N	 128	Stanford	Timothy Sah         	Oregon	Brandon Lam         	6-0, 3-6, 6-3
 20191025	400756	459007	N	 128	Washington	Jack Davis          	Stanford	Sam Turchetta       	6-4, 6-4
 20191025	488393	405563	N	 128	Washington	Adam Torocsik       	Gonzaga	Kyle Everly         	5-7, 6-3, 6-3
@@ -11967,12 +11920,10 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20191025	492007	510975	N	    	Eastern Washington	Wout Doumen         	Sacramento State	Anton De La Puente  	4-6, 6-1, 1-0(1)
 20191025	446003	511225	N	    	Portland State	Sam Roberts         	Washington	Kailuhia Lam        	6-4, 6-2
 20191025	492439	488394	N	    	Portland State	Nikola Dimitrijevic 	Washington	Kasper Smith        	3-6, 6-3, 1-0(5)
-20191025	425878	489509	N	    	Sacramento State	Hermont Legaspi     	Fresno State	Angus Bradshaw      	6-4, 6-1
 20191025	488307	513930	N	    	Sacramento State	Abdulaziz Albayouk  	Eastern Washington	Erik Grimes         	6-2, 6-1
 20191025	418723	393693	N	    	UC Davis	Arjith Jayaraman    	Portland State	Majeed Bukhari      	6-2, 6-0
 20191025	457208	510978	N	    	UC Davis	Ivan Thamma         	Sacramento State	Carlos Rodriguez    	6-3, 7-5
 20191025	512219	485352	N	    	UC Davis	Andrei Volgin       	Santa Clara	Santiago Hinojosa   	7-6(4), 3-6, 1-0(4)
-20191025	516070	405563	N	    	Fresno State	Johannes Seeman     	Gonzaga	Kyle Everly         	6-3, 6-2
 20191025	516989	514244	N	    	Oregon	Brandon Lam         	Gonzaga	Brandon Park        	6-4, 6-4
 20191025	516989	514233	N	    	Oregon	Brandon Lam         	Gonzaga	Oliver Andersson    	6-3, 7-5
 20191025	516992	465000	N	    	Oregon	Giorgio Soemarno    	California	Thomas Wright       	6-3, 3-6, 1-0(8)
@@ -15203,12 +15154,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200118	385196	488665	N	   4	Minnesota	Jackson Allen       	Marquette	Fran San Andres     	6-0, 6-2
 20200118	510944	489688	N	   5	Marquette	Stefan Dragovic     	Minnesota	Sebastian Vile      	6-4, 7-6(2)
 20200118	509900	450985	N	   6	Minnesota	Bodin Zarkovic      	Marquette	Brandon Shanklin    	6-3, 6-2
-20200118	416362	401908	H	   1	San Diego	August Holmgren     	Fresno State	Zdenek Derkas       	6-2, 7-6(10)
-20200118	408761	489509	H	   2	San Diego	Joel Gamerov        	Fresno State	Angus Bradshaw      	6-0, 5-7, 6-4
-20200118	391668	516070	H	   3	San Diego	Nico Borter         	Fresno State	Johannes Seeman     	6-1, 6-0
-20200118	437470	521290	H	   4	San Diego	David Norfeldt      	Fresno State	Alexey Aleshchev    	6-4, 6-2
-20200118	453405	511863	A	   5	Fresno State	Cagatay Soke        	San Diego	Marvin Schaber      	6-4, 7-5
-20200118	464469	485733	A	   6	Fresno State	Henrique Wojciecnowski Osorio	San Diego	Armin Rostami       	6-0, 1-6, 0-6
 20200118	464274	489410	H	   1	Xavier	Brett Winters       	Ball State	Danilo Kovacevic    	6-2, 6-7(5), 6-2
 20200118	384320	514825	A	   2	Ball State	Christopher Adams   	Xavier	Srdan Pejic         	6-3, 7-6(4)
 20200118	490646	411285	A	   3	Ball State	Thibault De Negri   	Xavier	Matthew Graft       	4-6, 7-6(2), 6-2
@@ -16288,11 +16233,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200125	472045	457580	A	   4	NC A&T	Jorge Goenaga       	Charlotte	Collin Thomson      	6-3, 5-7, 7-6(4)
 20200125	515987	517214	A	   5	NC A&T	Esteban Lopez       	Charlotte	Cole Brainard       	6-7(5), 7-5, 1-0(8)
 20200125	517215	487179	H	   6	Charlotte	Peter Glenn         	NC A&T	Nolan Martino       	6-3, 2-6, 7-5
-20200125	485713	401908	N	   1	South Florida	Chase Ferguson      	Fresno State	Zdenek Derkas       	6-2, 6-1
-20200125	464470	489509	N	   2	South Florida	Jacob Wojcik        	Fresno State	Angus Bradshaw      	4-6, 6-3, 6-4
-20200125	516070	428315	N	   3	Fresno State	Johannes Seeman     	South Florida	Pierre Luquet       	6-4, 6-2
-20200125	521290	512187	N	   4	Fresno State	Alexey Aleshchev    	South Florida	Antonio Muniz       	6-1, 6-3
-20200125	485717	453405	N	   5	South Florida	Ivan Yatsuk         	Fresno State	Cagatay Soke        	7-6(4), 6-4
 20200125	448641	489235	N	   1	Ole Miss	Tim Sandkaulen      	Michigan	Andrew Fenty        	6-3, 6-4
 20200125	451828	485280	N	   2	Michigan	Mattias Siimar      	Ole Miss	Jan Soeren Hain     	6-1, 6-2
 20200125	510689	520891	N	   3	Michigan	Ondrej Styler       	Ole Miss	Finn Reynolds       	6-7(1), 6-4, 7-6(4)
@@ -16633,9 +16573,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200126	395681	521648	A	   4	DePaul	Christopher Casati  	Green Bay	Kentaro Mizushima   	7-5, 6-0
 20200126	458939	521647	A	   5	DePaul	Tripp Tuff          	Green Bay	Teddy Razafindratsma	6-2, 6-2
 20200126	443698	462201	H	   6	Green Bay	Ivan Radomirovic    	DePaul	Luuk Wassener       	5-7, 6-4, 7-6
-20200126	401908	511125	N	   1	Fresno State	Zdenek Derkas       	Temple	Louis Gorregues     	6-1, 6-1
-20200126	489509	491361	N	   2	Fresno State	Angus Bradshaw      	Temple	Paolo Cucalon       	6-3, 6-1
-20200126	453405	386359	N	   5	Fresno State	Cagatay Soke        	Temple	Juan Araoz          	6-3, 6-3
 20200126	414083	399332	N	   1	Vanderbilt	George Harwell      	Indiana	Bennett Crane       	6-3, 7-6(5)
 20200126	447265	392861	N	   2	Vanderbilt	Billy Rowe          	Indiana	Zac Brodney         	6-4, 6-4
 20200126	491337	407955	N	   3	Indiana	Carson Haskins      	Vanderbilt	Maxwell Freeman     	6-3, 6-3
@@ -18338,12 +18275,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200206	511050	517940	N	   4	Nicholls State	Omar Morsy          	Jacksonville State	Dmitrii Vasilev     	2-6, 6-2
 20200206	420530	511045	N	   5	Jacksonville State	Aljaz Kaplja        	Nicholls State	Prasanna Bagade     	6-2, 6-2
 20200206	390730	511047	N	   6	Jacksonville State	Jordi Blanchar      	Nicholls State	Antoine Thiriat     	6-2, 2-6
-20200206	412312	401908	H	   1	UC Santa Barbara	Joseph Guillin      	Fresno State	Zdenek Derkas       	6-3, 6-4
-20200206	423713	489509	H	   2	UC Santa Barbara	Victor Krustev      	Fresno State	Angus Bradshaw      	6-3, 6-2
-20200206	512046	516070	H	   3	UC Santa Barbara	Alejandro Vedri     	Fresno State	Johannes Seeman     	6-4, 6-3
-20200206	521290	447179	A	   4	Fresno State	Alexey Aleshchev    	UC Santa Barbara	Joseph Rotheram     	6-2, 7-5
-20200206	453405	461380	A	   5	Fresno State	Cagatay Soke        	UC Santa Barbara	Luka Vukmanovic     	6-3, 6-2
-20200206	464469	512047	A	   6	Fresno State	Henrique Wojciecnowski Osorio	UC Santa Barbara	Joshua Williams     	3-6, 6-3, 7-6(7)
 20200206	512154	461543	N	   2	Gustavus Adolphus	Alex Budde          	Warner	Vitor Wagner        	6-3, 6-2
 20200206	523047	497407	N	   3	Gustavus Adolphus	Oscar Wikstrom      	Warner	Filipe Gil          	6-1, 4-6, 6-1
 20200206	512152	497408	N	   5	Gustavus Adolphus	Jack Bergmeyer      	Warner	Henrique Dias       	6-3, 6-2
@@ -18483,12 +18414,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200207	511791	516516	A	   4	East Carolina	Agustin Tamagnone   	St. John's (NY)	Djuro Opacic        	7-6, 6-1
 20200207	419784	516931	A	   5	East Carolina	Wisse Jonker        	St. John's (NY)	Giuseppe Decamelis  	6-3, 7-5
 20200207	510248	523044	A	   6	East Carolina	Federico Masetti    	St. John's (NY)	Evan Felcher        	6-7, 6-1, 6-1
-20200207	437336	401908	H	   1	Cal Poly	Antoine Noel        	Fresno State	Zdenek Derkas       	7-6(4), 3-6, 6-4
-20200207	516070	513936	A	   2	Fresno State	Johannes Seeman     	Cal Poly	Fernando Fonseca    	7-6(4), 4-6, 6-4
-20200207	521290	519960	A	   3	Fresno State	Alexey Aleshchev    	Cal Poly	Joe Leather         	3-6, 6-4, 7-5
-20200207	488086	453405	H	   4	Cal Poly	Karapet Vardanyan   	Fresno State	Cagatay Soke        	6-4, 6-3
-20200207	454378	464469	H	   5	Cal Poly	Alexander Stater    	Fresno State	Henrique Wojciecnowski Osorio	6-1, 6-3
-20200207	516069	451276	A	   6	Fresno State	Daniel Baturyn      	Cal Poly	Roman Shenkiryk     	6-7(2), 6-2, 6-3
 20200207	404031	437230	N	   1	Arkansas Ft. Smith	Wian Van Dyk        	Spring Hill	Cedric Nitz         	0-3, 6-2
 20200207	514324	391648	N	   2	Spring Hill	Jakob Graevingoff   	Arkansas Ft. Smith	Daniel Borrero      	6-1, 6-2
 20200207	514322	499497	N	   3	Spring Hill	Louis Deck          	Arkansas Ft. Smith	Ethan Eddleman      	2-6, 1-6, 7-6(7)
@@ -21288,9 +21213,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200215	404083	446127	N	   2	Cornell College	Hayden Dzurisin     	Hamline	Nazeer Robinson     	6-2, 6-4
 20200215	487872	516545	N	   3	Cornell College	Nick Adamou         	Hamline	Sean Le             	6-1, 6-2
 20200215	487873	516546	N	   4	Cornell College	Drew Arnold         	Hamline	Allan Yang          	6-1, 6-2
-20200215	523004	516070	A	   2	Pepperdine	Daniel De Jonge     	Fresno State	Johannes Seeman     	6-0, 6-3
-20200215	497648	453405	A	   4	Pepperdine	Tim Zeitvogel       	Fresno State	Cagatay Soke        	6-2, 7-6(7)
-20200215	515020	516069	A	   6	Pepperdine	Robert Shelton      	Fresno State	Daniel Baturyn      	6-2, 6-1
 20200215	449639	440739	N	   3	Bluefield State	Tom Schmieta        	Point	Julien Pereira      	6-3, 6-3
 20200215	514502	457895	N	   4	Bluefield State	Mohamed Khalil      	Point	Patrick Tobacco     	6-3, 6-3
 20200215	394143	514997	N	   5	Bluefield State	Luke Busse          	Point	Guido Luna          	7-6, 3-6, 1-0(9)
@@ -22551,12 +22473,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200221	496557	456690	H	   2	Edinboro	Ting-Hao Hsu        	Charleston	Joqo Tayar          	7-6(3), 6-3
 20200221	511981	443016	H	   3	Edinboro	Kaio Sacchi         	Charleston	Jason Prince        	7-6(5), 6-3
 20200221	511980	512232	H	   5	Edinboro	Chia Chun Chiang    	Charleston	Alejandro Martinez  	6-2, 6-4
-20200221	401908	448641	N	   1	Fresno State	Zdenek Derkas       	Ole Miss	Tim Sandkaulen      	7-6(3), 7-6(3)
-20200221	485280	516070	N	   2	Ole Miss	Jan Soeren Hain     	Fresno State	Johannes Seeman     	6-2, 6-7(4), 6-3
-20200221	521290	520891	N	   3	Fresno State	Alexey Aleshchev    	Ole Miss	Finn Reynolds       	7-6(2), 2-6, 6-2
-20200221	513419	453405	N	   4	Ole Miss	Nikola Slavic       	Fresno State	Cagatay Soke        	6-4, 7-6(2)
-20200221	485272	464469	N	   5	Ole Miss	Simon Junk          	Fresno State	Henrique Wojciecnowski Osorio	6-1, 6-1
-20200221	513418	516069	N	   6	Ole Miss	Lukas Engelhardt    	Fresno State	Daniel Baturyn      	6-4, 6-2
 20200221	518228	479033	H	   1	Benedict	Mark Chigaazira     	Morehouse	Nolan Saddler       	6-1, 6-1
 20200221	504669	477020	H	   2	Benedict	Batsiari Saurombe   	Morehouse	Cameron Nolan       	6-1, 6-1
 20200221	435765	478120	H	   3	Benedict	Julius Mutetwa      	Morehouse	Maurice Pugh        	6-3, 6-3
@@ -23377,9 +23293,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200222	493503	523924	H	   4	Belmont Abbey	Kent Shiell         	Chowan	Francisco Salvatori 	6-0, 6-3
 20200222	510385	523926	H	   5	Belmont Abbey	Gabriel Martin      	Chowan	Job Williamson      	6-0, 6-0
 20200222	522164	502269	H	   6	Belmont Abbey	Nicholas Cary       	Chowan	No Player           	
-20200222	485875	401908	N	   1	Texas Tech	Parker Wynn         	Fresno State	Zdenek Derkas       	6-3, 7-5
-20200222	459644	516070	N	   2	Texas Tech	Ilgiz Valiev        	Fresno State	Johannes Seeman     	6-4, 6-2
-20200222	520546	521290	N	   3	Texas Tech	Isaac Arevalo       	Fresno State	Alexey Aleshchev    	7-6, 6-1
 20200222	487063	401887	A	   1	Wash U	Ethan Hillis        	Gustavus Adolphus	Yassine Derbani     	6-1, 6-2
 20200222	436618	486031	A	   2	Wash U	Bernardo Neves      	Gustavus Adolphus	Nick Aney           	7-5, 6-0
 20200222	426539	486043	A	   3	Wash U	Daniel Li           	Gustavus Adolphus	Indraneel Raut      	7-6(3), 6-4
@@ -23443,11 +23356,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200222	513852	444277	N	   4	Auburn	Spencer Gray        	Middle Tennessee	Max Rauch           	6-1, 6-1
 20200222	485271	396572	N	   5	Middle Tennessee	Pavel Motl          	Auburn	Diego Chavarria     	7-6, 6-2
 20200222	485275	485174	N	   6	Middle Tennessee	Francisco Rocha     	Auburn	Anders Fry          	6-2, 6-1
-20200222	513853	516070	N	   2	Auburn	Tyler Stice         	Fresno State	Johannes Seeman     	6-4, 6-2
-20200222	521290	520699	N	   3	Fresno State	Alexey Aleshchev    	Auburn	Finn Murgett        	5-7, 6-4, 7-5
-20200222	453405	513852	N	   4	Fresno State	Cagatay Soke        	Auburn	Spencer Gray        	6-3, 2-6, 6-3
-20200222	396572	464469	N	   5	Auburn	Diego Chavarria     	Fresno State	Henrique Wojciecnowski Osorio	6-4, 6-1
-20200222	516069	403896	N	   6	Fresno State	Daniel Baturyn      	Auburn	Michael Durham      	6-2, 6-1
 20200222	460570	521308	A	   1	Swarthmore	Thibault Vernier    	Muhlenberg	Benedict Kohler     	6-0, 6-2
 20200222	486643	450587	A	   2	Swarthmore	Weiyi Zhu           	Muhlenberg	Noah Sellinger      	6-1, 6-1
 20200222	511625	411394	A	   3	Swarthmore	Hellman Zhao        	Muhlenberg	Jason Grant         	6-2, 6-2
@@ -25453,15 +25361,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200229	520668	514537	H	   4	Belmont	Arthur Toledo       	Dayton	Georgi Mavrodiev    	6-2, 6-2
 20200229	392703	486426	H	   5	Belmont	Jake Briggs         	Dayton	Joe Demarco         	6-3, 6-1
 20200229	405971	413733	H	   6	Belmont	David Faulkner      	Dayton	Will Harper         	3-6, 6-4, 1-0(8)
-20200229	516070	496353	H	   2	Fresno State	Johannes Seeman     	Lamar	Carlos Paton Canal  	6-0, 6-1
-20200229	521290	430985	H	   3	Fresno State	Alexey Aleshchev    	Lamar	Nicolas Mayr        	6-1, 6-4
-20200229	464469	510084	H	   5	Fresno State	Henrique Wojciecnowski Osorio	Lamar	Joshua Sundaram     	6-3, 6-2
-20200229	516069	486687	H	   6	Fresno State	Daniel Baturyn      	Lamar	Joshua Taylor       	6-2, 6-3
-20200229	514234	516070	A	   2	Gonzaga	Matthew Hollingworth	Fresno State	Johannes Seeman     	3-6, 6-2, 6-3
-20200229	521290	514233	H	   3	Fresno State	Alexey Aleshchev    	Gonzaga	Oliver Andersson    	6-2, 6-4
-20200229	453405	445025	H	   4	Fresno State	Cagatay Soke        	Gonzaga	Vincent Rettke      	2-6, 6-3, 6-4
-20200229	464469	514243	H	   5	Fresno State	Henrique Wojciecnowski Osorio	Gonzaga	Theo McDonald       	1-6, 6-4, 6-3
-20200229	514244	516069	A	   6	Gonzaga	Brandon Park        	Fresno State	Daniel Baturyn      	6-2, 6-4
 20200229	421527	515848	H	   1	St. Mary's (CA)	Damon Kesaris       	UC Santa Cruz	Lucas Chen          	6-1, 6-3
 20200229	522486	515846	H	   2	St. Mary's (CA)	Felipe Rincon       	UC Santa Cruz	Reini Igna          	3-6, 6-1, 1-0
 20200229	516082	515844	H	   3	St. Mary's (CA)	Karlo Divkovic      	UC Santa Cruz	Andre Mardirossian  	6-3, 6-4
@@ -25985,12 +25884,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200301	450718	489946	N	   3	Hawaii	Blaz Seric          	Nevada	Delmas NTcha        	6-4, 6-3
 20200301	496892	498658	N	   5	Hawaii	Simao Alves         	Nevada	Gvidas Motuzas      	6-2, 7-5
 20200301	430158	489945	N	   6	Hawaii	Tristan Martin      	Nevada	Benjamin Campi      	6-3, 6-3
-20200301	401908	401620	N	   1	Fresno State	Zdenek Derkas       	Wichita State	Murkel Dellien      	6-1, 6-1
-20200301	516070	509157	N	   2	Fresno State	Johannes Seeman     	Wichita State	Elio Lago           	6-2, 6-4
-20200301	485299	521290	N	   3	Wichita State	Orel Ovil           	Fresno State	Alexey Aleshchev    	6-4, 7-5
-20200301	408204	453405	N	   4	Wichita State	Marius Frosa        	Fresno State	Cagatay Soke        	6-3, 4-6, 6-2
-20200301	464469	496917	N	   5	Fresno State	Henrique Wojciecnowski Osorio	Wichita State	Stefan Latinovic    	4-6, 7-6, 6-3
-20200301	516069	521567	N	   6	Fresno State	Daniel Baturyn      	Wichita State	Ray Lo              	6-4, 6-2
 20200301	439731	492966	N	   1	Tiffin	Nikita Parfenov     	Cornerstone	Mateo Jimenez       	6-2, 6-3
 20200301	512380	420477	N	   2	Tiffin	Michael Gurtner     	Cornerstone	Alex Kanstantsinav  	6-4, 6-0
 20200301	396548	492965	N	   4	Tiffin	Hugo Chatras        	Cornerstone	Tomas Yacuzio       	6-3, 6-4
@@ -27281,12 +27174,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200307	410786	420234	N	   4	UTSA	Javier Gonzalez     	Loyola Marymount	Max Kaiser          	7-6, 6-3
 20200307	498020	512847	N	   5	UTSA	Javier Rodriguez    	Loyola Marymount	Emin Torlic         	5-7, 7-5, 6-1
 20200307	498019	443135	N	   6	UTSA	Alan Sanson         	Loyola Marymount	Ethan Prost         	6-4, 0-6, 6-2
-20200307	401908	387947	H	   1	Fresno State	Zdenek Derkas       	Santa Clara	Jesus Barajas       	4-6, 6-1, 6-3
-20200307	509747	516070	A	   2	Santa Clara	Mann Shah           	Fresno State	Johannes Seeman     	6-4, 7-6(3)
-20200307	521290	485349	H	   3	Fresno State	Alexey Aleshchev    	Santa Clara	Arthur Neuhaus      	3-6, 7-5, 6-4
-20200307	417743	453405	A	   4	Santa Clara	Vasileios Iliopoulos	Fresno State	Cagatay Soke        	6-4, 2-6, 6-4
-20200307	464469	485352	H	   5	Fresno State	Henrique Wojciecnowski Osorio	Santa Clara	Santiago Hinojosa   	7-6, 6-1
-20200307	516069	509748	H	   6	Fresno State	Daniel Baturyn      	Santa Clara	Ryan Ali            	6-1, 4-6, 6-4
 20200307	501164	524937	A	   5	West Chester	Brett Spano         	Webber International	Jose Cordero        	6-0, 6-3
 20200307	385929	382022	A	   2	Alabama State	Chris Andre         	Alabama A&M	Fermin Ruiz         	7-6(4), 6-4
 20200307	513540	520669	H	   3	Alabama A&M	Natiphat Mulada     	Alabama State	Alex-Antoine Marquis	6-3, 6-0
@@ -28414,10 +28301,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200309	409333	511493	H	   3	Chestnut Hill	Antoine Gautier     	District of Columbia	Juan Estevez Hernandez	4-6, 6-2, 5-7
 20200309	486803	486493	H	   4	Chestnut Hill	Erik Jorsal         	District of Columbia	Maksim Bahdanovich  	7-6(6), 6-3
 20200309	486737	499251	H	   5	Chestnut Hill	Kai Adler           	District of Columbia	Wilson Cano         	6-0, 6-0
-20200309	497925	401908	A	   1	Arizona	Jonas Ziverts       	Fresno State	Zdenek Derkas       	6-3, 3-6, 6-1
-20200309	429133	516070	A	   2	Arizona	Filip Malbasic      	Fresno State	Johannes Seeman     	6-2, 6-4
-20200309	444974	489509	A	   3	Arizona	Alejandro Requant-Bicardi	Fresno State	Angus Bradshaw      	6-3, 6-3
-20200309	513924	464469	A	   6	Arizona	Nick Lagaev         	Fresno State	Henrique Wojciecnowski Osorio	6-2, 6-2
 20200309	400864	488405	N	   1	Merrimack	Denis Davydov       	Rochester (NY)	Runjia Fang         	6-2, 6-2
 20200309	451271	486455	N	   2	Rochester (NY)	Yifan Shen          	Merrimack	Jonathan Garcia     	7-6(4), 7-6(6)
 20200309	486457	513093	N	   3	Merrimack	Conrad Koch         	Rochester (NY)	Kai Yuminaga        	6-3, 6-3
@@ -29301,11 +29184,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200312	393996	521628	N	   4	Hampden-Sydney	Grayson Burns       	Wabash	Emerson Courter     	6-0, 6-0
 20200312	403011	521627	N	   5	Hampden-Sydney	Andrew Donelson     	Wabash	Gerald Randle       	6-0, 6-0
 20200312	457255	525262	N	   6	Hampden-Sydney	Zander Theoharis    	Wabash	Diego Rocca         	6-0, 6-0
-20200312	401908	406118	H	   1	Fresno State	Zdenek Derkas       	Gonzaga	Sam Feit            	6-2, 6-3
-20200312	514234	516070	A	   2	Gonzaga	Matthew Hollingworth	Fresno State	Johannes Seeman     	6-4, 2-6, 6-4
-20200312	514233	489509	A	   3	Gonzaga	Oliver Andersson    	Fresno State	Angus Bradshaw      	7-6, 7-6
-20200312	445025	521290	A	   4	Gonzaga	Vincent Rettke      	Fresno State	Alexey Aleshchev    	7-5, 6-4
-20200312	464469	514244	H	   6	Fresno State	Henrique Wojciecnowski Osorio	Gonzaga	Brandon Park        	6-4, 7-5
 20200312	391001	384572	N	   1	Belmont Abbey	Zach Blythe         	Barton	Diego Agudelo       	6-1, 6-3
 20200312	388060	515664	N	   2	Belmont Abbey	George Barfoot      	Barton	Phillip Nordberg    	6-3, 6-2
 20200312	493503	429831	N	   3	Belmont Abbey	Kent Shiell         	Barton	Oscar Marmestedt    	6-2, 7-5

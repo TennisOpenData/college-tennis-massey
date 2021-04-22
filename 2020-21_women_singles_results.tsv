@@ -106,15 +106,15 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200910	528275	496356	N	   4	Grace (IN)	Lauryn Riegsecker   	St. Francis (IN)	Regina Faber        	6-1, 6-2
 20200910	495541	516855	N	   5	Grace (IN)	Morgan Mast         	St. Francis (IN)	Maddy Deroo         	6-3, 6-0
 20200910	528276	474201	N	   6	Grace (IN)	Kiersten Martin     	St. Francis (IN)	Christina King      	6-0, 6-1
-20200911	506999	506997	N	   F	Hardin-Simmons	Lauren Schaeffer    	Hardin-Simmons	Landry Laywell      	6-1, 6-2
 20200911	506998	559577	N	   F	Hardin-Simmons	Kaitlyn Hathorn     	Mary Hardin-Baylor	Chloe Norris        	6-1, 6-2
-20200911	528038	507000	N	   F	Hardin-Simmons	Taja Lawrence       	Hardin-Simmons	Priscilla Schimming 	6-0, 6-1
-20200911	507003	528039	N	   F	Hardin-Simmons	Emily Kite          	Hardin-Simmons	McKenna Bryan       	6-0, 6-3
-20200911	507004	528040	N	   F	Hardin-Simmons	Brianne Dumas       	Hardin-Simmons	Ximena Benitez      	6-3, 6-3
 20200911	528041	518218	N	   F	Hardin-Simmons	Jonnah Smith        	Mary Hardin-Baylor	Amanda Almanza      	6-4, 6-3
+20200911	528040	507004	N	   F	Hardin-Simmons	Ximena Benitez      	Hardin-Simmons	Brianne Dumas       	6-3, 6-3
+20200911	528039	507003	N	   F	Hardin-Simmons	McKenna Bryan       	Hardin-Simmons	Emily Kite          	6-0, 6-3
+20200911	507000	528038	N	   F	Hardin-Simmons	Priscilla Schimming 	Hardin-Simmons	Taja Lawrence       	6-0, 6-1
+20200911	506997	506999	N	   F	Hardin-Simmons	Landry Laywell      	Hardin-Simmons	Lauren Schaeffer    	6-1, 6-2
 20200911	559621	518219	N	   F	Howard Payne	Lexie Nave          	Mary Hardin-Baylor	Vicky Rendon        	6-0, 4-6, 1-0(10)
-20200911	559581	518215	N	   F	Mary Hardin-Baylor	Sierra Layne        	Mary Hardin-Baylor	Sydney Andersen     	6-3, 6-1
-20200911	559580	559578	N	   F	Mary Hardin-Baylor	Sofia Sanchez       	Mary Hardin-Baylor	Katy Beach          	6-2, 6-3
+20200911	559578	559580	N	   F	Mary Hardin-Baylor	Katy Beach          	Mary Hardin-Baylor	Sofia Sanchez       	6-2, 6-3
+20200911	518215	559581	N	   F	Mary Hardin-Baylor	Sydney Andersen     	Mary Hardin-Baylor	Sierra Layne        	6-3, 6-1
 20200911	506997	518221	N	  SF	Hardin-Simmons	Landry Laywell      	Mary Hardin-Baylor	Nathalie Galligan   	6-0, 6-0
 20200911	506998	518219	N	  SF	Hardin-Simmons	Kaitlyn Hathorn     	Mary Hardin-Baylor	Vicky Rendon        	6-0, 6-0
 20200911	506999	559621	N	  SF	Hardin-Simmons	Lauren Schaeffer    	Howard Payne	Lexie Nave          	6-3, 6-2
@@ -130,15 +130,15 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200911	518218	559618	N	  SF	Mary Hardin-Baylor	Amanda Almanza      	Howard Payne	Blair Ballard       	6-1, 6-7(5), 1-0(4)
 20200911	518219	518688	N	  SF	Mary Hardin-Baylor	Vicky Rendon        	Howard Payne	Jessenia Ureste     	6-3, 6-2
 20200911	559577	518688	N	  SF	Mary Hardin-Baylor	Chloe Norris        	Howard Payne	Jessenia Ureste     	6-0, 6-0
-20200911	489629	559578	N	  SF	Mary Hardin-Baylor	Alondra Torresdiaz  	Mary Hardin-Baylor	Katy Beach          	7-5, 6-2
 20200911	559580	559619	N	  SF	Mary Hardin-Baylor	Sofia Sanchez       	Howard Payne	Zoe Sprayberry      	6-3, 6-2
 20200911	559581	559618	N	  SF	Mary Hardin-Baylor	Sierra Layne        	Howard Payne	Blair Ballard       	6-2, 6-1
-20200911	506997	506998	N	    	Hardin-Simmons	Landry Laywell      	Hardin-Simmons	Kaitlyn Hathorn     	4-6, 6-4, 1-0(3)
-20200911	528039	507000	N	    	Hardin-Simmons	McKenna Bryan       	Hardin-Simmons	Priscilla Schimming 	6-3, 6-3
+20200911	559578	489629	N	  SF	Mary Hardin-Baylor	Katy Beach          	Mary Hardin-Baylor	Alondra Torresdiaz  	7-5, 6-2
 20200911	528038	518688	N	    	Hardin-Simmons	Taja Lawrence       	Howard Payne	Jessenia Ureste     	8-1
-20200911	528041	528040	N	    	Hardin-Simmons	Jonnah Smith        	Hardin-Simmons	Ximena Benitez      	6-1, 6-3
-20200911	518688	559619	N	    	Howard Payne	Jessenia Ureste     	Howard Payne	Zoe Sprayberry      	8-5
+20200911	528040	528041	N	    	Hardin-Simmons	Ximena Benitez      	Hardin-Simmons	Jonnah Smith        	6-1, 6-3
+20200911	507000	528039	N	    	Hardin-Simmons	Priscilla Schimming 	Hardin-Simmons	McKenna Bryan       	6-3, 6-3
+20200911	506998	506997	N	    	Hardin-Simmons	Kaitlyn Hathorn     	Hardin-Simmons	Landry Laywell      	4-6, 6-4, 1-0(3)
 20200911	559619	489631	N	    	Howard Payne	Zoe Sprayberry      	Mary Hardin-Baylor	Laurel Turco        	8-5
+20200911	559619	518688	N	    	Howard Payne	Zoe Sprayberry      	Howard Payne	Jessenia Ureste     	8-5
 20200911	489631	559620	N	    	Mary Hardin-Baylor	Laurel Turco        	Howard Payne	Kaitlyn Lovel       	6-4, 6-0
 20200911	533378	512508	H	   1	Indiana Southeast	Audrey De Witt      	Indiana Kokomo	Gabbie Orlando      	6-2, 6-3
 20200911	512509	533379	A	   2	Indiana Kokomo	Casey Clark         	Indiana Southeast	Adalyn De Witt      	6-4, 6-4
@@ -298,9 +298,9 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200917	391486	561801	H	   4	Calvin	Alexis Bonner       	Cornerstone	Trinity Klamecki    	6-4, 5-7
 20200917	561813	510647	A	   5	Cornerstone	Katarina Vasiljkovic	Calvin	Cameron Cyrus       	6-4, 6-0
 20200917	460551	489739	A	   6	Cornerstone	Nicole Verhulst     	Calvin	Alexis Ganop        	6-4, 6-2
-20200918	518086	517297	N	   F	Georgia Gwinnett	Yelyzaveta Velykorodna	Georgia Gwinnett	Maria Genovese      	6-4, 6-1
+20200918	517297	518086	N	   F	Georgia Gwinnett	Maria Genovese      	Georgia Gwinnett	Yelyzaveta Velykorodna	6-4, 6-1
 20200918	517297	396514	N	  SF	Georgia Gwinnett	Maria Genovese      	Brenau	Peeraya Charoensirisutthikul	6-0, 6-1
-20200918	561114	518086	N	  SF	Georgia Gwinnett	Eva Siska           	Georgia Gwinnett	Yelyzaveta Velykorodna	6-4, 7-5
+20200918	518086	561114	N	  SF	Georgia Gwinnett	Yelyzaveta Velykorodna	Georgia Gwinnett	Eva Siska           	6-4, 7-5
 20200918	517297	495745	N	  QF	Georgia Gwinnett	Maria Genovese      	Brenau	Juana Zambrano      	6-1, 6-1
 20200918	518086	560966	N	  QF	Georgia Gwinnett	Yelyzaveta Velykorodna	Tennessee Wesleyan	Maria Way           	6-0, 6-2
 20200918	561114	514886	N	  QF	Georgia Gwinnett	Eva Siska           	Tennessee Wesleyan	Natasha Mesa        	6-2, 6-2
@@ -374,7 +374,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200918	559732	559744	N	  QF	Friends	Jazzmyn Williams    	Tabor	Hannah Jost         	8-5
 20200918	527930	511911	N	  QF	Southwestern (KS)	Caroline Henry      	Kansas Wesleyan	Savannah Noel       	8-2
 20200918	512823	559732	N	    	McPherson	Kayla Ortiz         	Friends	Jazzmyn Williams    	8-4
-20200918	486385	528084	N	   F	Doane	Ava Macke           	Doane	Amber Weston        	6-2, 6-1
+20200918	528084	486385	N	   F	Doane	Amber Weston        	Doane	Ava Macke           	6-2, 6-1
 20200918	486385	429933	N	  SF	Doane	Ava Macke           	Concordia (NE)	Allison Marshall    	6-2, 6-1
 20200918	528084	527863	N	  SF	Doane	Amber Weston        	Concordia (NE)	Sofia Morales       	6-3, 6-3
 20200918	429933	509218	N	  QF	Concordia (NE)	Allison Marshall    	St. Mary (NE)	Tessa Hurst         	6-3, 6-3
@@ -407,7 +407,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200918	509705	477762	N	C-SF	Hastings	Samantha Worthington	Northwestern (IA)	Abby Petrick        	8-1
 20200918	512254	510237	N	C-QF	Doane	Elizabeth Van Der Torre	Northwestern (IA)	Jessica Wilson      	8-2
 20200918	509705	409286	N	C-QF	Hastings	Samantha Worthington	Concordia (NE)	Ansley Gates        	8-5
-20200918	487234	487233	N	   F	Concordia (NE)	Luisa Esquivel      	Concordia (NE)	Katie Seja          	0-6, 6-2, 1-0(9)
+20200918	487233	487234	N	   F	Concordia (NE)	Katie Seja          	Concordia (NE)	Luisa Esquivel      	0-6, 6-2, 1-0(9)
 20200918	487233	486387	N	  SF	Concordia (NE)	Katie Seja          	Doane	Daniella Ruiz-Martinez	6-0, 6-0
 20200918	487234	445251	N	  SF	Concordia (NE)	Luisa Esquivel      	Doane	Makayla Rice        	6-4, 6-3
 20200918	487233	486388	N	  QF	Concordia (NE)	Katie Seja          	Doane	Payton Stalder      	6-1, 6-1
@@ -426,8 +426,8 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200918	527693	510236	N	C-QF	Hastings	Jenna Davison       	Northwestern (IA)	Anna Weighmink      	8-2
 20200918	511499	509701	N	C-QF	Morningside	Shelain Lewis       	Hastings	Hannah Theisen      	8-3
 20200918	527644	528085	N	   F	Concordia (NE)	Julia Phillips      	Doane	Makenna Hoesche     	8-5
-20200918	509875	527644	N	  SF	Concordia (NE)	Madisen Smith       	Concordia (NE)	Julia Phillips      	8-6
-20200918	561037	528085	N	  SF	Doane	Shan-Yu Tuan        	Doane	Makenna Hoesche     	8-5
+20200918	527644	509875	N	  SF	Concordia (NE)	Julia Phillips      	Concordia (NE)	Madisen Smith       	8-6
+20200918	528085	561037	N	  SF	Doane	Makenna Hoesche     	Doane	Shan-Yu Tuan        	8-5
 20200918	509875	527688	N	  QF	Concordia (NE)	Madisen Smith       	Hastings	Maddie Ketcham      	8-1
 20200918	527644	512253	N	  QF	Concordia (NE)	Julia Phillips      	Doane	Kailyn Groski       	8-3
 20200918	528085	527177	N	  QF	Doane	Makenna Hoesche     	St. Mary (NE)	Mariel Ortiz-Narvaez	8-1
@@ -438,9 +438,9 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200918	512253	527173	N	  16	Doane	Kailyn Groski       	St. Mary (NE)	Savannah Armendariz 	8-2
 20200918	561037	527691	N	  16	Doane	Shan-Yu Tuan        	Hastings	Jayden Baete        	8-2
 20200918	527688	527595	N	  16	Hastings	Maddie Ketcham      	Northwestern (IA)	Emma Montenegro     	8-6
-20200918	527691	527692	N	 C-F	Hastings	Jayden Baete        	Hastings	Morgan Wohl         	8-5
-20200918	527687	527691	N	C-SF	Hastings	Ayriel Brown-Love   	Hastings	Jayden Baete        	8-2
+20200918	527692	527691	N	 C-F	Hastings	Morgan Wohl         	Hastings	Jayden Baete        	8-5
 20200918	527692	527595	N	C-SF	Hastings	Morgan Wohl         	Northwestern (IA)	Emma Montenegro     	8-6
+20200918	527691	527687	N	C-SF	Hastings	Jayden Baete        	Hastings	Ayriel Brown-Love   	8-2
 20200918	527691	527596	N	C-QF	Hastings	Jayden Baete        	Northwestern (IA)	Noelle Phillippi    	9-8(4)
 20200918	527692	527173	N	C-QF	Hastings	Morgan Wohl         	St. Mary (NE)	Savannah Armendariz 	8-1
 20200918	511295	527890	N	    	Missouri State	Taylor Shaw         	LA Monroe	Hala Badwy          	6-7(5), 6-3, 1-0(5)
@@ -489,13 +489,13 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200918	528156	422860	H	   4	Indiana Wesleyan	Thais Mendez        	Indiana Kokomo	Kelsey Kohlmorgen   	6-1, 6-0
 20200918	528152	560953	H	   5	Indiana Wesleyan	Aynara Armas        	Indiana Kokomo	Larissa ORourke     	6-0, 6-3
 20200918	511749	512512	H	   6	Indiana Wesleyan	Ellie Snider        	Indiana Kokomo	Andrea Saylor       	6-3, 6-1
-20200919	422239	489013	N	   F	Indianapolis	Alina Kislitskaya   	Indianapolis	Nikol Alexeeva      	6-2, 6-0
-20200919	489005	422239	N	  SF	Indianapolis	Anna Novikova       	Indianapolis	Alina Kislitskaya   	7-6, 2-6, 1-0(8)
-20200919	528134	489013	N	  SF	Indianapolis	Sahra Bouchalaa     	Indianapolis	Nikol Alexeeva      	6-2, 6-2
-20200919	512200	422239	N	  QF	Indianapolis	Maria Solnyshkina   	Indianapolis	Alina Kislitskaya   	6-3, 6-2
-20200919	512201	489005	N	  QF	Indianapolis	Sofia Sharonova     	Indianapolis	Anna Novikova       	7-6(5), 6-4
-20200919	489014	489013	N	  QF	Indianapolis	Ana Valiaeva        	Indianapolis	Nikol Alexeeva      	6-0, 6-1
+20200919	489013	422239	N	   F	Indianapolis	Nikol Alexeeva      	Indianapolis	Alina Kislitskaya   	6-2, 6-0
+20200919	422239	489005	N	  SF	Indianapolis	Alina Kislitskaya   	Indianapolis	Anna Novikova       	7-6, 2-6, 1-0(8)
+20200919	489013	528134	N	  SF	Indianapolis	Nikol Alexeeva      	Indianapolis	Sahra Bouchalaa     	6-2, 6-2
 20200919	528134	497766	N	  QF	Indianapolis	Sahra Bouchalaa     	Findlay	Laiying Alvarado    	6-2, 6-7(5), 1-0(3)
+20200919	489005	512201	N	  QF	Indianapolis	Anna Novikova       	Indianapolis	Sofia Sharonova     	7-6(5), 6-4
+20200919	422239	512200	N	  QF	Indianapolis	Alina Kislitskaya   	Indianapolis	Maria Solnyshkina   	6-3, 6-2
+20200919	489013	489014	N	  QF	Indianapolis	Nikol Alexeeva      	Indianapolis	Ana Valiaeva        	6-0, 6-1
 20200919	514753	420623	N	  QF	Hillsdale	Tatum Matthews      	Walsh	Parvanee Karimpour  	6-0, 7-5
 20200919	486542	514753	N	  16	Illinois Springfield	Nethra Thenappan    	Hillsdale	Tatum Matthews      	6-1, 6-2
 20200919	422239	528063	N	  16	Indianapolis	Alina Kislitskaya   	Findlay	Reagan Resor        	6-1, 6-1
@@ -640,7 +640,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200925	445251	559751	N	  QF	Doane	Makayla Rice        	Friends	Chalyse Andrews     	8-4
 20200925	486388	561632	N	  QF	Doane	Payton Stalder      	Baker	Taylor Jarvis       	8-5
 20200925	559693	559744	N	  QF	Bethel (KS)	Aurora Domingo      	Tabor	Hannah Jost         	8-5
-20200925	527932	511602	N	  QF	Southwestern (KS)	Anmar Colmenares    	Southwestern (KS)	Tiny Phan           	8-5
+20200925	511602	527932	N	  QF	Southwestern (KS)	Tiny Phan           	Southwestern (KS)	Anmar Colmenares    	8-5
 20200925	445251	511605	N	  16	Doane	Makayla Rice        	Southwestern (KS)	Meganne Nihart      	8-2
 20200925	486388	559747	N	  16	Doane	Payton Stalder      	Tabor	Bethany Yutzy       	8-6
 20200925	561632	486387	N	  16	Baker	Taylor Jarvis       	Doane	Daniella Ruiz-Martinez	8-6
@@ -655,8 +655,8 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200925	559743	486387	N	C-SF	Tabor	Marisol Blair       	Doane	Daniella Ruiz-Martinez	8-3
 20200925	486387	559747	N	C-QF	Doane	Daniella Ruiz-Martinez	Tabor	Bethany Yutzy       	8-1
 20200925	512252	511605	N	C-QF	Doane	Huong Ngo           	Southwestern (KS)	Meganne Nihart      	8-4
-20200925	522589	490333	N	C-QF	Tabor	Ariana Miller-Wyse  	Tabor	Kayla Roth          	8-4
 20200925	559743	559692	N	C-QF	Tabor	Marisol Blair       	Bethel (KS)	Nalea Payton        	8-2
+20200925	490333	522589	N	C-QF	Tabor	Kayla Roth          	Tabor	Ariana Miller-Wyse  	8-4
 20200925	559691	393275	N	   F	Bethel (KS)	Daniela Herrera     	Tabor	Olivia Brubacher    	6-4, 7-6(5)
 20200925	559691	512818	N	  SF	Bethel (KS)	Daniela Herrera     	McPherson	Polina Khoroshevskaya	6-4, 6-1
 20200925	393275	527928	N	  SF	Tabor	Olivia Brubacher    	Southwestern (KS)	Mariana Ochoa       	7-6(5), 6-2
@@ -701,7 +701,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200925	452920	491181	N	C-QF	Baker	Kayelee Smith       	Kansas Wesleyan	Zofia Selwesiuk     	8-3
 20200925	559690	559732	N	C-QF	Bethel (KS)	Halle Krehbiel      	Friends	Jazzmyn Williams    	8-5
 20200925	512820	488892	N	C-QF	McPherson	Kendra Maples       	Baker	Chassidy Weathers   	8-1
-20200925	527930	521080	N	C-QF	Southwestern (KS)	Caroline Henry      	Southwestern (KS)	Jasmin Hauska       	9-7
+20200925	521080	527930	N	C-QF	Southwestern (KS)	Jasmin Hauska       	Southwestern (KS)	Caroline Henry      	9-7
 20200925	452920	559680	N	C-16	Baker	Kayelee Smith       	Oklahoma Wesleyan	Cori Campbell       	8-2
 20200925	488892	441900	N	C-16	Baker	Chassidy Weathers   	Bethany (KS)	Laura Piracun       	8-1
 20200925	559690	512819	N	C-16	Bethel (KS)	Halle Krehbiel      	McPherson	Grace Maxey         	
@@ -778,18 +778,18 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200929	516899	562217	A	   5	Simpson (IA)	Donni Kinghorn      	Buena Vista	Lexie Bruns         	6-4, 6-1
 20200929	562219	562041	H	   6	Buena Vista	Susi Phung          	Simpson (IA)	Aubrey Ocheltree    	6-1, 6-3
 20200930	561843	516059	N	   F	St. Katherine	Laura Eugenio       	San Diego Christian	Angela Rinaldi      	7-6(10), 6-7(4), 6-4
-20200930	516057	516059	N	  SF	San Diego Christian	Barbara Damiani     	San Diego Christian	Angela Rinaldi      	6-2, 6-2
+20200930	516059	516057	N	  SF	San Diego Christian	Angela Rinaldi      	San Diego Christian	Barbara Damiani     	6-2, 6-2
 20200930	561843	459392	N	  SF	St. Katherine	Laura Eugenio       	San Diego Christian	Sarah Urbanek       	7-5, 0-6, 6-2
 20200930	516059	485367	N	  QF	San Diego Christian	Angela Rinaldi      	Westmont	Rachal Jackson      	7-5, 6-0
 20200930	516057	561685	N	  QF	San Diego Christian	Barbara Damiani     	Arizona Christian	Deondra Bacchus     	6-2, 6-3
-20200930	522420	459392	N	  QF	San Diego Christian	Tomi Felix          	San Diego Christian	Sarah Urbanek       	6-1, 6-2
+20200930	459392	522420	N	  QF	San Diego Christian	Sarah Urbanek       	San Diego Christian	Tomi Felix          	6-1, 6-2
 20200930	561843	497731	N	  QF	St. Katherine	Laura Eugenio       	San Diego Christian	Valentina Sottile   	7-6(2), 6-2
 20200930	561685	561840	N	  16	Arizona Christian	Deondra Bacchus     	Westmont	Olivia Madarang     	6-1, 6-1
 20200930	522420	485369	N	  16	San Diego Christian	Tomi Felix          	Westmont	Emily Peterson      	6-3, 6-2
-20200930	522421	516059	N	  16	San Diego Christian	Franziska Niederle  	San Diego Christian	Angela Rinaldi      	6-2, 6-2
 20200930	516057	501214	N	  16	San Diego Christian	Barbara Damiani     	St. Katherine	Ashley Duncan       	6-2, 6-0
 20200930	497731	485368	N	  16	San Diego Christian	Valentina Sottile   	Westmont	Sidney Lowry        	6-1, 6-0
-20200930	516056	459392	N	  16	San Diego Christian	Ava Tonnies         	San Diego Christian	Sarah Urbanek       	6-1, 6-0
+20200930	516059	522421	N	  16	San Diego Christian	Angela Rinaldi      	San Diego Christian	Franziska Niederle  	6-2, 6-2
+20200930	459392	516056	N	  16	San Diego Christian	Sarah Urbanek       	San Diego Christian	Ava Tonnies         	6-1, 6-0
 20200930	485367	561842	N	  16	Westmont	Rachal Jackson      	St. Katherine	McKenna Mountain    	6-4, 7-6(4)
 20200930	561843	495682	N	  16	St. Katherine	Laura Eugenio       	Hope International	Samantha Paz        	6-0, 6-3
 20200930	561685	561893	N	  32	Arizona Christian	Deondra Bacchus     	Hope International	Phylicia Valdez     	3-6, 6-2, 1-0
@@ -804,21 +804,21 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20201001	498584	512863	N	   F	St. Thomas (FL)	Manami Maehama      	Warner	Irene Arias         	4-0, 4-0
 20201001	498584	515366	N	  SF	St. Thomas (FL)	Manami Maehama      	Ave Maria	Katie Fuller        	4-0, 4-1
 20201001	512863	561057	N	  SF	Warner	Irene Arias         	Ave Maria	Kathleen Lee        	4-2, 4-2
-20201001	561056	515366	N	  QF	Ave Maria	Katy Owens          	Ave Maria	Katie Fuller        	4-1, 4-0
-20201001	561055	561057	N	  QF	Ave Maria	Ruthie Isaacson     	Ave Maria	Kathleen Lee        	4-3, 4-1
+20201001	515366	561056	N	  QF	Ave Maria	Katie Fuller        	Ave Maria	Katy Owens          	4-1, 4-0
+20201001	561057	561055	N	  QF	Ave Maria	Kathleen Lee        	Ave Maria	Ruthie Isaacson     	4-3, 4-1
 20201001	498584	511748	N	  QF	St. Thomas (FL)	Manami Maehama      	Southeastern (FL)	Kishaundah Romain   	4-0, 4-0
 20201001	512863	501291	N	  QF	Warner	Irene Arias         	Ave Maria	Mary Moede          	4-0, 4-0
-20201001	515364	515366	N	  16	Ave Maria	Grace OConnor       	Ave Maria	Katie Fuller        	4-0, 4-1
 20201001	561055	561165	N	  16	Ave Maria	Ruthie Isaacson     	Warner	Keren Alves         	3-4, 4-3, 1-0(7)
+20201001	515366	515364	N	  16	Ave Maria	Katie Fuller        	Ave Maria	Grace OConnor       	4-0, 4-1
 20201001	511748	515362	N	  16	Southeastern (FL)	Kishaundah Romain   	Ave Maria	Anna Sutton         	4-0, 4-2
 20201001	512863	501290	N	  16	Warner	Irene Arias         	Ave Maria	Lauren McCarthy     	4-1, 4-0
-20201001	493914	510610	N	   F	Keiser	Sarah Schaerer      	Keiser	Lisa Khamassi       	6-2, 6-1
-20201001	517827	510610	N	  SF	Keiser	Joyce Nouws         	Keiser	Lisa Khamassi       	6-2, 6-4
-20201001	561571	493914	N	  SF	Keiser	Madalena Peneda     	Keiser	Sarah Schaerer      	7-6(2), 4-6, 6-2
+20201001	510610	493914	N	   F	Keiser	Lisa Khamassi       	Keiser	Sarah Schaerer      	6-2, 6-1
+20201001	510610	517827	N	  SF	Keiser	Lisa Khamassi       	Keiser	Joyce Nouws         	6-2, 6-4
+20201001	493914	561571	N	  SF	Keiser	Sarah Schaerer      	Keiser	Madalena Peneda     	7-6(2), 4-6, 6-2
 20201001	561571	515368	N	  QF	Keiser	Madalena Peneda     	Ave Maria	Lara Isis Teodoro De Oliveira	6-4, 0-6, 3-3
-20201001	504806	517827	N	  QF	Keiser	Dugleisy Linarez    	Keiser	Joyce Nouws         	7-6(3), 7-5
 20201001	493914	518562	N	  QF	Keiser	Sarah Schaerer      	St. Thomas (FL)	Annie Carrera       	4-6, 7-6(5), 6-1
 20201001	510610	518563	N	  QF	Keiser	Lisa Khamassi       	St. Thomas (FL)	Lia Pena            	6-1, 6-1
+20201001	517827	504806	N	  QF	Keiser	Joyce Nouws         	Keiser	Dugleisy Linarez    	7-6(3), 7-5
 20201001	515368	494098	N	  16	Ave Maria	Lara Isis Teodoro De Oliveira	Southeastern (FL)	Mia Dunagan         	6-1, 6-0
 20201001	561571	518565	N	  16	Keiser	Madalena Peneda     	St. Thomas (FL)	Thalia Skeene       	6-0, 6-1
 20201001	517827	561889	N	  16	Keiser	Joyce Nouws         	Southeastern (FL)	Abigail Damon       	6-1, 6-0
@@ -839,12 +839,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20201001	518562	561055	N	  32	St. Thomas (FL)	Annie Carrera       	Ave Maria	Ruthie Isaacson     	6-0, 6-0
 20201001	518563	515362	N	  32	St. Thomas (FL)	Lia Pena            	Ave Maria	Anna Sutton         	6-0, 6-0
 20201001	518565	501291	N	  32	St. Thomas (FL)	Thalia Skeene       	Ave Maria	Mary Moede          	6-0, 6-0
-20201001	528081	412996	N	   F	Bethel (IN)	Kyla Heckaman       	Bethel (IN)	Grace Haley         	6-4, 6-1
-20201001	512637	412996	N	  SF	Bethel (IN)	Emili Runestad      	Bethel (IN)	Grace Haley         	6-3, 6-2
+20201001	412996	528081	N	   F	Bethel (IN)	Grace Haley         	Bethel (IN)	Kyla Heckaman       	6-4, 6-1
 20201001	528081	512508	N	  SF	Bethel (IN)	Kyla Heckaman       	Indiana Kokomo	Gabbie Orlando      	2-6, 6-3, 1-0
-20201001	512633	412996	N	  QF	Bethel (IN)	Layla Jojo          	Bethel (IN)	Grace Haley         	6-4, 7-5
+20201001	412996	512637	N	  SF	Bethel (IN)	Grace Haley         	Bethel (IN)	Emili Runestad      	6-3, 6-2
 20201001	512637	487539	N	  QF	Bethel (IN)	Emili Runestad      	Indiana Wesleyan	Claire Penner       	6-0, 6-1
 20201001	528081	512011	N	  QF	Bethel (IN)	Kyla Heckaman       	Goshen	Sarah Hinshaw       	6-4, 5-7, 1-0
+20201001	412996	512633	N	  QF	Bethel (IN)	Grace Haley         	Bethel (IN)	Layla Jojo          	6-4, 7-5
 20201001	512508	495541	N	  QF	Indiana Kokomo	Gabbie Orlando      	Grace (IN)	Morgan Mast         	2-6, 6-1, 1-0
 20201001	412996	528155	N	  16	Bethel (IN)	Grace Haley         	Indiana Wesleyan	Alexzandria Jesse   	6-1, 6-1
 20201001	512633	495733	N	  16	Bethel (IN)	Layla Jojo          	MVNU	Casey Clark         	6-1, 6-2
@@ -852,16 +852,16 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20201001	528081	514578	N	  16	Bethel (IN)	Kyla Heckaman       	MVNU	Hannah Fugate       	6-1, 6-4
 20201001	512011	528158	N	  16	Goshen	Sarah Hinshaw       	Indiana Wesleyan	Lilianna Tubbergen  	6-2, 6-0
 20201001	495541	528154	N	  16	Grace (IN)	Morgan Mast         	Indiana Wesleyan	Sage Christner      	6-1, 6-0
-20201001	487538	487539	N	  16	Indiana Wesleyan	Katherine Bognar    	Indiana Wesleyan	Claire Penner       	6-4, 6-2
+20201001	487539	487538	N	  16	Indiana Wesleyan	Claire Penner       	Indiana Wesleyan	Katherine Bognar    	6-4, 6-2
 20201001	512508	431287	N	  16	Indiana Kokomo	Gabbie Orlando      	Marian (IN)	Lizzie McClure      	6-3, 6-3
 20201001	528155	481605	N	  32	Indiana Wesleyan	Alexzandria Jesse   	MVNU	Ashley Weber        	7-5, 6-2
 20201001	431287	474663	N	  32	Marian (IN)	Lizzie McClure      	MVNU	Aly Landis          	6-0, 6-2
-20201001	499425	487537	N	   F	Indiana Wesleyan	Lena Golz           	Indiana Wesleyan	Madelyn Bemisderfer 	6-1, 6-2
-20201001	528156	487537	N	  SF	Indiana Wesleyan	Thais Mendez        	Indiana Wesleyan	Madelyn Bemisderfer 	6-2, 6-1
+20201001	487537	499425	N	   F	Indiana Wesleyan	Madelyn Bemisderfer 	Indiana Wesleyan	Lena Golz           	6-1, 6-2
 20201001	499425	533378	N	  SF	Indiana Wesleyan	Lena Golz           	Indiana Southeast	Audrey De Witt      	6-4, 7-6(5)
+20201001	487537	528156	N	  SF	Indiana Wesleyan	Madelyn Bemisderfer 	Indiana Wesleyan	Thais Mendez        	6-2, 6-1
 20201001	528156	511352	N	  QF	Indiana Wesleyan	Thais Mendez        	Marian (IN)	Betija Dusele       	6-2, 6-3
-20201001	528152	487537	N	  QF	Indiana Wesleyan	Aynara Armas        	Indiana Wesleyan	Madelyn Bemisderfer 	6-2, 6-1
 20201001	499425	511319	N	  QF	Indiana Wesleyan	Lena Golz           	Grace (IN)	Dayana Ortega       	6-0, 6-2
+20201001	487537	528152	N	  QF	Indiana Wesleyan	Madelyn Bemisderfer 	Indiana Wesleyan	Aynara Armas        	6-2, 6-1
 20201001	533378	511749	N	  QF	Indiana Southeast	Audrey De Witt      	Indiana Wesleyan	Ellie Snider        	7-6(2), 6-0
 20201001	511319	486504	N	  16	Grace (IN)	Dayana Ortega       	Huntington	Morgan Fitzpatrick  	6-1, 6-2
 20201001	528156	452209	N	  16	Indiana Wesleyan	Thais Mendez        	Huntington	Lanae Singleton     	7-5, 6-7(6), 1-0
@@ -902,13 +902,13 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20201001	512511	512637	N	  64	Indiana Kokomo	Reese Johnson       	Bethel (IN)	Emili Runestad      	6-1, 3-6, 1-0
 20201001	560953	512633	N	  64	Indiana Kokomo	Larissa ORourke     	Bethel (IN)	Layla Jojo          	6-0, 2-6, 1-0
 20201001	533379	512011	N	  64	Indiana Southeast	Adalyn De Witt      	Goshen	Sarah Hinshaw       	6-3, 6-4
-20201001	510187	488121	N	   F	St. Francis (IL)	Denisse Lizano      	St. Francis (IL)	Nicole Christiansen 	6-4, 7-6(5)
+20201001	488121	510187	N	   F	St. Francis (IL)	Nicole Christiansen 	St. Francis (IL)	Denisse Lizano      	6-4, 7-6(5)
 20201001	488121	523474	N	  SF	St. Francis (IL)	Nicole Christiansen 	St. Louis - Pharmacy	Erin Davis          	7-5, 6-2
 20201001	510187	513612	N	  SF	St. Francis (IL)	Denisse Lizano      	Olivet Nazarene	Narjis Mzibri       	6-0, 6-3
 20201001	523474	516610	N	  QF	St. Louis - Pharmacy	Erin Davis          	St. Francis (IL)	Maria Kuzminskaya   	6-2, 7-5
 20201001	513612	469740	N	  QF	Olivet Nazarene	Narjis Mzibri       	Judson (IL)	Sofia Corona Garza  	6-4, 7-5
-20201001	510188	488121	N	  QF	St. Francis (IL)	Yashleen Kheterpal  	St. Francis (IL)	Nicole Christiansen 	6-2, 6-1
 20201001	510187	560995	N	  QF	St. Francis (IL)	Denisse Lizano      	Olivet Nazarene	Anna Verdu          	6-7(5), 6-3, 1-0(8)
+20201001	488121	510188	N	  QF	St. Francis (IL)	Nicole Christiansen 	St. Francis (IL)	Yashleen Kheterpal  	6-2, 6-1
 20201001	523474	527355	N	  16	St. Louis - Pharmacy	Erin Davis          	Judson (IL)	Hailey Haws         	6-1, 6-2
 20201001	513612	424975	N	  16	Olivet Nazarene	Narjis Mzibri       	St. Francis (IL)	Alyssa Larsen       	6-0, 6-0
 20201001	516610	560992	N	  16	St. Francis (IL)	Maria Kuzminskaya   	Olivet Nazarene	Abigail Wakeley     	6-0, 6-0
@@ -919,28 +919,28 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20201001	560993	488122	N	  32	Olivet Nazarene	Audrey Zoeteman     	St. Francis (IL)	Grace Monahan       	6-4, 4-6, 1-0(7)
 20201001	424975	490634	N	  32	St. Francis (IL)	Alyssa Larsen       	Olivet Nazarene	Hannah Hill         	6-0, 6-0
 20201001	488121	490625	N	  32	St. Francis (IL)	Nicole Christiansen 	Olivet Nazarene	Coco Ruggiero       	6-1, 6-0
-20201001	506998	506997	N	   F	Hardin-Simmons	Kaitlyn Hathorn     	Hardin-Simmons	Landry Laywell      	6-3, 6-2
+20201001	506997	506998	N	   F	Hardin-Simmons	Landry Laywell      	Hardin-Simmons	Kaitlyn Hathorn     	6-3, 6-2
 20201001	528041	559578	N	  SF	Hardin-Simmons	Jonnah Smith        	Mary Hardin-Baylor	Katy Beach          	4-6, 6-2, 1-0(9)
-20201001	528038	506997	N	  SF	Hardin-Simmons	Taja Lawrence       	Hardin-Simmons	Landry Laywell      	6-0, 6-0
-20201001	507000	506998	N	  SF	Hardin-Simmons	Priscilla Schimming 	Hardin-Simmons	Kaitlyn Hathorn     	6-4, 6-4
+20201001	506998	507000	N	  SF	Hardin-Simmons	Kaitlyn Hathorn     	Hardin-Simmons	Priscilla Schimming 	6-4, 6-4
+20201001	506997	528038	N	  SF	Hardin-Simmons	Landry Laywell      	Hardin-Simmons	Taja Lawrence       	6-0, 6-0
 20201001	528041	518219	N	  QF	Hardin-Simmons	Jonnah Smith        	Mary Hardin-Baylor	Vicky Rendon        	6-0, 6-0
-20201001	506999	528038	N	  QF	Hardin-Simmons	Lauren Schaeffer    	Hardin-Simmons	Taja Lawrence       	6-1, 2-6, 6-4
-20201001	528039	507000	N	  QF	Hardin-Simmons	McKenna Bryan       	Hardin-Simmons	Priscilla Schimming 	6-7(2), 6-3, 6-1
-20201001	528040	506997	N	  QF	Hardin-Simmons	Ximena Benitez      	Hardin-Simmons	Landry Laywell      	6-1, 6-1
-20201001	507004	506998	N	  QF	Hardin-Simmons	Brianne Dumas       	Hardin-Simmons	Kaitlyn Hathorn     	6-1, 6-0
-20201001	559577	559578	N	  QF	Mary Hardin-Baylor	Chloe Norris        	Mary Hardin-Baylor	Katy Beach          	3-6, 6-4, 1-0(6)
+20201001	528038	506999	N	  QF	Hardin-Simmons	Taja Lawrence       	Hardin-Simmons	Lauren Schaeffer    	6-1, 2-6, 6-4
+20201001	507000	528039	N	  QF	Hardin-Simmons	Priscilla Schimming 	Hardin-Simmons	McKenna Bryan       	6-7(2), 6-3, 6-1
+20201001	506998	507004	N	  QF	Hardin-Simmons	Kaitlyn Hathorn     	Hardin-Simmons	Brianne Dumas       	6-1, 6-0
+20201001	506997	528040	N	  QF	Hardin-Simmons	Landry Laywell      	Hardin-Simmons	Ximena Benitez      	6-1, 6-1
+20201001	559578	559577	N	  QF	Mary Hardin-Baylor	Katy Beach          	Mary Hardin-Baylor	Chloe Norris        	3-6, 6-4, 1-0(6)
 20201001	528039	559621	N	  16	Hardin-Simmons	McKenna Bryan       	Howard Payne	Lexie Nave          	6-0, 6-0
-20201001	507003	528040	N	  16	Hardin-Simmons	Emily Kite          	Hardin-Simmons	Ximena Benitez      	6-1, 6-0
 20201001	528041	559619	N	  16	Hardin-Simmons	Jonnah Smith        	Howard Payne	Zoe Sprayberry      	6-2, 6-1
-20201001	528041	507004	N	  16	Hardin-Simmons	Jonnah Smith        	Hardin-Simmons	Brianne Dumas       	3-6, 6-2, 1-0(8)
 20201001	528038	559577	N	  16	Hardin-Simmons	Taja Lawrence       	Mary Hardin-Baylor	Chloe Norris        	6-4, 4-6, 1-0(6)
 20201001	507000	559578	N	  16	Hardin-Simmons	Priscilla Schimming 	Mary Hardin-Baylor	Katy Beach          	6-0, 6-2
 20201001	506999	559580	N	  16	Hardin-Simmons	Lauren Schaeffer    	Mary Hardin-Baylor	Sofia Sanchez       	6-1, 6-0
 20201001	506997	489629	N	  16	Hardin-Simmons	Landry Laywell      	Mary Hardin-Baylor	Alondra Torresdiaz  	6-0, 6-0
 20201001	506998	559581	N	  16	Hardin-Simmons	Kaitlyn Hathorn     	Mary Hardin-Baylor	Sierra Layne        	6-0, 6-1
+20201001	528040	507003	N	  16	Hardin-Simmons	Ximena Benitez      	Hardin-Simmons	Emily Kite          	6-1, 6-0
+20201001	507004	528041	N	  16	Hardin-Simmons	Brianne Dumas       	Hardin-Simmons	Jonnah Smith        	3-6, 6-2, 1-0(8)
 20201001	518219	518688	N	  16	Mary Hardin-Baylor	Vicky Rendon        	Howard Payne	Jessenia Ureste     	6-0, 6-1
-20201001	489631	559577	N	  16	Mary Hardin-Baylor	Laurel Turco        	Mary Hardin-Baylor	Chloe Norris        	6-0, 6-0
 20201001	559578	559620	N	  16	Mary Hardin-Baylor	Katy Beach          	Howard Payne	Kaitlyn Lovel       	6-1, 6-0
+20201001	559577	489631	N	  16	Mary Hardin-Baylor	Chloe Norris        	Mary Hardin-Baylor	Laurel Turco        	6-0, 6-0
 20201001	528040	518688	N	  32	Hardin-Simmons	Ximena Benitez      	Howard Payne	Jessenia Ureste     	6-0, 6-1
 20201001	528038	518219	N	  32	Hardin-Simmons	Taja Lawrence       	Mary Hardin-Baylor	Vicky Rendon        	6-0, 6-0
 20201001	507003	518218	N	  32	Hardin-Simmons	Emily Kite          	Mary Hardin-Baylor	Amanda Almanza      	6-2, 6-2
@@ -954,7 +954,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20201001	559581	518686	N	  32	Mary Hardin-Baylor	Sierra Layne        	Howard Payne	Zaylie Sanchez      	6-1, 6-4
 20201001	427658	494043	N	   F	Columbus State	Beatriz Lopez       	Flagler	Eden Schlagenhauf   	6-0, 6-1
 20201001	427658	437215	N	  SF	Columbus State	Beatriz Lopez       	Flagler	Anika Nissen        	6-1, 4-6, 1-0(7)
-20201001	458449	494043	N	  SF	Flagler	Alessandra Traub    	Flagler	Eden Schlagenhauf   	6-3, 6-3
+20201001	494043	458449	N	  SF	Flagler	Eden Schlagenhauf   	Flagler	Alessandra Traub    	6-3, 6-3
 20201001	427658	491216	N	  QF	Columbus State	Beatriz Lopez       	North Georgia	Claudelle Lebonte-Frey	6-0, 6-1
 20201001	437215	491222	N	  QF	Flagler	Anika Nissen        	North Georgia	Rafaella Villanueava	6-3, 2-6, 1-0(7)
 20201001	458449	419840	N	  QF	Flagler	Alessandra Traub    	North Georgia	Vaishali Jorge      	5-7, 6-3, 1-0(4)
@@ -983,17 +983,17 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20201001	466508	403128	N	  32	North Georgia	Cibeles Zuddy       	Belmont Abbey	Erica Dorn          	6-2, 6-0
 20201001	491216	493664	N	  32	North Georgia	Claudelle Lebonte-Frey	Belmont Abbey	Genesis Gonzales    	6-1, 6-0
 20201001	491222	493663	N	  32	North Georgia	Rafaella Villanueava	Belmont Abbey	Carlie Davis        	6-1, 6-0
-20201001	494307	494306	N	 C-F	Converse	Valentina Aparicio  	Converse	Belen Vendrell      	6-1, 6-0
+20201001	494306	494307	N	 C-F	Converse	Belen Vendrell      	Converse	Valentina Aparicio  	6-1, 6-0
 20201001	494306	515697	N	C-SF	Converse	Belen Vendrell      	Emmanuel (GA)	Zyanya Rogel        	4-6, 6-0, 1-0(8)
 20201001	494307	493668	N	C-SF	Converse	Valentina Aparicio  	Belmont Abbey	Talia Semaan        	2-6, 6-4, 1-0(4)
-20201001	493663	493668	N	C-QF	Belmont Abbey	Carlie Davis        	Belmont Abbey	Talia Semaan        	6-3, 6-4
+20201001	493668	493663	N	C-QF	Belmont Abbey	Talia Semaan        	Belmont Abbey	Carlie Davis        	6-3, 6-4
 20201001	494306	510395	N	C-QF	Converse	Belen Vendrell      	Belmont Abbey	Kayla Vaughan       	6-3, 6-3
 20201001	494307	493667	N	C-QF	Converse	Valentina Aparicio  	Belmont Abbey	Laura Seib          	6-3, 6-3
 20201001	515697	439941	N	C-QF	Emmanuel (GA)	Zyanya Rogel        	Converse	Taylor Parrott      	6-4, 6-1
 20201001	493663	514465	N	C-16	Belmont Abbey	Carlie Davis        	Converse	Tonya Glogowski-Watson	6-0, 7-6(5)
-20201001	493664	493667	N	C-16	Belmont Abbey	Genesis Gonzales    	Belmont Abbey	Laura Seib          	7-6(1), 6-0
 20201001	493668	513651	N	C-16	Belmont Abbey	Talia Semaan        	Lander	Marissa Peterson    	6-3, 4-6, 7-6(8)
 20201001	510395	562037	N	C-16	Belmont Abbey	Kayla Vaughan       	Columbus State	Sara Ramirez Goncalvez	3-6, 6-1, 1-0(8)
+20201001	493667	493664	N	C-16	Belmont Abbey	Laura Seib          	Belmont Abbey	Genesis Gonzales    	7-6(1), 6-0
 20201001	439941	403128	N	C-16	Converse	Taylor Parrott      	Belmont Abbey	Erica Dorn          	6-3, 6-2
 20201001	494306	463522	N	C-16	Converse	Belen Vendrell      	Lander	Lindsey Wiggins     	1-6, 6-3, 1-0(1)
 20201001	494307	562040	N	C-16	Converse	Valentina Aparicio  	Belmont Abbey	Hannah Farmer       	6-3, 6-3
@@ -1074,7 +1074,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20201002	511368	509796	N	    	LSU	Safiya Carrington   	Baylor	Mel Krywoj          	6-4, 6-4
 20201002	562070	512460	N	    	LSU	Samantha Buyckx     	North Texas	Kexuan Zhou         	6-0, 4-6, 1-0(8)
 20201002	562070	453617	N	    	LSU	Samantha Buyckx     	Baylor	Kristina Sorokolet  	2-6, 6-4, 1-0(8)
-20201002	561771	517318	N	   F	Xavier (LA)	Kyra Akinnibi       	Xavier (LA)	Lailaa Bashir       	6-2, 6-4
+20201002	517318	561771	N	   F	Xavier (LA)	Lailaa Bashir       	Xavier (LA)	Kyra Akinnibi       	6-2, 6-4
 20201002	561771	500302	N	  16	Xavier (LA)	Kyra Akinnibi       	William Carey	Valeriya Shurbina   	4-6, 6-3, 1-0(5)
 20201002	517318	411967	N	  16	Xavier (LA)	Lailaa Bashir       	William Carey	Sabrina Groetzen    	6-2, 6-0
 20201002	387650	500303	N	  16	Xavier (LA)	Farah Baklouti      	William Carey	Xiana Garcia        	6-0, 6-3
@@ -1475,7 +1475,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20201016	512296	562250	N	    	Texas State	Hana Kvapilova      	Texas Tech	Kailey Evans        	6-1, 6-7(8), 6-0
 20201016	562445	392024	N	    	Texas State	Nikita Pradeep      	Rice	Anna Bowtell        	6-3, 7-6(1)
 20201016	517297	517318	N	   F	Georgia Gwinnett	Maria Genovese      	Xavier (LA)	Lailaa Bashir       	6-2, 7-6
-20201016	561114	517297	N	  SF	Georgia Gwinnett	Eva Siska           	Georgia Gwinnett	Maria Genovese      	6-1, 6-1
+20201016	517297	561114	N	  SF	Georgia Gwinnett	Maria Genovese      	Georgia Gwinnett	Eva Siska           	6-1, 6-1
 20201016	517318	518086	N	  SF	Xavier (LA)	Lailaa Bashir       	Georgia Gwinnett	Yelyzaveta Velykorodna	6-4, 6-2
 20201016	518086	562309	N	  QF	Georgia Gwinnett	Yelyzaveta Velykorodna	Loyola - New Orleans	Lucy Carpenter      	6-3, 6-1
 20201016	517297	516059	N	  QF	Georgia Gwinnett	Maria Genovese      	San Diego Christian	Angela Rinaldi      	6-0, 6-1
@@ -1543,11 +1543,11 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20201016	487884	521913	N	  QF	Louisiana	Anna Katherine Harvey	Grambling	Paige Stanford      	6-2, 6-3
 20201016	520502	521911	N	  QF	LA Monroe	Jelena Lopicic      	Grambling	Natalie Malone      	6-4, 6-2
 20201016	518035	443705	N	   F	LA Monroe	Madalina Grigoriu   	Louisiana	Dana Radovanovic    	7-6(8), 6-3
-20201016	562244	443705	N	  SF	Louisiana	Isabella Kierkegaard	Louisiana	Dana Radovanovic    	6-4, 6-3
+20201016	443705	562244	N	  SF	Louisiana	Dana Radovanovic    	Louisiana	Isabella Kierkegaard	6-4, 6-3
 20201016	518035	516823	N	  SF	LA Monroe	Madalina Grigoriu   	Louisiana	Lucie Raquin        	6-1, 6-2
 20201016	562244	489373	N	  QF	Louisiana	Isabella Kierkegaard	LA Monroe	Jimena Paula Garbino	7-6(4), 6-3
 20201016	516823	408599	N	  QF	Louisiana	Lucie Raquin        	Grambling	Danna Galeano       	6-1, 6-1
-20201016	527888	527890	N	   F	LA Monroe	Drousile Dzeubou    	LA Monroe	Hala Badwy          	6-2, 7-6(4)
+20201016	527890	527888	N	   F	LA Monroe	Hala Badwy          	LA Monroe	Drousile Dzeubou    	6-2, 7-6(4)
 20201016	527890	487893	N	  SF	LA Monroe	Hala Badwy          	Louisiana	Clara Mantaux       	6-2, 6-7(5), 6-3
 20201016	527888	523731	N	  SF	LA Monroe	Drousile Dzeubou    	Louisiana	Floriane Picaut     	6-2, 6-3
 20201016	487893	521910	N	  QF	Louisiana	Clara Mantaux       	Grambling	Brittney Combest    	6-1, 6-2
@@ -1676,9 +1676,9 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20201016	412171	392767	N	    	Angelo State	Zoe Gubbels         	UTPB	Maria Briones       	6-4, 6-1
 20201016	412171	490431	N	    	Angelo State	Zoe Gubbels         	Texas Tyler	Chloe Chawner       	6-1, 6-1
 20201016	434224	412171	N	    	Texas A&M-Kingsville	Laura Montalvo      	Angelo State	Zoe Gubbels         	7-6(4), 7-5
-20201016	489889	434224	N	    	Texas A&M-Kingsville	Maya Donkor         	Texas A&M-Kingsville	Laura Montalvo      	1-6, 6-2, 1-0(7)
 20201016	489889	392767	N	    	Texas A&M-Kingsville	Maya Donkor         	UTPB	Maria Briones       	6-1, 7-6(5)
 20201016	489889	401557	N	    	Texas A&M-Kingsville	Maya Donkor         	Angelo State	Maria Delgadillo    	6-2, 7-6(5)
+20201016	434224	489889	N	    	Texas A&M-Kingsville	Laura Montalvo      	Texas A&M-Kingsville	Maya Donkor         	1-6, 6-2, 1-0(7)
 20201016	490431	401557	N	    	Texas Tyler	Chloe Chawner       	Angelo State	Maria Delgadillo    	6-3, 7-6(13)
 20201016	490431	434224	N	    	Texas Tyler	Chloe Chawner       	Texas A&M-Kingsville	Laura Montalvo      	6-4, 4-6, 1-0(6)
 20201016	562603	395351	N	   F	Texas Tyler	Tanvikhaa Saravanan 	Dallas Baptist	Adriana Carpenter   	6-2, 6-3
@@ -1729,10 +1729,10 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20201017	486748	485629	N	 C-F	Simpson (IA)	Emily King          	Wartburg	Madi Overmann       	6-3, 4-6, 1-0(6)
 20201017	486748	527582	N	C-SF	Simpson (IA)	Emily King          	Luther (IA)	Natalia Smith       	6-2, 6-1
 20201017	485629	510460	N	C-SF	Wartburg	Madi Overmann       	Luther (IA)	Kylie Dunning       	6-3, 6-4
-20201017	509837	485629	N	C-QF	Wartburg	Olivia Phillips     	Wartburg	Madi Overmann       	1-6, 6-3, 1-0(7)
+20201017	485629	509837	N	C-QF	Wartburg	Madi Overmann       	Wartburg	Olivia Phillips     	1-6, 6-3, 1-0(7)
 20201017	486373	516905	N	    	Luther (IA)	Shelby Cook         	Nebraska Wesleyan	Brooke Sailer       	6-4, 6-0
 20201017	486749	527578	N	   F	Simpson (IA)	Megan Grubb         	Luther (IA)	Cassandra Magee     	8-3
-20201017	510464	527578	N	  SF	Luther (IA)	Aurora Schossow     	Luther (IA)	Cassandra Magee     	8-5
+20201017	527578	510464	N	  SF	Luther (IA)	Cassandra Magee     	Luther (IA)	Aurora Schossow     	8-5
 20201017	486749	527761	N	  SF	Simpson (IA)	Megan Grubb         	Wartburg	Georgia Nissen      	8-5
 20201017	510464	527762	N	  QF	Luther (IA)	Aurora Schossow     	Wartburg	Bailey Vandusseldorp	8-1
 20201017	527578	530764	N	  QF	Luther (IA)	Cassandra Magee     	Coe College	Mikayla Heath       	8-2
@@ -1748,7 +1748,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20201017	527762	516900	N	  16	Wartburg	Bailey Vandusseldorp	Simpson (IA)	Kennedi Wright      	8-1
 20201017	513790	487378	N	 C-F	Buena Vista	Nicole Lange        	Coe College	Michaela Pinto      	8-6
 20201017	513790	398932	N	C-SF	Buena Vista	Nicole Lange        	Wartburg	Rebekah Corson      	8-2
-20201017	530764	487378	N	C-SF	Coe College	Mikayla Heath       	Coe College	Michaela Pinto      	8-3
+20201017	487378	530764	N	C-SF	Coe College	Michaela Pinto      	Coe College	Mikayla Heath       	8-3
 20201017	513790	488597	N	C-QF	Buena Vista	Nicole Lange        	Loras	Mariana Bayona      	8-3
 20201017	487378	527762	N	C-QF	Coe College	Michaela Pinto      	Wartburg	Bailey Vandusseldorp	8-1
 20201017	530764	510458	N	C-QF	Coe College	Mikayla Heath       	Luther (IA)	Sydney Clausen      	8-7(6)
@@ -1788,9 +1788,9 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20201017	562217	530763	N	C-16	Buena Vista	Lexie Bruns         	Coe College	Kaylei Dukes        	8-3
 20201017	561176	527575	N	C-16	Central (IA)	Jenna Marie Hernandez	Luther (IA)	Madison Couser      	8-6
 20201017	515412	513793	N	C-16	Coe College	Breeana Runyon      	Buena Vista	Deanna Schaffer     	8-6
-20201017	510462	527583	N	C-16	Luther (IA)	Natalie Peterson    	Luther (IA)	Linnea Wolle        	8-2
-20201017	562221	513793	N	C-32	Buena Vista	Khamedriah Grimes   	Buena Vista	Deanna Schaffer     	8-0
+20201017	527583	510462	N	C-16	Luther (IA)	Linnea Wolle        	Luther (IA)	Natalie Peterson    	8-2
 20201017	562217	561646	N	C-32	Buena Vista	Lexie Bruns         	Loras	Lisa Reed           	8-4
+20201017	513793	562221	N	C-32	Buena Vista	Deanna Schaffer     	Buena Vista	Khamedriah Grimes   	8-0
 20201017	561176	562219	N	C-32	Central (IA)	Jenna Marie Hernandez	Buena Vista	Susi Phung          	8-6
 20201017	530763	528092	N	C-32	Coe College	Kaylei Dukes        	Dubuque	Kate Mar            	8-3
 20201017	510462	494625	N	C-32	Luther (IA)	Natalie Peterson    	Dubuque	Patient Jabbah      	8-5
@@ -1844,7 +1844,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20201023	415776	562072	N	    	Baylor	Jessica Hinojosa    	Texas	Simran Kortikere    	6-1, 6-2
 20201023	423464	562073	N	    	Baylor	Livia Kraus         	Texas	Malaika Rapolu      	6-4, 6-0
 20201023	450932	513072	N	    	Baylor	Angelina Shakhraichuk	Texas	Gabby Cusano        	6-1, 6-0
-20201023	562076	453617	N	    	Baylor	Hannah Pinto        	Baylor	Kristina Sorokolet  	6-1, 6-0
+20201023	453617	562076	N	    	Baylor	Kristina Sorokolet  	Baylor	Hannah Pinto        	6-1, 6-0
 20201023	424273	512868	N	    	Texas	Fernanda Labraña    	Baylor	Anastasia Kharitonova	7-6(5), 6-2
 20201023	440885	509795	N	    	Texas	Marta Perez-Mur     	Baylor	Alicia Herrero-Linana	1-6, 7-5, 7-5
 20201023	562074	509796	N	    	Texas	Peyton Stearns      	Baylor	Mel Krywoj          	6-4, 6-1
@@ -1888,13 +1888,13 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20201023	513082	521320	N	  QF	Oklahoma State	Ayumi Miyamoto      	Oklahoma	Carmen Corley       	6-4, 6-2
 20201023	485729	466140	N	  QF	TCU	Mercedes Aristegui  	Arkansas	Martina Zerulo      	6-3, 6-0
 20201023	526971	514734	N	  QF	Missouri	Bronte Murgett      	Kansas	Vasiliki Karvouni   	6-3, 6-2
-20201023	561743	489672	N	  16	Kansas	Tiffany Lagarde     	Kansas	Malkia Ngounoue     	6-2, 6-1
 20201023	514734	513080	N	  16	Kansas	Vasiliki Karvouni   	Oklahoma State	Alana Wolfberg      	
+20201023	489672	561743	N	  16	Kansas	Malkia Ngounoue     	Kansas	Tiffany Lagarde     	6-2, 6-1
 20201023	521320	497414	N	  16	Oklahoma	Carmen Corley       	Oklahoma State	Bunyawi Thamchaiwat 	7-5, 6-3
 20201023	513082	464959	N	  16	Oklahoma State	Ayumi Miyamoto      	Missouri	Ellie Wright        	2-6, 6-1, 1-0(8)
 20201023	485729	445260	N	  16	TCU	Mercedes Aristegui  	Arkansas	Tatum Rice          	2-6, 6-3, 1-0(8)
-20201023	511740	466140	N	  16	Arkansas	Kelly Keller        	Arkansas	Martina Zerulo      	6-4, 6-1
 20201023	561985	520854	N	  16	Arkansas	Indianna Spink      	Missouri	Elys Ventura        	4-6, 6-3, 1-0(8)
+20201023	466140	511740	N	  16	Arkansas	Martina Zerulo      	Arkansas	Kelly Keller        	6-4, 6-1
 20201023	526971	490922	N	  16	Missouri	Bronte Murgett      	Oklahoma	Kianah Motosono     	6-4, 6-2
 20201023	489672	562307	N	  32	Kansas	Malkia Ngounoue     	Oklahoma State	Daniella Medvedeva  	2-6, 6-1, 1-0(4)
 20201023	514734	513083	N	  32	Kansas	Vasiliki Karvouni   	Oklahoma State	Dariya Detkovskaya  	5-7, 6-3, 1-0(8)
@@ -2154,7 +2154,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20201106	485729	497755	N	    	TCU	Mercedes Aristegui  	Kansas State	Karine-Marion Job   	6-1, 6-2
 20201106	514771	491572	N	    	TCU	Margaret Polk       	Kansas State	Ioana Gheorghita    	2-6, 6-2, 1-0(8)
 20201106	562250	489674	N	    	Texas Tech	Kailey Evans        	Kansas	Sonia Smagina       	
-20201106	497414	513080	N	   F	Oklahoma State	Bunyawi Thamchaiwat 	Oklahoma State	Alana Wolfberg      	6-4, 6-4
+20201106	513080	497414	N	   F	Oklahoma State	Alana Wolfberg      	Oklahoma State	Bunyawi Thamchaiwat 	6-4, 6-4
 20201106	497414	394889	N	  SF	Oklahoma State	Bunyawi Thamchaiwat 	Iowa State	Maty Cancini        	6-0, 4-6, 1-0(8)
 20201106	513080	561743	N	  SF	Oklahoma State	Alana Wolfberg      	Kansas	Tiffany Lagarde     	6-1, 6-0
 20201106	394889	521320	N	  QF	Iowa State	Maty Cancini        	Oklahoma	Carmen Corley       	
@@ -4807,7 +4807,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210206	413959	562075	N	   3	UCLA	Jada Hart           	Texas	Lulu Sun            	1-6, 6-2, 6-4
 20210206	562071	564429	N	   4	Texas	Charlotte Chavatipon	UCLA	Vivian Wolff        	6-1, 6-4
 20210206	564774	512056	N	   6	Texas	Kylie Collins       	UCLA	Annette Goulak      	7-5, 7-6(1)
-20210206	567033	566325	H	   1	Southern Indiana	Rachel McCorkle     	Cedarville	Abby Totten         	6-2, 6-1, 6-0
+20210206	567033	566325	H	   1	Southern Indiana	Rachel McCorkle     	Cedarville	Abby Totten         	6-2, 6-1
 20210206	567034	514074	H	   2	Southern Indiana	Lauren Rowe         	Cedarville	Lauren Hollis       	6-4, 6-3
 20210206	514633	404955	H	   3	Southern Indiana	Chloe McIsaac       	Cedarville	Liana English       	6-2, 6-1
 20210206	487199	514077	H	   4	Southern Indiana	Kylie Skepnek       	Cedarville	Faith Triplett      	7-6, 6-3
@@ -12652,6 +12652,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210311	497419	434937	H	   4	Valdosta State	Birte Langenstein   	Washburn-Topeka	Logan Morrissey     	6-3, 6-4
 20210311	565328	517761	A	   5	Washburn-Topeka	Maja Jung           	Valdosta State	Julia Saving        	6-2, 6-1
 20210311	514511	390572	A	   6	Washburn-Topeka	Cadence Lynn        	Valdosta State	Hera Bjork          	6-1, 6-1
+20210311	566179	527928	H	   1	Oklahoma Baptist	Lin Xin Tan         	Southwestern (KS)	Mariana Ochoa       	6-4, 6-1
+20210311	522512	566209	H	   2	Oklahoma Baptist	Jenna Noel          	Southwestern (KS)	Samantha Loving     	6-4, 6-4
+20210311	511647	511598	H	   3	Oklahoma Baptist	Gabrielly Lamas     	Southwestern (KS)	Catherine Coe       	6-3, 6-3
+20210311	566180	486786	H	   4	Oklahoma Baptist	Vera Gak Anagrova   	Southwestern (KS)	Alexa Powers        	6-3, 7-5
+20210311	527930	566181	A	   5	Southwestern (KS)	Caroline Henry      	Oklahoma Baptist	Rylie Helm          	6-3, 6-1
+20210311	521080	511648	A	   6	Southwestern (KS)	Jasmin Hauska       	Oklahoma Baptist	Elyce Clark         	6-1, 6-0
 20210311	527863	559690	A	   1	Concordia (NE)	Sofia Morales       	Bethel (KS)	Halle Krehbiel      	6-0, 6-2
 20210311	559693	433688	H	   2	Bethel (KS)	Aurora Domingo      	Concordia (NE)	Claudia Miranda Viera	6-1, 4-6, 1-0(7)
 20210311	559692	509874	H	   3	Bethel (KS)	Nalea Payton        	Concordia (NE)	Tara Ferrel         	6-1, 6-2
@@ -15262,6 +15268,11 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210319	433499	565561	H	   4	Stetson	Brooke Milner       	Kennesaw State	Valentina Taddia    	6-4, 4-6, 6-2
 20210319	511351	514333	H	   5	Stetson	Noa Cohen           	Kennesaw State	Sofia Pinedo        	6-2, 7-5
 20210319	565563	565272	A	   6	Kennesaw State	Soomin Kim          	Stetson	Elodie Foster       	6-4, 7-6
+20210319	442448	452700	H	   1	Lipscomb	Kateryna Popova     	Bellarmine	Aubrey Smith        	6-2, 6-3
+20210319	515270	488030	H	   2	Lipscomb	Emma Zakordoniec    	Bellarmine	Madison Devillez    	6-4, 6-2
+20210319	566367	444236	H	   3	Lipscomb	Sasha Dobranos      	Bellarmine	Ava Ratcliff        	6-3, 6-2
+20210319	515269	513941	H	   4	Lipscomb	Anja Trbeznik       	Bellarmine	Maja Kozerski       	6-1, 6-0
+20210319	490460	513943	H	   5	Lipscomb	Maddox Bandy        	Bellarmine	Channing Varnum     	6-0, 6-2
 20210319	446522	492514	H	   1	N.C. State	Anna Rogers         	Boston College	Yufei Long          	6-1, 6-2
 20210319	486136	463568	H	   2	N.C. State	Alana Smith         	Boston College	Kylie Wilcox        	6-0, 3-6, 7-6(5)
 20210319	444430	565641	H	   3	N.C. State	Adriana Reami       	Boston College	Maria Aguiar        	7-5, 6-1
@@ -18315,6 +18326,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210327	489524	509851	H	   4	Marshall	Elizabeth Stefancic 	Liberty	Micaela Ode         	6-4, 7-5
 20210327	516550	509852	H	   5	Marshall	Jutte Van Hansewyck 	Liberty	Eloise Saraty       	7-6(4), 6-2
 20210327	521306	414118	H	   6	Marshall	Madison Riley       	Liberty	Grace Hashiguchi    	6-3, 6-2
+20210327	494984	411045	A	   1	Lake Superior St.	Nadege Koua         	Michigan Tech	Ivona Gorgioski     	6-0, 6-2
+20210327	509768	514069	H	   2	Michigan Tech	Dominika Bobik      	Lake Superior St.	Milena Baigorria    	4-6, 6-3, 6-2
+20210327	509766	514071	H	   3	Michigan Tech	Lauren Opalewski    	Lake Superior St.	Muskaan Ranjan      	3-6, 6-1, 6-1
+20210327	509767	564138	H	   4	Michigan Tech	Apurva Manas        	Lake Superior St.	Claudia Sole        	6-1, 6-4
+20210327	567651	494986	H	   5	Michigan Tech	Marina Fernandez    	Lake Superior St.	Keegan Malpass      	6-2, 6-1
+20210327	564139	487175	A	   6	Lake Superior St.	Julia Fraile Raton  	Michigan Tech	Mirna Golac         	6-3, 3-6, 1-0(8)
 20210327	419043	515425	H	   1	Indiana Tech	Veronica Jimenez    	Cornerstone	Alayna Bowman       	6-1, 6-2
 20210327	511195	492971	H	   2	Indiana Tech	Abigail Simms       	Cornerstone	Valentina Garcia    	7-5, 6-4
 20210327	563492	567025	H	   3	Indiana Tech	Marianna Murcia     	Cornerstone	Laura Matamoros     	6-1, 6-0
@@ -18395,6 +18412,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210327	568757	564514	H	   4	Northwood	Rafaella Fulop      	Grand Valley State	Vasileia Griva      	6-4, 6-4
 20210327	413472	496349	A	   5	Grand Valley State	Liv Hanover         	Northwood	Vasilisa Mikhaylova 	6-3, 6-4
 20210327	496351	521994	H	   6	Northwood	Iryna Trystan       	Grand Valley State	Olivia Huang        	6-4, 6-3
+20210327	566858	494695	H	   1	North Central (IL)	Kaeli Smashey       	North Park	Lisa Viuhkonen      	6-0, 6-0
+20210327	486870	512687	H	   2	North Central (IL)	Hannah Hougland     	North Park	Patrycja Miazek     	6-3, 6-3
+20210327	522294	447096	H	   3	North Central (IL)	Sydney Sawyer       	North Park	Hannah Rossenbaum   	6-0, 6-0
+20210327	510350	571172	H	   4	North Central (IL)	Linsy Jante         	North Park	Hannah Dickinson    	6-0, 6-0
+20210327	486869	512693	H	   5	North Central (IL)	Katherine Mcgraw    	North Park	Emma Trais          	6-0, 6-0
+20210327	566859	571173	H	   6	North Central (IL)	Sjana Henderson     	North Park	Acacia Doughty      	6-1, 6-0
 20210327	497152	566019	A	   1	Northeastern State (OK)	Kristela Vidnere    	Fort Hays State	Stefany Stemmer     	6-4, 6-4
 20210327	527613	566020	A	   2	Northeastern State (OK)	Maria Popova        	Fort Hays State	Fiorella Mendez     	6-2, 6-4
 20210327	510193	511036	A	   3	Northeastern State (OK)	Chiara Carnelutti   	Fort Hays State	Sydney McAdoo       	6-1, 7-6(8)
@@ -18742,6 +18765,18 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210327	569113	521522	H	   4	CSUN	Sasha Turchak       	Santa Clara	Giulia Hayer        	6-2, 6-2
 20210327	569111	568231	H	   5	CSUN	Jenna Dorian        	Santa Clara	Varya Zlotnik       	7-6(6), 6-3
 20210327	489554	510783	A	   6	Santa Clara	Lindsey Pesqueira   	CSUN	Victoria Santibanez Luna	4-5, 7-6
+20210327	568689	385271	N	   1	Minnesota Morris	Kiley Rodarmel      	Crown	Sierra Allison      	6-2, 6-1
+20210327	480575	571545	N	   2	Minnesota Morris	Sam Tate            	Crown	Abby Engrav         	6-0, 6-0
+20210327	568684	455296	N	   3	Minnesota Morris	Kate Obright        	Crown	Madison Stricklin   	6-0, 6-4
+20210327	568687	435839	N	   4	Minnesota Morris	Abby Burquest       	Crown	Veronika Mykhailiuk 	6-0, 6-0
+20210327	568686	571546	N	   5	Minnesota Morris	Megan Arens         	Crown	Madeline Echavarria 	6-0, 6-0
+20210327	568685	571547	N	   6	Minnesota Morris	Megan Tschida       	Crown	Maria Morales       	6-0, 6-0
+20210327	431750	568689	H	   1	St. Benedict (MN)	Kayla McIver        	Minnesota Morris	Kiley Rodarmel      	6-0, 6-1
+20210327	497758	480575	H	   2	St. Benedict (MN)	Lily Fredericks     	Minnesota Morris	Sam Tate            	6-0, 6-0
+20210327	437289	568684	H	   3	St. Benedict (MN)	Gabby Noack         	Minnesota Morris	Kate Obright        	6-1, 6-0
+20210327	422903	568687	H	   4	St. Benedict (MN)	Erin Kolbow         	Minnesota Morris	Abby Burquest       	6-0, 6-0
+20210327	397502	568686	H	   5	St. Benedict (MN)	Lauren Clark        	Minnesota Morris	Megan Arens         	6-3, 6-0
+20210327	497760	568685	H	   6	St. Benedict (MN)	Anna Miller         	Minnesota Morris	Megan Tschida       	6-0, 6-2
 20210327	563315	519121	H	   1	Missouri Valley	Nicole Straznicky   	McKendree	Mariana Caicedo Mora	6-4, 6-1
 20210327	514400	519120	H	   2	Missouri Valley	Myrian Alegre       	McKendree	Viola Cipriani      	6-4, 6-4
 20210327	501297	525133	A	   3	McKendree	Sara Kalkenova      	Missouri Valley	Paola Vargas        	6-4, 6-1
@@ -18889,6 +18924,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210327	511296	566044	H	   4	Missouri State	Alyson Piskulic     	Southwest Baptist (MO)	Elsa Pascual        	6-2, 6-3
 20210327	561003	520575	H	   5	Missouri State	Mary Houston        	Southwest Baptist (MO)	Lola Cincunegui     	3-6, 6-3, 6-2
 20210327	511298	400739	H	   6	Missouri State	Claire Martin       	Southwest Baptist (MO)	Emma Davis          	6-0, 6-0
+20210327	525374	570033	H	   1	Roger Williams	Emma Place          	Nichols	Isabella Winter     	6-2, 7-6(3)
+20210327	525373	490367	H	   2	Roger Williams	Alessia Cahoon      	Nichols	Kara Stankewitz     	6-3, 4-6, 6-3
+20210327	415271	430071	A	   3	Nichols	Juliana Herrera     	Roger Williams	Heidi Martin        	7-5, 6-3
+20210327	570034	525375	A	   4	Nichols	Kelley Carlin       	Roger Williams	Lily Creem          	6-0, 6-1
+20210327	570035	525379	A	   5	Nichols	Jordan Knowles      	Roger Williams	Alexa Dicesare      	5-7, 7-5, 1-0(8)
+20210327	525376	490368	H	   6	Roger Williams	Tanya Gianitsos     	Nichols	Victoria Lussier    	6-1, 6-2
 20210327	423367	493373	H	   1	St. Mary's (CA)	Mariia Kozyreva     	San Diego	Solymar Colling     	5-7, 6-3, 7-6(3)
 20210327	515117	491017	A	   2	San Diego	Elizabeth Goldsmith 	St. Mary's (CA)	Jordan Harris       	1-6, 6-0, 6-2
 20210327	565869	431739	A	   3	San Diego	Jordyn McBride      	St. Mary's (CA)	Danielle McIntyre   	6-3, 6-2
@@ -18960,7 +19001,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210327	486486	566539	H	   4	West Virginia State	Hanna Kruhlova      	Frostburg State	Elizabeth Hixson    	6-0, 6-1
 20210327	524369	503167	H	   5	West Virginia State	Maya Haidari        	Frostburg State	Shea Przywieczerski 	6-0, 6-1
 20210327	514141	511420	H	   6	West Virginia State	Lauren Graham       	Frostburg State	Jen Dieterle        	6-0, 6-0
-20210327	567993	487795	N	   1	Saint Louis	Elizabeth Mintusova 	Duquesne	Margot Pessy        	6-4, 6-2
+20210327	567993	487795	N	   1	Saint Louis	Elizabeth Mintusova 	Duquesne	Margot Pessy        	7-5, 6-3
 20210327	567995	566513	N	   2	Saint Louis	Mariona Noguera     	Duquesne	Ellen Shanahan      	6-4, 6-0
 20210327	515433	567991	N	   3	Duquesne	Natasha Novak       	Saint Louis	Jessica Stefan      	6-1, 6-3
 20210327	567992	487793	N	   4	Saint Louis	Mya Spencer         	Duquesne	Meredith Lee        	7-5, 6-0
@@ -19729,12 +19770,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210329	511183	446550	A	   4	Bridgewater	Malena Hoover       	Shenandoah	Madison Rogers      	6-0, 6-4
 20210329	511182	499632	A	   5	Bridgewater	Alison Keister      	Shenandoah	Caitlin Bennett     	6-3, 6-0
 20210329	568879	499635	A	   6	Bridgewater	Ryan Roeber         	Shenandoah	Madison Hoilman     	6-2, 2-1
-20210329	568653	502845	A	   1	Oakland City	Kataryna Kulynych   	Carlow	Ashleigh Bowser     	6-0, 6-0
-20210329	568656	565996	A	   2	Oakland City	Pamela Barbosa      	Carlow	Karissa Miller      	6-0, 6-1
-20210329	514668	429304	A	   3	Oakland City	Kaleigh Helm        	Carlow	Julianna Mamajek    	6-1, 6-4
-20210329	503283	502847	A	   4	Oakland City	Hannah Wilson       	Carlow	Caitlin Hoag        	6-0, 6-2
-20210329	514667	565994	A	   5	Oakland City	Audrey Wilson       	Carlow	Josephine Kobak     	6-1, 6-1
-20210329	514666	568353	A	   6	Oakland City	Maizy Gilliland     	Carlow	Stellanie Kyros     	6-0, 6-1
 20210329	494043	436230	N	   1	Flagler	Eden Schlagenhauf   	Auburn Montgomery	Sofia Navarro       	6-2(4), 7-6
 20210329	565376	407225	N	   2	Flagler	Luisa Hrda          	Auburn Montgomery	Tonja Foessmeier    	7-5, 6-0
 20210329	458449	401013	N	   3	Flagler	Alessandra Traub    	Auburn Montgomery	Alba De La Torre    	7-5, 6-3
@@ -19771,6 +19806,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210329	567992	565736	A	   4	Saint Louis	Mya Spencer         	Dayton	Sarah DeMarco       	6-2, 6-1
 20210329	567994	442056	A	   5	Saint Louis	Anna Derecka        	Dayton	Kelly Pleiman       	1-6, 6-2, 6-3
 20210329	516552	521652	H	   6	Dayton	Claire Ghidotti     	Saint Louis	Nawal Cheema        	6-3, 6-0
+20210329	568653	502845	A	   1	Oakland City	Kataryna Kulynych   	Carlow	Ashleigh Bowser     	6-0, 6-0
+20210329	568656	565996	A	   2	Oakland City	Pamela Barbosa      	Carlow	Karissa Miller      	6-0, 6-1
+20210329	514668	429304	A	   3	Oakland City	Kaleigh Helm        	Carlow	Julianna Mamajek    	6-1, 6-4
+20210329	503283	502847	A	   4	Oakland City	Hannah Wilson       	Carlow	Caitlin Hoag        	6-0, 6-2
+20210329	514667	565994	A	   5	Oakland City	Audrey Wilson       	Carlow	Josephine Kobak     	6-1, 6-1
+20210329	514666	568353	A	   6	Oakland City	Maizy Gilliland     	Carlow	Stellanie Kyros     	6-0, 6-0
 20210330	527863	509700	H	   1	Concordia (NE)	Sofia Morales       	Hastings	Theresa Price       	6-1, 6-2
 20210330	433688	509702	H	   2	Concordia (NE)	Claudia Miranda Viera	Hastings	Maddelyn Redding    	6-3, 6-1
 20210330	509874	509705	H	   3	Concordia (NE)	Tara Ferrel         	Hastings	Samantha Worthington	7-5, 6-2
@@ -19943,6 +19984,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210330	511616	528093	A	   4	UW La Crosse	Morgan Graf         	Dubuque	Liliana Leguizamo   	6-0, 6-0
 20210330	511613	567956	A	   5	UW La Crosse	Susi Hu             	Dubuque	Erykah Ames         	6-0, 6-0
 20210330	511617	564394	A	   6	UW La Crosse	Katie Kearney       	Dubuque	Santa Roman         	6-0, 6-0
+20210330	567471	524906	H	   1	Greenville	Mireia Birosta      	Principia	Kelsie Huss         	6-3, 6-0
+20210330	567472	496662	H	   2	Greenville	Addison Brannon     	Principia	Caroline Carlson    	6-1, 6-1
+20210330	496597	496665	H	   3	Greenville	Claudia Principal   	Principia	Paige Lesko         	6-3, 6-3
+20210330	567470	524907	H	   4	Greenville	Shaling Reynolds    	Principia	Victoire De Visme   	6-0, 6-0
+20210330	512523	524977	H	   5	Greenville	Emily Buratovich    	Principia	Hannah Switzer      	6-3, 7-5
+20210330	451742	496663	H	   6	Greenville	Samantha Siefken    	Principia	Emma Hanser         	6-0, 6-0
 20210331	569642	512822	A	   1	Ottawa	Patricia Eftenoiu   	McPherson	Vanessa Mundo       	6-0, 7-5
 20210331	515423	487899	A	   2	Ottawa	Julia Wienese       	McPherson	Erica Paradise      	6-1, 6-4
 20210331	559687	512818	A	   3	Ottawa	Yana Goranova       	McPherson	Polina Khoroshevskaya	6-3, 6-3
@@ -20246,6 +20293,11 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210401	565517	512629	H	   4	St. Francis (IL)	Kiana Sikich        	Bethel (IN)	Emma Kate Crouse    	6-0, 6-0
 20210401	510188	512636	H	   5	St. Francis (IL)	Yashleen Kheterpal  	Bethel (IN)	Anna Pope           	6-3, 6-3
 20210401	488122	528082	H	   6	St. Francis (IL)	Grace Monahan       	Bethel (IN)	Audie Plothow       	6-3, 3-6, 1-0(7)
+20210401	568684	567634	A	   1	Minnesota Morris	Kate Obright        	Martin Luther	McKenzey Crowley    	6-2, 6-0
+20210401	480575	567631	A	   2	Minnesota Morris	Sam Tate            	Martin Luther	Josephine Bieberitz 	6-4, 6-1
+20210401	568689	567632	A	   3	Minnesota Morris	Kiley Rodarmel      	Martin Luther	Tatum Bollmeier     	6-4, 6-1
+20210401	568686	472044	A	   4	Minnesota Morris	Megan Arens         	Martin Luther	Charis Goelzer      	6-2, 6-2
+20210401	568685	567633	A	   5	Minnesota Morris	Megan Tschida       	Martin Luther	Hannah Broring      	6-3, 6-1
 20210401	402879	486498	H	   1	Hawaii	Nikola Dolakova     	Portland State	Lotti Meszaros      	6-1, 6-3
 20210401	516481	517252	H	   2	Hawaii	Satsuki Takamura    	Portland State	Emily Rees          	6-0, 6-0
 20210401	566576	521141	A	   3	Portland State	Ashley Ramirez      	Hawaii	Lea Romain          	6-4, 2-1
@@ -21111,7 +21163,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210403	442448	452700	A	   1	Lipscomb	Kateryna Popova     	Bellarmine	Aubrey Smith        	6-4, 6-1
 20210403	515270	444236	A	   2	Lipscomb	Emma Zakordoniec    	Bellarmine	Ava Ratcliff        	6-1, 6-1
 20210403	566367	513941	A	   3	Lipscomb	Sasha Dobranos      	Bellarmine	Maja Kozerski       	6-1, 6-0
-20210403	490459	513943	A	   4	Lipscomb	Ielizaveta Diachenko	Bellarmine	Channing Varnum     	6-0, 6-2
+20210403	490460	513943	A	   4	Lipscomb	Maddox Bandy        	Bellarmine	Channing Varnum     	6-0, 6-2
 20210403	515034	565556	A	   1	Pacific (CA)	Klara Kosan         	San Francisco	Maria Martinez Vaquero	6-1, 6-3
 20210403	393669	498320	H	   2	San Francisco	Mya Bui             	Pacific (CA)	Amaya Lopez-Clay    	6-3, 4-6, 6-1
 20210403	567069	489313	A	   3	Pacific (CA)	Zoe Eberle          	San Francisco	Rita Colyer         	7-5, 6-7(5), 1-0(10)
@@ -21663,8 +21715,11 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210403	491319	568006	H	   5	Drexel	Tara Veluvolu       	Temple	Sena Takebe         	7-5, 2-6, 6-2
 20210403	395840	570161	A	   6	Temple	Cecilia Castelli    	Drexel	Aida Garcia Mendez  	4-6, 7-6(5), 6-4
 20210403	488975	387019	H	   1	Amherst	Jacqueline Bukzin   	Hamilton	Sophia Aulicino     	6-1, 6-1
-20210403	571015	397093	H	   3	Amherst	Kaya Amin           	Hamilton	Audrey Chor         	6-3, 6-2
+20210403	488974	512709	H	   2	Amherst	Anya Ramras         	Hamilton	Lauren Holtzman     	6-1, 3-6, 1-0(5)
+20210403	571015	397093	H	   3	Amherst	Kaya Amin           	Hamilton	Audrey Chor         	6-4, 6-2
 20210403	571016	420557	H	   4	Amherst	Julia Lendel        	Hamilton	Ajla Karabegovic    	6-2, 6-2
+20210403	509910	571620	H	   5	Amherst	Sarah Park          	Hamilton	Claire Cutler       	4-6, 6-3, 1-0(4)
+20210403	571021	571621	H	   6	Amherst	Emily Sivarak       	Hamilton	Grace Fuss          	6-3, 6-3
 20210403	571049	485589	H	   1	Nazareth	Aliya Guzman        	St. John Fisher	Mikayla Santulli    	6-1, 6-2
 20210403	490976	566199	H	   2	Nazareth	Brooke Murphy       	St. John Fisher	Kathryn Strait      	6-1, 5-7, 6-2
 20210403	485593	458306	A	   3	St. John Fisher	Valerie Morgans     	Nazareth	Marissa Towers      	6-2, 6-2
@@ -21695,6 +21750,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210403	511537	498137	H	   4	Towson	Sarah Pospischill   	Loyola (MD)	Brooke Santoriello  	6-0, 6-0
 20210403	498139	497844	A	   5	Loyola (MD)	Genevieve Wurtz     	Towson	Lauryn Jacobs       	6-1, 6-2
 20210403	497842	568645	H	   6	Towson	Jessica Assenmacher 	Loyola (MD)	Lauren Williamson   	6-0, 6-1
+20210403	563355	517040	H	   1	Shawnee State	Kiersten Hensley    	Freed-Hardeman	Skylar Sulivan      	6-0, 6-0
+20210403	486831	468310	H	   2	Shawnee State	Claire Carruthers   	Freed-Hardeman	Emaleigh Board      	6-2, 7-6(4)
+20210403	568811	568776	A	   3	Freed-Hardeman	Julianna Alves      	Shawnee State	Sara Martin Reguera 	6-0, 6-0
+20210403	522714	568895	H	   4	Shawnee State	Grace Eberhard      	Freed-Hardeman	Savannah Corbitt    	6-2, 6-3
+20210403	481818	568899	H	   5	Shawnee State	Jessica Willard     	Freed-Hardeman	Jordan Reed         	6-3, 6-3
+20210403	568777	568898	H	   6	Shawnee State	Lacey Urban         	Freed-Hardeman	Camryn Reed         	6-0, 6-3
 20210404	561887	520854	H	   4	Tennessee	Daria Kuczer        	Missouri	Elys Ventura        	6-1, 6-2
 20210404	431615	525417	H	   5	Tennessee	Tenika McGiffin     	Missouri	Valentina Vasquez Pongruber	6-3, 6-4
 20210404	451882	438291	H	   6	Tennessee	Johanna Silva       	Missouri	Marta Oliveira      	6-1, 6-1
@@ -21800,6 +21861,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210404	564489	565633	A	   4	Youngstown State	Eliska Masarikova   	Illinois - Chicago	Ana Jover           	4-6, 6-2, 6-0
 20210404	522964	491970	A	   5	Youngstown State	Jessica Stanmore    	Illinois - Chicago	Georgia Gulin       	2-6, 6-2, 6-1
 20210404	491966	498112	H	   6	Illinois - Chicago	Nell Arendt         	Youngstown State	Claudia Barboza     	2-6, 6-1, 6-0
+20210404	524494	569141	H	   1	Randolph-Macon	Emma Nesselrodt     	Ferrum	Madison Wright      	6-2, 6-1
+20210404	568242	502868	H	   2	Randolph-Macon	Adele Huffman       	Ferrum	Tennessee Phillips  	6-0, 6-0
+20210404	461469	569139	H	   3	Randolph-Macon	Isabel Wadsworth    	Ferrum	Morgan Hundley      	6-0, 6-0
+20210404	499612	569140	H	   4	Randolph-Macon	Brianne Bock        	Ferrum	Emma Loughrey       	6-0, 6-1
+20210404	499621	569136	H	   5	Randolph-Macon	Sarah Seward        	Ferrum	Sarah Estes         	6-0, 6-0
+20210404	571601	570865	H	   6	Randolph-Macon	Ella Adams          	Ferrum	Katerina Pendergrass	6-2, 6-3
 20210404	421112	439324	A	   1	SCAD - Atlanta	Simran Kejriwal     	Union (KY)	Ljiljana Pajcin     	6-2, 6-1
 20210404	566428	508975	H	   2	Union (KY)	Teodora Jovic       	SCAD - Atlanta	Begoã±a Benjumeda   	6-3, 6-2
 20210404	449795	508977	H	   3	Union (KY)	Christina Schoener  	SCAD - Atlanta	Nadia Brunzlow      	6-0, 6-0
@@ -22118,6 +22185,10 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210406	569495	503498	H	   4	Grove City	Faith Keating       	St. Vincent	Lauren Hartner      	6-0, 6-2
 20210406	512107	566644	H	   5	Grove City	Logan Fuss          	St. Vincent	Brenda Flores       	6-0, 6-2
 20210406	486352	566643	H	   6	Grove City	Lillian Jeynes      	St. Vincent	Olivia Williams     	6-0, 6-0
+20210406	568812	570176	H	   1	Evangel	Ana Bjelica         	Westminster (MO)	Erika Wanatabe      	6-1, 6-0
+20210406	568813	570173	H	   2	Evangel	Abigail Chaney      	Westminster (MO)	Rebecca Zile        	6-3, 6-0
+20210406	568815	570175	H	   3	Evangel	Carly McAtee        	Westminster (MO)	Margaret Thurman    	6-3, 2-6, 1-0
+20210406	568816	570174	H	   4	Evangel	Neely Bridges       	Westminster (MO)	Earthis Pascua      	6-3, 6-3
 20210406	568812	570176	H	   1	Evangel	Ana Bjelica         	Westminster (MO)	Erika Wanatabe      	6-0, 6-1
 20210406	568813	570173	H	   2	Evangel	Abigail Chaney      	Westminster (MO)	Rebecca Zile        	6-3, 6-0
 20210406	568815	570175	H	   3	Evangel	Carly McAtee        	Westminster (MO)	Margaret Thurman    	3-6, 6-2
@@ -22144,6 +22215,11 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210406	568103	513336	H	   4	Delaware	Julieta Honrubia    	St. Joseph's (PA)	Ireland Amato       	6-2, 6-2
 20210406	492192	513337	H	   5	Delaware	Adetayo Adetunji    	St. Joseph's (PA)	Sophia Amato        	6-4, 6-3
 20210406	492190	415653	H	   6	Delaware	Viva Laas           	St. Joseph's (PA)	Madeline Hill       	6-0, 6-0
+20210406	524495	570030	H	   1	Randolph-Macon	Grace Holderman     	Mary Baldwin	Alexis Seymore      	6-0, 6-1
+20210406	568243	570028	H	   2	Randolph-Macon	Matty Grace Gilliam 	Mary Baldwin	Lauren Hodgkins     	6-1, 6-2
+20210406	464198	503903	H	   3	Randolph-Macon	Andrea Wine         	Mary Baldwin	Summer Wendt        	6-0, 6-0
+20210406	568242	570026	H	   4	Randolph-Macon	Adele Huffman       	Mary Baldwin	Samantha Childs     	6-0, 6-2
+20210406	499612	570027	H	   5	Randolph-Macon	Brianne Bock        	Mary Baldwin	Helen Gutierrez     	6-0, 6-1
 20210407	566504	569487	A	   1	Erskine	Emma Bentz          	Chowan	Olivia Scattini     	6-2, 7-6(3)
 20210407	566505	502271	A	   2	Erskine	Marie Guillaume     	Chowan	Arina Karbolina     	7-5, 6-7(7), 1-0(7)
 20210407	521713	569488	A	   3	Erskine	Luize Valtere       	Chowan	Valentina Domenicone	6-2, 6-1
@@ -22183,6 +22259,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210407	527623	511039	H	   1	Tulane	Mary Caroline Meredith	Nicholls State	Simona Maksimovic   	6-1, 6-4
 20210407	527620	511041	H	   4	Tulane	Kristen Borland     	Nicholls State	Laura Lopez Velez   	6-3, 6-0
 20210407	527619	565209	H	   5	Tulane	Cora Barber         	Nicholls State	Nikita Pinto        	6-0, 6-1
+20210407	571520	486369	H	   1	Elmhurst	Julia Kostadinova   	Carthage	Samantha Ramsey     	4-6, 6-4, 1-0(9)
+20210407	510047	571526	A	   2	Carthage	Rachel Anderson     	Elmhurst	Morgan Bilancia     	6-4, 6-1
+20210407	510057	517741	A	   3	Carthage	Sierra Sonnemaker   	Elmhurst	Bailey Ekstrand     	6-2, 6-1
+20210407	438858	517742	A	   4	Carthage	Faelan OShaughnessy 	Elmhurst	June Bering         	6-4, 6-1
+20210407	571522	564502	H	   5	Elmhurst	Isabelle Rahman     	Carthage	Stephanie Yerges    	6-3, 6-3
+20210407	510058	571519	A	   6	Carthage	Cailida Werner      	Elmhurst	Megan Engstrom      	7-5, 6-2
 20210407	564757	562356	A	   2	Coastal Carolina	Kristyna Jurkova    	Appalachian State	Ksenia Aleshina     	6-4, 7-6(8)
 20210407	564753	565787	A	   3	Coastal Carolina	Victoire De Samucewicz	Appalachian State	Helena Figueras     	6-3, 6-4
 20210407	514547	514616	H	   4	Appalachian State	Virginia Poggi      	Coastal Carolina	Valentina Urelli    	6-4, 6-4
@@ -23186,6 +23268,10 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210409	512825	486543	A	   1	Drury	Alma Abazi          	William Jewell	Gillian Evans       	6-2, 6-0
 20210409	565539	465262	A	   2	Drury	Nastasia Jedrychowski	William Jewell	Julia Yamate        	6-0, 6-0
 20210409	466208	567618	A	   3	Drury	Viktoriya Zheleva   	William Jewell	Michaela Esau       	6-0, 6-0
+20210409	478654	571520	A	   1	Illinois Wesleyan	Rebecca Rochacz     	Elmhurst	Julia Kostadinova   	7-6(5), 6-1
+20210409	571526	494700	H	   2	Elmhurst	Morgan Bilancia     	Illinois Wesleyan	Anna Cooper         	7-6(3), 6-1
+20210409	494702	517741	A	   3	Illinois Wesleyan	Ashley Mohr         	Elmhurst	Bailey Ekstrand     	6-2, 6-1
+20210409	571522	569288	H	   4	Elmhurst	Isabelle Rahman     	Illinois Wesleyan	Katelyn Heller      	6-2, 6-4
 20210410	526971	486239	A	   1	Missouri	Bronte Murgett      	LSU	Taylor Bridges      	6-0, 6-2
 20210410	486238	436120	H	   3	LSU	Paris Corley        	Missouri	Serena Nash         	6-3, 6-1
 20210410	511370	525416	H	   5	LSU	Nina Geissler       	Missouri	Romary Cardenas     	6-1, 6-1
@@ -23356,6 +23442,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210410	394835	566141	A	   4	Colorado Mesa	Carolena Campos     	Colorado College	Malia Rivera        	6-2, 6-3
 20210410	566136	486566	H	   5	Colorado College	Elizabeth Girian    	Colorado Mesa	Lauren Thomas       	6-1, 6-4
 20210410	561757	512576	A	   6	Colorado Mesa	Julianna Campos     	Colorado College	Haley Caspersen     	6-0, 6-2
+20210410	566858	571520	A	   1	North Central (IL)	Kaeli Smashey       	Elmhurst	Julia Kostadinova   	6-0, 6-1
+20210410	486870	517742	A	   2	North Central (IL)	Hannah Hougland     	Elmhurst	June Bering         	6-0, 6-0
+20210410	486868	571522	A	   3	North Central (IL)	Alaina Kanthaphixay 	Elmhurst	Isabelle Rahman     	6-0, 6-2
+20210410	564537	517741	A	   4	North Central (IL)	Mikayla Edquiban    	Elmhurst	Bailey Ekstrand     	6-2, 6-0
+20210410	522294	571519	A	   5	North Central (IL)	Sydney Sawyer       	Elmhurst	Megan Engstrom      	6-0, 6-0
+20210410	564538	571521	A	   6	North Central (IL)	Nina Patience       	Elmhurst	Alitza Munoz        	6-0, 6-0
 20210410	428629	439682	H	   1	Ole Miss	Sabina Machalova    	Kentucky	Akvilė Paražinskaitė	7-5, 6-1
 20210410	513436	511330	H	   2	Ole Miss	Tiphanie Fiquet     	Kentucky	Carlota Molina Megias	6-1, 6-0
 20210410	461316	511331	H	   4	Ole Miss	Anna Vrbenska       	Kentucky	Carla Girbau        	7-6(1), 6-0
@@ -23427,6 +23519,10 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210410	565276	515685	A	   4	Columbus State	Valentina Abrile    	North Georgia	Ann Maria Adams     	6-4, 6-1
 20210410	515696	491216	A	   5	Columbus State	Amanda Citre        	North Georgia	Claudelle Lebonte-Frey	6-1, 7-6(4)
 20210410	562037	566063	A	   6	Columbus State	Sara Ramirez Goncalvez	North Georgia	Johanna Lippert     	6-3, 6-3
+20210410	426902	478654	H	   1	Wheaton (IL)	Emme Lindquist      	Illinois Wesleyan	Rebecca Rochacz     	6-0, 6-4
+20210410	512471	494700	H	   2	Wheaton (IL)	Abygale Ahn         	Illinois Wesleyan	Anna Cooper         	6-0, 6-0
+20210410	489559	494702	H	   3	Wheaton (IL)	Claire Dibble       	Illinois Wesleyan	Ashley Mohr         	6-0, 6-0
+20210410	489560	569288	H	   4	Wheaton (IL)	Bethany Hoogerheide 	Illinois Wesleyan	Katelyn Heller      	6-1, 6-0
 20210410	565376	406456	A	   1	Flagler	Luisa Hrda          	Lander	Eduarda Ferreira    	6-1, 6-2
 20210410	494043	565497	A	   2	Flagler	Eden Schlagenhauf   	Lander	Chiara Gerbino      	6-1, 6-1
 20210410	513648	458449	H	   3	Lander	Maria Rey           	Flagler	Alessandra Traub    	6-4, 3-6, 1-0(7)
@@ -23783,6 +23879,11 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210410	460514	489272	A	   4	Denver	Camille Verden-Anderson	North Dakota	Kaede Amano         	6-0, 6-1
 20210410	486651	510201	A	   5	Denver	tatum burger        	North Dakota	Nina Zdravkovic     	7-6(3), 6-2
 20210410	486652	455657	A	   6	Denver	Toni Nelson         	North Dakota	Isabella Sullivan   	6-1, 6-2
+20210410	524495	514651	H	   1	Randolph-Macon	Grace Holderman     	Randolph	Heather Whetzel     	6-2, 6-2
+20210410	524494	514650	H	   2	Randolph-Macon	Emma Nesselrodt     	Randolph	Bailey Livingston   	6-0, 6-3
+20210410	464198	524957	H	   3	Randolph-Macon	Andrea Wine         	Randolph	Jenna Fink          	6-0, 6-0
+20210410	461469	568199	H	   4	Randolph-Macon	Isabel Wadsworth    	Randolph	Cassidy Bell        	6-0, 6-0
+20210410	568242	568200	H	   5	Randolph-Macon	Adele Huffman       	Randolph	Amanda Jagdeo       	6-0, 6-0
 20210410	490910	400861	H	   1	Trine	Ashley Spirrison    	St. Mary's (IN)	Megan Davy          	6-0, 6-3
 20210410	527895	516841	H	   2	Trine	Jadyn Davis         	St. Mary's (IN)	Lucy Chamberlin     	6-3, 3-6, 6-3
 20210410	396284	510714	A	   3	St. Mary's (IN)	Lilly Chamberlin    	Trine	Eva Morales         	7-5, 5-7, 6-0
@@ -24048,6 +24149,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210410	513061	485630	H	   3	Edgewood	Ally Verbauwhede    	Wartburg	Ambriel Jacobs      	6-2, 6-1
 20210410	447202	395149	A	   4	Wartburg	Sydney Rottinghaus  	Edgewood	Alyssa Carew        	6-2, 6-4
 20210410	401167	527761	H	   5	Edgewood	Lydia Dean          	Wartburg	Georgia Nissen      	7-6(7), 6-4
+20210410	387019	571299	H	   1	Hamilton	Sophia Aulicino     	Middlebury	Amy Delman          	7-6(4), 1-6, 1-0(9)
+20210410	571301	397093	A	   2	Middlebury	Gena Huang          	Hamilton	Audrey Chor         	6-2, 6-2
+20210410	390256	420557	A	   3	Middlebury	Emily Bian          	Hamilton	Ajla Karabegovic    	6-0, 6-1
+20210410	571620	571300	H	   4	Hamilton	Claire Cutler       	Middlebury	Samantha Remis      	0-6, 7-5, 1-0(8)
+20210410	571302	571621	A	   5	Middlebury	Kavina Amin         	Hamilton	Grace Fuss          	6-0, 6-2
+20210410	512116	488132	A	   6	Middlebury	Caitlin Neal        	Hamilton	Sarah Bargamian     	6-0, 6-1
 20210410	565539	488599	A	   2	Drury	Nastasia Jedrychowski	Rockhurst	Paula Romero        	6-4, 6-0
 20210410	466208	523295	A	   3	Drury	Viktoriya Zheleva   	Rockhurst	Andrea Dabbah       	6-2, 6-4
 20210410	512826	523296	A	   4	Drury	Kseniia Eremina     	Rockhurst	Dina Dudic          	6-3, 6-1
@@ -24074,6 +24181,18 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210410	414859	489536	N	   4	Birmingham Southern	Ashton Henderson    	Hendrix	Sarah Morris        	6-0, 6-0
 20210410	564269	523424	N	   5	Birmingham Southern	Sarah Rushing       	Hendrix	Kashti Shah         	6-2, 6-0
 20210410	513994	523425	N	   6	Birmingham Southern	Isabella Lambert    	Hendrix	Lauren Berry        	6-0, 6-0
+20210410	501157	565856	H	   1	Minnesota Duluth	Sophia Lynch        	Upper Iowa	Jessa Michieli      	5-2
+20210410	468956	522287	H	   2	Minnesota Duluth	Natalie Cahill      	Upper Iowa	Varvara Ogorodnikova	6-4, 7-6(7), 1-0(9)
+20210410	522307	565857	H	   3	Minnesota Duluth	Mallory Lithun      	Upper Iowa	Lina Ziani          	7-5, 7-6
+20210410	568062	514189	H	   4	Minnesota Duluth	Shay Callaway       	Upper Iowa	Alejandra Abella    	6-0, 6-0
+20210410	522308	514191	H	   5	Minnesota Duluth	Emily Rahrik        	Upper Iowa	Mya Herrmann        	6-0, 6-0
+20210410	480681	514192	H	   6	Minnesota Duluth	Isabel Thiner       	Upper Iowa	Elaina Wall         	6-0, 6-1
+20210410	386060	486770	A	   1	Moravian	Emma Angle          	Catholic	Brooke Simonson     	6-4, 6-1
+20210410	386061	398414	A	   2	Moravian	Mary Angle          	Catholic	Grace Connell       	6-1, 6-0
+20210410	384313	431870	A	   3	Moravian	Brooke Adams        	Catholic	Colleen McLaughlin  	6-2, 6-4
+20210410	514469	513161	H	   4	Catholic	Abigail Cassidy     	Moravian	Julianne Cassady    	1-6, 7-5, 1-0(8)
+20210410	395779	486777	A	   5	Moravian	Kristen Cassidy     	Catholic	Olivia Sensenbrenner	6-0, 6-2
+20210410	513162	570714	A	   6	Moravian	Maddie Figiel       	Catholic	Marissa Stambaugh   	6-1, 6-1
 20210411	485462	527379	A	   1	Harding	Rylie Cox           	Southeastern (OK)	Zulay Castaneda     	6-2, 7-5
 20210411	527377	485453	H	   2	Southeastern (OK)	Vanessa Nitu        	Harding	Emily Carpenter     	1-6, 6-2, 6-0
 20210411	565460	562499	A	   3	Harding	Romane Britt        	Southeastern (OK)	Georgia Hosking     	6-4, 6-3
@@ -24228,6 +24347,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210411	564576	564875	H	   3	Houston	Laura Slisane       	SMU	Winslow Huth        	7-6, 6-3
 20210411	491658	564455	H	   4	Houston	Phonexay Chitdara   	SMU	Chandler Carter     	6-4, 6-2
 20210411	441066	491657	A	   6	SMU	Nicole Petchey      	Houston	Stephanie Belovukovic	6-1, 6-1
+20210411	564909	439385	N	   1	Nevada	Milka Genkova       	Colorado State	Priscilla Palermo   	6-1, 6-3
+20210411	515751	566483	N	   2	Nevada	Anastasia Luneva    	Colorado State	Chunxi Guo          	6-3, 7-6
+20210411	566481	515754	N	   3	Colorado State	Lou Regen           	Nevada	Carla Del Barrio    	6-2, 6-2
+20210411	411880	564908	N	   4	Colorado State	Alyssa Grijalva     	Nevada	Cristina Moll       	6-1, 5-7, 7-5
+20210411	486025	398960	N	   5	Nevada	Selina Turulja      	Colorado State	Emma Corwin         	6-2, 6-2
+20210411	512679	564906	N	   6	Colorado State	Anastasiia Kotsyuba 	Nevada	Mathilde Sarcelet   	7-5, 4-6, 6-2
 20210411	490610	514585	A	   1	College of Charleston	Eva Nyikos          	Elon	Victoria Saldh      	6-0, 6-0
 20210411	564950	509209	H	   2	Elon	Sibel Tanik         	College of Charleston	Slade Coetzee       	6-4, 6-3
 20210411	564949	509210	H	   3	Elon	Lizette Reding      	College of Charleston	Halli Trinkle       	6-3, 6-7, 7-6
@@ -24476,6 +24601,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210411	434904	513077	A	   4	George Fox	Taylor Morris       	Willamette	Paisley Lieske      	6-2, 6-1
 20210411	490535	570059	A	   5	George Fox	Alyssa Byde         	Willamette	Camille Gibney      	6-3, 6-0
 20210411	571268	570057	A	   6	George Fox	Brenna Vanderyacht  	Willamette	Ruby Blake          	6-1, 6-1
+20210411	568684	568078	H	   1	Minnesota Morris	Kate Obright        	Bethany Lutheran	Shoshana Bruner     	6-4, 7-6(3)
+20210411	480575	568080	H	   2	Minnesota Morris	Sam Tate            	Bethany Lutheran	Emma Newton         	6-0, 6-1
+20210411	568689	571533	H	   3	Minnesota Morris	Kiley Rodarmel      	Bethany Lutheran	Kaitlyn Berreau     	6-2, 6-1
+20210411	568687	568081	H	   4	Minnesota Morris	Abby Burquest       	Bethany Lutheran	Audrey Petersen     	5-7, 6-4, 1-0(6)
+20210411	568686	571536	H	   5	Minnesota Morris	Megan Arens         	Bethany Lutheran	Karena Verbitsky    	6-0, 6-3
+20210411	568685	568082	H	   6	Minnesota Morris	Megan Tschida       	Bethany Lutheran	Lauren Zimmerman    	6-3, 6-2
 20210411	511129	498072	A	   1	Western Kentucky	Cora-Lynn Von Dungern	Alabama A&M	Jasmine Boyd        	4-6, 6-2, 1-0(6)
 20210411	488020	498073	A	   2	Western Kentucky	Laura Bernardos     	Alabama A&M	Anita Bozhko        	6-2, 6-1
 20210411	511130	498074	A	   3	Western Kentucky	Lauren Joch         	Alabama A&M	Ximena Duarte Ramirez	6-1, 6-3
@@ -24511,6 +24642,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210411	571123	502433	A	   4	Kalamazoo	Renee Torres        	Trine	Ellie Cole          	6-0, 6-0
 20210411	485879	490909	A	   5	Kalamazoo	Ella Knight         	Trine	Trista Savage       	6-3, 6-2
 20210411	571124	490906	A	   6	Kalamazoo	Maddie Hurley       	Trine	Camille Lozier      	6-0, 6-0
+20210411	421362	524496	H	   1	Roanoke	Jessica Kennedy     	Randolph-Macon	Avery Smith         	6-4, 6-2
+20210411	501959	524495	H	   2	Roanoke	Lucy Collins        	Randolph-Macon	Grace Holderman     	
+20210411	568188	524494	H	   3	Roanoke	Halle Fernstrum     	Randolph-Macon	Emma Nesselrodt     	6-2, 6-1
+20210411	499619	515517	A	   4	Randolph-Macon	Daniella Hafner     	Roanoke	Margriet Bostoen    	6-3, 7-5
+20210411	568243	515518	A	   5	Randolph-Macon	Matty Grace Gilliam 	Roanoke	Olivia Maccluen     	6-3, 6-3
+20210411	464198	501960	A	   6	Randolph-Macon	Andrea Wine         	Roanoke	Sophie Bartholomaus 	6-1, 7-5
 20210411	459000	497755	A	   1	Texas	Anna Turati         	Kansas State	Karine-Marion Job   	6-0, 6-3
 20210411	562075	426840	A	   2	Texas	Lulu Sun            	Kansas State	Maria Linares       	6-1, 7-6(3)
 20210411	562071	428848	A	   3	Texas	Charlotte Chavatipon	Kansas State	Rosanna Maffei      	6-2, 6-2
@@ -24652,6 +24789,10 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210411	564267	489536	A	   3	Birmingham Southern	Jenna Prater        	Hendrix	Sarah Morris        	6-0, 6-0
 20210411	513994	523424	A	   4	Birmingham Southern	Isabella Lambert    	Hendrix	Kashti Shah         	6-0, 6-0
 20210411	564266	523425	A	   5	Birmingham Southern	Madelyn Stewart     	Hendrix	Lauren Berry        	6-0, 6-0
+20210411	454782	570173	H	   1	St. Louis - Pharmacy	Emily Stevenson     	Westminster (MO)	Rebecca Zile        	6-1, 6-0
+20210411	523474	570176	H	   2	St. Louis - Pharmacy	Erin Davis          	Westminster (MO)	Erika Wanatabe      	6-0, 7-6
+20210411	570174	409334	A	   3	Westminster (MO)	Earthis Pascua      	St. Louis - Pharmacy	Emilia Gautier      	3-6, 6-2, 0-8(10)
+20210411	566930	570813	H	   4	St. Louis - Pharmacy	Sophia Kchouk       	Westminster (MO)	Faith McRoberts     	6-0, 6-0
 20210412	446858	461324	H	   1	Mercer	Maeva Roquebert     	Wofford	Jenna Vroman        	6-1, 6-4
 20210412	485913	491577	A	   2	Wofford	Lilie Steryous      	Mercer	Alara Hollyfield    	6-2, 6-3
 20210412	514133	485910	H	   3	Mercer	Mary Weston Courville	Wofford	Elizabeth Massie    	6-4, 7-6(4)
@@ -25048,6 +25189,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210414	566506	564914	A	   4	Erskine	Czarina Aguirre     	North Greenville	Naomi Sakakibara    	4-6, 6-1, 1-0(5)
 20210414	566508	564912	A	   5	Erskine	Adair Still         	North Greenville	Makena Newsome      	6-0, 6-0
 20210414	566509	564911	A	   6	Erskine	Katie Lowe          	North Greenville	Hannah Sepko        	6-0, 6-0
+20210414	410613	514133	A	   1	UNC Greensboro	Brianna Gomez       	Mercer	Mary Weston Courville	7-5, 7-6(8)
+20210414	491577	384378	H	   2	Mercer	Alara Hollyfield    	UNC Greensboro	Sophia Adams        	6-2, 6-2
+20210414	491231	514134	A	   3	UNC Greensboro	Hanna Giddings      	Mercer	Lauren Rich         	6-1, 7-5
+20210414	527964	438809	H	   4	Mercer	Lekha Varudandi     	UNC Greensboro	Emily Ory           	7-5, 6-1, 6-2
+20210414	491233	527965	A	   5	UNC Greensboro	Eugenia Camacho     	Mercer	Kristin Yordanova   	6-3, 6-2
+20210414	527967	399573	H	   6	Mercer	Ashley Popham       	UNC Greensboro	Tayah Cross         	6-1, 6-2
 20210414	486078	565653	H	   1	Liberty	alexandra almborg   	Virginia Tech	Tamara Barad-Itzhaki	6-3, 7-5
 20210414	423349	509853	A	   2	Virginia Tech	Nika Kozar          	Liberty	Tiffany Nguyen      	6-0, 6-3
 20210414	509850	453608	H	   3	Liberty	Esther Lovato       	Virginia Tech	Nina Sorkin         	7-5, 6-4
@@ -25113,6 +25260,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210414	512500	488769	H	   4	Bethel (MN)	Ingrid Goldstrand   	UW Eau Claire	Alexa Brooks        	6-2, 4-6, 1-0(6)
 20210414	568069	491616	A	   5	UW Eau Claire	Morgan Nelson       	Bethel (MN)	Sydney Rott         	6-3, 4-6, 1-0(4)
 20210414	511659	512503	A	   6	UW Eau Claire	Sydney Presler      	Bethel (MN)	Rylee Schurman      	6-4, 6-4
+20210414	488383	568684	H	   1	Northwestern (MN)	Mafee Rinta         	Minnesota Morris	Kate Obright        	6-2, 6-2
+20210414	480575	488376	A	   2	Minnesota Morris	Sam Tate            	Northwestern (MN)	Belinda Weddle      	6-1, 7-5
+20210414	568689	412014	A	   3	Minnesota Morris	Kiley Rodarmel      	Northwestern (MN)	Jessica Gross       	6-4, 3-6, 1-0(8)
+20210414	516898	568687	H	   4	Northwestern (MN)	Taylar Smith        	Minnesota Morris	Abby Burquest       	6-2, 6-0
+20210414	568686	567905	A	   5	Minnesota Morris	Megan Arens         	Northwestern (MN)	Elliana Dodge       	6-2, 3-6, 1-0(9)
+20210414	488380	568685	H	   6	Northwestern (MN)	Angel Beaufeaux     	Minnesota Morris	Megan Tschida       	6-0, 4-6, 1-0(3)
 20210414	511886	514427	A	   1	Delaware	Eliza Askarova      	Drexel	Sarka Richterova    	6-2, 6-3
 20210414	511889	491320	A	   2	Delaware	Jojo Bach           	Drexel	Cristina Corte      	6-1, 6-3
 20210414	570160	511890	H	   3	Drexel	Isabel Cabrerizo    	Delaware	Isabella Montana    	6-4, 7-6(9)
@@ -25129,6 +25282,10 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210414	454498	497640	A	   4	St. John's (NY)	Kajsa Stegrell      	Stony Brook	Loreto Villalba-Rubio	6-3, 6-2
 20210414	567819	514129	H	   5	Stony Brook	Chandrika Joshi     	St. John's (NY)	Camila Ordonez      	6-7, 6-3, 1-0(4)
 20210414	514128	439475	A	   6	St. John's (NY)	Willa Bay Breunich  	Stony Brook	Elizabeth Pam       	6-3, 6-2
+20210414	387797	513400	H	   3	Virginia Wesleyan	Audrey Bally        	Guilford	Hannah Arnett       	6-1, 6-0
+20210414	566733	524934	H	   4	Virginia Wesleyan	Shannon Lewes       	Guilford	Bea Niyibizi        	6-2
+20210414	514533	568573	H	   5	Virginia Wesleyan	Amanda Stegemann    	Guilford	Nya Reed            	6-3, 6-1
+20210414	566732	498088	H	   6	Virginia Wesleyan	Sophia Bibbo        	Guilford	Jessica Fuentes     	6-1, 6-0
 20210414	488113	462505	A	   1	DeSales	Annie Rakos         	Arcadia	Tess Weber          	6-3, 6-2
 20210414	488114	489576	A	   2	DeSales	Kirsten Kosa        	Arcadia	Julia Paraboschi    	6-1, 6-0
 20210414	399704	488116	H	   3	Arcadia	Emily Cruz-Pineda   	DeSales	Bailey Greco        	6-1, 6-2
@@ -25207,6 +25364,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210414	509957	564400	H	   4	Linfield	Allena Wong         	Puget Sound	Marissa Perez       	6-0, 6-0
 20210414	486696	564402	H	   5	Linfield	Maggie Fiocchi      	Puget Sound	Laura Schneidman    	6-0, 6-0
 20210414	568925	512053	H	   6	Linfield	Sarah Forester      	Puget Sound	Tatyana Cox         	6-0, 6-1
+20210414	437508	509795	H	   1	TCU	Marie Norris        	Baylor	Alicia Herrero-Linana	6-4, 4-6, 6-1
+20210414	415776	485729	A	   2	Baylor	Jessica Hinojosa    	TCU	Mercedes Aristegui  	4-6, 7-6(5), 6-4
+20210414	450932	561724	A	   3	Baylor	Angelina Shakhraichuk	TCU	Tate Schroeder      	5-7, 6-4, 6-2
+20210414	497948	421378	A	   4	Baylor	Paula Baranano      	TCU	Stevie Kennedy      	6-4, 6-0
+20210414	562077	561726	A	   5	Baylor	Audrey Boch-Collins 	TCU	Isabel Pascual Montalvo	6-0, 6-1
+20210414	514771	453617	H	   6	TCU	Margaret Polk       	Baylor	Kristina Sorokolet  	6-4, 6-1
 20210415	564966	485533	A	   1	Tarleton State	Mihaela Codreanu    	UTEP	Vanessa Valdez      	7-5, 7-6
 20210415	430232	564965	H	   2	UTEP	Erandi Martinez     	Tarleton State	Jemi Aguilar        	7-5, 6-3
 20210415	564967	510128	A	   3	Tarleton State	Martha Makantasi    	UTEP	Lina Sachica        	6-2, 6-2
@@ -25231,6 +25394,18 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210415	514393	408876	A	   4	Central Florida	Evgeniya Levashova  	Florida State	Andrea Garcia       	6-1, 6-3
 20210415	564846	563086	H	   5	Florida State	Anna Arkadianiou    	Central Florida	Jaleesa Leslie      	6-1, 7-5
 20210415	487284	521176	A	   6	Central Florida	Nandini Sharma      	Florida State	Alice Amendola      	6-1, 6-4
+20210415	512532	388030	A	   1	St. Catherine (MN)	Kelsey Dorr         	St. Olaf	Sabrina Barboza     	6-3, 6-3
+20210415	516405	403141	H	   2	St. Olaf	Allie Prokosch      	St. Catherine (MN)	Bri Dorr            	6-4, 2-6, 1-0(9)
+20210415	443114	411310	H	   3	St. Olaf	Greta Prokosch      	St. Catherine (MN)	Ella Graham         	7-6(3), 6-3
+20210415	488042	438968	A	   4	St. Catherine (MN)	Reilee Schepper     	St. Olaf	Emily Otteson       	3-6, 6-0, 1-0(5)
+20210415	512536	494197	A	   5	St. Catherine (MN)	Elsa Joly           	St. Olaf	Teresa Fawcett      	6-3, 6-1
+20210415	569125	494194	A	   6	St. Catherine (MN)	Noelle Slezak       	St. Olaf	Katherine Ichinose  	6-4, 6-2
+20210415	568689	567634	H	   1	Minnesota Morris	Kiley Rodarmel      	Martin Luther	McKenzey Crowley    	6-1, 7-5
+20210415	568684	567631	H	   2	Minnesota Morris	Kate Obright        	Martin Luther	Josephine Bieberitz 	6-2, 6-0
+20210415	480575	567632	H	   3	Minnesota Morris	Sam Tate            	Martin Luther	Tatum Bollmeier     	6-2, 6-0
+20210415	568686	567636	H	   4	Minnesota Morris	Megan Arens         	Martin Luther	Dana Pietrzyk       	6-1, 6-0
+20210415	568687	567635	H	   5	Minnesota Morris	Abby Burquest       	Martin Luther	Charis Glende       	6-3, 6-3
+20210415	568688	567633	H	   6	Minnesota Morris	Bebe Say            	Martin Luther	Hannah Broring      	6-7(3), 6-4, 1-0(8)
 20210415	568957	567166	A	   1	St. Thomas Aquinas	Karina Blas         	West Chester	Tori Alexander      	7-6(4), 6-2
 20210415	568960	512050	A	   2	St. Thomas Aquinas	Viktoriia Pavlovets 	West Chester	Davica Massaro      	6-7(5), 6-4, 1-0(8)
 20210415	568961	446483	A	   3	St. Thomas Aquinas	Jemima Parkinson    	West Chester	Leandra Roelker     	6-2, 6-1
@@ -25342,6 +25517,38 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210415	489217	517626	A	   4	West Alabama	Daryna Gukaysan     	Christian Brothers	Eva Garcia          	6-2, 6-2
 20210415	515311	493908	A	   5	West Alabama	Valeria Arevalo     	Christian Brothers	Laura Brazuelo      	4-6, 6-0
 20210415	522291	493909	A	   6	West Alabama	Hardija Vidnere     	Christian Brothers	Nellina Wooten      	7-6, 6-0
+20210415	513177	459675	N	   1	Wingate	Elena Bompieri      	Lincoln Memorial	Julia Valls         	6-1, 6-0
+20210415	499071	401607	N	   2	Wingate	Camilla Ciaccia     	Lincoln Memorial	Johanna Delisse     	6-0, 6-1
+20210415	513178	487203	N	   5	Wingate	Flaminia Guidantoni 	Lincoln Memorial	Amanda Dahlstrom    	6-2, 6-2
+20210415	488946	568653	A	   1	Brescia	Hannah-Joy Simms    	Oakland City	Kataryna Kulynych   	
+20210415	568656	488947	H	   2	Oakland City	Pamela Barbosa      	Brescia	Mazvita Ngorosha    	
+20210415	514668	513873	H	   3	Oakland City	Kaleigh Helm        	Brescia	Melony Dunaway      	
+20210415	503283	569533	H	   4	Oakland City	Hannah Wilson       	Brescia	Camille Fleming     	
+20210415	514667	504359	H	   5	Oakland City	Audrey Wilson       	Brescia	Sierra Thompson     	
+20210416	566025	567710	N	   F	St. Petersburg	Veleriia Cherfus    	Hillsborough (FL)	Mbali Langa         	4-6, 7-5, 7-5
+20210416	567710	499467	N	  SF	Hillsborough (FL)	Mbali Langa         	Eastern Florida	Tsveti Trifonova    	7-5, 4-6, 6-3
+20210416	566025	509779	N	  SF	St. Petersburg	Veleriia Cherfus    	SCF	Karla Menendez      	6-2, 6-1
+20210416	499467	509779	N	 C-F	Eastern Florida	Tsveti Trifonova    	SCF	Karla Menendez      	8-5
+20210416	520479	511407	N	   F	St. Petersburg	Naomi McKenzie      	Hillsborough (FL)	Magda Tuells        	6-3, 7-6(3)
+20210416	511407	521579	N	  SF	Hillsborough (FL)	Magda Tuells        	Eastern Florida	Carlota Gascon Martinez	6-0, 6-0
+20210416	520479	564435	N	  SF	St. Petersburg	Naomi McKenzie      	SCF	Lou De Freitas Bonet	6-0, 6-3
+20210416	564435	521579	N	 C-F	SCF	Lou De Freitas Bonet	Eastern Florida	Carlota Gascon Martinez	8-3
+20210416	563417	527327	N	   F	Hillsborough (FL)	Viktoryia Zhadzinskaya	Eastern Florida	Kayla Greco         	6-2, 6-0
+20210416	527327	489706	N	  SF	Eastern Florida	Kayla Greco         	SCF	Britain Botsford    	6-2, 6-0
+20210416	563417	515836	N	  SF	Hillsborough (FL)	Viktoryia Zhadzinskaya	St. Petersburg	Lucia Garcia        	6-1, 6-0
+20210416	515836	489706	N	 C-F	St. Petersburg	Lucia Garcia        	SCF	Britain Botsford    	8-6
+20210416	511405	494743	N	   F	Hillsborough (FL)	Ana Villalvazo Farrera	St. Petersburg	Saki Matsubara      	6-2, 6-0
+20210416	511405	564434	N	  SF	Hillsborough (FL)	Ana Villalvazo Farrera	SCF	Sarah Forsyth       	6-2, 6-0
+20210416	494743	567108	N	  SF	St. Petersburg	Saki Matsubara      	Eastern Florida	Nicolle Romero      	6-4, 6-2
+20210416	564434	567108	N	 C-F	SCF	Sarah Forsyth       	Eastern Florida	Nicolle Romero      	8-4
+20210416	525029	564432	N	   F	Hillsborough (FL)	Isadora Oliveira    	SCF	Kia Carvalho-Landell	7-5, 6-1
+20210416	525029	510917	N	  SF	Hillsborough (FL)	Isadora Oliveira    	Eastern Florida	Julie Martincova    	6-1, 6-1
+20210416	564432	515834	N	  SF	SCF	Kia Carvalho-Landell	St. Petersburg	Elizaveta Mova      	6-6(5), 6-4
+20210416	515834	510917	N	 C-F	St. Petersburg	Elizaveta Mova      	Eastern Florida	Julie Martincova    	8-4
+20210416	563418	494744	N	   F	Hillsborough (FL)	Olivia Pezo         	St. Petersburg	Karla Ortega        	6-2, 6-1
+20210416	563418	564433	N	  SF	Hillsborough (FL)	Olivia Pezo         	SCF	Luna Mouton         	6-2, 6-0
+20210416	494744	521578	N	  SF	St. Petersburg	Karla Ortega        	Eastern Florida	Ivette Castaneda    	2-6, 6-3, 6-4
+20210416	521578	564433	N	 C-F	Eastern Florida	Ivette Castaneda    	SCF	Luna Mouton         	8-2
 20210416	524393	527379	H	   1	Henderson State	Mulan Kamoe         	Southeastern (OK)	Zulay Castaneda     	1-6, 6-2, 6-3
 20210416	527377	524394	A	   2	Southeastern (OK)	Vanessa Nitu        	Henderson State	Georjemah Row       	6-2, 6-1
 20210416	524399	562499	H	   3	Henderson State	Franny Nyarko       	Southeastern (OK)	Georgia Hosking     	6-4, 7-6
@@ -25409,6 +25616,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210416	512908	511546	A	   4	New Mexico	Myu Kageyama        	Air Force	Shailla Alda        	6-3, 6-0
 20210416	511549	417002	H	   5	Air Force	Mebeli Becerra      	New Mexico	Hsiang-Wen albie Huang	6-1, 6-4
 20210416	563633	513443	H	   6	Air Force	Hailey Stelse       	New Mexico	Sara Kuuttila-Webbert	6-0, 6-0
+20210416	423659	486369	H	   1	Carroll (WI)	Grace Krueger       	Carthage	Samantha Ramsey     	6-2, 4-6, 1-0(5)
+20210416	512153	510047	H	   2	Carroll (WI)	Maya Gaedtke        	Carthage	Rachel Anderson     	5-7, 6-1, 1-0(4)
+20210416	510057	425464	A	   3	Carthage	Sierra Sonnemaker   	Carroll (WI)	Lora Leach          	7-5, 6-2
+20210416	438858	512164	A	   4	Carthage	Faelan OShaughnessy 	Carroll (WI)	Carolyn Merkatoris  	7-6(2), 5-7, 1-0(10)
+20210416	512166	564502	H	   5	Carroll (WI)	Clare Veranth       	Carthage	Stephanie Yerges    	6-2, 6-4
+20210416	512156	510058	H	   6	Carroll (WI)	Francesca Grimes    	Carthage	Cailida Werner      	6-4, 6-1
 20210416	510224	515187	H	   1	Colorado	Maria Campos        	Utah	Madeline Lamoreaux  	6-2, 7-6(2)
 20210416	510221	486176	H	   2	Colorado	Sophia Derivan      	Utah	Emily Dush          	6-1, 4-6, 7-6(8)
 20210416	490480	486177	H	   3	Colorado	Megan Forster       	Utah	Lindsay Hung        	6-2, 6-2
@@ -25511,6 +25724,11 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210416	513647	523112	A	   4	Lander	Raquel Acco         	GSW	Brianca Leao        	6-0, 6-1
 20210416	463522	523110	A	   5	Lander	Lindsey Wiggins     	GSW	Andrea Cervantes    	7-5, 6-1
 20210416	566568	523111	A	   6	Lander	Roberta Armani      	GSW	Coraline Lamer      	6-3, 6-1
+20210416	427014	513479	H	   1	Wayne State	Linda Liong         	SVSU	Sara Neves          	6-2, 6-1
+20210416	403209	564870	H	   2	Wayne State	Brianna Douglas     	SVSU	Emma Charlton       	7-6(8), 6-2, 9-4
+20210416	566134	564868	H	   3	Wayne State	Melanie Zampardo    	SVSU	Chelsea Dzenga      	6-3, 6-4
+20210416	487367	486004	H	   4	Wayne State	Carla Jewell        	SVSU	Nicole Johnson      	6-1, 6-0
+20210416	454198	513478	H	   5	Wayne State	Stephanie Stamate   	SVSU	Adiya Young         	6-3, 6-4
 20210416	569100	498450	H	   1	Northwestern (IA)	Wynne Vandersall    	Midland (NE)	Elyse Splichal      	6-3, 6-4
 20210416	488696	510237	A	   2	Midland (NE)	Madison Kersigo     	Northwestern (IA)	Jessica Wilson      	6-1, 6-3
 20210416	533371	527595	A	   3	Midland (NE)	Grace Felder        	Northwestern (IA)	Emma Montenegro     	6-0, 6-0
@@ -25575,6 +25793,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210416	514656	469685	H	   4	Sciences (Philadelphia)	Myra Anwar          	Jefferson	Millie Coombes      	3-1
 20210416	486143	476931	H	   5	Sciences (Philadelphia)	Stephanie Mazurek   	Jefferson	Eryn Nguyen         	6-1, 6-0
 20210416	425406	525215	H	   6	Sciences (Philadelphia)	Han Le              	Jefferson	Elisa Hardeski      	6-4, 6-2
+20210416	569694	486763	A	   1	Northwood	Amanda Bandrowski   	Ashland	Gabriella Hudec     	6-2, 4-6, 7-5
+20210416	496352	445637	A	   2	Northwood	Elizaveta Velichko  	Ashland	Camille Ringot      	7-5, 6-1
+20210416	568757	486765	A	   3	Northwood	Rafaella Fulop      	Ashland	Huntyr Lake         	6-2, 6-0
+20210416	496351	511158	A	   4	Northwood	Iryna Trystan       	Ashland	Zoe Rosu            	6-1, 6-4
+20210416	496348	413946	A	   5	Northwood	Anna Goncharova     	Ashland	Anna Hart           	4-6, 6-1, 1-0(11)
+20210416	511159	571699	H	   6	Ashland	Kristyn Conrad      	Northwood	Calista Shannon     	6-1, 6-1
 20210416	515469	566076	A	   1	Northwest Missouri	Vera Alenicheva     	Nebraska - Kearney	Melisa Becerra      	6-7(6), 7-6(1), 6-2
 20210416	566307	568471	H	   2	Nebraska - Kearney	Jazmin Zamorano     	Northwest Missouri	Tessa Kwakernaak    	6-4, 6-4
 20210416	487388	566077	A	   3	Northwest Missouri	Julia Aliseda       	Nebraska - Kearney	Myrzaiym mia Sherikulova	6-4, 6-2
@@ -25587,11 +25811,27 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210416	403386	514077	H	   4	Walsh	Clara Drasch        	Cedarville	Faith Triplett      	6-0, 6-0
 20210416	528289	514076	H	   5	Walsh	Chiara Wolff        	Cedarville	Joelle Petek        	6-0, 6-0
 20210416	528288	514075	H	   6	Walsh	Isabella Sanchez    	Cedarville	Jessica Spry        	6-2, 6-0
+20210416	496115	503980	A	   1	Bloomsburg	Taylor Capoferri    	Shepherd	Valentina Preciado-Bello	6-0, 6-0
+20210416	510963	516590	A	   2	Bloomsburg	Sarah Capoferri     	Shepherd	Ally Frushour       	6-0, 6-1
+20210416	569436	516593	A	   3	Bloomsburg	Anna Chikhalenko    	Shepherd	Morgan Burner       	2-6, 6-2, 1-0
+20210416	510961	569891	A	   4	Bloomsburg	Haille Hoeflein     	Shepherd	Quinn Madden        	6-2, 6-3
+20210416	494009	570270	A	   1	Siena	Meagan Brown        	Rider	Leila Koster        	6-3, 6-1
+20210416	435352	496025	A	   2	Siena	Kylie Mullaney      	Rider	Angelica Garcia     	7-5, 6-4
+20210416	522290	468221	A	   3	Siena	Petra Miszczak      	Rider	Amanda Binder       	6-2, 6-1
+20210416	513506	570269	A	   4	Siena	Maanya Viswanath    	Rider	Ally Garofoli       	6-2, 6-4
+20210416	569351	521790	A	   5	Siena	Emma Boggiali       	Rider	Sarah Cheverie      	6-3, 6-1
+20210416	513507	473642	A	   6	Siena	Anastasia Koniaev   	Rider	Sydney Jeffrey      	6-0, 6-1
 20210416	567142	442050	A	   1	Edinboro	Kaede Tada          	Mercyhurst	Ivona Plecevic      	6-3, 6-2
 20210416	458791	511986	H	   2	Mercyhurst	Athina Tsagkaraki   	Edinboro	Torye Calleja       	6-2, 6-0
 20210416	568448	567140	H	   3	Mercyhurst	Valentine Budin     	Edinboro	Marina Zottele      	6-1, 6-1
 20210416	523022	567141	H	   4	Mercyhurst	Alana Lewis         	Edinboro	Ana Nadai           	6-1, 6-1
 20210416	509905	569903	H	   5	Mercyhurst	Janice Theodora     	Edinboro	Emily Moczulski     	6-0, 6-1
+20210416	512688	567471	A	   1	Webster	Erin Brezovar       	Greenville	Mireia Birosta      	3-6, 7-6(3), 6-1
+20210416	567472	512696	H	   2	Greenville	Addison Brannon     	Webster	Katarina Serbentas  	6-4, 7-5
+20210416	406069	567470	A	   3	Webster	Maggie Federhofer   	Greenville	Shaling Reynolds    	6-0, 5-7, 7-6(2)
+20210416	486664	496597	A	   4	Webster	Emma Ferguson       	Greenville	Claudia Principal   	6-7(5), 6-3, 6-2
+20210416	565964	512523	A	   5	Webster	Bailey Higgins      	Greenville	Emily Buratovich    	6-0, 6-3
+20210416	451742	512690	H	   6	Greenville	Samantha Siefken    	Webster	Emily Casey         	6-4, 6-1
 20210416	418062	516059	H	   1	Azusa Pacific	Petra Ivankovic     	San Diego Christian	Angela Rinaldi      	6-0, 6-3
 20210416	491808	516057	H	   2	Azusa Pacific	Anna Savchenko      	San Diego Christian	Barbara Damiani     	6-1, 6-3
 20210416	491809	497731	H	   3	Azusa Pacific	Jacqueline Wagner   	San Diego Christian	Valentina Sottile   	6-0, 6-1
@@ -25733,6 +25973,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210416	565345	512863	N	   2	Marian (IN)	Katharina Bopst     	Warner	Irene Arias         	6-0, 6-0
 20210416	485919	497410	N	   3	Marian (IN)	Laura Kuebler       	Warner	Danieris Santiago   	6-1, 6-1
 20210416	431287	497412	N	   5	Marian (IN)	Lizzie McClure      	Warner	Savannah Hancock    	6-0, 6-1
+20210416	567385	571520	A	   1	Millikin	Nikol Obradovic     	Elmhurst	Julia Kostadinova   	6-2, 6-3
+20210416	512515	517742	A	   2	Millikin	Brianna Barconi     	Elmhurst	June Bering         	6-0, 6-1
+20210416	567386	571522	A	   3	Millikin	Cristina Borunda    	Elmhurst	Isabelle Rahman     	6-1, 6-1
+20210416	567388	517741	A	   4	Millikin	Taylor Milholland   	Elmhurst	Bailey Ekstrand     	6-2, 6-4
+20210416	388847	571519	A	   5	Millikin	Danielle Beard      	Elmhurst	Megan Engstrom      	6-0, 7-6(5)
+20210416	398670	571525	A	   6	Millikin	Katie Cooper        	Elmhurst	Valerie Schallmo    	6-1, 6-0
 20210416	411023	513644	H	   1	Stanford	Michaela Gordon     	California	Haley Giavara       	6-1, 6-1
 20210416	512400	513643	H	   2	Stanford	Angelica Blake      	California	Valentina Ivanov    	6-0, 6-2
 20210416	447001	386389	A	   3	California	Julia Rosenqvist    	Stanford	Emily Arbuthnott    	6-1, 6-2
@@ -25749,6 +25995,20 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210416	469154	449795	N	   3	Reinhardt	Glauka Carvahal     	Union (KY)	Christina Schoener  	6-1, 6-0
 20210416	566427	503965	N	   4	Union (KY)	Nicole Viljoen      	Reinhardt	Taylor Nelson       	6-3, 6-3
 20210416	501450	561106	N	   6	Union (KY)	Alba Rodenas        	Reinhardt	Tayla Kruger        	6-0, 6-0
+20210416	499585	513177	N	   1	Carson-Newman	Ana Carla Resende   	Wingate	Elena Bompieri      	5-7, 6-4, 6-4
+20210416	513179	442965	N	   3	Wingate	Elena Gunfaus       	Carson-Newman	Hannah Price        	6-4, 6-4
+20210416	565258	568050	N	   4	Wingate	Georgina Wood       	Carson-Newman	Summer Reeves       	6-1, 6-1
+20210416	489520	567776	N	   6	Wingate	Tzu Hsun-Hsu        	Carson-Newman	Julia Speiser       	6-3, 7-6(5)
+20210416	439614	394758	H	   1	Eastern Illinois	Rachel Papavasilopoulos	Tennessee Martin	Amelia Campbell     	6-3, 7-5
+20210416	511395	455263	H	   2	Eastern Illinois	Elizaveta Bukraba-Ulanova	Tennessee Martin	Jule Streif         	6-2, 0-6, 6-4
+20210416	513527	511397	A	   3	Tennessee Martin	Aziza Aubin         	Eastern Illinois	Christine Gouws     	4-6, 6-4, 6-4
+20210416	513525	511393	A	   4	Tennessee Martin	Sina Albersmeier    	Eastern Illinois	Brittany Steven     	6-4
+20210416	448157	567395	A	   5	Tennessee Martin	Mizuki Sakurai      	Eastern Illinois	Addison Brown       	6-2, 6-0
+20210416	513526	511399	A	   6	Tennessee Martin	Jillian Niedzialowski	Eastern Illinois	Lauren Ellis        	6-1, 6-4
+20210416	568653	496359	H	   1	Oakland City	Kataryna Kulynych   	St. Francis (IN)	Sarah Liter         	
+20210416	568656	516857	H	   2	Oakland City	Pamela Barbosa      	St. Francis (IN)	Jessica Henline     	
+20210416	514668	496355	H	   3	Oakland City	Kaleigh Helm        	St. Francis (IN)	Gabby Bubby         	
+20210416	514667	570892	H	   5	Oakland City	Audrey Wilson       	St. Francis (IN)	Sohpia Vandegriff   	
 20210417	512822	559752	A	   1	McPherson	Vanessa Mundo       	Friends	Nikolett Krivek     	6-1, 6-0
 20210417	512818	463744	A	   2	McPherson	Polina Khoroshevskaya	Friends	Ariel Williams      	6-0, 6-2
 20210417	487899	452842	A	   3	McPherson	Erica Paradise      	Friends	Isabelle Smith      	6-4, 7-6(8)
@@ -25912,7 +26172,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210417	559757	559692	A	   3	Sterling (KS)	Rachel Carlson      	Bethel (KS)	Nalea Payton        	6-4, 6-2
 20210417	559754	566117	A	   4	Sterling (KS)	Kinzie Comley       	Bethel (KS)	Mia Loganbill       	6-1, 6-3
 20210417	501596	566119	A	   5	Sterling (KS)	Kylah Comley        	Bethel (KS)	Jessica Larocque    	6-0, 6-0
-20210417	559755	566118	A	   6	Sterling (KS)	April Swartz        	Bethel (KS)	Kaitlyn Shima       	6-0
+20210417	559755	566118	A	   6	Sterling (KS)	April Swartz        	Bethel (KS)	Kaitlyn Shima       	6-1, 6-3
 20210417	516870	420177	A	   1	Southwestern (TX)	Nina Mitrofanova    	Trinity (TX)	Zoe Kaffen          	6-0, 6-1
 20210417	391963	488666	A	   2	Southwestern (TX)	Esther Bowers       	Trinity (TX)	Megan Flores        	7-5, 6-0
 20210417	516868	565244	A	   3	Southwestern (TX)	Emma Kesterson      	Trinity (TX)	Cate Cushing        	6-3, 6-2
@@ -26004,9 +26264,21 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210417	515761	511827	A	   4	Academy of Art	Aitana Comas        	Fresno Pacific	Alice Marques       	6-2, 6-3
 20210417	488236	565011	H	   5	Fresno Pacific	Sanne Brull         	Academy of Art	Erica Hellbe        	7-5, 6-2
 20210417	515743	566267	A	   6	Academy of Art	Julia Ortega        	Fresno Pacific	Daimy Paula         	6-1, 7-5
+20210417	439385	566249	H	   1	Colorado State	Priscilla Palermo   	San Diego State	Regina Pitts        	2-6, 7-6, 6-2
+20210417	435908	428166	A	   2	San Diego State	Nnena Nadozie       	Colorado State	Emily Luetschwager  	6-3, 7-5
+20210417	512740	566481	A	   3	San Diego State	Cecile Morin        	Colorado State	Lou Regen           	6-2, 6-2
+20210417	497890	566483	A	   4	San Diego State	Alicia Melosch      	Colorado State	Chunxi Guo          	6-2, 6-3
+20210417	411880	566250	H	   5	Colorado State	Alyssa Grijalva     	San Diego State	Alexandria Von Tersch Pohrer	6-2, 7-5
+20210417	512679	490554	H	   6	Colorado State	Anastasiia Kotsyuba 	San Diego State	Agustina Rimoldi Godoy	1-6, 6-4, 6-2
 20210417	497591	487274	H	   3	Fresno State	Deniza Marcinkevica 	Utah State	Annaliese County    	6-2, 6-4
 20210417	566265	487276	H	   4	Fresno State	Carolina Piferi     	Utah State	Gabrielle Dekkers   	6-2, 6-1
 20210417	488866	511449	H	   5	Fresno State	Ann-Cathrin Hummel  	Utah State	Lillian Okamoto     	6-0, 6-0
+20210417	427014	569694	H	   1	Wayne State	Linda Liong         	Northwood	Amanda Bandrowski   	4-6, 6-2, 6-4
+20210417	496352	403209	A	   2	Northwood	Elizaveta Velichko  	Wayne State	Brianna Douglas     	6-1, 6-7(3)
+20210417	568757	566133	A	   3	Northwood	Rafaella Fulop      	Wayne State	Suki Mandair        	7-6, 6-0
+20210417	566134	496351	H	   4	Wayne State	Melanie Zampardo    	Northwood	Iryna Trystan       	7-5, 6-1
+20210417	511710	496348	H	   5	Wayne State	Sabrina Laynes      	Northwood	Anna Goncharova     	6-1, 6-2
+20210417	487367	571699	H	   6	Wayne State	Carla Jewell        	Northwood	Calista Shannon     	6-0, 6-0
 20210417	567076	523009	H	   1	Indiana (PA)	Karolin Kirchtag    	Bluefield State	Ghita Courdi        	6-0, 6-1
 20210417	511198	563021	H	   2	Indiana (PA)	Idoia Huerta        	Bluefield State	Shreya Chakraborty  	6-2, 6-2
 20210417	565521	567077	A	   3	Bluefield State	Juliana Jimenez     	Indiana (PA)	Katy Graydon        	3-6, 6-3, 1-0(4)
@@ -26024,6 +26296,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210417	497731	511604	A	   3	San Diego Christian	Valentina Sottile   	Hope International	Anastasija Djordjevic	6-1, 6-2
 20210417	522420	511611	A	   4	San Diego Christian	Tomi Felix          	Hope International	Lisanne Siebrecht   	6-4, 6-2
 20210417	497732	561893	A	   5	San Diego Christian	Tatiana Harvey      	Hope International	Phylicia Valdez     	6-3, 6-1
+20210417	512681	510752	H	   1	Rollins	Georgina Groth      	Palm Beach Atlantic	Rebecca Keijzerwaard	7-5, 6-4
+20210417	391594	510753	H	   2	Rollins	Alexandra Borg      	Palm Beach Atlantic	Quinty Janssen      	6-2, 6-3
+20210417	485608	568713	H	   3	Rollins	Kaitlynn Groves     	Palm Beach Atlantic	Madison Bezner      	6-1, 6-1
+20210417	523075	568712	H	   4	Rollins	Polina Vlasova      	Palm Beach Atlantic	Marie Bertran De Balanda	6-4, 6-1
+20210417	522950	566099	A	   5	Palm Beach Atlantic	Anabelle Robichaud  	Rollins	Eve Wasil           	6-3, 4-6, 1-0(6)
+20210417	489359	566098	A	   6	Palm Beach Atlantic	Elvira Edstrom      	Rollins	Maria McKay         	6-4, 6-4
 20210417	512781	441507	A	   1	Piedmont	Imani Vincent       	LaGrange	Nicole Phillips     	6-0, 6-0
 20210417	461621	513688	A	   2	Piedmont	Megan Waldheim      	LaGrange	Madison Kady        	6-0, 6-0
 20210417	434343	567609	A	   3	Piedmont	Maggie Moody        	LaGrange	Sydney Tyler        	6-1, 6-1
@@ -26088,11 +26366,23 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210417	510788	511009	H	   2	Charlotte	Margaux Maquet      	VCU	Luminita Tutunaru   	6-3, 6-2
 20210417	448061	564693	H	   3	Charlotte	Rocio Safont        	VCU	Alessia Ciuca       	6-2, 6-3
 20210417	520456	511010	H	   4	Charlotte	Kaavya Sawhney      	VCU	Gabriela Davidescu  	6-2, 6-0
+20210417	459620	388030	H	   1	Gustavus Adolphus	Ginger Valentine    	St. Olaf	Sabrina Barboza     	6-2, 7-6
+20210417	489490	516405	H	   2	Gustavus Adolphus	Simona Potockova    	St. Olaf	Allie Prokosch      	6-0, 6-2
+20210417	489494	443114	H	   3	Gustavus Adolphus	Anna Stutz          	St. Olaf	Greta Prokosch      	6-1, 6-1
+20210417	438968	512335	A	   4	St. Olaf	Emily Otteson       	Gustavus Adolphus	Emily Norman        	6-1, 6-2
+20210417	489482	494197	H	   5	Gustavus Adolphus	Sydney Douglas      	St. Olaf	Teresa Fawcett      	6-0, 6-0
+20210417	489487	494194	H	   6	Gustavus Adolphus	Rachel Lindrud      	St. Olaf	Katherine Ichinose  	6-1, 6-2
 20210417	511860	425305	H	   1	Whitman	Angel Le            	George Fox	Sophia Lawrence     	6-0
 20210417	450311	444524	A	   2	George Fox	Laney Search        	Whitman	Anastasiya Redkina  	6-3, 6-4
 20210417	511857	393078	H	   3	Whitman	Irene Tsai          	George Fox	Danielle Brown      	6-2, 6-1
 20210417	512556	570140	A	   4	George Fox	Ellie Mangan        	Whitman	Elisabeth Carter    	6-4, 6-0
 20210417	434904	439329	A	   5	George Fox	Taylor Morris       	Whitman	Kattie Pak          	2-6, 6-2, 1-0(8)
+20210417	459620	427459	H	   1	Gustavus Adolphus	Ginger Valentine    	St. Mary's (MN)	Colleen Lois        	6-2, 6-3
+20210417	489490	513869	H	   2	Gustavus Adolphus	Simona Potockova    	St. Mary's (MN)	Maggie Frye         	6-0, 6-1
+20210417	489494	488798	H	   3	Gustavus Adolphus	Anna Stutz          	St. Mary's (MN)	Kennedy Morgan      	6-0, 6-0
+20210417	489482	513870	H	   4	Gustavus Adolphus	Sydney Douglas      	St. Mary's (MN)	Zoie Becker         	6-3, 6-2
+20210417	489487	513867	H	   5	Gustavus Adolphus	Rachel Lindrud      	St. Mary's (MN)	Maddy Dosser        	6-1, 6-2
+20210417	566079	488800	H	   6	Gustavus Adolphus	Alli Laux           	St. Mary's (MN)	Sarrianna Hoffer    	6-0, 6-0
 20210417	421212	563568	H	   4	Cardinal Stritch	Chelsea Kelly       	Judson (IL)	Caroline Johnson    	6-0, 6-0
 20210417	457672	476932	H	   5	Cardinal Stritch	Kimberley Tiat      	Judson (IL)	Grace Nguyen        	6-0, 6-0
 20210417	566944	510826	H	   6	Cardinal Stritch	Nina Westkamp       	Judson (IL)	Katelynn Coleman    	6-0, 6-0
@@ -26132,6 +26422,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210417	527847	469685	A	   4	Sciences (Philadelphia)	Rosemary Esquivel   	Jefferson	Millie Coombes      	6-2, 7-6(5)
 20210417	486143	476931	A	   5	Sciences (Philadelphia)	Stephanie Mazurek   	Jefferson	Eryn Nguyen         	6-2, 6-1
 20210417	439672	525215	A	   6	Sciences (Philadelphia)	Danielle Paran      	Jefferson	Elisa Hardeski      	6-0, 6-0
+20210417	422226	513399	A	   1	Bridgewater	Whitney Kiser       	Guilford	Madyson Schreiber   	6-4, 2-6, 6-2
+20210417	513397	487797	H	   2	Guilford	Hannah Pardue       	Bridgewater	Emily Daigneault    	6-0, 6-0
+20210417	399385	513400	A	   3	Bridgewater	Rachel Crawford     	Guilford	Hannah Arnett       	6-1, 6-2
+20210417	511183	568573	A	   4	Bridgewater	Malena Hoover       	Guilford	Nya Reed            	6-2, 6-0
+20210417	511182	498088	A	   5	Bridgewater	Alison Keister      	Guilford	Jessica Fuentes     	6-0, 6-1
+20210417	568879	498087	A	   6	Bridgewater	Ryan Roeber         	Guilford	Alys Parker         	6-0, 6-1
 20210417	568962	475629	H	   1	St. Thomas Aquinas	Dauphine Donker     	D'Youville	Ali Mascioletti     	6-1, 6-0
 20210417	568958	480569	H	   2	St. Thomas Aquinas	Flaminia Valci      	D'Youville	Alicia Tartick      	6-1, 6-0
 20210417	427703	477937	H	   3	St. Thomas Aquinas	Katarina Lopez      	D'Youville	Angela Poblocki     	6-0, 6-0
@@ -26144,6 +26440,18 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210417	568961	511340	H	   4	St. Thomas Aquinas	Jemima Parkinson    	Daemen	Mackenzie Schayes   	6-1
 20210417	512064	571136	H	   5	St. Thomas Aquinas	Ayesha Burnett      	Daemen	Hannah Pagano       	8-0
 20210417	512061	571138	H	   6	St. Thomas Aquinas	Eliza Mulder        	Daemen	Ailish McDevitt     	8-0
+20210417	439614	487952	H	   1	Eastern Illinois	Rachel Papavasilopoulos	Southeast Missouri	Romana Tarajova     	6-3, 6-2
+20210417	511395	565241	H	   2	Eastern Illinois	Elizaveta Bukraba-Ulanova	Southeast Missouri	Daniela Hlacikova   	6-4, 7-5
+20210417	466443	511397	A	   3	Southeast Missouri	Kseniya Zonova      	Eastern Illinois	Christine Gouws     	6-4, 6-4
+20210417	565242	511393	A	   4	Southeast Missouri	Ksenia Shikanova    	Eastern Illinois	Brittany Steven     	6-4, 6-3
+20210417	511969	567395	A	   5	Southeast Missouri	Pei-Yu Lai          	Eastern Illinois	Addison Brown       	6-2, 6-0
+20210417	487953	511399	A	   6	Southeast Missouri	Teona Velkoska      	Eastern Illinois	Lauren Ellis        	7-5, 6-1
+20210417	494009	511392	H	   1	Siena	Meagan Brown        	Monmouth (NJ)	Ann Spurka          	6-1, 6-2
+20210417	489601	435352	A	   2	Monmouth (NJ)	Nicole Gasser       	Siena	Kylie Mullaney      	5-7, 6-0
+20210417	569787	522290	A	   3	Monmouth (NJ)	Zoe Klapman         	Siena	Petra Miszczak      	6-3, 6-0
+20210417	513506	569788	H	   4	Siena	Maanya Viswanath    	Monmouth (NJ)	Madison Mills       	6-7(1), 6-3, 6-4
+20210417	569786	569351	A	   5	Monmouth (NJ)	Lenien Jamir        	Siena	Emma Boggiali       	7-5, 6-1
+20210417	569353	407913	H	   6	Siena	Shelby Madeiros     	Monmouth (NJ)	Sophia Fredriksson  	6-2, 6-1
 20210417	569642	452920	A	   1	Ottawa	Patricia Eftenoiu   	Baker	Kayelee Smith       	6-0, 6-0
 20210417	488891	515423	H	   2	Baker	Cortlyn Wolfe       	Ottawa	Julia Wienese       	6-4, 6-4
 20210417	559687	488889	A	   3	Ottawa	Yana Goranova       	Baker	Josephine Moore     	6-3, 6-0
@@ -26153,6 +26461,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210417	511867	569249	A	   2	Franklin & Marshall	Sammi Perry         	Washington (MD)	Piper Sartison      	1-6, 6-3, 6-0
 20210417	448379	511868	H	   3	Washington (MD)	Ella Samer          	Franklin & Marshall	Hayley Bidwell      	6-4, 6-2, 6-0
 20210417	513708	400346	H	   4	Washington (MD)	Bin Nguyen          	Franklin & Marshall	Alex DAngelo        	6-1, 7-6(3)
+20210417	413819	522404	H	   1	Lynchburg	Christina Harris    	Methodist (NC)	Valeria Matutue     	6-2, 6-1
+20210417	519072	515986	H	   2	Lynchburg	Elizabeth Teefey    	Methodist (NC)	Megan Kidd          	6-1, 6-0
+20210417	501620	515983	H	   3	Lynchburg	Alissa Anderson     	Methodist (NC)	Luciana Forma       	6-4, 6-0
+20210417	519074	515981	H	   4	Lynchburg	Lauren Pascadlo     	Methodist (NC)	Syndey Bird         	6-1, 6-1
+20210417	403485	395472	H	   5	Lynchburg	Ellen Druebbisch    	Methodist (NC)	Casey Carroll       	6-1, 6-1
+20210417	412297	497560	H	   6	Lynchburg	Caroline Guill      	Methodist (NC)	Allyson Hays        	6-0, 6-1
 20210417	568151	569869	H	   1	Stevenson	Torrienne Emery     	Messiah	Kasi Conjack        	7-5, 6-2
 20210417	384369	462198	A	   2	Messiah	Rebekah Adams       	Stevenson	Megan Waskiewicz    	6-0, 6-3
 20210417	494903	494114	H	   3	Stevenson	Jacquelyn Nesbeth   	Messiah	Hannah Murray       	6-4, 6-1
@@ -26209,6 +26523,11 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210417	502266	510981	H	   4	Vassar	Cara Kizilbash      	Ithaca	Caroline Herz       	6-0, 6-0
 20210417	570452	487921	H	   5	Vassar	Sara Ehnstrom       	Ithaca	Rel Klein           	6-2, 7-6(3)
 20210417	570448	570353	H	   6	Vassar	Nicole Pihlstrom    	Ithaca	Audry Johnson       	7-5, 6-3
+20210417	513255	524496	H	   1	Shenandoah	Javeesha Combs      	Randolph-Macon	Avery Smith         	6-0, 6-0
+20210417	524495	413512	A	   2	Randolph-Macon	Grace Holderman     	Shenandoah	Madison Hansen      	6-1, 6-4
+20210417	524494	569180	A	   3	Randolph-Macon	Emma Nesselrodt     	Shenandoah	Kelly Hudak         	2-6, 6-4, 1-0(13)
+20210417	499619	446550	A	   4	Randolph-Macon	Daniella Hafner     	Shenandoah	Madison Rogers      	6-3, 6-2
+20210417	568243	499632	A	   5	Randolph-Macon	Matty Grace Gilliam 	Shenandoah	Caitlin Bennett     	6-1, 6-1
 20210417	490448	490910	A	   1	Hope	Sydney Jackson      	Trine	Ashley Spirrison    	6-4, 5-2
 20210417	521049	527895	A	   2	Hope	Leah Newhof         	Trine	Jadyn Davis         	6-3, 6-1
 20210417	397097	510714	A	   3	Hope	Bailey Chorney      	Trine	Eva Morales         	7-6(2), 6-0
@@ -26293,6 +26612,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210417	517077	564438	N	   3	Gardner-Webb	Teodora Ristic      	Charleston Southern	Khyanna Singh       	6-0, 6-3
 20210417	449669	565353	N	   5	Charleston Southern	Michelle Schmitz    	Gardner-Webb	Maria Jardim        	6-4, 6-2
 20210417	487656	426780	N	   6	Charleston Southern	Tiffany Pyritz      	Gardner-Webb	Valentine Limauge   	6-3, 7-6
+20210417	393275	563315	H	   1	Tabor	Olivia Brubacher    	Missouri Valley	Nicole Straznicky   	5-3, 4-2
+20210417	514400	559746	A	   2	Missouri Valley	Myrian Alegre       	Tabor	Liliana Wait        	4-2, 4-2
+20210417	525133	559743	A	   3	Missouri Valley	Paola Vargas        	Tabor	Marisol Blair       	4-0, 4-1
+20210417	494914	490333	A	   4	Missouri Valley	Mar Palomeque       	Tabor	Kayla Roth          	4-1, 4-1
+20210417	400896	522589	A	   5	Missouri Valley	Lauryn Daxon        	Tabor	Ariana Miller-Wyse  	4-1, 4-1
+20210417	514402	571624	A	   6	Missouri Valley	Maria Pia Pinto     	Tabor	Sarah Brunk         	4-1, 5-3
 20210417	514440	428629	H	   1	Texas A&M	Tatiana Makarova    	Ole Miss	Sabina Machalova    	6-1, 6-3
 20210417	489406	513436	H	   2	Texas A&M	Jayci Goldsmith     	Ole Miss	Tiphanie Fiquet     	6-2, 7-5
 20210417	405619	461316	H	   4	Texas A&M	Dorthea Faa-Hviding 	Ole Miss	Anna Vrbenska       	6-0, 6-2
@@ -26421,7 +26746,10 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210417	486027	509636	N	   6	Presbyterian	Bethany Lacey       	Radford	Camryn McClure      	6-3, 6-4
 20210417	503870	568078	A	   1	UW Superior	Maya Callaway       	Bethany Lutheran	Shoshana Bruner     	6-2, 6-3
 20210417	461608	568080	A	   2	UW Superior	Emily Wald          	Bethany Lutheran	Emma Newton         	2-6, 6-1, 1-0(3)
+20210417	565985	571533	A	   3	UW Superior	Chiyono Owa         	Bethany Lutheran	Kaitlyn Berreau     	6-4, 6-4
 20210417	568081	522296	H	   4	Bethany Lutheran	Audrey Petersen     	UW Superior	Kallie Olson        	6-4, 4-6, 1-0(7)
+20210417	571535	565987	H	   5	Bethany Lutheran	Emma Carmichael     	UW Superior	Grace Nelson        	5-7, 1-6
+20210417	565984	571536	A	   6	UW Superior	Kayla Christensen   	Bethany Lutheran	Karena Verbitsky    	7-5, 6-3
 20210417	565023	512975	H	   3	Jones	Addy Seward         	Gulf Coast (MS)	Kaylen Bond         	6-0, 6-2
 20210417	491425	512977	H	   4	Jones	Judith Mills        	Gulf Coast (MS)	Anna Stringer       	6-0, 6-0
 20210417	419134	465945	A	   3	Arizona State	Lauryn John-Baptiste	Arizona	Talya Zandberg      	6-4, 6-1
@@ -26436,6 +26764,42 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210417	491809	497322	H	   3	Azusa Pacific	Jacqueline Wagner   	Hawaii Pacific	Mihoki Miyahara     	7-5, 6-0
 20210417	569294	568025	H	   4	Azusa Pacific	Carolyn Brooner     	Hawaii Pacific	Valentina Mokrova   	6-4, 7-6(2)
 20210417	569295	568026	H	   5	Azusa Pacific	Madison Kane        	Hawaii Pacific	Marta Ruszczynska   	7-5, 6-1
+20210417	486822	569730	H	   1	Concordia (WI)	Ricki Budewitz      	MSOE	Cameron Larson      	6-0, 6-0
+20210417	496080	486819	A	   2	MSOE	Hannah Marron       	Concordia (WI)	Mia Andrae          	6-2, 1-6, 6-3
+20210417	565957	397675	H	   3	Concordia (WI)	Mallory Moen        	MSOE	Katie Clements      	6-0, 6-7(5), 6-4
+20210417	486823	452763	H	   4	Concordia (WI)	Jennifer Mies       	MSOE	Cierra Smith        	6-3, 6-4
+20210417	486821	388990	H	   5	Concordia (WI)	Elizabeth Johnson   	MSOE	Leah Becker         	6-3, 6-2
+20210417	516968	565956	A	   6	MSOE	Yuti Modi           	Concordia (WI)	Jordana Burkeland   	4-6, 6-2, 6-3
+20210417	568812	512305	H	   1	Evangel	Ana Bjelica         	Ozarks	Angelica Garcia     	6-0, 6-0
+20210417	568813	446518	H	   2	Evangel	Abigail Chaney      	Ozarks	Alexis Rogers       	6-0, 6-2
+20210417	495102	568815	A	   3	Ozarks	Kaitlin Gutierrez   	Evangel	Carly McAtee        	4-6, 6-1, 6-3
+20210417	512304	568810	A	   4	Ozarks	Anna Claire Ryan    	Evangel	Courtney Yates      	7-5, 6-4
+20210417	512307	568817	A	   5	Ozarks	Skylar Frazier      	Evangel	Bethany Overturf    	4-6, 6-2, 6-1
+20210417	512306	568816	A	   6	Ozarks	Lea Terrell         	Evangel	Neely Bridges       	6-4, 5-7, 7-6(6)
+20210417	407066	513177	N	   1	Queens (NC)	Yana Fleyer         	Wingate	Elena Bompieri      	6-3, 6-2
+20210417	499071	489192	N	   2	Wingate	Camilla Ciaccia     	Queens (NC)	Viktorija Veselinova	6-2, 3-6, 7-5
+20210417	513179	400660	N	   3	Wingate	Elena Gunfaus       	Queens (NC)	Aliaksandra Davidzenka	6-4, 6-4
+20210417	565258	489193	N	   4	Wingate	Georgina Wood       	Queens (NC)	Caitlin Klaassen    	5-7, 6-3, 6-3
+20210417	513178	489194	N	   5	Wingate	Flaminia Guidantoni 	Queens (NC)	Kate Halickman      	6-3, 6-0
+20210417	511333	489520	N	   6	Queens (NC)	Grace Forbes        	Wingate	Tzu Hsun-Hsu        	6-2, 3-6, 6-3
+20210417	567471	494701	H	   1	Greenville	Mireia Birosta      	Illinois Wesleyan	Alessia Girardin    	3-6, 6-2, 1-0(7)
+20210417	567472	478654	H	   2	Greenville	Addison Brannon     	Illinois Wesleyan	Rebecca Rochacz     	1-6, 7-5, 1-0(6)
+20210417	494700	567470	A	   3	Illinois Wesleyan	Anna Cooper         	Greenville	Shaling Reynolds    	6-0, 6-0
+20210417	496597	494702	H	   4	Greenville	Claudia Principal   	Illinois Wesleyan	Ashley Mohr         	6-4, 7-5
+20210417	569288	451742	A	   5	Illinois Wesleyan	Katelyn Heller      	Greenville	Samantha Siefken    	6-3, 6-3
+20210417	386060	403277	H	   1	Moravian	Emma Angle          	Juniata	Emily Dowler        	6-0, 6-0
+20210417	386061	504552	H	   2	Moravian	Mary Angle          	Juniata	Jamie Mahigel       	6-2, 6-1
+20210417	384313	504553	H	   3	Moravian	Brooke Adams        	Juniata	Kady Lohr           	6-1, 6-1
+20210417	513161	521398	H	   4	Moravian	Julianne Cassady    	Juniata	Emily Sarro         	6-0, 6-0
+20210417	395779	504554	H	   5	Moravian	Kristen Cassidy     	Juniata	Emma Kramer         	6-2, 6-0
+20210417	515270	491699	H	   2	Lipscomb	Emma Zakordoniec    	North Alabama	Sydney Flesch       	6-3, 6-3
+20210417	566367	491698	H	   3	Lipscomb	Sasha Dobranos      	North Alabama	Megan Humphreys     	6-3, 7-6(4)
+20210417	490460	564888	H	   6	Lipscomb	Maddox Bandy        	North Alabama	Ida Hasselbalch     	6-1, 6-4
+20210417	515241	488855	N	   1	Grand Canyon	Natasha Puehse      	Chicago State	Kristina Pukhaeva   	6-2, 6-1
+20210417	437887	567866	N	   2	Grand Canyon	Emilia Occhipinti   	Chicago State	Sofiya Sedovich     	7-5, 6-1
+20210417	515242	403394	N	   3	Grand Canyon	Jana Weiss          	Chicago State	Katarina Drazic     	6-1, 6-0
+20210417	564213	514664	N	   4	Grand Canyon	Joely Lomas         	Chicago State	Katarina Dukic      	6-3, 6-3
+20210417	443177	514665	N	   5	Grand Canyon	Autum Prudhomme     	Chicago State	Susana Andres       	6-3, 6-2
 20210418	512822	563315	A	   1	McPherson	Vanessa Mundo       	Missouri Valley	Nicole Straznicky   	7-5, 6-2
 20210418	512818	514400	A	   2	McPherson	Polina Khoroshevskaya	Missouri Valley	Myrian Alegre       	3-6, 6-2, 6-4
 20210418	525133	487899	H	   3	Missouri Valley	Paola Vargas        	McPherson	Erica Paradise      	3-6, 6-4, 6-1
@@ -26495,6 +26859,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210418	511546	515341	H	   4	Air Force	Shailla Alda        	San Jose State	Lara Marco Mas      	6-2, 6-7, 6-1
 20210418	511549	567104	H	   5	Air Force	Mebeli Becerra      	San Jose State	Raquel Villan Pereira	6-2, 7-6(8)
 20210418	450636	563633	A	   6	San Jose State	Savannah Sendar     	Air Force	Hailey Stelse       	6-3, 6-2
+20210418	457781	486369	H	   1	Augustana (IL)	Annie Timm          	Carthage	Samantha Ramsey     	6-2
+20210418	512271	510047	H	   2	Augustana (IL)	Lily Schoeck        	Carthage	Rachel Anderson     	6-0, 6-4
+20210418	512272	510057	H	   3	Augustana (IL)	Michaela Magee      	Carthage	Sierra Sonnemaker   	6-1, 6-0
+20210418	568525	438858	H	   4	Augustana (IL)	Caitlyn Hanulikova  	Carthage	Faelan OShaughnessy 	6-1, 6-1
+20210418	512270	564502	H	   5	Augustana (IL)	Lauren Oda          	Carthage	Stephanie Yerges    	6-2, 6-0
+20210418	393720	510058	H	   6	Augustana (IL)	Morgan Bullen       	Carthage	Cailida Werner      	6-0, 6-2
 20210418	565690	455798	H	   1	Cleveland State	Miruna Vasilescu    	Northern Kentucky	Margita Sunjic      	6-1, 6-2
 20210418	426077	423023	H	   2	Cleveland State	Blanche Lenoan      	Northern Kentucky	Maria Koo           	6-3, 5-7, 1-0(7)
 20210418	486472	492680	H	   3	Cleveland State	Klara Mrcela        	Northern Kentucky	Elizabeth Rozin     	6-3, 6-4
@@ -26551,7 +26921,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210418	564821	516361	A	   2	Eastern Washington	Scout Mathews       	Montana	Olivia Oosterbaan   	6-0, 6-4
 20210418	490939	489608	H	   3	Montana	Lauren Dunlap       	Eastern Washington	Louise Waite        	4-1
 20210418	516360	436518	H	   4	Montana	Maria Goheen        	Eastern Washington	Zoey Nelson         	6-0, 6-2
-20210418	509819	565302	A	   5	Eastern Washington	Renata Gabuzyan     	Montana	Ivayla Mitkova      	6-5(4), 7-6
+20210418	509819	565302	A	   5	Eastern Washington	Renata Gabuzyan     	Montana	Ivayla Mitkova      	7-6(4), 7-6(3)
 20210418	392263	490941	A	   6	Eastern Washington	Rylee Braeden       	Montana	Claudia Reguant     	6-4, 6-2
 20210418	565376	419840	H	   1	Flagler	Luisa Hrda          	North Georgia	Vaishali Jorge      	6-1, 6-3
 20210418	494043	523030	H	   2	Flagler	Eden Schlagenhauf   	North Georgia	Anna Markvartova    	7-6(6), 6-2
@@ -26559,6 +26929,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210418	515685	513979	A	   4	North Georgia	Ann Maria Adams     	Flagler	Amelie Vossgaetter  	6-1, 6-4
 20210418	437215	491216	H	   5	Flagler	Anika Nissen        	North Georgia	Claudelle Lebonte-Frey	6-2, 3-6, 6-1
 20210418	566063	520787	A	   6	North Georgia	Johanna Lippert     	Flagler	Florencia Massardo  	2-6, 6-4, 6-1
+20210418	515241	488668	A	   1	Grand Canyon	Natasha Puehse      	New Mexico State	Harsha Challa       	6-1, 6-7(5), 1-0(8)
+20210418	437887	485612	A	   2	Grand Canyon	Emilia Occhipinti   	New Mexico State	chloe gavino        	6-2, 6-3
+20210418	515242	565435	A	   3	Grand Canyon	Jana Weiss          	New Mexico State	Miranda Bishard     	6-1, 6-0
+20210418	564213	488673	A	   4	Grand Canyon	Joely Lomas         	New Mexico State	Bhargavi Kalaga     	6-3, 4-6, 1-0(7)
+20210418	443177	510607	A	   5	Grand Canyon	Autum Prudhomme     	New Mexico State	Bella Nguyen        	6-3, 0-6, 1-0(5)
+20210418	564211	571343	A	   6	Grand Canyon	Taylor Andersen     	New Mexico State	Kayla Fielder       	6-0, 6-0
 20210418	571451	565471	H	   1	Marist	Katherine Muzik     	Quinnipiac	Claire Koscielski   	6-1, 6-3
 20210418	436395	408453	A	   2	Quinnipiac	Kamilla Nella       	Marist	Julia Gabay         	7-5, 6-0
 20210418	571450	460184	H	   3	Marist	Deana Giambo        	Quinnipiac	Dominique Vasile    	5-2
@@ -26624,6 +27000,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210418	403386	488313	A	   4	Walsh	Clara Drasch        	Hillsdale	Sophia Spinazze     	3-6, 7-6(5), 6-0
 20210418	528289	514751	A	   5	Walsh	Chiara Wolff        	Hillsdale	Ellie Chawner       	6-4, 6-3
 20210418	528288	559822	A	   6	Walsh	Isabella Sanchez    	Hillsdale	Helana Formentin    	6-0, 5-7, 6-2
+20210418	505857	469506	H	   1	Yeshiva	Alexandra Huberfeld 	Mt. St. Mary (NY)	Victoria Clay       	6-1, 6-1
+20210418	515510	569819	A	   2	Mt. St. Mary (NY)	Katie Murray        	Yeshiva	Eden Hariri         	6-4, 6-3
+20210418	571678	569818	A	   3	Mt. St. Mary (NY)	Carly Green         	Yeshiva	Elisheva Gofman     	6-2, 6-2
+20210418	472050	569817	A	   4	Mt. St. Mary (NY)	Jessalyn Goetz      	Yeshiva	Anna Elfassy        	7-6(5), 6-3
+20210418	571677	569822	A	   5	Mt. St. Mary (NY)	Julia Flynn         	Yeshiva	Meital Lindenberg   	6-0, 6-0
+20210418	571679	569812	A	   6	Mt. St. Mary (NY)	Katrina Imperio     	Yeshiva	Lara Amar           	6-3, 6-3
 20210418	488546	456686	A	   1	Western Michigan	Femke Tjon-A-joe    	Bowling Green	Marharita-Sophia Tavpash	7-5, 6-3
 20210418	514958	511505	A	   2	Western Michigan	Lindsey Zieglar     	Bowling Green	Ioanna Tsadari      	6-4, 6-3
 20210418	449013	565729	H	   3	Bowling Green	Ayumi Sasaki        	Western Michigan	Ana Guadiana        	6-2, 6-4
@@ -26654,6 +27036,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210418	511057	474936	H	   4	Colgate	Emily Untermeyer    	Lafayette	Cecelia Lesnick     	7-5, 6-2
 20210418	524423	491553	A	   5	Lafayette	Melanie Sparhawk    	Colgate	Nicole Condas       	6-4, 6-3
 20210418	524422	388418	A	   6	Lafayette	Jessica Siegel      	Colgate	Callie Bartimer     	6-2, 6-0
+20210418	515659	427459	A	   1	Concordia - Moorhead	Raquel Egge         	St. Mary's (MN)	Colleen Lois        	6-3, 6-1
+20210418	569116	488321	H	   2	St. Mary's (MN)	Natalie Peterson    	Concordia - Moorhead	Jenna Forknell      	6-2, 6-1
+20210418	488798	488320	H	   3	St. Mary's (MN)	Kennedy Morgan      	Concordia - Moorhead	Brianna Bell        	6-3, 6-0
+20210418	513870	515661	H	   4	St. Mary's (MN)	Zoie Becker         	Concordia - Moorhead	Emily Savageau      	6-0, 6-1
+20210418	513867	569652	H	   5	St. Mary's (MN)	Maddy Dosser        	Concordia - Moorhead	Anna Hacker         	6-1, 6-3
+20210418	569651	488800	A	   6	Concordia - Moorhead	Greta Reichmann     	St. Mary's (MN)	Sarrianna Hoffer    	6-2, 7-5
 20210418	511558	485847	A	   1	Navy	Jillian Taggart     	Bucknell	Daniela Bellini     	4-6, 6-1, 6-2
 20210418	485598	422724	A	   2	Navy	Kacey Moore         	Bucknell	Cayla Koch          	6-0, 6-4
 20210418	485597	568695	A	   3	Navy	Meghana Kommaraju   	Bucknell	Isabelle Miller     	6-2, 6-3
@@ -26666,6 +27054,18 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210418	465309	499448	H	   4	George Mason	Hannah Yang         	Delaware State	Anastasia Belkina   	6-2, 6-0
 20210418	492714	514711	H	   5	George Mason	Jackie Nannery      	Delaware State	Iris Leder          	6-1, 6-2
 20210418	516543	391360	H	   6	George Mason	Ashley Fitz-Patrick 	Delaware State	Cassandra Boltman   	6-3, 6-2
+20210418	386060	503292	A	   1	Moravian	Emma Angle          	Susquehanna	Ashlynn Searer      	6-2, 6-1
+20210418	386061	515193	A	   2	Moravian	Mary Angle          	Susquehanna	Grace Tepes         	6-1, 6-2
+20210418	384313	503291	A	   3	Moravian	Brooke Adams        	Susquehanna	Anna Ream           	6-0, 6-0
+20210418	513161	566219	A	   4	Moravian	Julianne Cassady    	Susquehanna	Juliana Bramley     	6-4, 6-1
+20210418	395779	566221	A	   5	Moravian	Kristen Cassidy     	Susquehanna	Chelsea Kneedler    	6-0, 6-1
+20210418	513162	566223	A	   6	Moravian	Maddie Figiel       	Susquehanna	Isabella Scappaticci	6-2, 6-1
+20210418	568689	567438	H	   1	Minnesota Morris	Kiley Rodarmel      	St. Scholastica	Julia Maier         	1-6, 6-2, 1-0(4)
+20210418	488609	480575	A	   2	St. Scholastica	Madilyn Jankila     	Minnesota Morris	Sam Tate            	4-6, 6-3, 1-0(2)
+20210418	568684	567436	H	   3	Minnesota Morris	Kate Obright        	St. Scholastica	Maya Nibbe          	6-4, 6-0
+20210418	567437	568686	A	   4	St. Scholastica	Ava Warren          	Minnesota Morris	Megan Arens         	6-2, 6-2
+20210418	568687	488606	H	   5	Minnesota Morris	Abby Burquest       	St. Scholastica	Julia Ellefson      	6-2, 6-2
+20210418	515872	568685	A	   6	St. Scholastica	Maddy Samz          	Minnesota Morris	Megan Tschida       	6-4, 5-7, 1-0(6)
 20210418	568958	475629	H	   1	St. Thomas Aquinas	Flaminia Valci      	D'Youville	Ali Mascioletti     	6-0, 6-1
 20210418	568962	480569	H	   2	St. Thomas Aquinas	Dauphine Donker     	D'Youville	Alicia Tartick      	6-0, 6-0
 20210418	568964	477937	H	   3	St. Thomas Aquinas	Brooke Lopez        	D'Youville	Angela Poblocki     	6-0, 6-0
@@ -26684,6 +27084,18 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210418	512806	566539	H	   4	Millersville	Maria Ojeda         	Frostburg State	Elizabeth Hixson    	6-0, 6-1
 20210418	486200	503167	H	   5	Millersville	Kelsey Heckert      	Frostburg State	Shea Przywieczerski 	6-0, 6-0
 20210418	462415	511420	H	   6	Millersville	Lauren Weaver       	Frostburg State	Jen Dieterle        	6-0, 6-3
+20210418	524496	513654	A	   1	Randolph-Macon	Avery Smith         	Emory & Henry	Payton Holt         	6-2, 6-0
+20210418	569298	524495	H	   2	Emory & Henry	Tess Flanigan       	Randolph-Macon	Grace Holderman     	1-6, 6-0, 6-2
+20210418	524494	569299	A	   3	Randolph-Macon	Emma Nesselrodt     	Emory & Henry	Molly McMichael     	6-3, 6-3
+20210418	499619	513656	A	   4	Randolph-Macon	Daniella Hafner     	Emory & Henry	Sarah Marion        	3-1
+20210418	568243	495501	A	   5	Randolph-Macon	Matty Grace Gilliam 	Emory & Henry	Logan Graham        	6-2, 6-3
+20210418	495502	464198	H	   6	Emory & Henry	Cailie Pollard      	Randolph-Macon	Andrea Wine         	6-3, 0-6, 1-0(10)
+20210418	494009	567003	H	   1	Siena	Meagan Brown        	Niagara	Elena Mayet         	1-6, 6-3, 6-3
+20210418	522290	567004	H	   2	Siena	Petra Miszczak      	Niagara	Coral Rodriguez     	6-1, 7-6
+20210418	513506	498163	H	   3	Siena	Maanya Viswanath    	Niagara	Erika Sofia Gonzalez	7-6, 7-6
+20210418	567002	569351	A	   4	Niagara	Jaida Borg          	Siena	Emma Boggiali       	6-2, 6-3
+20210418	513507	490242	H	   5	Siena	Anastasia Koniaev   	Niagara	Megan Gamble        	3-6, 6-2, 6-4
+20210418	569353	512323	H	   6	Siena	Shelby Madeiros     	Niagara	Kirah Regales       	7-5, 4-6, 6-4
 20210418	512325	515198	A	   1	SNHU	Magdalena Hubickova 	St. Anselm	Anastasia Kapothanasis	6-1, 6-0
 20210418	487103	487273	A	   2	SNHU	Alexxa Etienne      	St. Anselm	Emily Jacy          	6-0, 6-0
 20210418	512328	468335	A	   3	SNHU	Mina Houge          	St. Anselm	Dominique Bolduc    	6-1, 6-1
@@ -26800,7 +27212,10 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210418	427820	566277	H	   6	Michigan	Bella Lorenzini     	Michigan State	Ayshe Can           	6-3, 7-5
 20210418	511719	512709	H	   1	Wesleyan (CT)	Katie Fleischman    	Hamilton	Lauren Holtzman     	6-1, 6-1
 20210418	422215	420557	H	   2	Wesleyan (CT)	Polina Kiseleva     	Hamilton	Ajla Karabegovic    	6-2, 6-1
+20210418	511722	571620	H	   3	Wesleyan (CT)	Serim Jin           	Hamilton	Claire Cutler       	6-0, 6-0
+20210418	485870	571621	H	   4	Wesleyan (CT)	Megan Tran          	Hamilton	Grace Fuss          	6-1, 6-0
 20210418	511713	488135	H	   5	Wesleyan (CT)	Sasha Gaeth         	Hamilton	Becca Ingber        	6-1, 6-4
+20210418	571438	571622	H	   6	Wesleyan (CT)	Kriti Williams      	Hamilton	Lorelei Glidden     	6-0, 6-3
 20210418	561931	569730	A	   1	Wisconsin Lutheran	Kaytlyn Hartfield   	MSOE	Cameron Larson      	6-4, 6-2
 20210418	561930	496080	A	   2	Wisconsin Lutheran	Gabrielle Medema    	MSOE	Hannah Marron       	6-3, 6-2
 20210418	397675	561933	H	   3	MSOE	Katie Clements      	Wisconsin Lutheran	Katelynn Haskell    	6-4, 6-0
@@ -26867,7 +27282,10 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210418	513991	515614	H	   5	Missouri Western	Nicole Donnelly     	Emporia State	Kelsie Burr         	6-3, 6-0
 20210418	565851	515615	H	   6	Missouri Western	Rhea Singh          	Emporia State	Colby Fugit         	6-1, 6-2
 20210418	461608	385271	H	   1	UW Superior	Emily Wald          	Crown	Sierra Allison      	6-0, 1-1
+20210418	565985	571545	H	   2	UW Superior	Chiyono Owa         	Crown	Abby Engrav         	6-0, 6-2
+20210418	522296	571546	H	   3	UW Superior	Kallie Olson        	Crown	Madeline Echavarria 	6-2, 6-3
 20210418	565987	435839	H	   4	UW Superior	Grace Nelson        	Crown	Veronika Mykhailiuk 	6-1, 6-4
+20210418	565986	571547	H	   5	UW Superior	Ririko Miura        	Crown	Maria Morales       	6-3, 6-1
 20210418	434537	502065	N	   2	Lindsey Wilson	Lucia Mora Diaz     	Cumberlands (KY)	Mikaela Fros        	6-4, 6-7, 6-1
 20210418	566975	568088	N	   3	Cumberlands (KY)	Laura Marie         	Lindsey Wilson	Reshma Challarapu   	6-1, 6-2
 20210418	524431	566978	N	   4	Lindsey Wilson	Parisa Rachdanone   	Cumberlands (KY)	Hana Shimeno        	6-1, 6-2
@@ -26885,6 +27303,27 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210418	461969	564537	A	   4	Wash U	Laurel Wanger       	North Central (IL)	Mikayla Edquiban    	6-0, 6-4
 20210418	487035	522294	A	   5	Wash U	Hannah Johnston     	North Central (IL)	Sydney Sawyer       	6-1, 6-2
 20210418	568060	564538	A	   6	Wash U	Katherine Johnston  	North Central (IL)	Nina Patience       	6-3, 6-3
+20210418	443448	565856	H	   1	Sioux Falls	Megan Quandt        	Upper Iowa	Jessa Michieli      	6-1, 6-1
+20210418	568057	565857	H	   2	Sioux Falls	Talia Janos         	Upper Iowa	Lina Ziani          	6-4, 6-1
+20210418	433340	514189	H	   3	Sioux Falls	Lexi Miller         	Upper Iowa	Alejandra Abella    	6-2, 6-1
+20210418	422334	514191	H	   4	Sioux Falls	Rachel Klatt        	Upper Iowa	Mya Herrmann        	6-2, 6-1
+20210418	502544	514192	H	   5	Sioux Falls	Victoria Ambrosio-Cueto	Upper Iowa	Elaina Wall         	6-0, 6-0
+20210418	571553	569004	A	   1	Westminster (PA)	Amanda Barrett      	Franciscan	Maria Herrera       	6-4, 7-6(5)
+20210418	450697	487049	A	   2	Westminster (PA)	Julia Serbati       	Franciscan	Ana haddad          	5-7, 7-5
+20210418	487050	388453	H	   3	Franciscan	Zoey Stapleton      	Westminster (PA)	Casey Barton        	6-4, 6-1
+20210418	518204	511927	A	   4	Westminster (PA)	Sabrina Slagle      	Franciscan	Haley Davinsizer    	6-2, 6-4
+20210418	502578	569003	A	   5	Westminster (PA)	Sara Small          	Franciscan	Susan Schuberg      	6-0, 6-0
+20210418	571554	569002	A	   6	Westminster (PA)	Caroline Fox        	Franciscan	Alyce Davis         	6-2, 6-2
+20210418	562074	437508	A	   1	Texas	Peyton Stearns      	TCU	Marie Norris        	6-4, 3-6, 1-0(7)
+20210418	459000	485729	A	   2	Texas	Anna Turati         	TCU	Mercedes Aristegui  	6-1, 6-4
+20210418	562075	561724	A	   3	Texas	Lulu Sun            	TCU	Tate Schroeder      	7-5, 6-1
+20210418	562071	421378	A	   4	Texas	Charlotte Chavatipon	TCU	Stevie Kennedy      	6-0, 6-2
+20210418	564774	561726	A	   5	Texas	Kylie Collins       	TCU	Isabel Pascual Montalvo	6-0, 7-6(7)
+20210418	562073	514771	A	   6	Texas	Malaika Rapolu      	TCU	Margaret Polk       	6-3, 6-1
+20210418	454782	570173	A	   1	St. Louis - Pharmacy	Emily Stevenson     	Westminster (MO)	Rebecca Zile        	6-4, 6-0
+20210418	523474	570176	A	   2	St. Louis - Pharmacy	Erin Davis          	Westminster (MO)	Erika Wanatabe      	6-1, 6-0
+20210418	409334	570174	A	   3	St. Louis - Pharmacy	Emilia Gautier      	Westminster (MO)	Earthis Pascua      	6-4, 6-1
+20210418	566930	570813	A	   4	St. Louis - Pharmacy	Sophia Kchouk       	Westminster (MO)	Faith McRoberts     	6-0, 6-0
 20210419	451651	569642	H	   1	William Woods	Zlata Shuraeva      	Ottawa	Patricia Eftenoiu   	6-2, 6-3
 20210419	466033	515423	H	   2	William Woods	Ana Zavala          	Ottawa	Julia Wienese       	6-2, 3-0
 20210419	520301	559687	H	   3	William Woods	Rukshika Wijesooriya	Ottawa	Yana Goranova       	6-4, 6-2
@@ -26905,6 +27344,32 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210419	510745	565151	H	   3	UC Santa Barbara	Shakhnoza Khatmova  	Washington State	Fifa Kumhom         	6-1, 6-0
 20210419	497582	450664	A	   4	Washington State	Savanna Ly-Nguyen   	UC Santa Barbara	Lise Sentenac       	6-1, 6-1
 20210419	514461	567453	A	   5	Washington State	Yinglak Jittakoat   	UC Santa Barbara	Kira Reuter         	6-4, 6-3
+20210419	512185	567375	A	   1	Averett	Louise Hovhammar    	Southern Virginia	Anna Peterson       	6-1, 7-5
+20210419	567374	399335	H	   2	Southern Virginia	Lindsey Brown       	Averett	Eleanor Crane       	6-2, 6-3
+20210419	566059	487679	A	   3	Averett	Paula Ryhsen        	Southern Virginia	Alyssa Sewell       	6-2, 6-3
+20210419	487678	512183	H	   4	Southern Virginia	morgan blount       	Averett	Alejandra Garcia    	6-4, 6-3
+20210419	491619	388030	H	   1	Bethel (MN)	Grace Riermann      	St. Olaf	Sabrina Barboza     	6-2, 6-2
+20210419	445494	516405	H	   2	Bethel (MN)	Maggie Riermann     	St. Olaf	Allie Prokosch      	6-2, 6-1
+20210419	437585	443114	H	   3	Bethel (MN)	Mackenzie Novak     	St. Olaf	Greta Prokosch      	6-1, 6-1
+20210419	438968	512500	A	   4	St. Olaf	Emily Otteson       	Bethel (MN)	Ingrid Goldstrand   	3-6, 6-1, 1-0(6)
+20210419	491616	516406	H	   5	Bethel (MN)	Sydney Rott         	St. Olaf	Christiana Cholakis 	6-3, 6-2
+20210419	512503	494197	H	   6	Bethel (MN)	Rylee Schurman      	St. Olaf	Teresa Fawcett      	4-6, 6-4, 1-0(8)
+20210419	413819	422226	A	   1	Lynchburg	Christina Harris    	Bridgewater	Whitney Kiser       	6-0, 6-0
+20210419	519072	487797	A	   2	Lynchburg	Elizabeth Teefey    	Bridgewater	Emily Daigneault    	6-2, 6-0
+20210419	501620	399385	A	   3	Lynchburg	Alissa Anderson     	Bridgewater	Rachel Crawford     	6-0, 6-3
+20210419	519074	511183	A	   4	Lynchburg	Lauren Pascadlo     	Bridgewater	Malena Hoover       	6-2, 5-7, 1-0(7)
+20210419	403485	511182	A	   5	Lynchburg	Ellen Druebbisch    	Bridgewater	Alison Keister      	6-1, 6-0
+20210419	412297	568879	A	   6	Lynchburg	Caroline Guill      	Bridgewater	Ryan Roeber         	6-2, 6-1
+20210419	509208	521816	A	   1	Northwestern State (LA)	Mariella Minetti    	LSU Alexandria	Darija Mladenovic   	6-3, 6-2
+20210419	564293	567620	A	   2	Northwestern State (LA)	Viktorie Wojcikova  	LSU Alexandria	Maria Alvarez       	2-6, 6-4, 1-0(8)
+20210419	395883	567621	A	   3	Northwestern State (LA)	Judit Castillo Gargallo	LSU Alexandria	Candela Bonivardi   	7-6(2), 1-6, 1-0(6)
+20210419	400315	499046	A	   4	Northwestern State (LA)	Emilija Dancetovic  	LSU Alexandria	Patricia Matrinez Molina	6-1, 6-3
+20210419	520520	567623	A	   5	Northwestern State (LA)	Thitirat Kanaphuet  	LSU Alexandria	Carme Ibanyez Navarro	6-2, 6-2
+20210419	567622	564294	H	   6	LSU Alexandria	Johanna Brauer      	Northwestern State (LA)	Greta Wallin        	7-6(4), 6-3
+20210419	567471	570173	A	   1	Greenville	Mireia Birosta      	Westminster (MO)	Rebecca Zile        	6-3, 6-1
+20210419	567472	570176	A	   2	Greenville	Addison Brannon     	Westminster (MO)	Erika Wanatabe      	6-1, 6-1
+20210419	567470	570174	A	   3	Greenville	Shaling Reynolds    	Westminster (MO)	Earthis Pascua      	6-0, 6-1
+20210419	496597	570813	A	   4	Greenville	Claudia Principal   	Westminster (MO)	Faith McRoberts     	6-0, 6-0
 20210419	394236	400032	H	   1	Alma	Brooke Butterfield  	Adrian	Samantha Cyrus      	6-4, 7-5
 20210419	514456	568609	A	   2	Adrian	Bethany Posey       	Alma	Elizabeth Hill      	6-2, 6-2
 20210419	514458	568610	A	   3	Adrian	Elizabeth Himebauch 	Alma	Emily McDonald      	6-3, 6-2
@@ -26935,3 +27400,135 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210419	424730	498730	A	   4	Piedmont	Kara Landsiedel     	Johnson (TN)	Iris Loveday        	6-0, 6-0
 20210419	565906	566739	A	   5	Piedmont	Melissa Gish        	Johnson (TN)	Brooke Hilemon      	6-0, 6-0
 20210419	565905	467295	A	   6	Piedmont	Allison Dempsey     	Johnson (TN)	Emily Allen         	6-2, 6-1
+20210419	486822	515938	N	   1	Concordia (WI)	Ricki Budewitz      	Alverno	Kalei Hanna         	6-0, 6-0
+20210419	486819	515940	N	   2	Concordia (WI)	Mia Andrae          	Alverno	Merub Irfan         	6-0, 6-0
+20210419	565957	496076	N	   3	Concordia (WI)	Mallory Moen        	Alverno	Jackie Velasco-Soberanis	6-0, 6-0
+20210419	486823	571591	N	   4	Concordia (WI)	Jennifer Mies       	Alverno	Liz Carranco        	6-1, 6-0
+20210419	486821	571594	N	   5	Concordia (WI)	Elizabeth Johnson   	Alverno	Michal Irfan        	6-0, 6-0
+20210419	565956	515941	N	   6	Concordia (WI)	Jordana Burkeland   	Alverno	Monse Sanchez-Gutierrez	6-0, 6-0
+20210419	496115	569751	H	   1	Bloomsburg	Taylor Capoferri    	Jefferson	Stanislava Norets   	3-6, 4-1
+20210419	569753	448986	A	   2	Jefferson	Manni Zhang         	Bloomsburg	Isabella Sarquis    	6-0, 6-1
+20210419	569752	510963	A	   3	Jefferson	Anna Morgillio      	Bloomsburg	Sarah Capoferri     	6-4, 6-1
+20210419	469685	569436	A	   4	Jefferson	Millie Coombes      	Bloomsburg	Anna Chikhalenko    	6-0, 6-3
+20210419	476931	510960	A	   5	Jefferson	Eryn Nguyen         	Bloomsburg	Devon Dicampli      	6-3, 6-4
+20210419	510961	525215	H	   6	Bloomsburg	Haille Hoeflein     	Jefferson	Elisa Hardeski      	7-5, 6-0
+20210419	486811	568475	A	   1	Mississippi State	Emma Antonaki       	Alabama	Loudmilla Bencheikh 	6-4, 7-6(5)
+20210419	398952	384278	H	   2	Alabama	Alba Cortina-Pou    	Mississippi State	Magda Adaloglou     	6-4, 6-1
+20210419	486813	490181	A	   3	Mississippi State	Tamara Racine       	Alabama	Moka Ito            	6-3, 6-3
+20210419	561871	561127	H	   4	Alabama	Anna Parkhomenko    	Mississippi State	Lilian Poling       	7-5, 6-3
+20210419	510941	561867	A	   5	Mississippi State	Alexandra Mikhailuk 	Alabama	Anne Marie Hiser    	6-1, 7-6(11)
+20210419	561126	561872	A	   6	Mississippi State	Chloe Cirotte       	Alabama	Sydney Riley        	6-4, 6-3
+20210420	565463	568207	A	   1	Slippery Rock	Adrianna Gonzalez   	Cal U (PA)	Laura Vargas        	6-0, 6-1
+20210420	565464	517098	A	   2	Slippery Rock	Gabi Del Val Del Toro	Cal U (PA)	Fallon Winseck      	6-1, 6-1
+20210420	462091	408628	A	   3	Slippery Rock	Olivia Warner       	Cal U (PA)	Charlie Gallagher   	6-2, 6-1
+20210420	405666	568205	A	   4	Slippery Rock	Lauren Fadden       	Cal U (PA)	Carmen Duran        	6-1, 7-5
+20210420	460052	568206	A	   5	Slippery Rock	Amy Varckette       	Cal U (PA)	Kylie Feltenberger  	6-0, 6-0
+20210420	511115	517096	A	   6	Slippery Rock	Lindsey Fadden      	Cal U (PA)	Fulvia Camargo      	6-0, 6-1
+20210420	512185	421362	A	   1	Averett	Louise Hovhammar    	Roanoke	Jessica Kennedy     	6-4, 6-1
+20210420	399335	568188	A	   2	Averett	Eleanor Crane       	Roanoke	Halle Fernstrum     	6-1, 6-2
+20210420	566059	515517	A	   3	Averett	Paula Ryhsen        	Roanoke	Margriet Bostoen    	6-1, 6-0
+20210420	512183	515518	A	   4	Averett	Alejandra Garcia    	Roanoke	Olivia Maccluen     	6-2, 6-3
+20210420	566624	523395	H	   1	Wesleyan (WV)	Julia Pinto         	Frostburg State	Immanuella Odiong   	6-2, 6-0
+20210420	498779	511425	H	   2	Wesleyan (WV)	Rebecca Osborne     	Frostburg State	Rabiatu Ladan       	6-2, 6-0
+20210420	498781	511422	H	   3	Wesleyan (WV)	Sai Sakamoto        	Frostburg State	Madison Toothman    	6-1, 6-0
+20210420	498780	566539	H	   4	Wesleyan (WV)	Maddie Chen         	Frostburg State	Elizabeth Hixson    	6-4, 6-3
+20210420	513659	503167	H	   5	Wesleyan (WV)	Molly Grace Hull    	Frostburg State	Shea Przywieczerski 	6-0, 6-0
+20210420	524860	511420	H	   6	Wesleyan (WV)	Hannah Spruce       	Frostburg State	Jen Dieterle        	6-3, 6-1
+20210420	569694	514539	A	   1	Northwood	Amanda Bandrowski   	Davenport	Willemien Coetzee   	6-3, 6-2
+20210420	496352	514538	A	   2	Northwood	Elizaveta Velichko  	Davenport	Danica Malan        	6-0, 6-1
+20210420	496351	567030	A	   3	Northwood	Iryna Trystan       	Davenport	Kailyn Skogmo       	6-0, 6-2
+20210420	496348	567029	A	   4	Northwood	Anna Goncharova     	Davenport	Taryn Orr           	6-1, 6-1
+20210420	568960	525155	H	   1	St. Thomas Aquinas	Viktoriia Pavlovets 	Kutztown	Claudia Makarski    	6-2, 6-3
+20210420	568959	503812	H	   2	St. Thomas Aquinas	Samanta Villegas Robles	Kutztown	Amanda Grebosky     	6-0, 6-4
+20210420	512064	503815	H	   3	St. Thomas Aquinas	Ayesha Burnett      	Kutztown	Catherine Maher     	6-4, 6-2
+20210420	512061	570077	H	   4	St. Thomas Aquinas	Eliza Mulder        	Kutztown	Jess Marks          	6-1, 6-2
+20210420	568958	570076	H	   5	St. Thomas Aquinas	Flaminia Valci      	Kutztown	Sarah Lazarchak     	8-3
+20210420	568962	480825	H	   6	St. Thomas Aquinas	Dauphine Donker     	Kutztown	Elyssa Tomczyk      	8-0
+20210420	486202	570830	H	   1	Millersville	Jasmine Morris      	Shippensburg	Skyler Walder       	6-1, 6-2
+20210420	512804	517377	H	   2	Millersville	Julia Wallace       	Shippensburg	Jenna Sluijmer      	6-1, 6-3
+20210420	569274	570827	H	   3	Millersville	Noelle Htwar        	Shippensburg	Brighid Cantwell    	6-0, 6-1
+20210420	512806	504344	H	   4	Millersville	Maria Ojeda         	Shippensburg	Kayla Tryanski      	6-0, 6-0
+20210420	486200	512896	H	   5	Millersville	Kelsey Heckert      	Shippensburg	Sahar Islam         	6-1, 6-2
+20210420	462415	512895	H	   6	Millersville	Lauren Weaver       	Shippensburg	Callista Papoutsis  	6-1, 6-0
+20210420	514680	569869	H	   1	Lebanon Valley	Louise Nicole Honrade	Messiah	Kasi Conjack        	6-2, 6-1
+20210420	569571	384369	H	   2	Lebanon Valley	Jacquelyn McBride   	Messiah	Rebekah Adams       	6-1, 6-1
+20210420	569572	494115	H	   3	Lebanon Valley	Meredith Haas       	Messiah	Rachel Marcroft     	6-3, 6-1
+20210420	463576	569872	H	   4	Lebanon Valley	Emily Wilczek       	Messiah	Rebekah Sheaffer    	6-2, 6-1
+20210420	448609	494114	H	   5	Lebanon Valley	Meridyth Sanders    	Messiah	Hannah Murray       	6-0, 6-0
+20210420	390435	513409	H	   6	Lebanon Valley	Zoe Birch           	Messiah	Hannah Kapchinske   	6-2, 6-4
+20210420	518654	559577	A	   1	St. Thomas (TX)	Alejandra Lopez     	Mary Hardin-Baylor	Chloe Norris        	6-4, 2-6, 9-2
+20210420	559578	518660	H	   2	Mary Hardin-Baylor	Katy Beach          	St. Thomas (TX)	Alyssa Davila       	6-3, 6-2
+20210420	559580	518656	H	   3	Mary Hardin-Baylor	Sofia Sanchez       	St. Thomas (TX)	Asan Atilla         	6-4, 6-2
+20210420	518219	518659	H	   4	Mary Hardin-Baylor	Vicky Rendon        	St. Thomas (TX)	Callighan Ard       	6-2, 6-2
+20210420	489629	518663	H	   5	Mary Hardin-Baylor	Alondra Torresdiaz  	St. Thomas (TX)	Anna Ta             	6-2, 7-5
+20210420	439682	428629	N	   1	Kentucky	Akvilė Paražinskaitė	Ole Miss	Sabina Machalova    	6-2, 6-2
+20210420	511330	418519	N	   3	Kentucky	Carlota Molina Megias	Ole Miss	Tereza Janatova     	7-6(6), 6-3
+20210420	461316	561996	N	   4	Ole Miss	Anna Vrbenska       	Kentucky	Elizabeth Stevens   	6-4, 6-3
+20210420	511331	562107	N	   5	Kentucky	Carla Girbau        	Ole Miss	Lillian Gabrielsen  	3-6, 6-2, 6-3
+20210420	562104	511332	N	   6	Ole Miss	Reka Zadori         	Kentucky	Maialen Morante     	6-1, 6-2
+20210420	571077	570833	A	   1	Harford (MD)	Chloe Certain       	Mercer County (NJ)	Jana Zollner        	6-2, 6-3
+20210420	516319	570834	A	   2	Harford (MD)	Alizee Ripolles     	Mercer County (NJ)	Lucy Ann Taffner    	6-1, 6-2
+20210420	571076	570835	A	   3	Harford (MD)	Natalia Calvo-Herrera	Mercer County (NJ)	Brianna Davis       	7-6(3), 6-4
+20210420	570837	523279	H	   4	Mercer County (NJ)	Gwen Guidice        	Harford (MD)	Lianna Tillinghast  	6-1, 6-1
+20210420	498290	570838	A	   5	Harford (MD)	Paula Martinez      	Mercer County (NJ)	Rachel Taylor       	6-1, 6-0
+20210420	570839	571078	H	   6	Mercer County (NJ)	Fadia Argant        	Harford (MD)	Sarah Gorski        	6-0, 6-0
+20210420	567076	513856	H	   1	Indiana (PA)	Karolin Kirchtag    	West Liberty	Gemma Cliffe        	2-6, 7-6(4), 1-0(6)
+20210420	513872	511198	A	   2	West Liberty	Ericka Nathalia Valencia Guzman	Indiana (PA)	Idoia Huerta        	7-5, 6-3
+20210420	567077	565972	H	   3	Indiana (PA)	Katy Graydon        	West Liberty	Ishika Agarwal      	6-0, 6-1
+20210420	567075	488178	H	   4	Indiana (PA)	Lydia Vlachou       	West Liberty	Luisa Agudelo       	6-3, 6-0
+20210420	485311	565971	H	   5	Indiana (PA)	Laura Dunarova      	West Liberty	Jaqueline Pena Aceves	6-1, 6-2
+20210420	567078	488176	H	   6	Indiana (PA)	Abigail Jones       	West Liberty	Anita Ponti         	6-1, 6-0
+20210420	400669	424044	N	   2	South Carolina	Megan Davies        	Vanderbilt	Emma Kurtz          	6-4, 6-1
+20210420	513315	561902	N	   3	South Carolina	Emma Shelton        	Vanderbilt	Anessa Lee          	7-6(1), 6-2
+20210420	396955	511683	N	   4	South Carolina	Silvia Chinellato   	Vanderbilt	Anna Ross           	6-4, 7-6(9)
+20210420	511682	564249	N	   5	Vanderbilt	Marcella Cruz       	South Carolina	Allie Gretkowski    	7-5, 6-1
+20210420	521055	486813	N	   3	Tennessee	Carly Briggs        	Mississippi State	Tamara Racine       	7-5, 6-2
+20210420	561887	561127	N	   4	Tennessee	Daria Kuczer        	Mississippi State	Lilian Poling       	6-1, 6-3
+20210420	431615	510941	N	   5	Tennessee	Tenika McGiffin     	Mississippi State	Alexandra Mikhailuk 	6-1, 6-1
+20210420	410871	396514	H	   1	Emory	Ysabel Gonzalez Rico	Brenau	Peeraya Charoensirisutthikul	6-1, 6-1
+20210420	486728	495745	H	   2	Emory	Christina Watson    	Brenau	Juana Zambrano      	6-3, 6-0
+20210420	456828	495744	H	   3	Emory	Stephanie Taylor    	Brenau	Evelin Gouveia      	6-0, 6-1
+20210420	438205	560929	H	   4	Emory	Defne Olcay         	Brenau	Sally Brannon       	6-0, 6-1
+20210420	396391	560930	H	   5	Emory	Katie Chang         	Brenau	Marywynn Brannon    	6-4, 6-1
+20210421	528084	527863	A	   1	Doane	Amber Weston        	Concordia (NE)	Sofia Morales       	4-6, 6-4, 1-0(8)
+20210421	486385	433688	A	   2	Doane	Ava Macke           	Concordia (NE)	Claudia Miranda Viera	6-2, 6-1
+20210421	486384	509874	A	   3	Doane	Brylee Lauby        	Concordia (NE)	Tara Ferrel         	6-1, 6-1
+20210421	512254	487228	A	   4	Doane	Elizabeth Van Der Torre	Concordia (NE)	Katy Krejci         	6-1, 6-0
+20210421	512252	409286	A	   5	Doane	Huong Ngo           	Concordia (NE)	Ansley Gates        	6-2, 6-4
+20210421	487233	445251	H	   6	Concordia (NE)	Katie Seja          	Doane	Makayla Rice        	6-3, 6-3
+20210421	516616	512600	A	   1	CSU Fullerton	Misaki Kobayashi    	CSUN	Ekaterina Repina    	6-4
+20210421	569112	489475	H	   2	CSUN	Magdalena Hedrzak   	CSU Fullerton	Eira Tobrand        	6-2, 6-1
+20210421	516618	512601	A	   5	CSU Fullerton	Yuseung Suh         	CSUN	Jacquie Tan         	6-4, 6-3
+20210421	566189	569111	A	   6	CSU Fullerton	Juliette Daries     	CSUN	Jenna Dorian        	6-3, 6-3
+20210421	515392	494733	H	   1	Rhode Island	Nadia Rajan         	Holy Cross (MA)	Maddie DeNucci      	7-5, 6-2
+20210421	492520	503525	H	   2	Rhode Island	Erin Chratian       	Holy Cross (MA)	Alexandra Smith     	6-0, 6-1
+20210421	400749	514437	H	   3	Rhode Island	Halah Davis         	Holy Cross (MA)	Missy Caiola        	6-0, 6-0
+20210421	415587	517420	H	   4	Rhode Island	Tiara Higuchi       	Holy Cross (MA)	Hanna Beck          	6-0, 6-0
+20210421	568792	503524	H	   5	Rhode Island	Grace Campanella    	Holy Cross (MA)	Meg OMelveny        	6-0, 6-0
+20210421	568793	503526	H	   6	Rhode Island	Valentina Cvackova  	Holy Cross (MA)	Jenna Tubby         	6-0, 6-0
+20210421	488877	509685	H	   1	Nova SE	Natalie Espinal     	Saint Leo	Molly Helgesson     	6-2, 6-2
+20210421	437798	485399	H	   3	Nova SE	Daniela Obando      	Saint Leo	Nina Furmaniak      	6-3, 6-3
+20210421	511259	527727	H	   6	Nova SE	Celia Montero Estevan	Saint Leo	Takhmina Zhanatova  	6-1, 6-1
+20210421	491784	561759	N	   1	Academy of Art	Sofia Ragona        	Colorado Mesa	Isabella Coman      	6-2, 6-1
+20210421	565013	511022	N	   3	Academy of Art	Yun Shiau           	Colorado Mesa	Halle Romero        	6-1, 6-1
+20210421	565011	486566	N	   5	Academy of Art	Erica Hellbe        	Colorado Mesa	Lauren Thomas       	6-2, 6-2
+20210421	515743	561757	N	   6	Academy of Art	Julia Ortega        	Colorado Mesa	Julianna Campos     	6-1, 6-1
+20210421	517297	396514	H	   1	Georgia Gwinnett	Maria Genovese      	Brenau	Peeraya Charoensirisutthikul	6-0, 6-0
+20210421	502155	495745	H	   2	Georgia Gwinnett	Tereza Koplova      	Brenau	Juana Zambrano      	6-1, 6-1
+20210421	523015	495744	H	   3	Georgia Gwinnett	Selina Pichler      	Brenau	Evelin Gouveia      	6-1, 6-2
+20210421	567101	560929	H	   4	Georgia Gwinnett	Iryna Lysykh        	Brenau	Sally Brannon       	6-0, 6-0
+20210421	567100	560930	H	   5	Georgia Gwinnett	Alejandra Ferrer    	Brenau	Marywynn Brannon    	6-1, 6-0
+20210421	565495	560932	H	   6	Georgia Gwinnett	Marta Perez Maestro 	Brenau	Sydney Patterson    	6-0, 6-0
+20210421	493373	388762	H	   1	San Diego	Solymar Colling     	Washington State	Michaela Bayerlova  	6-4, 3-6, 6-1
+20210421	565869	565151	H	   3	San Diego	Jordyn McBride      	Washington State	Fifa Kumhom         	6-0, 6-1
+20210421	565867	497582	H	   4	San Diego	Abigail Desiatnikov 	Washington State	Savanna Ly-Nguyen   	6-2, 6-0
+20210421	565866	514461	H	   5	San Diego	Victoria Kalaitzis  	Washington State	Yinglak Jittakoat   	6-7(4), 6-0, 1-0
+20210421	423873	386904	H	   6	San Diego	Katharina Kukaras   	Washington State	Melisa Ates         	7-5, 6-2
+20210421	490468	500520	N	   2	Metropolitan State	Helena Steenberg    	Hawaii Hilo	Sandra Dafincescu   	6-3, 6-1
+20210421	511917	419949	N	   4	Metropolitan State	Gala Castello       	Hawaii Hilo	Carmelle Joyner     	6-3, 6-0
+20210421	564871	566803	N	   6	Metropolitan State	Marie Cool          	Hawaii Hilo	Casydee De Mattos   	6-1, 6-1
+20210421	514700	489406	N	   2	Auburn	Carolyn Ansari      	Texas A&M	Jayci Goldsmith     	6-1, 7-6(3)
+20210421	489407	497768	N	   3	Texas A&M	Katya Townsend      	Auburn	Yu Chen             	6-1, 6-4
+20210421	387150	405619	N	   4	Auburn	Georgie Axon        	Texas A&M	Dorthea Faa-Hviding 	6-2, 6-3
+20210421	489405	561548	N	   5	Texas A&M	Renee McBryde       	Auburn	Adeline Flach       	6-2, 6-1
+20210421	432087	561546	N	   6	Texas A&M	Riley McQuaid       	Auburn	Anastasia Astakhova 	2-6, 6-3, 6-1
