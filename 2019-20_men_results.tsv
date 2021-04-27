@@ -1,28 +1,72 @@
 date	where	score	winner	loser
+20190824	A	9-0	Indiana East	Miami Middletown
+20190827	H	6-1	Marian (IN)	St. Francis (IN)
+20190827	A	7-0	Grace (IN)	Bethel (IN)
+20190827	H	9-0	Indiana Wesleyan	Taylor
+20190828	H	5-2	Huntington	Spring Arbor
+20190828	A	9-0	Goshen	MVNU
+20190829	H	4-3	Grace (IN)	Northwestern Ohio
+20190829	A	4-3	Goshen	Judson (IL)
+20190829	H	4-1	Taylor	Lawrence Tech
+20190829	A	9-0	Indiana Tech	St. Francis (IN)
+20190831	A	6-1	Marian (IN)	Huntington
+20190831	A	6-1	Grace (IN)	Goshen
+20190831	H	5-2	Indiana Wesleyan	Northwestern Ohio
+20190831	H	6-1	Indiana Wesleyan	St. Francis (IN)
+20190831	A	0-0	MVNU	Spring Arbor
+20190831	H	7-0	Taylor	Bethel (IN)
 20190831	A	5-2	Cowley County (KS)	Southwestern (KS)
+20190903	A	7-0	Northwestern Ohio	Huntington
+20190904	H	7-0	Grace (IN)	Huntington
+20190904	A	9-0	Goshen	Bethel (IN)
+20190904	H	7-0	Indiana Wesleyan	Marian (IN)
+20190904	A	0-0	Spring Arbor	St. Francis (IN)
+20190904	A	9-0	Taylor	MVNU
+20190904	H	4-3	Lawrence Tech	Adrian
 20190905	H	7-0	William Jewell	Concordia (NE)
+20190905	H	4-3	Indiana Tech	Grace (IN)
+20190905	A	7-2	Northwestern Ohio	Goshen
 20190907	H	4-0	Morgan State	Harford (MD)
 20190907	A	6-1	Millersville	Daemen
 20190907	N	8-1	Anderson (IN)	Fontbonne
 20190907	A	9-0	Susquehanna	Penn College
 20190907	N	0-0	Calvin	Wooster
+20190907	H	7-0	Huntington	St. Francis (IN)
+20190907	A	6-1	Marian (IN)	Taylor
+20190907	N	7-0	Indiana Wesleyan	Aquinas (MI)
+20190907	A	9-0	Indiana Wesleyan	Goshen
+20190907	H	4-3	Taylor	Wittenberg
+20190907	H	6-0	Texas Wesleyan	Howard Payne
+20190907	A	0-0	Aquinas (MI)	Goshen
+20190907	A	4-3	Indiana Tech	Huntington
 20190908	H	7-0	Bucknell	Dickinson
 20190908	A	7-0	Millersville	Roberts Wesleyan
 20190908	A	8-1	Illinois Wesleyan	Dubuque
 20190908	N	6-3	Illinois Wesleyan	Loras
+20190908	H	7-0	Thomas More	Miami Middletown
+20190908	H	5-0	Grand View	Wartburg
 20190909	A	6-1	SNHU	Post
 20190910	A	0-0	Colby-Sawyer	SNHU
 20190910	A	0-0	Piedmont	Brevard
+20190910	A	6-1	Marian (IN)	Goshen
+20190910	A	9-0	Grace (IN)	St. Francis (IN)
+20190910	A	9-0	Indiana Wesleyan	Bethel (IN)
+20190910	A	0-0	MVNU	Huntington
+20190910	A	4-3	Taylor	Spring Arbor
 20190911	A	8-0	Susquehanna	Lycoming
+20190911	N	9-0	Prairie State	Olivet Nazarene
 20190912	A	5-2	Maryville (MO)	McKendree
 20190912	A	7-0	UTPB	CSU-Pueblo
 20190912	N	5-2	Colorado Mesa	Dallas Baptist
+20190912	H	4-0	Grace (IN)	Taylor
+20190912	H	7-0	Spring Arbor	Trine
 20190913	A	9-0	Walsh	Grove City
 20190913	A	6-1	Dallas Baptist	CSU-Pueblo
 20190913	N	5-2	Colorado Mesa	UTPB
 20190913	N	4-0	Metropolitan State	Dallas Baptist
 20190913	N	5-0	Metropolitan State	UTPB
 20190913	A	9-0	Gordon (MA)	Regis (MA)
+20190913	A	9-0	Tennessee Wesleyan	Covenant
 20190914	A	6-1	William Jewell	Baker
 20190914	N	7-2	Dallas Baptist	Colorado College
 20190914	N	5-1	UTPB	Colorado College
@@ -34,6 +78,16 @@ date	where	score	winner	loser
 20190914	A	5-3	Cornell College	Simpson (IA)
 20190914	N	4-3	Oberlin	Findlay
 20190914	A	5-2	Wittenberg	Indiana East
+20190914	H	7-0	Marian (IN)	MVNU
+20190914	H	7-0	Grace (IN)	Spring Arbor
+20190914	A	9-0	Goshen	St. Francis (IN)
+20190914	A	6-1	Indiana Wesleyan	Huntington
+20190914	H	7-0	Indiana Wesleyan	MVNU
+20190914	A	5-2	Taylor	Cedarville
+20190914	H	4-2	Grand View	Iowa Central
+20190914	H	4-1	Grand View	Iowa Central
+20190914	A	0-0	Lourdes	Indiana Wesleyan
+20190914	H	5-2	Indiana Tech	Goshen
 20190914	A	0-0	USC Sumter	Newberry
 20190915	A	7-0	Newman	CSU-Pueblo
 20190915	N	5-2	Young Harris (GA)	Lees-McRae
@@ -44,6 +98,10 @@ date	where	score	winner	loser
 20190917	H	5-2	Millersville	Jefferson
 20190917	A	9-0	West Chester	Arcadia
 20190917	H	7-2	Ozarks	Hendrix
+20190917	H	7-0	Marian (IN)	Spring Arbor
+20190917	H	7-2	Goshen	Huntington
+20190917	H	4-3	Indiana Wesleyan	Grace (IN)
+20190917	H	7-0	Taylor	St. Francis (IN)
 20190918	H	4-3	Davenport	Aquinas (MI)
 20190918	H	4-3	Young Harris (GA)	Emmanuel (GA)
 20190918	H	6-1	Tusculum	King (TN)
@@ -55,6 +113,7 @@ date	where	score	winner	loser
 20190920	A	5-2	Southern Virginia	Shaw
 20190920	H	9-0	Union (NY)	Bard
 20190920	A	5-4	Emerson	Gordon (MA)
+20190920	A	7-0	Tennessee Wesleyan	Mars Hill
 20190921	H	5-2	Niagara	Rider
 20190921	A	7-2	Southern Virginia	Pfeiffer
 20190921	A	5-4	York (PA)	Messiah
@@ -68,6 +127,8 @@ date	where	score	winner	loser
 20190921	A	9-0	Penn College	Marywood
 20190921	H	8-1	Amherst	Hobart & William Smith
 20190921	H	6-3	Ramapo	Scranton
+20190921	H	5-2	Georgetown (KY)	Midway
+20190921	H	6-1	Cornerstone	Adrian
 20190922	H	6-1	District of Columbia	Frostburg State
 20190922	A	5-0	Muhlenberg	DeSales
 20190922	N	7-1	Muhlenberg	Moravian
@@ -81,6 +142,7 @@ date	where	score	winner	loser
 20190923	H	7-0	Chestnut Hill	Kutztown
 20190923	A	7-2	Bentley	Eastern Nazarene
 20190923	A	7-2	Ursinus	Penn State - Abington
+20190923	A	5-2	Brescia	Oakland City
 20190923	N	0-0	Iowa Central	Buena Vista
 20190924	H	6-3	Buena Vista	Northwestern (IA)
 20190924	H	9-0	Susquehanna	Alvernia
@@ -88,6 +150,11 @@ date	where	score	winner	loser
 20190924	A	5-4	Allegheny	Mount Union
 20190924	H	7-2	Ramapo	Yeshiva
 20190924	A	8-1	Grove City	Franciscan
+20190924	H	4-1	IU South Bend	Manchester
+20190924	A	0-0	Huntington	Bethel (IN)
+20190924	A	5-2	Marian (IN)	Grace (IN)
+20190924	H	4-3	Goshen	Taylor
+20190924	A	7-0	Indiana Wesleyan	Spring Arbor
 20190925	H	4-2	Rider	Lafayette
 20190925	A	7-2	Stonehill	Endicott
 20190925	A	0-0	Gordon (MA)	Springfield
@@ -95,9 +162,18 @@ date	where	score	winner	loser
 20190925	H	8-1	Clark (MA)	Roger Williams
 20190925	H	9-0	Washington & Lee	Emory & Henry
 20190925	H	8-1	Rochester (NY)	Roberts Wesleyan
+20190925	H	5-2	Doane	Bethel (KS)
+20190925	A	6-3	Indiana East	Earlham
+20190925	A	8-1	Cornerstone	Calvin
 20190926	A	5-1	Penn State - Harrisburg	Alvernia
+20190926	A	5-2	Huntington	Taylor
+20190926	A	6-1	Goshen	Spring Arbor
+20190926	H	4-0	Indiana Wesleyan	Indiana Tech
 20190927	A	6-1	Sciences (Philadelphia)	West Chester
 20190927	H	9-0	Mount Union	Franciscan
+20190927	H	7-0	Marian (IN)	Bethel (IN)
+20190927	H	4-1	Indiana Wesleyan	Judson (IL)
+20190927	N	4-2	Indiana Tech	Judson (IL)
 20190928	N	6-1	Colorado Mesa	Colorado College
 20190928	A	0-0	Gettysburg	York (PA)
 20190928	N	6-3	Juniata	Franciscan
@@ -108,25 +184,41 @@ date	where	score	winner	loser
 20190928	A	9-0	Penn State - Abington	Gwynedd-Mercy
 20190928	H	8-1	Lewis & Clark (OR)	Willamette
 20190928	A	0-0	Muskingum	Cornerstone
+20190928	A	9-0	Roosevelt	Millikin
+20190928	H	4-0	Indiana Wesleyan	Indiana Southeast
+20190928	H	5-2	Grand View	Morningside
+20190928	H	6-1	Missouri Valley	William Jewell
 20190929	A	7-0	Niagara	Daemen
 20190929	H	7-0	Chestnut Hill	Bloomsburg
 20190929	A	7-0	McKendree	Oakland City
 20190929	A	6-1	SNHU	Post
 20190929	H	6-1	Franklin (IN)	Manchester
 20190929	A	7-0	Otterbein	Franciscan
+20190929	A	4-3	McPherson	Emporia State
 20190930	H	7-2	Allegheny	Houghton
 20191001	A	6-1	Principia	Lindenwood-Belleville
+20191001	H	6-1	Marian (IN)	Spring Arbor
+20191001	H	4-3	Grace (IN)	Taylor
+20191001	H	5-2	Goshen	Huntington
+20191001	H	7-0	Indiana Wesleyan	St. Francis (IN)
 20191002	H	6-1	Loyola (MD)	Dickinson
 20191002	H	5-2	District of Columbia	Sciences (Philadelphia)
 20191002	A	7-0	Davis & Elkins	Shepherd
 20191002	N	6-1	Anderson (SC)	Emmanuel (GA)
 20191002	A	0-0	Eastern (PA)	Lebanon Valley
 20191002	A	0-0	Farmingdale State	Ramapo
+20191002	H	5-2	Northwestern Ohio	Findlay
+20191003	H	4-2	Marian (IN)	Grace (IN)
+20191003	H	4-0	Indiana Wesleyan	Goshen
+20191003	N	4-0	TAMU-Texarkana	John Brown
+20191003	A	4-3	Cumberland (TN)	Bethel (TN)
+20191003	A	6-1	Cumberland (TN)	Bethel (TN)
 20191004	A	4-3	Emmanuel (GA)	Newberry
 20191004	A	5-2	District of Columbia	Shepherd
 20191004	H	6-1	Rockhurst	Ottawa
 20191004	A	9-0	Penn State - Harrisburg	Misericordia
 20191004	N	6-3	Babson	Connecticut College
+20191004	H	5-1	Texas Wesleyan	John Brown
 20191005	H	7-0	Fairfield	Rider
 20191005	H	0-0	Quinnipiac	Holy Cross (MA)
 20191005	H	7-0	Merrimack	Daemen
@@ -137,6 +229,12 @@ date	where	score	winner	loser
 20191005	H	9-0	Susquehanna	Misericordia
 20191005	H	9-0	Ramapo	Bard
 20191005	A	0-0	Muskingum	Shawnee State
+20191005	H	4-1	Indiana Wesleyan	Marian (IN)
+20191005	N	6-1	Baker	Bethel (KS)
+20191005	A	5-2	TAMU-Texarkana	Texas Wesleyan
+20191005	A	0-0	Ottawa	Grand View
+20191005	A	4-2	Bethel (TN)	Freed-Hardeman
+20191005	H	6-1	Indiana Tech	Indiana East
 20191006	A	5-2	Siena	Sacred Heart
 20191006	H	7-0	SNHU	Daemen
 20191006	H	5-3	York (PA)	Catholic
@@ -144,10 +242,13 @@ date	where	score	winner	loser
 20191006	A	5-4	Emerson	JWU Providence
 20191006	H	6-3	Springfield	Endicott
 20191006	A	0-0	Fontbonne	Westminster (MO)
+20191006	H	5-2	Missouri Valley	Quincy
 20191007	A	6-3	Grove City	Penn State Behrend
+20191007	A	5-2	Prairie State	St. Francis (IL)
 20191008	A	9-0	FDU Florham	Farmingdale State
 20191009	H	5-2	Lees-McRae	Mars Hill
 20191009	A	4-3	Young Harris (GA)	King (TN)
+20191009	H	6-1	Goshen	Roosevelt
 20191010	A	5-2	Jefferson	Sciences (Philadelphia)
 20191010	A	7-2	Anderson (SC)	USC Sumter
 20191010	A	7-2	Anderson (SC)	USC Sumter
@@ -164,6 +265,7 @@ date	where	score	winner	loser
 20191012	H	4-3	Bentley	District of Columbia
 20191012	H	9-0	Southern Virginia	Randolph
 20191012	H	9-0	Southern Virginia	York (PA)
+20191012	H	6-1	Baker	Tabor
 20191013	A	7-0	Marist	Rider
 20191013	A	4-3	Sacred Heart	Connecticut
 20191013	H	4-3	Illinois Springfield	Purdue Northwest
@@ -189,9 +291,13 @@ date	where	score	winner	loser
 20191020	H	7-0	Anderson (SC)	SCAD - Atlanta
 20191020	H	9-0	King's (PA)	Penn College
 20191023	A	4-3	King (TN)	Mars Hill
+20191023	A	7-0	Milligan	Virginia Wise
 20191025	A	7-2	Emmanuel (GA)	Oxford (GA)
 20191026	H	7-0	King (TN)	Virginia Wise
 20191027	N	7-0	Lees-McRae	Virginia Wise
+20191027	N	0-0	Brescia	Kentucky Wesleyan
+20191101	A	0-0	Florida National	St. Thomas (FL)
+20191101	N	6-1	Cumberland (TN)	Freed-Hardeman
 20191102	H	7-0	North Greenville	SMC
 20191102	A	4-3	Christian Brothers	Cumberland (TN)
 20191102	A	0-0	Christian Brothers	Martin Methodist
@@ -209,11 +315,11 @@ date	where	score	winner	loser
 20200110	H	7-0	South Carolina	The Citadel
 20200110	N	7-0	Tennessee	Abilene Christian
 20200110	A	4-0	Louisiana	Florida A&M
+20200111	A	7-0	South Florida	Florida Gulf Coast
 20200111	H	4-0	Florida State	Florida A&M
 20200111	H	5-2	Florida State	Louisiana
 20200111	H	7-0	N.C. State	Elon
 20200111	H	7-0	N.C. State	USC Upstate
-20200111	A	7-0	South Florida	Florida Gulf Coast
 20200111	H	7-0	Oklahoma	Abilene Christian
 20200111	N	4-1	Butler	Illinois - Chicago
 20200111	H	4-3	Michigan State	Toledo
@@ -228,12 +334,12 @@ date	where	score	winner	loser
 20200111	H	6-0	Mississippi State	Samford
 20200111	H	4-2	Mississippi State	Tennessee Tech
 20200111	N	6-1	Mercer	Oral Roberts
+20200112	H	6-1	Tulsa	Mercer
+20200112	H	4-0	Tulsa	Mercer
 20200112	H	7-0	Georgia Tech	Georgia Southern
 20200112	H	4-0	Georgia Tech	Georgia Southern
 20200112	H	7-0	Louisville	Bellarmine
 20200112	H	7-0	Louisville	Dayton
-20200112	H	6-1	Tulsa	Mercer
-20200112	H	4-0	Tulsa	Mercer
 20200112	A	7-0	Oklahoma State	San Diego State
 20200112	H	5-2	Weber State	Grand Canyon
 20200112	H	7-0	Indiana	Ball State
@@ -270,11 +376,11 @@ date	where	score	winner	loser
 20200116	H	6-1	Hawaii Pacific	Trinity (TX)
 20200116	N	8-1	CMS	Pacific (OR)
 20200117	A	5-2	St. Bonaventure	Loyola (MD)
+20200117	H	6-1	Central Florida	Mercer
 20200117	A	4-3	Boston College	Charlotte
 20200117	H	5-2	Florida State	South Alabama
 20200117	H	7-0	Miami (FL)	College of Charleston
 20200117	A	4-1	N.C. State	Northwestern
-20200117	H	6-1	Central Florida	Mercer
 20200117	H	6-1	Lipscomb	Appalachian State
 20200117	H	7-0	Oklahoma State	Bryant
 20200117	H	7-0	Oklahoma State	Lamar
@@ -294,7 +400,11 @@ date	where	score	winner	loser
 20200117	H	7-0	Hawaii Pacific	Pacific (OR)
 20200117	N	7-2	Trinity (TX)	Caltech
 20200117	A	4-2	CMS	Hawaii Pacific
+20200117	A	5-3	Olivet Nazarene	Prairie State
+20200117	A	6-1	Florida National	Southeastern (FL)
 20200117	N	7-0	Northern Colorado	Prairie View A&M
+20200118	H	5-2	SMU	Northern Colorado
+20200118	N	6-1	South Florida	ETSU
 20200118	H	5-2	Clemson	Furman
 20200118	H	4-1	Clemson	Wofford
 20200118	H	6-1	Duke	NC A&T
@@ -304,8 +414,6 @@ date	where	score	winner	loser
 20200118	H	7-0	North Carolina	NCCU
 20200118	H	7-0	Wake Forest	Coastal Carolina
 20200118	H	7-0	Wake Forest	Tennessee Tech
-20200118	H	5-2	SMU	Northern Colorado
-20200118	N	6-1	South Florida	ETSU
 20200118	H	6-1	Florida Gulf Coast	Florida A&M
 20200118	H	7-0	Baylor	Boise State
 20200118	H	6-1	Baylor	Texas Arlington
@@ -314,6 +422,9 @@ date	where	score	winner	loser
 20200118	H	7-0	DePaul	Illinois - Chicago
 20200118	H	7-0	St. John's (NY)	Sacred Heart
 20200118	A	5-2	Idaho	Utah State
+20200118	H	5-2	Iowa	Creighton
+20200118	H	4-3	Iowa	Western Michigan
+20200118	N	4-3	Minnesota	Marquette
 20200118	H	6-1	Wisconsin	Chicago State
 20200118	H	6-1	Wisconsin	Illinois State
 20200118	A	7-0	UC Riverside	Arizona Christian
@@ -345,26 +456,24 @@ date	where	score	winner	loser
 20200118	A	5-2	Gonzaga	Drake
 20200118	H	4-3	Loyola Marymount	San Francisco
 20200118	H	5-0	Pepperdine	Santa Clara
+20200118	H	4-3	San Diego	Fresno State
 20200118	N	8-1	CMS	Trinity (TX)
 20200118	N	7-2	Caltech	Pacific (OR)
 20200118	A	4-0	Appalachian State	Tennessee State
-20200118	H	5-2	Iowa	Creighton
-20200118	H	4-3	Iowa	Western Michigan
-20200118	N	4-3	Minnesota	Marquette
 20200118	N	4-3	Southern Utah	Metropolitan State
 20200119	H	4-3	Davidson	Winthrop
 20200119	A	6-1	Fordham	Bucknell
 20200119	A	4-3	Richmond	Delaware
 20200119	N	4-0	VCU	New Orleans
+20200119	H	6-1	Tulsa	Bryant
+20200119	H	6-1	Tulsa	Bryant
+20200119	A	7-0	South Florida	Florida Atlantic
+20200119	H	6-1	Wichita State	Omaha
 20200119	H	5-2	Florida State	Mississippi State
 20200119	H	5-0	Miami (FL)	Georgia Southern
 20200119	H	7-0	Miami (FL)	Liberty
 20200119	H	7-0	North Carolina	Wofford
 20200119	H	7-0	Virginia Tech	George Mason
-20200119	H	6-1	Tulsa	Bryant
-20200119	H	6-1	Tulsa	Bryant
-20200119	A	7-0	South Florida	Florida Atlantic
-20200119	H	6-1	Wichita State	Omaha
 20200119	N	7-0	Georgetown	Hampton
 20200119	A	5-2	Michigan	Oregon
 20200119	H	4-0	Northwestern	IUPUI
@@ -421,9 +530,13 @@ date	where	score	winner	loser
 20200121	H	4-1	Old Dominion	BYU
 20200121	N	7-0	Southern Miss	Prairie View A&M
 20200121	H	7-0	New Orleans	Prairie View A&M
+20200121	A	4-1	Florida National	Ave Maria
 20200122	H	7-0	Tulane	Jackson State
 20200122	H	7-0	Tulane	Jackson State
 20200122	H	6-1	St. John's (NY)	Wagner
+20200122	H	6-1	Coastal Georgia	Webber International
+20200122	A	6-1	Southeastern (FL)	Warner
+20200122	A	0-0	St. Thomas (FL)	Keiser
 20200123	A	5-0	A&M-Corpus Christi	Prairie View A&M
 20200123	A	7-0	A&M-Corpus Christi	Prairie View A&M
 20200123	H	7-0	Denver	Bryant
@@ -456,19 +569,25 @@ date	where	score	winner	loser
 20200124	N	4-3	LSU	Virginia Tech
 20200124	A	4-3	Ole Miss	Illinois
 20200124	N	4-1	Kentucky	Penn State
-20200124	H	0-0	Incarnate Word	OLLU (TX)
 20200124	H	7-0	New Orleans	Jackson State
 20200124	H	7-0	Denver	Metropolitan State
 20200124	H	5-2	Denver	Weber State
 20200124	H	6-1	Illinois State	Eastern Illinois
 20200124	H	6-1	Illinois State	Illinois Springfield
 20200124	H	6-1	Portland	Portland State
+20200124	H	0-0	OUAZ	Mesa (AZ)
+20200124	A	0-0	OLLU (TX)	Incarnate Word
 20200124	A	0-0	Santa Rosa	Cabrillo
 20200124	H	6-3	Mt. San Jacinto	San Diego Mesa
 20200124	H	7-0	East Carolina	NCCU
 20200124	H	7-0	George Washington	Howard
 20200125	A	6-1	Davidson	Fordham
 20200125	H	6-1	Duquesne	Mount St. Mary's (MD)
+20200125	A	4-3	SMU	Lamar
+20200125	N	4-2	Tulsa	Utah
+20200125	N	4-3	Central Florida	San Diego
+20200125	N	4-2	South Florida	Fresno State
+20200125	A	4-3	Wichita State	Arkansas
 20200125	N	4-2	Florida State	Vanderbilt
 20200125	N	4-3	Georgia Tech	Oregon
 20200125	N	4-1	Louisville	New Mexico
@@ -476,10 +595,6 @@ date	where	score	winner	loser
 20200125	H	4-0	North Carolina	Elon
 20200125	H	4-0	Virginia	Memphis
 20200125	H	4-2	Wake Forest	Kentucky
-20200125	A	4-3	SMU	Lamar
-20200125	N	4-2	Tulsa	Utah
-20200125	N	4-3	Central Florida	San Diego
-20200125	A	4-3	Wichita State	Arkansas
 20200125	H	5-2	Lipscomb	Troy
 20200125	H	4-0	Baylor	Gonzaga
 20200125	H	4-0	TCU	Florida Atlantic
@@ -492,7 +607,10 @@ date	where	score	winner	loser
 20200125	A	4-3	Weber State	Bryant
 20200125	N	5-2	UNC Asheville	NCCU
 20200125	H	4-1	Illinois	Texas Tech
+20200125	H	5-2	Iowa	Marquette
+20200125	H	6-1	Iowa	Omaha
 20200125	N	4-3	Michigan	Ole Miss
+20200125	N	7-0	Minnesota	BYU
 20200125	H	4-2	Michigan State	Ball State
 20200125	H	7-0	Michigan State	Niagara
 20200125	H	4-0	Ohio State	Purdue
@@ -549,20 +667,19 @@ date	where	score	winner	loser
 20200125	N	9-0	Illinois Tech	Wabash
 20200125	A	6-3	St. Thomas (TX)	East Texas Baptist
 20200125	H	8-1	Chicago	Lewis
-20200125	H	5-2	Iowa	Marquette
-20200125	H	6-1	Iowa	Omaha
-20200125	N	7-0	Minnesota	BYU
+20200125	A	4-3	Coastal Georgia	Warner
+20200125	A	0-0	St. Thomas (FL)	Southeastern (FL)
 20200126	N	5-2	Davidson	Sacred Heart
 20200126	H	7-0	Duquesne	Carnegie Mellon
+20200126	N	4-0	Memphis	Utah State
+20200126	H	6-1	SMU	Texas Tyler
+20200126	N	4-1	Wichita State	Drake
 20200126	H	7-0	Clemson	The Citadel
 20200126	H	4-3	Clemson	Georgia Southern
 20200126	N	4-2	Miami (FL)	Tulane
 20200126	A	4-1	N.C. State	Virginia
 20200126	N	4-0	Notre Dame	Florida Atlantic
 20200126	H	4-0	North Carolina	Georgia State
-20200126	N	4-0	Memphis	Utah State
-20200126	H	6-1	SMU	Texas Tyler
-20200126	N	4-1	Wichita State	Drake
 20200126	H	7-0	Liberty	Gardner-Webb
 20200126	H	6-1	Liberty	NC A&T
 20200126	H	5-2	Stetson	Bethune Cookman
@@ -599,6 +716,7 @@ date	where	score	winner	loser
 20200126	A	4-3	Western Michigan	Valparaiso
 20200126	H	7-0	Boise State	Idaho State
 20200126	H	7-0	Boise State	Whitman
+20200126	N	4-0	Fresno State	Temple
 20200126	N	4-0	Nevada	Holy Names
 20200126	A	5-0	Nevada	Sonoma State
 20200126	A	4-3	Eastern Illinois	Illinois - Chicago
@@ -629,6 +747,7 @@ date	where	score	winner	loser
 20200128	H	4-0	Kentucky	Dayton
 20200128	H	4-0	Kentucky	IUPUI
 20200128	H	6-1	Nicholls State	Alcorn State
+20200128	H	4-0	Florida National	Warner
 20200128	A	9-0	Jones	Southwest (MS)
 20200128	A	5-4	Modesto	Folsom Lake
 20200128	A	9-0	Santa Rosa	Cosumnes  River
@@ -658,14 +777,15 @@ date	where	score	winner	loser
 20200131	H	5-2	Dayton	Wright State
 20200131	H	5-2	St. Joseph's (PA)	Siena
 20200131	H	7-0	VCU	Duquesne
+20200131	H	7-0	Temple	Connecticut
+20200131	A	4-3	Tulane	LSU
 20200131	H	6-1	Duke	Illinois
 20200131	H	6-1	Virginia	Boston College
 20200131	H	5-2	Wake Forest	Central Florida
-20200131	H	7-0	Temple	Connecticut
-20200131	A	4-3	Tulane	LSU
 20200131	H	6-1	Liberty	Longwood
 20200131	A	5-2	Lipscomb	Northern Kentucky
 20200131	H	5-2	Weber State	Colorado Mesa
+20200131	H	6-1	Minnesota	Auburn
 20200131	H	4-1	Northwestern	Louisville
 20200131	N	4-0	Hawaii	New Mexico State
 20200131	N	4-0	Hawaii	UC Riverside
@@ -706,6 +826,11 @@ date	where	score	winner	loser
 20200131	H	5-4	East Texas Baptist	McMurry
 20200131	H	7-2	Elmhurst	Wartburg
 20200131	H	8-1	Chicago	Augustana (IL)
+20200131	H	5-2	Cardinal Stritch	IUPUI
+20200131	A	8-1	Grace (IN)	Hope
+20200131	H	4-3	Midland (NE)	Iowa Central
+20200131	H	5-2	Hope International	St. Katherine
+20200131	A	7-0	Georgia Gwinnett	Lander
 20200131	A	0-0	Eastern Florida	Florida National
 20200131	H	5-4	Hinds (MS)	Copiah-Lincoln (MS)
 20200131	N	6-3	Itawamba (MS)	East Central (MS)
@@ -719,16 +844,15 @@ date	where	score	winner	loser
 20200131	H	6-3	Mt. San Jacinto	Orange Coast
 20200131	A	0-0	San Diego Mesa	Ventura
 20200131	H	4-3	East Carolina	Navy
-20200131	H	6-1	Minnesota	Auburn
 20200131	H	5-2	St. Edward's (TX)	Concordia (TX)
 20200131	N	8-1	St. Edward's (TX)	Southwestern (TX)
 20200131	A	7-0	Valparaiso	Chicago State
 20200201	A	5-2	Fordham	Fairfield
-20200201	A	4-0	N.C. State	Penn
-20200201	N	4-0	North Carolina	Illinois
 20200201	H	6-1	SMU	Oklahoma Baptist
 20200201	H	4-3	SMU	Portland
 20200201	N	4-3	Wichita State	Georgia State
+20200201	A	4-0	N.C. State	Penn
+20200201	N	4-0	North Carolina	Illinois
 20200201	H	6-1	Bellarmine	West Liberty
 20200201	A	4-0	Florida Gulf Coast	Bethune Cookman
 20200201	A	5-2	Kennesaw State	Samford
@@ -826,6 +950,7 @@ date	where	score	winner	loser
 20200201	H	6-3	LeTourneau	McMurry
 20200201	H	9-0	LeTourneau	Texas Lutheran
 20200201	A	8-1	Franklin (IN)	Wabash
+20200201	H	7-0	Thomas More	Shawnee State
 20200201	N	6-3	MSOE	Wartburg
 20200201	A	5-2	Kenyon	Northwestern Ohio
 20200201	H	9-0	UW Whitewater	Millikin
@@ -837,6 +962,14 @@ date	where	score	winner	loser
 20200201	A	7-2	Principia	Elmhurst
 20200201	A	5-4	Principia	Lake Forest
 20200201	A	7-2	Carnegie Mellon	Oberlin
+20200201	H	7-0	Cardinal Stritch	UW Whitewater
+20200201	H	6-1	Xavier (LA)	Loyola - New Orleans
+20200201	N	9-0	Doane	Dubuque
+20200201	A	5-4	Hope International	Caltech
+20200201	H	6-0	TAMU-Texarkana	Centenary (LA)
+20200201	A	5-2	Tabor	Hastings
+20200201	H	6-1	Middle Georgia	Auburn Montgomery
+20200201	H	7-0	Cornerstone	Albion
 20200201	H	5-4	Collin County (TX)	Dallas Baptist
 20200201	A	6-1	Cowley County (KS)	Baker
 20200201	A	8-1	Marion Military	Meridian (MS)
@@ -846,11 +979,11 @@ date	where	score	winner	loser
 20200201	A	7-1	Sonoma State	UC Santa Cruz
 20200201	H	5-2	Valparaiso	Northern Illinois
 20200202	H	7-0	Richmond	Hampton
+20200202	A	6-1	Central Florida	Virginia
 20200202	H	4-0	Duke	Northwestern
 20200202	A	4-1	N.C. State	Princeton
 20200202	H	4-0	North Carolina	South Carolina
 20200202	A	4-3	Virginia Tech	Tulane
-20200202	A	6-1	Central Florida	Virginia
 20200202	H	4-3	Stetson	Troy
 20200202	A	5-2	Oklahoma	Kentucky
 20200202	A	4-0	Oklahoma State	Memphis
@@ -858,6 +991,7 @@ date	where	score	winner	loser
 20200202	H	6-1	Marquette	Green Bay
 20200202	H	6-1	Idaho State	Colorado Mesa
 20200202	N	4-3	Montana	Nevada
+20200202	H	4-3	Minnesota	Alabama
 20200202	H	7-0	Nebraska	UMKC
 20200202	A	6-1	College of Charleston	NC A&T
 20200202	H	6-1	Delaware	Connecticut
@@ -911,16 +1045,18 @@ date	where	score	winner	loser
 20200202	H	9-0	Grinnell	Central (IA)
 20200202	H	9-0	Grinnell	Grand View
 20200202	H	6-1	Concordia (WI)	Carroll (WI)
+20200202	A	4-3	Union (KY)	Lincoln Memorial
+20200202	A	6-1	William Woods	William Jewell
+20200202	N	0-0	Cumberland (TN)	Martin Methodist
 20200202	H	9-0	Tyler JC (TX)	UTPB
 20200202	A	6-3	Marion Military	Birmingham Southern
 20200202	H	7-0	East Carolina	Winthrop
-20200202	H	4-3	Minnesota	Alabama
 20200202	A	6-1	Sonoma State	Holy Names
 20200203	H	5-2	Alabama State	Point
 20200203	A	4-3	St. Mary's (CA)	Hawaii Pacific
 20200203	N	6-1	Delta State	Texas Tyler
 20200203	N	7-2	Cameron	Cowley County (KS)
-20200203	H	0-0	Tuskegee	Point
+20200203	A	0-0	Point	Tuskegee
 20200204	H	6-1	Davidson	USC Upstate
 20200204	N	5-1	Wichita State	Creighton
 20200204	A	5-1	Wichita State	UMKC
@@ -935,6 +1071,7 @@ date	where	score	winner	loser
 20200204	H	5-2	Flagler	Rollins
 20200204	H	7-0	Embry-Riddle (FL)	Ave Maria
 20200204	H	7-0	Lynn	St. Thomas (FL)
+20200204	A	4-3	St. Katherine	San Diego Christian
 20200204	H	7-2	East Central (MS)	Meridian (MS)
 20200204	H	8-1	Jones	Hinds (MS)
 20200204	A	8-0	Folsom Lake	Mission
@@ -956,11 +1093,15 @@ date	where	score	winner	loser
 20200205	A	9-0	Harding	Hendrix
 20200205	H	5-2	Concordia (CA)	Cerritos
 20200205	H	5-2	Limestone	Catawba
+20200205	H	4-3	Middle Georgia	Tennessee Wesleyan
+20200205	H	0-0	Southeastern (FL)	Gustavus Adolphus
 20200206	H	4-1	Virginia	TCU
 20200206	H	5-2	Baylor	Wake Forest
 20200206	A	4-2	Marquette	Wisconsin
+20200206	A	4-3	Fresno State	UC Santa Barbara
 20200206	N	6-1	Jacksonville State	Nicholls State
 20200206	H	9-0	Chicago	DePauw
+20200206	A	9-0	Hope International	San Diego Mesa
 20200206	H	7-2	Orange Coast	Palomar
 20200206	H	7-2	Fullerton	El Camino
 20200206	H	7-0	Mt. San Jacinto	Imperial Valley
@@ -969,12 +1110,12 @@ date	where	score	winner	loser
 20200207	A	5-2	Richmond	Duquesne
 20200207	A	7-0	Saint Louis	Baker
 20200207	A	4-3	VCU	Liberty
+20200207	A	4-0	Tulane	Mississippi State
 20200207	H	4-3	Clemson	Princeton
 20200207	A	4-3	Florida State	Auburn
 20200207	H	4-1	Georgia Tech	Georgia State
 20200207	H	7-0	Miami (FL)	South Alabama
 20200207	A	5-0	Notre Dame	Boston College
-20200207	A	4-0	Tulane	Mississippi State
 20200207	H	5-2	Florida Gulf Coast	DePaul
 20200207	H	4-3	Lipscomb	UNC Asheville
 20200207	H	4-3	Oklahoma	Arkansas
@@ -999,6 +1140,7 @@ date	where	score	winner	loser
 20200207	H	7-0	Buffalo	Niagara
 20200207	H	5-2	Toledo	Findlay
 20200207	H	7-0	Toledo	Tiffin
+20200207	A	4-3	Fresno State	Cal Poly
 20200207	H	4-0	UNLV	Northern Arizona
 20200207	A	4-3	Oregon	Louisville
 20200207	H	4-0	Stanford	Grand Canyon
@@ -1050,6 +1192,13 @@ date	where	score	winner	loser
 20200207	A	9-0	Southwestern (TX)	Mary Hardin-Baylor
 20200207	H	7-2	Occidental	Lewis & Clark (OR)
 20200207	N	9-0	CWRU	Northwestern Ohio
+20200207	N	4-3	Point	The Citadel
+20200207	A	5-2	Union (KY)	Thomas More
+20200207	H	6-1	Hope International	Riverside
+20200207	A	0-0	Marymount (CA)	St. Katherine
+20200207	N	7-0	TAMU-Texarkana	Kansas Wesleyan
+20200207	A	0-0	Blue Mountain	UAH
+20200207	H	5-1	Keiser	Cumberlands (KY)
 20200207	A	6-1	Collin County (TX)	Texas Wesleyan
 20200207	A	6-1	Tyler JC (TX)	MSU-Texas
 20200207	H	9-0	Hinds (MS)	Southwest (MS)
@@ -1061,11 +1210,10 @@ date	where	score	winner	loser
 20200207	H	8-1	Santa Barbara City	Orange Coast
 20200207	N	5-2	St. Edward's (TX)	Ouachita Baptist
 20200207	H	4-3	Sonoma State	American River
-20200207	H	0-0	UAH	Blue Mountain
 20200208	H	4-3	St. Joseph's (PA)	Quinnipiac
-20200208	H	6-1	Virginia Tech	Appalachian State
 20200208	N	4-3	SMU	Nebraska
 20200208	H	7-0	South Florida	Stetson
+20200208	H	6-1	Virginia Tech	Appalachian State
 20200208	H	4-2	Bellarmine	Georgetown (KY)
 20200208	H	7-0	Baylor	Penn
 20200208	H	4-3	Texas	Georgia
@@ -1074,6 +1222,7 @@ date	where	score	winner	loser
 20200208	H	7-0	Villanova	Coppin State
 20200208	H	5-2	Weber State	Idaho State
 20200208	A	8-1	Longwood	Christopher Newport
+20200208	A	4-0	Iowa	Drake
 20200208	H	6-1	Penn State	Buffalo
 20200208	H	7-0	Penn State	Mount St. Mary's (MD)
 20200208	H	4-0	Purdue	Chicago State
@@ -1144,7 +1293,6 @@ date	where	score	winner	loser
 20200208	N	6-1	Cameron	Washburn-Topeka
 20200208	A	9-0	Dallas Baptist	Hardin-Simmons
 20200208	A	8-1	Dallas Baptist	McMurry
-20200208	H	0-0	UTPB	Southwest (NM)
 20200208	H	6-1	Azusa Pacific	Point Loma (CA)
 20200208	N	4-0	Augusta	Mount Olive
 20200208	N	4-0	Lander	Barton
@@ -1154,10 +1302,8 @@ date	where	score	winner	loser
 20200208	N	4-3	Newberry	Mount Olive
 20200208	H	7-0	Benedict	Morehouse
 20200208	A	4-3	Spring Hill	Christian Brothers
-20200208	H	0-0	Central (IA)	Midland (NE)
 20200208	H	9-0	Coe College	Wartburg
 20200208	H	6-3	Coe College	UW La Crosse
-20200208	H	0-0	Dubuque	St. Ambrose
 20200208	N	5-4	Luther (IA)	North Central (IL)
 20200208	A	7-2	Concordia (TX)	Schreiner
 20200208	H	5-4	Howard Payne	Texas Lutheran
@@ -1194,6 +1340,19 @@ date	where	score	winner	loser
 20200208	A	9-0	CWRU	Hope
 20200208	N	7-2	CWRU	Rose-Hulman
 20200208	N	8-1	Covenant	Belhaven
+20200208	H	5-2	Olivet Nazarene	Indiana East
+20200208	A	0-0	St. Ambrose	Dubuque
+20200208	N	7-0	Xavier (LA)	Mississippi College
+20200208	A	0-0	Midland (NE)	Central (IA)
+20200208	A	7-2	Midland (NE)	Central (IA)
+20200208	N	4-3	Midland (NE)	William Jewell
+20200208	A	6-1	Grand View	Concordia (NE)
+20200208	N	7-2	McPherson	Colorado College
+20200208	A	0-0	McPherson	Hastings
+20200208	A	0-0	Southwest (NM)	UTPB
+20200208	A	4-3	Coastal Georgia	Ave Maria
+20200208	H	7-0	Keiser	Warner
+20200208	A	0-0	SCAD (GA)	St. Thomas (FL)
 20200208	A	4-3	Cowley County (KS)	Southeastern (OK)
 20200208	N	7-2	Tyler JC (TX)	Trinity (TX)
 20200208	N	7-2	Oxford (GA)	Hinds (MS)
@@ -1205,13 +1364,15 @@ date	where	score	winner	loser
 20200208	A	4-0	East Carolina	Hofstra
 20200208	H	4-3	Wright State	Austin Peay
 20200208	A	9-0	Earlham	Wabash
-20200208	A	4-0	Iowa	Drake
 20200208	N	4-3	St. Edward's (TX)	West Alabama
 20200208	N	7-0	Green Bay	MSOE
 20200208	A	9-0	Green Bay	St. Norbert
 20200209	A	5-2	Dayton	Duquesne
 20200209	A	6-1	Fordham	Connecticut
+20200209	H	6-1	La Salle	Sciences (Philadelphia)
 20200209	A	4-2	VCU	ETSU
+20200209	A	5-2	Temple	George Washington
+20200209	A	4-3	Central Florida	Illinois
 20200209	H	4-3	Clemson	Georgia State
 20200209	H	7-0	Duke	NCCU
 20200209	H	4-1	Duke	Kentucky
@@ -1223,8 +1384,6 @@ date	where	score	winner	loser
 20200209	A	6-0	North Carolina	TCU
 20200209	H	7-0	Wake Forest	Davidson
 20200209	H	5-2	Wake Forest	Virginia
-20200209	A	5-2	Temple	George Washington
-20200209	A	4-3	Central Florida	Illinois
 20200209	A	4-3	Bellarmine	Lincoln Memorial
 20200209	A	4-3	Liberty	Virginia Tech
 20200209	A	6-1	Stetson	Florida A&M
@@ -1238,6 +1397,7 @@ date	where	score	winner	loser
 20200209	H	7-0	Northern Arizona	WNM
 20200209	H	7-0	Radford	Virginia Wise
 20200209	A	4-3	Michigan	Columbia
+20200209	A	7-0	Minnesota	Yale
 20200209	H	4-2	Ohio State	USC
 20200209	A	6-1	UC Irvine	St. Mary's (CA)
 20200209	H	7-0	Delaware	Quinnipiac
@@ -1296,15 +1456,18 @@ date	where	score	winner	loser
 20200209	A	5-2	Colorado College	Hastings
 20200209	H	8-1	Brandeis	Bentley
 20200209	H	7-2	Wash U	Carleton
+20200209	H	6-1	Lewis-Clark (ID)	Whitworth
+20200209	N	4-0	Georgia Gwinnett	West Florida
+20200209	A	4-3	Northwestern Ohio	Marian (IN)
 20200209	A	7-0	East Carolina	NJIT
-20200209	H	6-1	La Salle	Sciences (Philadelphia)
-20200209	A	7-0	Minnesota	Yale
 20200210	A	4-3	West Florida	Florida Southern
 20200210	A	5-2	Wesleyan (WV)	Lincoln Memorial
 20200210	A	4-3	Azusa Pacific	Biola
 20200210	A	0-0	Newberry	Limestone
 20200210	H	9-0	NC Wesleyan	Shaw
-20200210	H	0-0	Seward County (KS)	Bethel (KS)
+20200210	A	4-1	Georgia Gwinnett	Valdosta State
+20200210	A	0-0	Bethel (KS)	Seward County (KS)
+20200210	A	7-0	Bethel (TN)	Lane
 20200211	H	4-2	Georgetown	Drexel
 20200211	H	4-1	Ohio State	Texas A&M
 20200211	H	4-0	Rice	A&M-Corpus Christi
@@ -1316,7 +1479,7 @@ date	where	score	winner	loser
 20200211	H	6-1	Catawba	Shaw
 20200211	H	7-0	Barry	St. Thomas (FL)
 20200211	H	6-1	Lynn	Ave Maria
-20200211	H	0-0	Rollins	Florida National
+20200211	A	0-0	Florida National	Rollins
 20200211	H	8-1	Jones	Meridian (MS)
 20200211	H	9-0	Santa Rosa	Mission
 20200211	A	6-1	Foothill	Solano
@@ -1333,12 +1496,12 @@ date	where	score	winner	loser
 20200212	A	4-3	Fairleigh Dickinson	Concordia (NY)
 20200212	H	5-2	Georgia Southern	Mercer
 20200212	H	7-0	Wayne State	Tiffin
-20200212	H	0-0	Arkansas Ft. Smith	John Brown
 20200212	A	4-2	Concordia (CA)	UCSD
 20200212	H	5-2	Embry-Riddle (FL)	Florida National
 20200212	A	0-0	Carroll (WI)	Lake Forest
 20200212	A	7-2	Otterbein	Grove City
 20200212	H	9-0	Chapman	Marymount (CA)
+20200212	A	0-0	John Brown	Arkansas Ft. Smith
 20200213	H	4-1	UNLV	BYU
 20200213	A	4-3	Fairleigh Dickinson	Queens (NY)
 20200213	H	4-3	Denver	Utah
@@ -1348,6 +1511,7 @@ date	where	score	winner	loser
 20200213	H	5-2	MSU-Texas	Cowley County (KS)
 20200213	H	4-3	Concordia (CA)	Biola
 20200213	A	6-3	Lawrence	Edgewood
+20200213	H	4-3	OUAZ	WNM
 20200213	A	5-2	Harford (MD)	District of Columbia
 20200213	H	9-0	Gulf Coast (MS)	Coastal Alabama
 20200213	A	7-0	Foothill	Diablo Valley
@@ -1361,9 +1525,9 @@ date	where	score	winner	loser
 20200213	A	9-0	Ventura	Bakersfield
 20200214	H	4-3	Dayton	IUPUI
 20200214	H	6-1	Saint Louis	Quincy
+20200214	A	4-1	Wichita State	Drake
 20200214	N	4-2	North Carolina	South Carolina
 20200214	N	4-1	Wake Forest	Baylor
-20200214	A	4-1	Wichita State	Drake
 20200214	H	5-2	North Florida	UNC Wilmington
 20200214	N	4-2	Texas	UCLA
 20200214	A	6-1	DePaul	Creighton
@@ -1371,6 +1535,7 @@ date	where	score	winner	loser
 20200214	H	7-0	Xavier	Thomas More
 20200214	H	6-1	Gardner-Webb	Belmont Abbey
 20200214	H	7-0	Longwood	Hampden-Sydney
+20200214	H	4-2	Iowa	Middle Tennessee
 20200214	N	4-3	Michigan	Texas A&M
 20200214	N	4-0	Ohio State	Wisconsin
 20200214	A	7-0	UC Riverside	Coppin State
@@ -1432,12 +1597,19 @@ date	where	score	winner	loser
 20200214	H	6-3	UW Whitewater	Grinnell
 20200214	H	9-0	UW Whitewater	Wheaton (IL)
 20200214	H	7-2	Centre	Covenant
-20200214	H	0-0	Hendrix	John Brown
 20200214	H	5-4	Trinity (TX)	St. Edward's (TX)
 20200214	H	9-0	CWRU	Oberlin
 20200214	H	9-0	CWRU	Wooster
 20200214	H	8-1	Emory	Point
 20200214	A	7-2	LaGrange	Transylvania
+20200214	N	7-0	Grace (IN)	Indiana East
+20200214	N	6-1	Indiana Wesleyan	Cumberland (TN)
+20200214	H	7-0	Midland (NE)	Tabor
+20200214	A	4-0	Hope International	St. Katherine
+20200214	H	5-2	Grand View	Central (IA)
+20200214	H	7-0	Georgia Gwinnett	Union (KY)
+20200214	A	0-0	John Brown	Hendrix
+20200214	A	0-0	St. Thomas (FL)	Coastal Georgia
 20200214	A	8-1	Barton County (KS)	Collin County (TX)
 20200214	A	0-0	Eastern Florida	Collin County (TX)
 20200214	A	5-4	Wallace State	Marion Military
@@ -1449,16 +1621,16 @@ date	where	score	winner	loser
 20200214	H	9-0	Fullerton	Imperial Valley
 20200214	A	0-0	Grossmont	Glendale (CA)
 20200214	H	7-0	East Carolina	Hampton
-20200214	H	4-2	Iowa	Middle Tennessee
 20200214	A	5-0	St. Edward's (TX)	OLLU (TX)
 20200215	H	6-1	Davidson	NC A&T
 20200215	H	7-0	Davidson	Wingate
 20200215	H	4-3	Duquesne	Denison
+20200215	N	6-1	La Salle	Holy Cross (MA)
+20200215	N	4-1	Wichita State	DePaul
 20200215	A	4-0	Miami (FL)	Florida Gulf Coast
 20200215	N	4-0	North Carolina	Florida
 20200215	H	6-1	Virginia Tech	Gardner-Webb
 20200215	H	5-0	Virginia Tech	St. Bonaventure
-20200215	N	4-1	Wichita State	DePaul
 20200215	H	4-3	Bellarmine	Campbellsville
 20200215	H	5-2	Kennesaw State	ASA (Miami)
 20200215	A	4-3	Lipscomb	Chattanooga
@@ -1480,6 +1652,7 @@ date	where	score	winner	loser
 20200215	H	4-0	Illinois	Chicago State
 20200215	H	5-2	Illinois	Notre Dame
 20200215	N	4-2	Michigan	Texas
+20200215	H	7-0	Minnesota	UC Santa Barbara
 20200215	N	4-3	Ohio State	Wake Forest
 20200215	H	4-1	Purdue	Butler
 20200215	H	4-3	Purdue	Marquette
@@ -1521,6 +1694,7 @@ date	where	score	winner	loser
 20200215	H	4-0	South Alabama	Florida A&M
 20200215	H	6-1	South Alabama	UAB
 20200215	N	4-0	New Mexico State	UTPB
+20200215	A	4-0	Pepperdine	Fresno State
 20200215	H	7-0	Santa Clara	Sacramento State
 20200215	H	4-2	St. Mary's (CA)	Nevada
 20200215	H	7-0	Concordia (NY)	Wagner
@@ -1567,6 +1741,7 @@ date	where	score	winner	loser
 20200215	N	5-4	Wheaton (IL)	Luther (IA)
 20200215	H	8-1	Swarthmore	Cabrini
 20200215	N	5-3	Rose-Hulman	Coe College
+20200215	H	4-3	Thomas More	Covenant
 20200215	A	5-4	Skidmore	Vassar
 20200215	H	9-0	St. Lawrence	Oneonta
 20200215	N	9-0	St. Thomas (MN)	Dubuque
@@ -1599,19 +1774,36 @@ date	where	score	winner	loser
 20200215	H	5-4	Carnegie Mellon	Swarthmore
 20200215	A	9-0	Chicago	Kalamazoo
 20200215	A	0-0	Huntingdon	Tuskegee
+20200215	A	4-2	Bluefield	King (TN)
+20200215	H	5-2	Grace (IN)	Indiana Southeast
+20200215	N	4-0	Indiana Wesleyan	Lawrence Tech
+20200215	A	4-2	Indiana Wesleyan	Northwestern Ohio
+20200215	H	4-3	Xavier (LA)	Mobile
+20200215	A	7-0	Doane	Bethel (KS)
+20200215	A	4-2	San Diego Christian	Hope International
+20200215	A	4-1	Westmont	Marymount (CA)
+20200215	H	5-0	Georgia Gwinnett	Bluefield State
+20200215	A	5-2	McPherson	Midland (NE)
+20200215	A	7-0	Southwestern (KS)	Hastings
+20200215	N	4-1	Cumberland (TN)	Lawrence Tech
+20200215	A	5-1	Lindsey Wilson	Lincoln Memorial
+20200215	H	4-1	Brescia	Oakland City
+20200215	A	6-3	Texas Wesleyan	Austin
+20200215	N	4-0	Middle Georgia	Union (KY)
+20200215	A	5-2	Ave Maria	Warner
+20200215	A	4-2	Southeastern (FL)	SCAD (GA)
+20200215	N	4-2	Indiana Tech	Cumberland (TN)
 20200215	N	0-0	Eastern Florida	Tyler JC (TX)
 20200215	A	0-0	Iowa Central	Gustavus Adolphus
 20200215	N	9-0	Tyler JC (TX)	Barton County (KS)
 20200215	A	8-1	Marion Military	Gadsden State
 20200215	H	8-1	Meridian (MS)	Copiah-Lincoln (MS)
 20200215	H	8-1	Gulf Coast (MS)	Hinds (MS)
-20200215	N	6-1	La Salle	Holy Cross (MA)
-20200215	H	7-0	Minnesota	UC Santa Barbara
 20200215	H	4-3	Valparaiso	Cleveland State
 20200216	H	6-1	VCU	East Carolina
+20200216	H	6-1	Tulane	SMU
 20200216	H	6-1	Boston College	Merrimack
 20200216	N	4-0	North Carolina	Ohio State
-20200216	H	6-1	Tulane	SMU
 20200216	A	4-3	Liberty	William & Mary
 20200216	H	7-0	Stetson	Florida Southern
 20200216	N	4-0	TCU	Texas A&M
@@ -1621,6 +1813,7 @@ date	where	score	winner	loser
 20200216	A	4-1	St. John's (NY)	Bryant
 20200216	N	7-0	Idaho	George Fox
 20200216	A	7-0	Montana	Lewis-Clark (ID)
+20200216	H	4-2	Iowa	Wichita State
 20200216	H	5-0	Penn State	St. Bonaventure
 20200216	H	5-1	Penn State	St. Francis (PA)
 20200216	A	4-3	UC Irvine	Pacific (CA)
@@ -1695,22 +1888,26 @@ date	where	score	winner	loser
 20200216	H	8-1	Wooster	John Carroll
 20200216	N	5-4	UW La Crosse	North Central (IL)
 20200216	H	9-0	Pacific (OR)	Bellevue
-20200216	H	0-0	Centre	Cumberlands (KY)
 20200216	H	5-4	Chapman	Cal Lutheran
 20200216	H	5-4	Caltech	Southwestern (TX)
 20200216	N	6-3	Carnegie Mellon	Denison
 20200216	H	9-0	Rochester (NY)	Nazareth
 20200216	H	5-4	Wash U	Southwest Baptist (MO)
 20200216	A	0-0	Pfeiffer	Johnson C. Smith
-20200216	H	4-2	Iowa	Wichita State
+20200216	A	4-0	Union (KY)	SCAD - Atlanta
+20200216	A	4-3	Southwestern (KS)	Midland (NE)
+20200216	A	0-0	Cumberlands (KY)	Centre
+20200216	H	4-0	Northwestern Ohio	Cumberland (TN)
+20200216	H	5-4	Prairie State	Elmhurst
 20200217	H	7-0	Idaho	Whitman
 20200217	A	6-1	Campbell	NCCU
 20200217	H	4-2	Indiana	UC Santa Barbara
 20200217	H	4-0	Indiana	Xavier
 20200217	A	7-0	UC Riverside	Holy Cross (MA)
 20200217	A	0-0	Delta State	Alcorn State
-20200217	H	0-0	Birmingham Southern	Martin Methodist
 20200217	H	5-4	Occidental	UC Santa Cruz
+20200217	H	7-0	Lewis-Clark (ID)	Whitman
+20200217	A	0-0	Martin Methodist	Birmingham Southern
 20200218	H	5-0	Hawaii	Washington
 20200218	H	4-2	Hofstra	Sacred Heart
 20200218	H	4-3	Brown	Boston College
@@ -1719,6 +1916,7 @@ date	where	score	winner	loser
 20200218	A	6-1	Mount Olive	Chowan
 20200218	A	0-0	North Greenville	Wofford
 20200218	H	5-2	Concordia (CA)	Point Loma (CA)
+20200218	H	4-0	Arizona Christian	OUAZ
 20200218	A	0-0	Wallace State	Martin Methodist
 20200218	A	9-0	American River	Folsom Lake
 20200218	H	8-1	Shasta	Diablo Valley
@@ -1738,6 +1936,8 @@ date	where	score	winner	loser
 20200219	A	4-3	Tusculum	Lee (TN)
 20200219	H	7-0	Embry-Riddle (FL)	Rollins
 20200219	H	9-0	Oberlin	Ohio Wesleyan
+20200219	H	6-1	Keiser	Ave Maria
+20200219	A	6-1	Warner	Webber International
 20200219	H	7-2	Eastern Florida	Bates
 20200220	A	7-0	Wayne State	Lawrence Tech
 20200220	A	9-0	Cameron	Collin County (TX)
@@ -1748,7 +1948,8 @@ date	where	score	winner	loser
 20200220	H	4-0	Benedict	Tuskegee
 20200220	A	0-0	Lane	Benedict
 20200220	H	7-2	Lake Forest	MSOE
-20200220	H	0-0	Lake Forest	Roosevelt
+20200220	A	0-0	Roosevelt	Lake Forest
+20200220	N	7-0	Midland (NE)	Sterling (KS)
 20200220	H	5-4	Santa Rosa	Chabot
 20200220	H	6-3	Fullerton	Riverside
 20200220	H	9-0	Irvine Valley	Saddleback
@@ -1757,9 +1958,9 @@ date	where	score	winner	loser
 20200220	H	6-3	San Diego Mesa	Palomar
 20200220	N	0-0	Cerritos	Desert
 20200221	H	4-0	St. Joseph's (PA)	Connecticut
-20200221	A	7-0	Miami (FL)	Clemson
 20200221	H	5-2	SMU	South Florida
 20200221	H	4-2	Wichita State	Texas Arlington
+20200221	A	7-0	Miami (FL)	Clemson
 20200221	A	5-2	Liberty	Penn State
 20200221	H	7-0	Oklahoma	Incarnate Word
 20200221	H	4-0	Oklahoma State	Michigan
@@ -1783,6 +1984,7 @@ date	where	score	winner	loser
 20200221	A	5-2	Colgate	Siena
 20200221	H	7-0	Texas A&M	Rice
 20200221	N	4-2	Alabama	Texas Tech
+20200221	N	4-2	Ole Miss	Fresno State
 20200221	H	4-0	Tennessee	Georgia Tech
 20200221	H	7-0	Kentucky	Kennesaw State
 20200221	H	4-1	Kentucky	Memphis
@@ -1803,7 +2005,6 @@ date	where	score	winner	loser
 20200221	H	6-1	Drury	Oklahoma Baptist
 20200221	H	7-0	Indianapolis	Ferris State
 20200221	H	4-3	Lewis	Purdue Northwest
-20200221	H	0-0	William Jewell	Baker
 20200221	N	6-1	West Florida	Rollins
 20200221	A	0-0	Bluefield State	Lincoln Memorial
 20200221	A	5-4	Biola	Redlands
@@ -1819,7 +2020,6 @@ date	where	score	winner	loser
 20200221	A	8-1	Southern Virginia	Stevenson
 20200221	H	7-2	Carthage	Illinois Tech
 20200221	A	9-0	Macalester	St. Mary's (MN)
-20200221	H	0-0	Cornell College	St. Ambrose
 20200221	A	7-0	Hendrix	St. Louis - Pharmacy
 20200221	N	7-2	Sewanee	Stevens
 20200221	N	6-3	CMS	CWRU
@@ -1827,12 +2027,29 @@ date	where	score	winner	loser
 20200221	N	5-4	Chicago	Kenyon
 20200221	A	7-2	Emory	Gustavus Adolphus
 20200221	A	5-4	NC Wesleyan	Christopher Newport
+20200221	H	4-0	Point	Florida National
+20200221	A	0-0	St. Ambrose	Cornell College
+20200221	H	6-1	Grace (IN)	Judson (IL)
+20200221	N	7-0	Indiana Wesleyan	Indiana East
+20200221	N	7-0	Concordia (NE)	Sterling (KS)
+20200221	H	6-1	Midland (NE)	Friends
+20200221	H	4-1	Hope International	Arizona Christian
+20200221	H	4-0	San Diego Christian	OUAZ
+20200221	A	0-0	Baker	William Jewell
+20200221	H	6-0	Grand View	Northwestern (IA)
+20200221	N	4-3	TAMU-Texarkana	Southwestern (KS)
+20200221	A	5-2	Southwestern (KS)	Texas Wesleyan
+20200221	A	4-0	Georgetown (KY)	Brescia
+20200221	A	4-3	Texas Wesleyan	Dallas Baptist
+20200221	A	7-0	Bethel (TN)	Kentucky Wesleyan
+20200221	H	0-0	Concordia (MI)	Adrian
 20200221	H	6-3	Collin County (TX)	Jacksonville (TX)
 20200221	A	9-0	USC Sumter	Gadsden State
 20200221	N	8-1	Tyler JC (TX)	Cameron
 20200221	N	6-3	Wallace State	Jones
 20200221	A	5-4	East Central (MS)	Itawamba (MS)
 20200221	H	8-1	Gulf Coast (MS)	Meridian (MS)
+20200221	H	9-0	Southwest (MS)	Holmes (MS)
 20200221	H	9-0	American River	Shasta
 20200221	A	5-4	Modesto	Fresno
 20200221	H	8-1	Solano	Folsom Lake
@@ -1845,7 +2062,6 @@ date	where	score	winner	loser
 20200221	H	5-2	East Carolina	Bryant
 20200221	A	4-3	George Washington	Dayton
 20200221	H	7-0	Southern Utah	Colorado Mesa
-20200221	H	9-0	Southwest (MS)	Holmes (MS)
 20200221	H	4-2	UMKC	Oral Roberts
 20200221	H	4-3	Valparaiso	Ball State
 20200221	H	6-1	Winthrop	Hampton
@@ -1853,18 +2069,19 @@ date	where	score	winner	loser
 20200222	A	5-2	Fordham	Siena
 20200222	N	0-0	George Mason	Howard
 20200222	H	6-1	St. Joseph's (PA)	Lafayette
+20200222	H	6-1	SMU	Pomona-Pitzer
+20200222	H	6-1	Temple	Wagner
 20200222	H	6-1	Florida State	Buffalo
 20200222	H	5-2	Florida State	Tennessee Tech
 20200222	H	7-0	Notre Dame	St. Bonaventure
 20200222	H	7-0	Notre Dame	St. Bonaventure
-20200222	H	6-1	SMU	Pomona-Pitzer
-20200222	H	6-1	Temple	Wagner
 20200222	A	5-2	Stetson	Mercer
 20200222	H	4-1	North Florida	Bethune Cookman
 20200222	H	4-1	North Florida	Florida A&M
 20200222	H	7-0	Baylor	Grand Canyon
 20200222	H	7-0	Baylor	Omaha
 20200222	A	4-0	TCU	SMU
+20200222	N	4-0	Texas Tech	Fresno State
 20200222	N	4-1	Texas Tech	Middle Tennessee
 20200222	A	7-0	Butler	IUPUI
 20200222	A	4-1	DePaul	A&M-Corpus Christi
@@ -1890,6 +2107,7 @@ date	where	score	winner	loser
 20200222	A	4-3	Binghamton	Hofstra
 20200222	A	0-0	Northern Illinois	Green Bay
 20200222	N	4-0	Morgan State	Villanova
+20200222	N	4-2	Fresno State	Auburn
 20200222	A	4-1	New Mexico	Drake
 20200222	H	4-3	Bryant	Babson
 20200222	H	4-3	Bryant	Georgia Southern
@@ -1974,6 +2192,7 @@ date	where	score	winner	loser
 20200222	N	8-1	Johns Hopkins	Stevens
 20200222	A	8-1	Swarthmore	Muhlenberg
 20200222	H	8-1	Swarthmore	Southern Virginia
+20200222	A	7-0	Thomas More	Cedarville
 20200222	H	5-4	UC Santa Cruz	American River
 20200222	N	7-2	Goucher	Virginia Wesleyan
 20200222	H	6-2	UMass Boston	Endicott
@@ -2009,6 +2228,21 @@ date	where	score	winner	loser
 20200222	A	4-3	Averett	Bluefield
 20200222	H	6-3	Covenant	Birmingham Southern
 20200222	N	5-4	NC Wesleyan	Washington & Lee
+20200222	A	6-1	Union (KY)	Milligan
+20200222	A	0-0	Spring Arbor	Aquinas (MI)
+20200222	H	4-3	Midland (NE)	Augustana (SD)
+20200222	A	0-0	Arizona Christian	San Diego Christian
+20200222	A	5-2	Baker	Bethel (KS)
+20200222	A	8-1	Florida National	Oglethorpe
+20200222	A	5-2	TAMU-Texarkana	Texas Wesleyan
+20200222	A	4-3	Southwestern (KS)	Dallas Baptist
+20200222	N	4-0	Georgetown (KY)	Bethel (TN)
+20200222	N	7-0	Lindsey Wilson	Shawnee State
+20200222	A	4-3	Bethel (TN)	Brescia
+20200222	A	5-2	Southeastern (FL)	Ave Maria
+20200222	A	0-0	St. Thomas (FL)	Webber International
+20200222	H	6-1	Warner	SCAD (GA)
+20200222	H	6-1	Cornerstone	Huntington
 20200222	N	0-0	Seward County (KS)	Southern Arkansas
 20200222	A	5-4	Eastern Florida	ASA (Miami)
 20200222	N	8-1	USC Sumter	Jones
@@ -2023,14 +2257,15 @@ date	where	score	winner	loser
 20200222	A	5-2	George Washington	Xavier
 20200222	N	4-2	St. Edward's (TX)	Southeastern (OK)
 20200222	H	5-2	UAH	Bellarmine
+20200223	N	6-0	Tulsa	Binghamton
 20200223	H	4-3	Clemson	Florida Atlantic
 20200223	A	4-2	Miami (FL)	Georgia Tech
-20200223	N	6-0	Tulsa	Binghamton
 20200223	A	6-1	Florida Gulf Coast	UNC Wilmington
 20200223	H	6-1	TCU	South Florida
 20200223	H	6-1	Texas	Nebraska
 20200223	H	4-3	Texas	UTSA
 20200223	A	6-1	St. John's (NY)	Butler
+20200223	A	4-3	Iowa	Denver
 20200223	A	4-3	Michigan	Notre Dame
 20200223	H	7-0	Penn State	Bucknell
 20200223	H	4-3	Penn State	Penn
@@ -2111,16 +2346,23 @@ date	where	score	winner	loser
 20200223	N	5-3	Emory	CMS
 20200223	H	7-2	Averett	Hampden-Sydney
 20200223	N	9-0	LaGrange	Louisiana College
+20200223	H	7-0	Midland (NE)	Baker
+20200223	A	4-1	Florida National	SCAD - Atlanta
+20200223	A	7-0	Campbellsville	Indiana East
+20200223	N	7-0	Bethel (TN)	Alma
+20200223	A	9-0	Prairie State	Hamline
+20200223	H	5-4	Prairie State	Millikin
 20200223	H	4-2	East Carolina	Georgia Southern
 20200223	H	7-0	Wright State	Thomas More
 20200223	H	4-1	Appalachian State	Winthrop
-20200223	A	4-3	Iowa	Denver
 20200223	H	6-1	UAH	Martin Methodist
 20200224	H	4-3	Utah State	Louisiana
 20200224	H	4-3	Tennessee State	North Alabama
 20200224	H	6-1	Georgia	Florida Atlantic
 20200224	A	4-2	Lake Superior St.	Lawrence Tech
 20200224	N	6-3	Washington & Lee	Salisbury
+20200224	H	6-0	Georgia Gwinnett	Florida National
+20200224	N	4-3	Southeastern (FL)	Davenport
 20200225	H	7-0	Georgia	Mercer
 20200225	H	7-0	Barton	Methodist (NC)
 20200225	H	4-3	Barton	Methodist (NC)
@@ -2134,6 +2376,7 @@ date	where	score	winner	loser
 20200225	A	6-1	Saint Leo	Eckerd
 20200225	H	6-3	St. John's (MN)	St. Scholastica
 20200225	A	9-0	Oneonta	Yeshiva
+20200225	A	9-0	Spring Arbor	Albion
 20200225	H	7-2	Pima (AZ)	Mesa (AZ)
 20200225	H	8-1	Marion Military	Meridian (MS)
 20200225	H	8-1	East Central (MS)	Hinds (MS)
@@ -2161,6 +2404,7 @@ date	where	score	winner	loser
 20200226	H	4-3	Delta State	West Alabama
 20200226	N	4-3	Hawaii Pacific	Cameron
 20200226	A	5-2	Queens (NC)	Anderson (SC)
+20200226	A	0-0	Brescia	Lindsey Wilson
 20200227	H	5-2	Virginia	George Mason
 20200227	H	7-0	Virginia	Norfolk State
 20200227	H	5-2	Campbell	Longwood
@@ -2175,16 +2419,20 @@ date	where	score	winner	loser
 20200227	A	4-3	Lee (TN)	Lincoln Memorial
 20200227	A	8-1	Dallas Baptist	East Texas Baptist
 20200227	H	7-0	Lander	Georgia College
-20200227	H	0-0	Young Harris (GA)	Reinhardt
 20200227	H	6-1	Mercyhurst	Walsh
 20200227	H	5-2	Eckerd	Southeastern (FL)
 20200227	H	4-3	Lynn	Keiser
 20200227	H	7-2	Lake Forest	Calvin
 20200227	H	5-4	TCNJ	Haverford
+20200227	A	0-0	Reinhardt	Young Harris (GA)
+20200227	H	4-3	SCAD - Atlanta	Cumberland (TN)
+20200227	N	7-0	Xavier (LA)	TAMU-Texarkana
+20200227	N	6-1	Texas Wesleyan	John Brown
+20200227	A	4-2	Middle Georgia	Point
+20200227	A	0-0	William Carey	Gulf Coast (MS)
 20200227	H	9-0	Barton County (KS)	Tabor
 20200227	A	8-1	Seward County (KS)	Collin County (TX)
 20200227	H	7-2	Wallace State	Itawamba (MS)
-20200227	H	0-0	Gulf Coast (MS)	William Carey
 20200227	A	5-4	Chabot	Modesto
 20200227	H	6-3	Fullerton	Saddleback
 20200227	H	7-2	Riverside	Orange Coast
@@ -2194,13 +2442,13 @@ date	where	score	winner	loser
 20200227	A	6-3	Cerritos	El Camino
 20200228	A	5-2	Dayton	Bellarmine
 20200228	H	5-2	Richmond	The Citadel
-20200228	H	4-2	Duke	Virginia Tech
-20200228	H	4-1	Georgia Tech	Clemson
-20200228	H	4-0	Notre Dame	Louisville
 20200228	A	6-0	Memphis	Mississippi Valley
 20200228	A	5-0	Memphis	Mississippi Valley
 20200228	N	4-0	Tulsa	New Mexico State
 20200228	A	7-0	South Florida	Georgia State
+20200228	H	4-2	Duke	Virginia Tech
+20200228	H	4-1	Georgia Tech	Clemson
+20200228	H	4-0	Notre Dame	Louisville
 20200228	H	7-0	Liberty	Elon
 20200228	H	4-3	Lipscomb	Abilene Christian
 20200228	A	5-2	North Florida	Mercer
@@ -2246,7 +2494,6 @@ date	where	score	winner	loser
 20200228	A	4-2	Francis Marion	Catawba
 20200228	N	6-1	Southeastern (OK)	Newman
 20200228	H	6-1	Drury	McKendree
-20200228	N	0-0	UMSL	Lindenwood-Belleville
 20200228	A	4-2	Southern Indiana	Northwood
 20200228	H	5-2	Montevallo	Spring Hill
 20200228	H	6-1	Valdosta State	Embry-Riddle (FL)
@@ -2272,6 +2519,19 @@ date	where	score	winner	loser
 20200228	A	9-0	CMS	Cal Lutheran
 20200228	H	9-0	Occidental	Clark (MA)
 20200228	H	6-3	Redlands	Washington & Lee
+20200228	N	7-0	Point	Cumberland (TN)
+20200228	N	0-0	Lindenwood-Belleville	UMSL
+20200228	A	5-2	William Woods	Quincy
+20200228	N	5-4	Roosevelt	Illinois Tech
+20200228	H	4-3	St. Francis (IL)	Holy Cross (IN)
+20200228	A	4-0	Indiana Wesleyan	Arizona Christian
+20200228	N	7-0	Xavier (LA)	Louisiana College
+20200228	N	7-0	Xavier (LA)	Texas Wesleyan
+20200228	A	0-0	Marymount (CA)	Hope International
+20200228	A	4-0	San Diego Christian	Westmont
+20200228	A	7-0	Friends	Oklahoma Wesleyan
+20200228	A	7-0	Campbellsville	Midway
+20200228	A	9-0	Texas Wesleyan	Louisiana College
 20200228	N	9-0	Seward County (KS)	Jacksonville (TX)
 20200228	H	9-0	Tyler JC (TX)	Collin County (TX)
 20200228	A	0-0	Coastal Alabama	Wallace State
@@ -2291,12 +2551,12 @@ date	where	score	winner	loser
 20200228	A	5-2	Green Bay	Chicago State
 20200228	H	4-3	Winthrop	Wofford
 20200229	A	4-3	Fordham	Quinnipiac
-20200229	H	4-0	Duke	Coastal Carolina
-20200229	H	7-0	Duke	Holy Cross (MA)
 20200229	H	5-2	Central Florida	Florida Atlantic
 20200229	A	7-0	South Florida	Georgia Southern
 20200229	N	4-0	Wichita State	Pacific (CA)
 20200229	N	4-0	Wichita State	San Francisco
+20200229	H	4-0	Duke	Coastal Carolina
+20200229	H	7-0	Duke	Holy Cross (MA)
 20200229	H	4-3	Lipscomb	Butler
 20200229	H	7-0	North Alabama	Arkansas Pine Bluff
 20200229	A	4-3	Baylor	Illinois
@@ -2307,6 +2567,7 @@ date	where	score	winner	loser
 20200229	H	6-1	Campbell	Appalachian State
 20200229	H	6-1	Presbyterian	NC A&T
 20200229	H	5-2	Indiana	Dartmouth
+20200229	H	4-3	Iowa	VCU
 20200229	H	5-0	Michigan	Penn State
 20200229	H	4-3	Northwestern	Columbia
 20200229	H	4-0	Northwestern	Illinois - Chicago
@@ -2325,6 +2586,8 @@ date	where	score	winner	loser
 20200229	H	4-3	Siena	Lafayette
 20200229	A	7-0	NCCU	Howard
 20200229	H	7-0	Boise State	Idaho
+20200229	H	4-2	Fresno State	Gonzaga
+20200229	H	4-0	Fresno State	Lamar
 20200229	N	4-1	Nevada	Lamar
 20200229	A	4-3	Merrimack	Connecticut
 20200229	H	7-0	Belmont	Dayton
@@ -2416,11 +2679,33 @@ date	where	score	winner	loser
 20200229	H	8-1	Principia	Simpson (IA)
 20200229	A	5-2	Carnegie Mellon	St. Francis (PA)
 20200229	H	9-0	CWRU	Wittenberg
-20200229	H	0-0	Emory	Cumberland (TN)
 20200229	H	9-0	Northwestern (MN)	Dubuque
 20200229	A	9-0	Averett	Randolph
 20200229	H	6-3	Covenant	Transylvania
 20200229	A	9-0	LaGrange	Huntingdon
+20200229	H	4-2	Cardinal Stritch	Chicago
+20200229	A	7-0	Grace (IN)	Holy Cross (IN)
+20200229	A	7-0	Indiana Wesleyan	OUAZ
+20200229	N	7-0	Xavier (LA)	John Brown
+20200229	A	5-2	Concordia (NE)	Bethel (KS)
+20200229	H	7-0	Midland (NE)	Nebraska Wesleyan
+20200229	A	6-3	Arizona Christian	Mesa (AZ)
+20200229	A	5-2	Hope International	Westmont
+20200229	A	4-0	San Diego Christian	Marymount (CA)
+20200229	H	7-0	Georgia Gwinnett	Cumberland (TN)
+20200229	H	7-0	Georgia Gwinnett	Rose-Hulman
+20200229	H	7-0	Georgia Gwinnett	Rose-Hulman
+20200229	A	5-2	Ottawa	Baker
+20200229	A	7-0	Southwestern (KS)	Doane
+20200229	A	0-0	Cumberland (TN)	Emory
+20200229	A	7-0	Asbury	Thomas More
+20200229	A	6-1	Indiana East	Brescia
+20200229	H	5-2	Bethel (TN)	Pikeville
+20200229	N	4-0	Loyola - New Orleans	Texas Wesleyan
+20200229	H	7-0	Ave Maria	SCAD (GA)
+20200229	A	7-0	Keiser	Southeastern (FL)
+20200229	A	0-0	Warner	St. Thomas (FL)
+20200229	H	6-1	Northwestern Ohio	Lawrence Tech
 20200229	H	8-1	Eastern Florida	Davenport
 20200229	A	5-2	USC Sumter	Benedict
 20200229	N	6-3	Tyler JC (TX)	Seward County (KS)
@@ -2428,30 +2713,30 @@ date	where	score	winner	loser
 20200229	H	5-4	East Central (MS)	Gadsden State
 20200229	A	5-4	Jones	Gulf Coast (MS)
 20200229	A	6-3	Meridian (MS)	Copiah-Lincoln (MS)
-20200229	H	4-3	Iowa	VCU
 20200229	H	6-1	Northern Colorado	Seattle
 20200229	H	7-0	St. Edward's (TX)	Laredo (TX)
 20200229	N	6-1	UMKC	Rockhurst
 20200229	N	7-0	Green Bay	Eastern Illinois
 20200301	A	4-0	Dayton	Austin Peay
-20200301	H	4-1	Florida State	Georgia Tech
-20200301	H	4-0	N.C. State	NC A&T
-20200301	H	4-3	N.C. State	Texas
-20200301	H	6-1	North Carolina	Virginia Tech
-20200301	H	4-3	Virginia	Notre Dame
-20200301	A	4-3	Wake Forest	Oklahoma State
 20200301	H	7-0	Memphis	Temple
 20200301	A	4-3	SMU	Rice
 20200301	N	0-0	SMU	Valparaiso
 20200301	H	4-3	Tulsa	Omaha
 20200301	H	4-0	Tulsa	Oral Roberts
 20200301	H	6-1	Central Florida	Stetson
+20200301	H	4-1	Florida State	Georgia Tech
+20200301	H	4-0	N.C. State	NC A&T
+20200301	H	4-3	N.C. State	Texas
+20200301	H	6-1	North Carolina	Virginia Tech
+20200301	H	4-3	Virginia	Notre Dame
+20200301	A	4-3	Wake Forest	Oklahoma State
 20200301	H	4-1	TCU	Stanford
 20200301	H	4-1	Texas Tech	New Mexico
 20200301	H	4-0	Texas Tech	UTSA
 20200301	H	6-1	Marquette	Illinois - Chicago
 20200301	H	4-0	Longwood	Mount St. Mary's (MD)
 20200301	H	4-3	UNC Asheville	Winthrop
+20200301	H	5-2	Iowa	Nebraska
 20200301	H	4-0	Michigan	Brown
 20200301	H	7-0	Michigan	Boston University
 20200301	H	4-2	Purdue	Drake
@@ -2472,6 +2757,7 @@ date	where	score	winner	loser
 20200301	A	5-2	Northern Illinois	Binghamton
 20200301	A	4-2	Western Michigan	Yale
 20200301	H	7-0	Morgan State	La Salle
+20200301	N	4-3	Fresno State	Wichita State
 20200301	N	7-0	Sacred Heart	John Carroll
 20200301	H	4-2	Belmont	Butler
 20200301	H	5-2	Tennessee Tech	Chattanooga
@@ -2528,8 +2814,14 @@ date	where	score	winner	loser
 20200301	H	5-4	Averett	Virginia Wesleyan
 20200301	A	7-2	NC Wesleyan	NYU
 20200301	H	6-3	Piedmont	Pfeiffer
+20200301	A	6-1	Reinhardt	SCAD - Atlanta
+20200301	N	5-2	Tennessee Wesleyan	William Woods
+20200301	H	6-1	Missouri Valley	Ottawa
+20200301	A	6-1	McPherson	Baker
+20200301	A	5-2	Georgetown (KY)	Milligan
+20200301	H	4-0	Middle Georgia	Campbellsville
+20200301	A	4-0	Aquinas (MI)	Holy Cross (IN)
 20200301	H	4-0	East Carolina	Coastal Carolina
-20200301	H	5-2	Iowa	Nebraska
 20200302	H	4-0	Longwood	NC A&T
 20200302	N	4-3	Sacred Heart	Charleston
 20200302	A	0-0	UTRGV	Alcorn State
@@ -2556,6 +2848,10 @@ date	where	score	winner	loser
 20200302	N	6-3	Oglethorpe	John Carroll
 20200302	N	9-0	Oglethorpe	Wartburg
 20200302	H	9-0	Pomona-Pitzer	Christopher Newport
+20200302	H	6-1	Reinhardt	Rose-Hulman
+20200302	N	4-0	William Woods	Campbellsville
+20200302	N	9-0	Spring Arbor	Lebanon Valley
+20200302	N	6-1	Cornerstone	Eastern Nazarene
 20200302	H	6-3	Gulf Coast (MS)	Copiah-Lincoln (MS)
 20200303	N	4-2	Duquesne	Davidson
 20200303	H	4-0	Louisville	Kennesaw State
@@ -2591,6 +2887,11 @@ date	where	score	winner	loser
 20200303	A	7-2	Otterbein	Willamette
 20200303	N	7-2	Grove City	Houghton
 20200303	H	8-1	Caltech	Clark (MA)
+20200303	H	4-1	Reinhardt	William Woods
+20200303	N	4-3	Indiana Wesleyan	San Diego Christian
+20200303	H	7-0	Lindsey Wilson	Grace (IN)
+20200303	H	4-1	Ave Maria	Judson (IL)
+20200303	N	4-3	Coastal Georgia	Cornerstone
 20200303	H	8-1	Cowley County (KS)	Tabor
 20200303	A	7-2	Folsom Lake	Shasta
 20200303	H	9-0	Modesto	Reedley
@@ -2639,6 +2940,10 @@ date	where	score	winner	loser
 20200304	N	8-1	John Carroll	Houghton
 20200304	H	9-0	Washington & Lee	Randolph
 20200304	N	8-1	Oglethorpe	Muhlenberg
+20200304	N	4-3	Cardinal Stritch	Keiser
+20200304	A	4-3	Grace (IN)	Asbury
+20200304	N	4-1	Ave Maria	John Carroll
+20200304	H	4-1	Southeastern (FL)	Judson (IL)
 20200305	A	4-0	Florida State	Clemson
 20200305	N	4-1	Oklahoma State	California
 20200305	H	4-3	UCSD	Villanova
@@ -2661,6 +2966,14 @@ date	where	score	winner	loser
 20200305	A	0-0	Otterbein	Puget Sound
 20200305	N	9-0	Oglethorpe	Houghton
 20200305	H	7-2	Caltech	Christopher Newport
+20200305	N	6-0	Cardinal Stritch	Judson (IL)
+20200305	A	4-2	Grace (IN)	Georgetown (KY)
+20200305	A	9-0	Indiana Wesleyan	Mesa (AZ)
+20200305	N	4-0	Indiana Wesleyan	Westmont
+20200305	N	5-2	Xavier (LA)	Tennessee Wesleyan
+20200305	N	0-0	Lewis-Clark (ID)	Mobile
+20200305	N	5-2	Warner	Cornerstone
+20200305	N	6-1	Warner	Spring Arbor
 20200305	A	9-0	American River	Chabot
 20200305	H	8-1	Santa Rosa	Folsom Lake
 20200305	H	7-2	Fullerton	Orange Coast
@@ -2680,6 +2993,8 @@ date	where	score	winner	loser
 20200306	H	4-3	DePaul	Northern Illinois
 20200306	H	4-3	Xavier	Fordham
 20200306	H	4-3	Idaho	Weber State
+20200306	H	4-1	Iowa	Louisville
+20200306	A	6-1	Minnesota	Washington
 20200306	H	7-0	Wisconsin	Wright State
 20200306	A	4-0	Hawaii	Sacramento State
 20200306	H	4-0	UC Santa Barbara	Utah State
@@ -2755,6 +3070,23 @@ date	where	score	winner	loser
 20200306	N	5-4	Schreiner	East Texas Baptist
 20200306	A	9-0	Southwestern (TX)	Texas Lutheran
 20200306	H	7-2	Redlands	Christopher Newport
+20200306	N	4-2	Point	Ave Maria
+20200306	A	4-2	Point	Southeastern (FL)
+20200306	N	5-3	Cardinal Stritch	Carnegie Mellon
+20200306	A	4-2	Marian (IN)	Coastal Georgia
+20200306	A	4-3	Marian (IN)	SCAD (GA)
+20200306	N	6-1	Indiana Wesleyan	Hope International
+20200306	H	5-2	Concordia (NE)	Baker
+20200306	H	6-1	Midland (NE)	Bethel (KS)
+20200306	A	0-0	Lewis-Clark (ID)	William Carey
+20200306	H	4-3	OUAZ	Westmont
+20200306	N	9-0	Midway	Houghton
+20200306	N	5-3	Midway	Wartburg
+20200306	H	7-0	Texas Wesleyan	Kansas Wesleyan
+20200306	H	4-3	William Carey	Tennessee Wesleyan
+20200306	N	5-2	Warner	Tiffin
+20200306	A	4-0	Northwestern Ohio	Aquinas (MI)
+20200306	A	5-2	Northwestern Ohio	Davenport
 20200306	N	9-0	Laredo (TX)	Collin County (TX)
 20200306	A	8-1	East Central (MS)	Copiah-Lincoln (MS)
 20200306	A	7-2	Jones	Itawamba (MS)
@@ -2765,10 +3097,9 @@ date	where	score	winner	loser
 20200306	A	5-4	Riverside	Cerritos
 20200306	H	8-1	Ventura	San Diego City
 20200306	A	4-3	Appalachian State	Charlotte
-20200306	H	4-1	Iowa	Louisville
-20200306	A	6-1	Minnesota	Washington
 20200306	N	4-2	St. Edward's (TX)	Southern Arkansas
 20200307	N	4-0	Fordham	Saint Louis
+20200307	H	0-0	La Salle	St. Francis (NY)
 20200307	A	4-2	N.C. State	Virginia Tech
 20200307	H	4-3	Virginia	Liberty
 20200307	H	7-0	Virginia	Virginia Wesleyan
@@ -2794,6 +3125,7 @@ date	where	score	winner	loser
 20200307	H	7-0	Yale	Fairfield
 20200307	H	6-1	Yale	NJIT
 20200307	A	0-0	Binghamton	Drexel
+20200307	H	5-2	Fresno State	Santa Clara
 20200307	H	5-2	Bryant	Fairleigh Dickinson
 20200307	A	4-2	Belmont	UAB
 20200307	H	7-0	Tennessee Tech	Lipscomb
@@ -2880,7 +3212,19 @@ date	where	score	winner	loser
 20200307	H	5-4	NYU	Southern Virginia
 20200307	A	0-0	Huntingdon	Mobile
 20200307	A	0-0	Huntingdon	Spring Hill
-20200307	H	0-0	Collin County (TX)	Kansas Wesleyan
+20200307	H	4-3	William Woods	Illinois Springfield
+20200307	H	6-1	Xavier (LA)	Lewis-Clark (ID)
+20200307	N	5-2	Concordia (NE)	St. Olaf
+20200307	A	4-0	Westmont	Arizona Christian
+20200307	N	7-0	Grand View	Hastings
+20200307	A	0-0	Grand View	Midland (NE)
+20200307	A	0-0	Kansas Wesleyan	Collin County (TX)
+20200307	H	5-2	Campbellsville	Olivet Nazarene
+20200307	N	4-0	Mobile	Montreat
+20200307	H	6-1	William Carey	Montreat
+20200307	N	6-1	Ave Maria	Davis & Elkins
+20200307	N	6-1	Keiser	Point
+20200307	H	5-2	Webber International	West Chester
 20200307	H	6-2	Collin County (TX)	Ozarks
 20200307	H	8-1	Barton County (KS)	Iowa Central
 20200307	N	0-0	ASA (Miami)	Wallace State
@@ -2893,15 +3237,14 @@ date	where	score	winner	loser
 20200307	A	5-2	Wright State	Chicago State
 20200307	A	0-0	Centenary (LA)	Hendrix
 20200307	A	4-2	George Washington	Longwood
-20200307	H	0-0	La Salle	St. Francis (NY)
 20200307	A	5-2	St. Edward's (TX)	St. Mary's (TX)
 20200307	N	5-2	Valparaiso	Abilene Christian
 20200307	N	6-1	Valparaiso	Prairie View A&M
 20200308	H	4-0	Dayton	Indiana Tech
 20200308	A	4-3	Fordham	Dayton
+20200308	A	4-1	Central Florida	Memphis
 20200308	H	4-0	Miami (FL)	Florida State
 20200308	A	5-1	Wake Forest	Arizona State
-20200308	A	4-1	Central Florida	Memphis
 20200308	H	4-3	North Alabama	Alabama State
 20200308	H	6-1	Oklahoma	Nebraska
 20200308	H	6-0	Oklahoma	Arkansas Pine Bluff
@@ -2913,6 +3256,8 @@ date	where	score	winner	loser
 20200308	H	6-1	Longwood	USC Upstate
 20200308	H	7-0	Radford	Mount St. Mary's (MD)
 20200308	H	4-0	Illinois	Purdue
+20200308	H	4-3	Iowa	Cornell
+20200308	H	5-2	Minnesota	Wisconsin
 20200308	H	4-2	Northwestern	Notre Dame
 20200308	H	4-0	Northwestern	Illinois - Chicago
 20200308	H	6-1	Ohio State	Penn State
@@ -2951,7 +3296,6 @@ date	where	score	winner	loser
 20200308	H	7-0	Seattle	Bellevue
 20200308	A	4-3	District of Columbia	Jefferson
 20200308	A	0-0	Ashland	Benedict
-20200308	N	0-0	Northwood	Aquinas (MI)
 20200308	H	4-3	Drury	Northwest Missouri
 20200308	H	6-1	Delta State	UAH
 20200308	A	7-0	Auburn Montgomery	Spring Hill
@@ -2993,14 +3337,20 @@ date	where	score	winner	loser
 20200308	H	6-3	Averett	Guilford
 20200308	N	8-1	Piedmont	Monmouth (IL)
 20200308	N	8-1	Piedmont	St. Francis (IN)
+20200308	N	5-2	Milligan	Berry
+20200308	N	4-3	Milligan	Thomas More
+20200308	H	0-0	St. Louis - Pharmacy	Oakland City
+20200308	H	5-2	William Woods	McPherson
+20200308	N	6-1	Missouri Valley	Georgetown (KY)
+20200308	H	7-0	Campbellsville	Centre
+20200308	H	4-1	Cumberlands (KY)	Southwestern (KS)
+20200308	N	0-0	Aquinas (MI)	Northwood
 20200308	N	8-1	Seward County (KS)	Abraham Baldwin
 20200308	N	8-1	Seward County (KS)	Harford (MD)
 20200308	N	9-0	Tyler JC (TX)	Cowley County (KS)
 20200308	N	7-2	Abraham Baldwin	USC Sumter
 20200308	N	5-4	Harford (MD)	USC Sumter
 20200308	A	0-0	Centenary (LA)	Ozarks
-20200308	H	4-3	Iowa	Cornell
-20200308	H	5-2	Minnesota	Wisconsin
 20200308	A	5-2	Northern Colorado	Montana State
 20200309	N	7-0	George Mason	West Liberty
 20200309	A	0-0	Oklahoma State	Texas
@@ -3009,6 +3359,7 @@ date	where	score	winner	loser
 20200309	H	5-2	Campbell	Navy
 20200309	N	4-3	Northern Kentucky	Quinnipiac
 20200309	N	6-1	Merrimack	Rochester (NY)
+20200309	A	4-1	Arizona	Fresno State
 20200309	H	6-1	UCLA	Liberty
 20200309	N	7-0	Lehigh	Bentley
 20200309	A	4-3	Navy	UNC Greensboro
@@ -3053,6 +3404,13 @@ date	where	score	winner	loser
 20200309	N	9-0	CWRU	Ithaca
 20200309	N	5-4	Northwestern (MN)	DeSales
 20200309	N	6-3	Northwestern (MN)	Franciscan
+20200309	N	4-0	Roosevelt	Morningside
+20200309	N	7-0	Missouri Valley	Milligan
+20200309	H	6-0	Georgia Gwinnett	Cumberlands (KY)
+20200309	A	4-3	Southwestern (KS)	Campbellsville
+20200309	H	4-3	Asbury	Olivet Nazarene
+20200309	A	0-0	Aquinas (MI)	Southeastern (FL)
+20200309	N	5-2	Lawrence Tech	Thomas More
 20200309	N	7-2	Seward County (KS)	ASA (Miami)
 20200309	N	7-2	Cowley County (KS)	Harford (MD)
 20200309	N	5-4	ASA (Miami)	Cowley County (KS)
@@ -3061,10 +3419,10 @@ date	where	score	winner	loser
 20200309	N	9-0	Tyler JC (TX)	Wallace State
 20200310	H	5-2	Davidson	Navy
 20200310	A	4-3	St. Joseph's (PA)	Duquesne
-20200310	A	7-0	Duke	North Florida
-20200310	A	0-0	Wake Forest	USC
 20200310	A	0-0	SMU	UC Irvine
 20200310	H	4-3	Central Florida	Penn
+20200310	A	7-0	Duke	North Florida
+20200310	A	0-0	Wake Forest	USC
 20200310	N	4-3	Creighton	Georgetown
 20200310	N	4-3	Radford	S.C. State
 20200310	H	6-1	Elon	Navy
@@ -3115,6 +3473,10 @@ date	where	score	winner	loser
 20200310	N	9-0	CWRU	Carnegie Mellon
 20200310	N	6-1	CWRU	Lehigh
 20200310	N	5-4	Piedmont	Dickinson
+20200310	N	5-1	Missouri Valley	Lawrence Tech
+20200310	H	7-0	Georgia Gwinnett	Indiana Tech
+20200310	A	4-3	Southwestern (KS)	Asbury
+20200310	H	6-0	St. Katherine	Wheaton (MA)
 20200310	A	7-0	Barton County (KS)	Sterling (KS)
 20200310	N	0-0	Abraham Baldwin	Cowley County (KS)
 20200310	N	6-2	Harford (MD)	Wallace State
@@ -3130,12 +3492,12 @@ date	where	score	winner	loser
 20200310	A	0-0	Ventura	Cerritos
 20200310	A	0-0	East Carolina	UC Riverside
 20200310	A	0-0	Concord	Georgia College
-20200311	H	7-0	Virginia	William & Mary
 20200311	A	4-1	Memphis	LSU
 20200311	A	0-0	SMU	Loyola Marymount
 20200311	H	4-1	Central Florida	South Alabama
 20200311	H	4-0	South Florida	Penn
 20200311	H	5-2	South Florida	UNC Wilmington
+20200311	H	7-0	Virginia	William & Mary
 20200311	A	5-2	Kennesaw State	Jacksonville State
 20200311	H	5-2	North Florida	Chattanooga
 20200311	A	6-1	TCU	Rice
@@ -3182,6 +3544,7 @@ date	where	score	winner	loser
 20200311	H	7-0	Palm Beach Atlantic	Daemen
 20200311	N	7-2	LeTourneau	Lake Forest
 20200311	N	6-3	Millikin	Ohio Wesleyan
+20200311	N	6-1	Thomas More	Lynchburg
 20200311	A	0-0	Drew	TCNJ
 20200311	N	5-4	Ithaca	Dickinson
 20200311	A	5-2	RPI	Le Moyne
@@ -3193,13 +3556,15 @@ date	where	score	winner	loser
 20200311	N	8-1	CWRU	Rhodes
 20200311	N	9-0	CWRU	Wheaton (IL)
 20200311	N	0-0	Brevard	Wabash
+20200311	A	6-3	Concordia (NE)	Central (IA)
+20200311	H	5-2	Marymount (CA)	Wheaton (MA)
+20200311	H	5-2	Coastal Georgia	Missouri Valley
 20200311	A	0-0	Barton County (KS)	Kansas Wesleyan
 20200311	N	7-0	East Carolina	Bucknell
 20200312	H	5-2	Davidson	St. Joseph's (PA)
 20200312	N	7-0	Marquette	Georgetown
 20200312	N	4-0	Radford	Georgetown (KY)
 20200312	N	7-0	Radford	Norfolk State
-20200312	N	0-0	UNC Asheville	Keiser
 20200312	N	4-0	James Madison	Appalachian State
 20200312	N	0-0	Fairfield	James Madison
 20200312	A	5-2	Austin Peay	Southern Indiana
@@ -3209,6 +3574,7 @@ date	where	score	winner	loser
 20200312	H	4-3	UNC Greensboro	Presbyterian
 20200312	H	4-3	Incarnate Word	Butler
 20200312	N	0-0	Alabama A&M	Mississippi Valley
+20200312	A	4-2	Gonzaga	Fresno State
 20200312	N	6-1	Belmont Abbey	Barton
 20200312	H	7-0	Oklahoma Baptist	Emporia State
 20200312	N	4-0	Southeastern (OK)	Northwest Missouri
@@ -3241,6 +3607,11 @@ date	where	score	winner	loser
 20200312	N	9-0	Hampden-Sydney	Wabash
 20200312	N	5-4	Webster	Penn State Behrend
 20200312	N	5-4	Piedmont	Ursinus
+20200312	A	0-0	Missouri Baptist	Cumberland (TN)
+20200312	N	7-2	Roosevelt	Carthage
+20200312	N	6-1	St. Francis (IL)	Morningside
+20200312	A	9-0	Concordia (NE)	Simpson (IA)
+20200312	N	0-0	Keiser	UNC Asheville
 20200312	A	0-0	Chabot	Folsom Lake
 20200312	A	0-0	Foothill	Santa Rosa
 20200312	A	0-0	Orange Coast	Irvine Valley
@@ -3260,6 +3631,7 @@ date	where	score	winner	loser
 20200313	A	0-0	North Carolina	Miami (FL)
 20200313	A	0-0	Idaho	Metropolitan State
 20200313	A	0-0	Weber State	Portland State
+20200313	A	0-0	Minnesota	Tulane
 20200313	A	0-0	Michigan State	Michigan
 20200313	A	0-0	Wisconsin	Nebraska
 20200313	A	0-0	Middle Tennessee	Rice
@@ -3285,6 +3657,7 @@ date	where	score	winner	loser
 20200313	N	0-0	Alabama A&M	Jackson State
 20200313	A	0-0	Alcorn State	Alabama State
 20200313	A	0-0	Grand Canyon	New Mexico
+20200313	A	0-0	Loyola Marymount	Fresno State
 20200313	H	7-0	San Diego	Liberty
 20200313	N	0-0	Chowan	Norfolk State
 20200313	A	0-0	Ashland	Coker
@@ -3309,7 +3682,6 @@ date	where	score	winner	loser
 20200313	A	0-0	RPI	Redlands
 20200313	A	0-0	Skidmore	Pomona-Pitzer
 20200313	A	0-0	St. Lawrence	Bard
-20200313	H	0-0	Alma	Spring Arbor
 20200313	A	0-0	Gustavus Adolphus	St. Mary's (MN)
 20200313	N	5-4	Monmouth (IL)	Northwestern (MN)
 20200313	A	0-0	Lawrence	Marian (WI)
@@ -3319,10 +3691,20 @@ date	where	score	winner	loser
 20200313	N	5-4	Greenville	Cornell College
 20200313	A	0-0	NYU	TCNJ
 20200313	N	0-0	Brevard	Colorado College
+20200313	A	0-0	Bluefield	Union (KY)
+20200313	N	4-3	Milligan	Lawrence Tech
+20200313	A	0-0	SCAD - Atlanta	Point
+20200313	A	0-0	Olivet Nazarene	Cumberland (TN)
+20200313	A	0-0	Spring Arbor	Alma
+20200313	A	0-0	Hope International	OUAZ
+20200313	A	0-0	San Diego Christian	Arizona Christian
+20200313	N	0-0	Missouri Valley	SCAD (GA)
+20200313	A	0-0	Kansas Wesleyan	Baker
+20200313	A	6-1	Southwestern (KS)	Cumberland (TN)
+20200313	A	0-0	St. Katherine	San Diego Mesa
+20200313	A	0-0	Asbury	Georgia Gwinnett
 20200313	A	0-0	Wallace State	Gadsden State
 20200313	A	0-0	East Central (MS)	Gulf Coast (MS)
-20200313	H	0-0	San Diego Mesa	St. Katherine
-20200313	A	0-0	Minnesota	Tulane
 20200313	A	0-0	UMKC	Omaha
 20200313	A	0-0	Winthrop	Tennessee Tech
 20200314	A	0-0	Fordham	Hofstra
@@ -3346,7 +3728,6 @@ date	where	score	winner	loser
 20200314	A	0-0	Wofford	ETSU
 20200314	A	0-0	Abilene Christian	Wichita State
 20200314	N	0-0	Denver	Grand Canyon
-20200314	H	0-0	Omaha	Midland (NE)
 20200314	N	0-0	South Alabama	North Florida
 20200314	N	0-0	Troy	Youngstown State
 20200314	N	0-0	Jackson State	Mississippi Valley
@@ -3364,7 +3745,6 @@ date	where	score	winner	loser
 20200314	N	0-0	Northwest Missouri	Abilene Christian
 20200314	A	0-0	Colorado Mesa	Azusa Pacific
 20200314	A	0-0	Catawba	Tusculum
-20200314	H	0-0	Carson-Newman	Bluefield
 20200314	A	0-0	Sul Ross State	UTPB
 20200314	N	0-0	Mary Washington	Washington & Lee
 20200314	A	0-0	Southern Virginia	Christopher Newport
@@ -3389,6 +3769,11 @@ date	where	score	winner	loser
 20200314	H	0-0	Minnesota Morris	St. Mary's (MN)
 20200314	A	0-0	LaGrange	Covenant
 20200314	H	0-0	William Peace	St. Mary's (MD)
+20200314	A	0-0	Bluefield	Carson-Newman
+20200314	A	0-0	Midland (NE)	Omaha
+20200314	A	0-0	Hope International	Mesa (AZ)
+20200314	A	0-0	San Diego Christian	OUAZ
+20200314	A	0-0	Brescia	Campbellsville
 20200314	A	0-0	Seward County (KS)	McPherson
 20200314	A	0-0	Iowa Central	Wartburg
 20200314	A	0-0	George Washington	Stetson
@@ -3396,12 +3781,12 @@ date	where	score	winner	loser
 20200315	A	0-0	Davidson	UNC Greensboro
 20200315	H	0-0	Fordham	St. Francis (NY)
 20200315	A	0-0	VCU	Georgia State
+20200315	A	0-0	Memphis	Tulane
 20200315	A	0-0	Duke	Miami (FL)
 20200315	A	0-0	N.C. State	Wake Forest
 20200315	A	0-0	Notre Dame	Clemson
 20200315	A	0-0	North Carolina	Florida State
 20200315	A	0-0	Virginia	Virginia Tech
-20200315	A	0-0	Memphis	Tulane
 20200315	A	0-0	Bellarmine	DePauw
 20200315	A	0-0	North Florida	South Florida
 20200315	A	0-0	Montana State	Montana
@@ -3427,11 +3812,11 @@ date	where	score	winner	loser
 20200315	A	0-0	Troy	Georgia Southern
 20200315	N	0-0	Alabama A&M	Arkansas Pine Bluff
 20200315	N	0-0	Mississippi Valley	North Alabama
-20200315	H	0-0	Davenport	Prairie State
 20200315	A	0-0	Wayne State	Western Michigan
 20200315	A	0-0	Wayne State	Western Michigan
 20200315	A	0-0	Southern Indiana	Findlay
 20200315	N	0-0	Auburn Montgomery	Millersville
+20200315	A	0-0	Colorado Mesa	Fresno State
 20200315	N	0-0	Colorado Mesa	Holy Names
 20200315	N	0-0	North Georgia	Wingate
 20200315	A	0-0	West Chester	Virginia State
@@ -3451,23 +3836,22 @@ date	where	score	winner	loser
 20200315	A	0-0	Ferrum	Randolph-Macon
 20200315	A	0-0	Birmingham Southern	Huntingdon
 20200315	A	0-0	Yeshiva	Wilkes
+20200315	A	0-0	Bluefield	Tennessee Wesleyan
+20200315	N	0-0	Freed-Hardeman	TAMU-Texarkana
+20200315	A	0-0	Lindsey Wilson	Union (KY)
+20200315	A	0-0	Prairie State	Davenport
 20200315	A	0-0	Florida A&M	Florida State
 20200315	A	0-0	George Washington	Florida Gulf Coast
 20200316	A	0-0	Harvard	San Diego State
 20200316	A	0-0	Niagara	Northern Kentucky
-20200316	H	0-0	Ball State	Taylor
-20200316	H	0-0	Ball State	Taylor
 20200316	A	0-0	Tennessee Tech	Mercer
 20200316	A	0-0	Colgate	New Orleans
 20200316	A	0-0	Oral Roberts	Coastal Carolina
-20200316	N	0-0	Oklahoma Baptist	Mobile
 20200316	A	0-0	Ouachita Baptist	Harding
-20200316	H	0-0	Lake Superior St.	Prairie State
 20200316	N	0-0	MSU-Texas	Rollins
 20200316	N	0-0	Southwest Baptist (MO)	North Georgia
 20200316	A	0-0	Colorado Mesa	Biola
 20200316	A	0-0	Limestone	Lander
-20200316	H	0-0	Barry	Keiser
 20200316	N	0-0	Coe College	Colorado College
 20200316	N	0-0	Hobart & William Smith	UW La Crosse
 20200316	N	0-0	Hope	Millersville
@@ -3475,7 +3859,14 @@ date	where	score	winner	loser
 20200316	N	0-0	Bethel (MN)	St. Lawrence
 20200316	N	0-0	Grinnell	Wooster
 20200316	N	0-0	Colorado College	Goucher
-20200316	H	0-0	Schreiner	Sterling (KS)
+20200316	A	0-0	Taylor	Ball State
+20200316	A	0-0	Taylor	Ball State
+20200316	A	0-0	Florida National	St. Thomas (FL)
+20200316	A	0-0	Sterling (KS)	Schreiner
+20200316	A	0-0	Indiana East	Southeastern (FL)
+20200316	N	0-0	Mobile	Oklahoma Baptist
+20200316	A	0-0	Keiser	Barry
+20200316	A	0-0	Prairie State	Lake Superior St.
 20200316	A	0-0	Folsom Lake	Reedley
 20200317	A	0-0	NJIT	Bethune Cookman
 20200317	A	0-0	Indiana	Arizona State
@@ -3510,7 +3901,9 @@ date	where	score	winner	loser
 20200317	N	0-0	Hamilton	Wooster
 20200317	A	0-0	Trinity (CT)	Chapman
 20200317	A	0-0	Principia	Whittier
+20200317	A	0-0	SCAD - Atlanta	Montreat
 20200317	A	0-0	Hinds (MS)	Holmes (MS)
+20200317	A	0-0	Southwest (MS)	Meridian (MS)
 20200317	A	0-0	Fresno	Modesto
 20200317	A	0-0	Reedley	Cosumnes  River
 20200317	A	0-0	Riverside	Orange Coast
@@ -3519,7 +3912,6 @@ date	where	score	winner	loser
 20200317	A	0-0	El Camino	Mt. San Jacinto
 20200317	A	0-0	Ventura	Fullerton
 20200317	N	0-0	Florida A&M	North Dakota
-20200317	A	0-0	Southwest (MS)	Meridian (MS)
 20200317	A	0-0	UAH	Montevallo
 20200317	A	0-0	Winthrop	Gardner-Webb
 20200318	A	0-0	Wake Forest	Virginia Tech
@@ -3564,6 +3956,10 @@ date	where	score	winner	loser
 20200318	A	0-0	Yeshiva	Merchant Marine
 20200318	A	0-0	Principia	Cal Lutheran
 20200318	A	0-0	Fontbonne	Webster
+20200318	A	0-0	Marian (IN)	Lindsey Wilson
+20200318	A	0-0	Hastings	Southeastern (FL)
+20200318	A	0-0	Bethel (KS)	Friends
+20200318	A	0-0	Kansas Wesleyan	Ottawa
 20200318	A	0-0	Harford (MD)	George Mason
 20200319	A	0-0	St. Joseph's (PA)	Delaware
 20200319	A	0-0	NJIT	Embry-Riddle (FL)
@@ -3584,7 +3980,6 @@ date	where	score	winner	loser
 20200319	A	0-0	Cedarville	West Liberty
 20200319	N	0-0	Southwest Baptist (MO)	Auburn Montgomery
 20200319	A	0-0	Washburn-Topeka	Newman
-20200319	N	0-0	Millersville	Indiana East
 20200319	N	0-0	Salisbury	St. Lawrence
 20200319	A	0-0	Salve Regina	Springfield
 20200319	A	0-0	Staten Island	Queens (NY)
@@ -3597,6 +3992,11 @@ date	where	score	winner	loser
 20200319	N	0-0	Ramapo	St. Mary's (MD)
 20200319	H	0-0	Shenandoah	Lynchburg
 20200319	N	0-0	Colorado College	Hamilton
+20200319	A	0-0	Reinhardt	Union (KY)
+20200319	A	0-0	Westmont	Cal Lutheran
+20200319	A	0-0	Southwestern (KS)	Bethel (KS)
+20200319	A	0-0	Cumberland (TN)	Campbellsville
+20200319	N	0-0	Indiana East	Millersville
 20200319	A	0-0	Chabot	Fresno
 20200319	A	0-0	Riverside	Glendale (CA)
 20200319	A	0-0	Grossmont	San Diego Mesa
@@ -3604,14 +4004,14 @@ date	where	score	winner	loser
 20200319	A	0-0	El Camino	Orange Coast
 20200319	A	0-0	Connecticut	Memphis
 20200319	N	0-0	UMKC	North Dakota
+20200320	A	0-0	Wichita State	UTSA
 20200320	A	0-0	Clemson	Duke
 20200320	A	0-0	Miami (FL)	Notre Dame
 20200320	A	0-0	N.C. State	Virginia
-20200320	A	0-0	Wichita State	UTSA
 20200320	H	0-0	Bellarmine	Indiana Southeast
 20200320	A	0-0	Michigan	Ohio State
+20200320	A	0-0	Minnesota	Iowa
 20200320	A	0-0	William & Mary	East Carolina
-20200320	N	0-0	Southern Miss	Loyola - New Orleans
 20200320	A	0-0	Dartmouth	Middle Tennessee
 20200320	N	0-0	Harvard	Texas
 20200320	A	0-0	Binghamton	Cleveland State
@@ -3657,20 +4057,27 @@ date	where	score	winner	loser
 20200320	A	0-0	Whitman	Caltech
 20200320	A	0-0	Ferrum	Randolph
 20200320	A	0-0	Principia	Chapman
-20200320	H	0-0	Webster	St. Louis - Pharmacy
+20200320	A	0-0	SCAD - Atlanta	Bluefield
+20200320	A	0-0	St. Louis - Pharmacy	Webster
+20200320	H	0-0	Roosevelt	Judson (IL)
+20200320	A	0-0	Midland (NE)	Missouri Baptist
+20200320	A	0-0	Westmont	Hope International
+20200320	A	0-0	Southwest (NM)	Mesa (AZ)
+20200320	A	0-0	Asbury	Southeastern (FL)
+20200320	N	0-0	Loyola - New Orleans	Southern Miss
 20200320	A	0-0	Seward County (KS)	CSU-Pueblo
 20200320	N	0-0	Eastern Florida	USC Sumter
 20200320	A	0-0	Jacksonville (TX)	Collin County (TX)
 20200320	A	0-0	Wallace State	Meridian (MS)
 20200320	A	0-0	Hinds (MS)	Itawamba (MS)
 20200320	A	0-0	Holmes (MS)	Meridian (MS)
+20200320	A	0-0	Southwest (MS)	Copiah-Lincoln (MS)
 20200320	A	0-0	Chabot	Riverside
 20200320	A	0-0	San Diego City	Fullerton
-20200320	A	0-0	Minnesota	Iowa
-20200320	A	0-0	Southwest (MS)	Copiah-Lincoln (MS)
 20200320	A	0-0	UMKC	Illinois State
 20200320	A	0-0	Winthrop	Charlotte
 20200321	A	0-0	Davidson	George Mason
+20200321	A	0-0	La Salle	Lehigh
 20200321	A	0-0	Stetson	Florida Gulf Coast
 20200321	A	0-0	North Florida	Central Florida
 20200321	A	0-0	Idaho State	UC Riverside
@@ -3710,9 +4117,7 @@ date	where	score	winner	loser
 20200321	A	0-0	Northwood	Davenport
 20200321	A	0-0	McKendree	UMSL
 20200321	A	0-0	Quincy	Illinois Springfield
-20200321	H	0-0	Cedarville	Midway
 20200321	A	0-0	Findlay	Walsh
-20200321	H	0-0	Hillsdale	Lawrence Tech
 20200321	A	0-0	Delta State	Lee (TN)
 20200321	A	0-0	Christian Brothers	Auburn Montgomery
 20200321	N	0-0	Christian Brothers	West Florida
@@ -3758,31 +4163,41 @@ date	where	score	winner	loser
 20200321	H	0-0	Fontbonne	Oakland City
 20200321	H	0-0	Webster	Oakland City
 20200321	N	0-0	Huntingdon	Centenary (LA)
+20200321	A	0-0	Point	Bluefield
+20200321	A	0-0	Reinhardt	Tennessee Wesleyan
+20200321	A	0-0	SCAD - Atlanta	Milligan
+20200321	H	0-0	Cardinal Stritch	Holy Cross (IN)
+20200321	A	0-0	Westmont	San Diego Christian
+20200321	A	0-0	Bethel (KS)	Kansas Wesleyan
+20200321	A	0-0	Ottawa	Southwestern (KS)
+20200321	A	0-0	Pikeville	Lindsey Wilson
+20200321	A	0-0	Midway	Cedarville
+20200321	A	0-0	Lawrence Tech	Hillsdale
 20200321	N	0-0	Collin County (TX)	Cowley County (KS)
 20200321	N	0-0	Seward County (KS)	Metropolitan State
 20200321	A	0-0	Wallace State	Gulf Coast (MS)
 20200321	A	0-0	Copiah-Lincoln (MS)	Itawamba (MS)
 20200321	A	0-0	Chabot	Fullerton
-20200321	A	0-0	La Salle	Lehigh
 20200321	A	0-0	St. Edward's (TX)	Texas Tyler
 20200321	A	0-0	St. Edward's (TX)	Tyler JC (TX)
 20200321	A	0-0	Green Bay	Youngstown State
 20200322	A	0-0	Davidson	George Washington
 20200322	A	0-0	Saint Louis	Illinois State
+20200322	A	0-0	Wichita State	Tulane
+20200322	A	0-0	Wichita State	New Orleans
 20200322	A	0-0	Clemson	North Carolina
 20200322	A	0-0	Florida State	Notre Dame
 20200322	A	0-0	Georgia Tech	Duke
 20200322	A	0-0	Miami (FL)	Boston College
 20200322	A	0-0	N.C. State	Louisville
 20200322	A	0-0	Wake Forest	Virginia
-20200322	A	0-0	Wichita State	Tulane
-20200322	A	0-0	Wichita State	New Orleans
 20200322	A	0-0	Bellarmine	Hillsdale
 20200322	A	0-0	Lipscomb	Furman
 20200322	A	0-0	Texas	San Diego
 20200322	A	0-0	St. John's (NY)	Quinnipiac
 20200322	A	0-0	Sacramento State	Northern Arizona
 20200322	A	0-0	Illinois	Kentucky
+20200322	A	0-0	Iowa	Wisconsin
 20200322	A	0-0	Nebraska	Minnesota
 20200322	A	0-0	Cal Poly	Santa Clara
 20200322	A	0-0	Delaware	Penn
@@ -3837,8 +4252,10 @@ date	where	score	winner	loser
 20200322	N	0-0	Southwestern (TX)	Whitman
 20200322	A	0-0	St. Joseph's (Long Island)	Yeshiva
 20200322	A	0-0	Brandeis	Wesleyan (CT)
+20200322	A	0-0	Marian (IN)	Brescia
+20200322	A	0-0	Midland (NE)	Missouri Valley
+20200322	A	0-0	Cumberland (TN)	Lindsey Wilson
 20200322	A	0-0	Concord	Fairmont State
-20200322	A	0-0	Iowa	Wisconsin
 20200322	A	0-0	Arkansas Pine Bluff	Southern Miss
 20200322	A	0-0	Green Bay	Cleveland State
 20200323	A	0-0	North Alabama	Alabama A&M
@@ -3889,6 +4306,9 @@ date	where	score	winner	loser
 20200324	A	0-0	Capital (OH)	Mt. St. Joseph
 20200324	N	0-0	Birmingham Southern	Hamilton
 20200324	A	0-0	Hendrix	Centenary (LA)
+20200324	A	0-0	Friends	Southwestern (KS)
+20200324	A	0-0	McPherson	TAMU-Texarkana
+20200324	A	0-0	Lindsey Wilson	Campbellsville
 20200324	A	0-0	Wallace State	Coastal Alabama
 20200324	A	0-0	East Central (MS)	Meridian (MS)
 20200324	A	0-0	Jones	Hinds (MS)
@@ -3990,6 +4410,8 @@ date	where	score	winner	loser
 20200326	A	0-0	Grove City	Allegheny
 20200326	A	0-0	Hendrix	East Texas Baptist
 20200326	A	0-0	Webster	Westminster (MO)
+20200326	A	0-0	Kansas Wesleyan	Oklahoma Wesleyan
+20200326	A	0-0	St. Katherine	Westmont
 20200326	A	0-0	Pima (AZ)	Mesa (AZ)
 20200326	A	0-0	Copiah-Lincoln (MS)	East Central (MS)
 20200326	N	0-0	American River	Linfield
@@ -3998,17 +4420,20 @@ date	where	score	winner	loser
 20200326	A	0-0	San Diego Mesa	San Diego City
 20200326	A	0-0	Victor Valley	El Camino
 20200327	A	0-0	Fordham	George Washington
+20200327	A	0-0	La Salle	George Mason
 20200327	A	0-0	St. Bonaventure	Duquesne
+20200327	A	0-0	Tulane	Old Dominion
+20200327	A	0-0	South Florida	Tulsa
 20200327	A	0-0	Clemson	Louisville
 20200327	A	0-0	Georgia Tech	N.C. State
 20200327	A	0-0	Virginia	North Carolina
 20200327	A	0-0	Virginia Tech	Notre Dame
 20200327	A	0-0	Wake Forest	Florida State
-20200327	A	0-0	Tulane	Old Dominion
-20200327	A	0-0	South Florida	Tulsa
 20200327	A	0-0	Oklahoma	Texas
 20200327	A	0-0	Oklahoma State	TCU
 20200327	N	0-0	DePaul	Eastern Washington
+20200327	A	0-0	Iowa	Penn State
+20200327	A	0-0	Minnesota	Illinois
 20200327	A	0-0	UC Santa Barbara	Hawaii
 20200327	H	0-0	Delaware	St. Francis (NY)
 20200327	A	0-0	William & Mary	Middle Tennessee
@@ -4060,7 +4485,11 @@ date	where	score	winner	loser
 20200327	A	0-0	Trinity (TX)	Amherst
 20200327	A	0-0	Occidental	Redlands
 20200327	A	0-0	Webster	St. Louis - Pharmacy
-20200327	H	0-0	Illinois Valley	Prairie State
+20200327	A	0-0	Milligan	Reinhardt
+20200327	A	0-0	Montreat	Reinhardt
+20200327	H	0-0	Spring Arbor	Holy Cross (IN)
+20200327	A	0-0	Grand View	Baker
+20200327	A	0-0	Prairie State	Illinois Valley
 20200327	A	0-0	East Central (MS)	Southwest (MS)
 20200327	A	0-0	Holmes (MS)	Hinds (MS)
 20200327	A	0-0	Meridian (MS)	Itawamba (MS)
@@ -4069,9 +4498,6 @@ date	where	score	winner	loser
 20200327	A	0-0	Chabot	Cabrillo
 20200327	A	0-0	Foothill	Mission
 20200327	A	0-0	Appalachian State	Texas Arlington
-20200327	A	0-0	Iowa	Penn State
-20200327	A	0-0	La Salle	George Mason
-20200327	A	0-0	Minnesota	Illinois
 20200327	A	0-0	Winthrop	Longwood
 20200327	A	0-0	Winthrop	Longwood
 20200328	A	0-0	Fordham	George Mason
@@ -4089,7 +4515,6 @@ date	where	score	winner	loser
 20200328	A	0-0	Purdue	Michigan
 20200328	A	0-0	Wisconsin	Northwestern
 20200328	A	0-0	Cal Poly	Hawaii
-20200328	H	0-0	UC Riverside	Westmont
 20200328	A	0-0	Hofstra	Quinnipiac
 20200328	A	0-0	Northern Kentucky	Illinois - Chicago
 20200328	A	0-0	Youngstown State	Cleveland State
@@ -4133,7 +4558,6 @@ date	where	score	winner	loser
 20200328	A	0-0	West Liberty	Charleston
 20200328	A	0-0	Wesleyan (WV)	Bluefield
 20200328	A	0-0	Emporia State	Newman
-20200328	H	0-0	Newman	Southwestern (KS)
 20200328	A	0-0	Assumption	Adelphi
 20200328	A	0-0	Bentley	Le Moyne
 20200328	A	0-0	St. Michael's	Stonehill
@@ -4189,20 +4613,35 @@ date	where	score	winner	loser
 20200328	A	0-0	Principia	Wheaton (IL)
 20200328	A	0-0	NYU	Rochester (NY)
 20200328	A	0-0	Huntingdon	Brevard
+20200328	A	0-0	Montreat	Georgia Gwinnett
+20200328	A	0-0	Cardinal Stritch	Green Bay
+20200328	A	0-0	Judson (IL)	Holy Cross (IN)
+20200328	A	0-0	Northwestern (IA)	Midland (NE)
+20200328	A	0-0	Hope International	San Diego Christian
+20200328	A	0-0	Westmont	UC Riverside
+20200328	A	0-0	Grand View	Missouri Valley
+20200328	A	0-0	Kansas Wesleyan	Sterling (KS)
+20200328	A	0-0	Southwestern (KS)	Newman
+20200328	A	0-0	Georgetown (KY)	Cumberland (TN)
+20200328	A	0-0	Shawnee State	Cumberland (TN)
+20200328	A	0-0	Brescia	Asbury
+20200328	A	0-0	Northwestern Ohio	Lindsey Wilson
+20200328	A	0-0	Prairie State	Huntington
 20200328	A	0-0	American River	Cerritos
 20200328	A	0-0	Modesto	Bakersfield
 20200328	N	0-0	Grossmont	Modesto
 20200328	A	0-0	Wright State	IUPUI
 20200328	A	0-0	St. Edward's (TX)	Oklahoma Baptist
-20200328	H	0-0	Green Bay	Cardinal Stritch
 20200329	A	0-0	Duquesne	Cleveland State
+20200329	A	0-0	Tulane	Tulsa
 20200329	A	0-0	Clemson	N.C. State
 20200329	A	0-0	Virginia	Duke
 20200329	A	0-0	Virginia Tech	Boston College
 20200329	A	0-0	Wake Forest	Miami (FL)
-20200329	A	0-0	Tulane	Tulsa
 20200329	A	0-0	Oklahoma	TCU
+20200329	A	0-0	Iowa	Ohio State
 20200329	A	0-0	Michigan	Indiana
+20200329	A	0-0	Minnesota	Northwestern
 20200329	A	0-0	Purdue	Michigan State
 20200329	A	0-0	Wisconsin	Illinois
 20200329	A	0-0	College of Charleston	East Carolina
@@ -4243,7 +4682,6 @@ date	where	score	winner	loser
 20200329	A	0-0	Walsh	Bellarmine
 20200329	A	0-0	Delta State	Auburn Montgomery
 20200329	A	0-0	Valdosta State	West Florida
-20200329	H	0-0	Christian Brothers	Martin Methodist
 20200329	A	0-0	Mississippi College	Shorter
 20200329	A	0-0	Fairmont State	Millersville
 20200329	A	0-0	Assumption	Springfield
@@ -4275,12 +4713,11 @@ date	where	score	winner	loser
 20200329	A	0-0	Colorado College	Metropolitan State
 20200329	A	0-0	Trinity (TX)	Brandeis
 20200329	A	0-0	NYU	Hobart & William Smith
-20200329	H	0-0	Sauk Valley (IL)	Prairie State
+20200329	A	0-0	Martin Methodist	Christian Brothers
+20200329	A	0-0	Prairie State	Sauk Valley (IL)
 20200329	A	0-0	Wright State	Illinois - Chicago
 20200329	A	0-0	Appalachian State	Louisiana
 20200329	A	0-0	George Washington	George Mason
-20200329	A	0-0	Iowa	Ohio State
-20200329	A	0-0	Minnesota	Northwestern
 20200329	A	0-0	Northern Colorado	Northern Arizona
 20200329	N	0-0	UMKC	UTRGV
 20200329	A	0-0	Valparaiso	North Dakota
@@ -4290,6 +4727,7 @@ date	where	score	winner	loser
 20200330	A	0-0	Salem - WV	Frostburg State
 20200330	A	0-0	Charleston	Davis & Elkins
 20200330	A	0-0	Hawaii Pacific	UCSD
+20200330	A	0-0	Montreat	Bluefield
 20200330	A	0-0	Cowley County (KS)	Seward County (KS)
 20200330	A	0-0	Southwest (MS)	Jones
 20200330	A	0-0	UAH	Georgia College
@@ -4298,7 +4736,6 @@ date	where	score	winner	loser
 20200331	A	0-0	Barton	Mount Olive
 20200331	A	0-0	Southern Wesleyan	North Greenville
 20200331	A	0-0	Southern Arkansas	Harding
-20200331	H	0-0	Delta State	William Carey
 20200331	A	0-0	MSU-Texas	Texas Arlington
 20200331	A	0-0	Davis & Elkins	Fairmont State
 20200331	A	0-0	Concordia (CA)	Biola
@@ -4321,6 +4758,9 @@ date	where	score	winner	loser
 20200331	A	0-0	St. Joseph's (Brooklyn)	Yeshiva
 20200331	A	0-0	Webster	Principia
 20200331	A	0-0	Covenant	Berry
+20200331	A	0-0	Lewis-Clark (ID)	Reinhardt
+20200331	A	0-0	Lindsey Wilson	Georgetown (KY)
+20200331	A	0-0	William Carey	Delta State
 20200331	A	0-0	Barton County (KS)	Seward County (KS)
 20200331	A	0-0	East Central (MS)	Hinds (MS)
 20200331	A	0-0	Jones	Holmes (MS)
@@ -4346,11 +4786,14 @@ date	where	score	winner	loser
 20200401	A	0-0	Tusculum	Bluefield State
 20200401	A	0-0	Franklin & Marshall	McDaniel
 20200401	A	0-0	Hunter	Farmingdale State
+20200401	A	0-0	Thomas More	Lindsey Wilson
 20200401	A	0-0	Catholic	Goucher
 20200401	A	0-0	Denison	Kenyon
 20200401	A	0-0	MIT	Babson
 20200401	A	0-0	Coast Guard	Springfield
 20200401	A	0-0	Ohio Northern	Heidelberg
+20200401	A	0-0	Friends	Kansas Wesleyan
+20200401	A	0-0	Southwestern (KS)	Oklahoma Wesleyan
 20200401	A	0-0	Jones	Meridian (MS)
 20200401	A	0-0	UAH	Valdosta State
 20200402	A	0-0	Kennesaw State	Stetson
@@ -4376,18 +4819,20 @@ date	where	score	winner	loser
 20200402	A	0-0	Williams	Pomona-Pitzer
 20200402	A	0-0	Marietta	Capital (OH)
 20200402	A	0-0	Colorado College	Southwestern (TX)
-20200402	H	0-0	Moraine Valley (IL)	Prairie State
+20200402	A	0-0	Reinhardt	Bluefield
+20200402	A	0-0	OUAZ	Hope International
+20200402	A	0-0	Prairie State	Moraine Valley (IL)
 20200402	A	0-0	Hinds (MS)	Southwest (MS)
 20200402	A	0-0	Irvine Valley	Fullerton
 20200402	A	0-0	Grossmont	Riverside
+20200403	A	0-0	Central Florida	Tulane
+20200403	A	0-0	South Florida	Memphis
 20200403	A	0-0	Duke	Notre Dame
 20200403	A	0-0	Louisville	Florida State
 20200403	A	0-0	N.C. State	Miami (FL)
 20200403	A	0-0	Virginia	Georgia Tech
 20200403	A	0-0	Virginia Tech	Clemson
 20200403	A	0-0	Virginia Tech	Clemson
-20200403	A	0-0	Central Florida	Tulane
-20200403	A	0-0	South Florida	Memphis
 20200403	A	0-0	Bellarmine	Lindenwood
 20200403	A	0-0	TCU	Texas Tech
 20200403	A	0-0	Butler	DePaul
@@ -4449,7 +4894,6 @@ date	where	score	winner	loser
 20200403	A	0-0	Concordia (CA)	Azusa Pacific
 20200403	A	0-0	Edinboro	West Chester
 20200403	A	0-0	Mercyhurst	Millersville
-20200403	H	0-0	Tusculum	Montreat
 20200403	A	0-0	Barry	Rollins
 20200403	A	0-0	Embry-Riddle (FL)	Florida Southern
 20200403	A	0-0	Concordia (TX)	McMurry
@@ -4464,6 +4908,16 @@ date	where	score	winner	loser
 20200403	A	0-0	Webster	Millikin
 20200403	A	0-0	Brandeis	Babson
 20200403	A	0-0	NYU	MIT
+20200403	A	0-0	Montreat	Taylor
+20200403	A	0-0	Montreat	Tusculum
+20200403	N	0-0	Judson (IL)	Spring Arbor
+20200403	A	0-0	Olivet Nazarene	Marian (IN)
+20200403	A	0-0	Arizona Christian	Westmont
+20200403	A	0-0	Baker	Missouri Baptist
+20200403	A	0-0	TAMU-Texarkana	Xavier (LA)
+20200403	A	0-0	Georgetown (KY)	Marian (IN)
+20200403	A	0-0	Lindsey Wilson	Indiana Wesleyan
+20200403	A	0-0	Brescia	Indiana Southeast
 20200403	A	0-0	Seward County (KS)	Bethany (KS)
 20200403	A	0-0	Jacksonville (TX)	Tyler JC (TX)
 20200403	A	0-0	Gadsden State	Wallace State
@@ -4512,7 +4966,6 @@ date	where	score	winner	loser
 20200404	A	0-0	Texas Arlington	South Alabama
 20200404	A	0-0	Alabama A&M	Florida A&M
 20200404	A	0-0	Alabama State	Spring Hill
-20200404	H	0-0	Jackson State	Xavier (LA)
 20200404	A	0-0	BYU	San Diego
 20200404	A	0-0	Loyola Marymount	St. Mary's (CA)
 20200404	A	0-0	Concordia (NY)	Jefferson
@@ -4564,6 +5017,7 @@ date	where	score	winner	loser
 20200404	A	0-0	Muhlenberg	Johns Hopkins
 20200404	N	0-0	Defiance	Oakland City
 20200404	H	0-0	Franklin (IN)	Oakland City
+20200404	A	0-0	Thomas More	Cumberland (TN)
 20200404	A	0-0	Elizabethtown	Goucher
 20200404	A	0-0	Moravian	Catholic
 20200404	A	0-0	Scranton	Susquehanna
@@ -4603,6 +5057,18 @@ date	where	score	winner	loser
 20200404	A	0-0	Carnegie Mellon	Mary Washington
 20200404	A	0-0	Northwestern (MN)	North Central (IL)
 20200404	A	0-0	Maryville (TN)	Huntingdon
+20200404	A	0-0	Judson (IL)	Taylor
+20200404	A	0-0	Olivet Nazarene	Taylor
+20200404	A	0-0	St. Ambrose	Holy Cross (IN)
+20200404	N	0-0	Huntington	Judson (IL)
+20200404	A	0-0	Xavier (LA)	Jackson State
+20200404	A	0-0	Midland (NE)	Mount Marty (SD)
+20200404	A	0-0	OUAZ	Westmont
+20200404	A	0-0	Baker	St. Louis - Pharmacy
+20200404	A	0-0	Sterling (KS)	Southwestern (KS)
+20200404	A	0-0	Tabor	Kansas Wesleyan
+20200404	N	0-0	Lindsey Wilson	Montreat
+20200404	N	0-0	Lindsey Wilson	Olivet Nazarene
 20200404	A	0-0	Marion Military	East Central (MS)
 20200404	A	0-0	Holmes (MS)	Copiah-Lincoln (MS)
 20200404	N	0-0	East Carolina	SMU
@@ -4612,14 +5078,14 @@ date	where	score	winner	loser
 20200404	A	0-0	Green Bay	Wright State
 20200405	A	0-0	Duquesne	Youngstown State
 20200405	A	0-0	St. Bonaventure	Lafayette
+20200405	A	0-0	Central Florida	Tulsa
+20200405	A	0-0	South Florida	Tulane
 20200405	A	0-0	Duke	Boston College
 20200405	A	0-0	Louisville	Miami (FL)
 20200405	A	0-0	N.C. State	Florida State
 20200405	A	0-0	North Carolina	Notre Dame
 20200405	A	0-0	Virginia	Clemson
 20200405	A	0-0	Virginia Tech	Georgia Tech
-20200405	A	0-0	Central Florida	Tulsa
-20200405	A	0-0	South Florida	Tulane
 20200405	A	0-0	NJIT	St. John's (NY)
 20200405	A	0-0	Baylor	TCU
 20200405	A	0-0	Texas	Texas Tech
@@ -4648,7 +5114,6 @@ date	where	score	winner	loser
 20200405	A	0-0	Morgan State	Norfolk State
 20200405	A	0-0	Boise State	New Mexico
 20200405	A	0-0	Utah State	Air Force
-20200405	N	0-0	Eastern Illinois	Marian (IN)
 20200405	A	0-0	Eastern Illinois	Notre Dame
 20200405	A	0-0	Tennessee Tech	Arkansas
 20200405	A	0-0	UCLA	Arizona State
@@ -4681,13 +5146,11 @@ date	where	score	winner	loser
 20200405	A	0-0	Northwest Missouri	UMSL
 20200405	A	0-0	Adelphi	Stonehill
 20200405	A	0-0	Holy Names	UC Santa Cruz
-20200405	H	0-0	Augusta	Prairie State
 20200405	A	0-0	Lander	Young Harris (GA)
 20200405	A	0-0	Georgia College	Columbus State
 20200405	A	0-0	Newberry	Anderson (SC)
 20200405	A	0-0	Queens (NC)	Tusculum
 20200405	A	0-0	Barry	Eckerd
-20200405	H	0-0	Wartburg	Grand View
 20200405	A	0-0	Christopher Newport	Carnegie Mellon
 20200405	A	0-0	Salisbury	Franklin & Marshall
 20200405	A	0-0	Staten Island	Baruch
@@ -4721,6 +5184,10 @@ date	where	score	winner	loser
 20200405	A	0-0	NYU	Nichols
 20200405	A	0-0	Wash U	Southwest Baptist (MO)
 20200405	A	0-0	Berea	Huntingdon
+20200405	N	0-0	Marian (IN)	Eastern Illinois
+20200405	A	0-0	Grand View	Wartburg
+20200405	A	0-0	Cumberlands (KY)	Cumberland (TN)
+20200405	A	0-0	Prairie State	Augusta
 20200405	N	0-0	ASA (Miami)	Eastern Florida
 20200405	A	0-0	Harford (MD)	Goucher
 20200405	A	0-0	George Washington	VCU
@@ -4733,6 +5200,7 @@ date	where	score	winner	loser
 20200406	A	0-0	Embry-Riddle (FL)	Eckerd
 20200406	A	0-0	UMass Boston	Roger Williams
 20200406	A	0-0	Greenville	Webster
+20200406	A	0-0	McPherson	Southwestern (KS)
 20200406	A	0-0	UAH	Lee (TN)
 20200406	H	0-0	Connecticut	Queens (NY)
 20200407	A	0-0	VCU	William & Mary
@@ -4752,6 +5220,11 @@ date	where	score	winner	loser
 20200407	A	0-0	Anderson (IN)	Taylor
 20200407	A	0-0	Kenyon	Wooster
 20200407	A	0-0	Bridgewater	Hampden-Sydney
+20200407	A	0-0	Milligan	Bluefield
+20200407	A	0-0	Point	Reinhardt
+20200407	H	0-0	Olivet Nazarene	Holy Cross (IN)
+20200407	A	0-0	Spring Arbor	Cornerstone
+20200407	A	0-0	Indiana East	Marian (IN)
 20200407	A	0-0	Marion Military	Wallace State
 20200407	A	0-0	Jones	Copiah-Lincoln (MS)
 20200407	A	0-0	Gulf Coast (MS)	Hinds (MS)
@@ -4762,6 +5235,7 @@ date	where	score	winner	loser
 20200408	A	0-0	Quinnipiac	Bryant
 20200408	A	0-0	Binghamton	Wright State
 20200408	A	0-0	Coppin State	Morgan State
+20200408	A	0-0	Fresno State	Air Force
 20200408	A	0-0	Samford	Chattanooga
 20200408	A	0-0	UNC Greensboro	Elon
 20200408	A	0-0	Wofford	Furman
@@ -4802,13 +5276,15 @@ date	where	score	winner	loser
 20200408	A	0-0	Purchase	Farmingdale State
 20200408	A	0-0	Webster	Fontbonne
 20200408	A	0-0	Rochester (NY)	Hobart & William Smith
+20200408	A	0-0	Point	Georgia Gwinnett
+20200408	A	0-0	Cumberlands (KY)	Lindsey Wilson
 20200409	A	0-0	Duquesne	Georgetown
+20200409	A	0-0	SMU	Texas Arlington
+20200409	A	0-0	Tulsa	Memphis
 20200409	A	0-0	Florida State	Virginia
 20200409	A	0-0	Louisville	Duke
 20200409	A	0-0	Miami (FL)	Virginia Tech
 20200409	A	0-0	Notre Dame	N.C. State
-20200409	A	0-0	SMU	Texas Arlington
-20200409	A	0-0	Tulsa	Memphis
 20200409	A	0-0	Liberty	Lipscomb
 20200409	A	0-0	NJIT	North Florida
 20200409	A	0-0	Baylor	Oklahoma State
@@ -4822,14 +5298,13 @@ date	where	score	winner	loser
 20200409	A	0-0	UTRGV	Chicago State
 20200409	A	0-0	Portland	Pepperdine
 20200409	H	0-0	Concordia (NY)	St. Francis (NY)
-20200409	H	0-0	Oklahoma Baptist	John Brown
 20200409	A	0-0	Auburn Montgomery	Lee (TN)
+20200409	N	0-0	Oakland City	Ohio Christian
 20200409	N	0-0	St. Mary's (TX)	CSU-Pueblo
 20200409	N	0-0	St. Mary's (TX)	WNM
 20200409	A	0-0	Fairmont State	Charleston
 20200409	A	0-0	Davis & Elkins	Wesleyan (WV)
 20200409	A	0-0	West Virginia State	Concord
-20200409	H	0-0	Emporia State	Baker
 20200409	A	0-0	Metropolitan State	UTPB
 20200409	N	0-0	Metropolitan State	WNM
 20200409	A	0-0	Lander	Columbus State
@@ -4842,18 +5317,26 @@ date	where	score	winner	loser
 20200409	A	0-0	Gustavus Adolphus	Pomona-Pitzer
 20200409	A	0-0	Bridgewater	Randolph-Macon
 20200409	A	0-0	Lynchburg	Hampden-Sydney
-20200409	H	0-0	Roanoke	Bluefield
 20200409	A	0-0	Trinity (TX)	Southwestern (TX)
 20200409	A	0-0	Fontbonne	Principia
-20200409	H	0-0	Lake County (IL)	Prairie State
+20200409	A	0-0	Bluefield	Roanoke
+20200409	A	0-0	Bethel (IN)	Holy Cross (IN)
+20200409	A	0-0	Arizona Christian	San Diego Christian
+20200409	A	0-0	Baker	Emporia State
+20200409	A	0-0	Kansas Wesleyan	Southwestern (KS)
+20200409	A	0-0	Cumberland (TN)	Pikeville
+20200409	A	0-0	John Brown	Oklahoma Baptist
+20200409	A	0-0	Prairie State	Lake County (IL)
 20200409	A	0-0	Barton County (KS)	Newman
 20200409	A	0-0	Gulf Coast (MS)	Coastal Alabama
 20200409	A	0-0	St. Edward's (TX)	UTPB
 20200410	A	0-0	Duquesne	George Mason
+20200410	A	0-0	La Salle	Lafayette
 20200410	A	0-0	Richmond	East Carolina
 20200410	A	0-0	Boston College	Clemson
 20200410	A	0-0	Montana	Idaho State
 20200410	A	0-0	Northern Arizona	Idaho
+20200410	A	0-0	Minnesota	Purdue
 20200410	A	0-0	Nebraska	Michigan State
 20200410	A	0-0	Wisconsin	Indiana
 20200410	A	0-0	Hawaii	UC Riverside
@@ -4927,17 +5410,15 @@ date	where	score	winner	loser
 20200410	A	0-0	DuPage (IL)	Prairie State
 20200410	A	0-0	Wright State	Youngstown State
 20200410	A	0-0	Appalachian State	Davidson
-20200410	A	0-0	La Salle	Lafayette
-20200410	A	0-0	Minnesota	Purdue
 20200410	N	0-0	St. Edward's (TX)	WNM
 20200410	A	0-0	UAH	West Alabama
 20200411	N	0-0	Richmond	Connecticut
+20200411	A	0-0	Tulsa	SMU
+20200411	A	0-0	Wichita State	Memphis
 20200411	A	0-0	Duke	N.C. State
 20200411	A	0-0	Florida State	Virginia Tech
 20200411	A	0-0	Miami (FL)	Virginia
 20200411	A	0-0	Notre Dame	Wake Forest
-20200411	A	0-0	Tulsa	SMU
-20200411	A	0-0	Wichita State	Memphis
 20200411	A	0-0	Florida Gulf Coast	North Florida
 20200411	A	0-0	Lipscomb	Kennesaw State
 20200411	A	0-0	NJIT	Stetson
@@ -4947,6 +5428,7 @@ date	where	score	winner	loser
 20200411	A	0-0	Texas Tech	Oklahoma State
 20200411	A	0-0	Montana State	Weber State
 20200411	A	0-0	Northern Arizona	Eastern Washington
+20200411	A	0-0	Iowa	Michigan State
 20200411	A	0-0	Nebraska	Michigan
 20200411	A	0-0	Hawaii	UC Irvine
 20200411	A	0-0	Hofstra	Drexel
@@ -4988,7 +5470,6 @@ date	where	score	winner	loser
 20200411	A	0-0	Auburn Montgomery	West Florida
 20200411	A	0-0	Salem - WV	Mount Olive
 20200411	A	0-0	Texas Tyler	MSU-Texas
-20200411	H	0-0	Davis & Elkins	Bluefield
 20200411	A	0-0	Northwest Missouri	Omaha
 20200411	A	0-0	Southwest Baptist (MO)	UMSL
 20200411	A	0-0	Lindenwood	Lewis
@@ -5029,12 +5510,18 @@ date	where	score	winner	loser
 20200411	A	0-0	Farmingdale State	Oneonta
 20200411	A	0-0	Farmingdale State	Oswego
 20200411	N	0-0	Carnegie Mellon	UW Whitewater
+20200411	A	0-0	Bluefield	Davis & Elkins
+20200411	A	0-0	Kansas Wesleyan	Bethany (KS)
+20200411	A	0-0	McPherson	Friends
+20200411	A	0-0	Southwestern (KS)	Baker
+20200411	A	0-0	Southwestern (KS)	Tabor
 20200411	A	0-0	Iowa Central	Prairie State
 20200411	A	0-0	Wright State	Cleveland State
-20200411	A	0-0	Iowa	Michigan State
 20200412	A	0-0	Central Florida	South Florida
 20200412	A	0-0	Montana	Weber State
 20200412	A	0-0	Montana State	Idaho State
+20200412	A	0-0	Iowa	Michigan
+20200412	A	0-0	Minnesota	Indiana
 20200412	A	0-0	Wisconsin	Purdue
 20200412	A	0-0	UC Santa Barbara	UC Riverside
 20200412	A	0-0	UNC Wilmington	Georgia State
@@ -5054,18 +5541,17 @@ date	where	score	winner	loser
 20200412	A	0-0	Middlebury	Williams
 20200412	A	0-0	Wesleyan (CT)	Amherst
 20200412	A	0-0	George Fox	Whitman
-20200412	A	0-0	Iowa	Michigan
-20200412	A	0-0	Minnesota	Indiana
+20200412	A	0-0	Reinhardt	Georgia Gwinnett
 20200412	A	0-0	Connecticut	East Carolina
 20200413	A	0-0	Delaware	Lafayette
 20200413	A	0-0	New Orleans	Incarnate Word
-20200413	H	0-0	Southern Indiana	Oakland City
+20200413	A	0-0	Oakland City	Southern Indiana
 20200413	A	0-0	Adelphi	Post
 20200413	A	0-0	North Georgia	Limestone
 20200413	A	0-0	Bloomsburg	Mount St. Mary's (MD)
 20200413	A	0-0	Carleton	Macalester
-20200413	H	0-0	Capital (OH)	Concordia (MI)
 20200413	A	0-0	Webster	Westminster (MO)
+20200413	A	0-0	Concordia (MI)	Capital (OH)
 20200414	A	0-0	UC Riverside	UC Irvine
 20200414	A	0-0	Monmouth (NJ)	NJIT
 20200414	A	0-0	Quinnipiac	Fairfield
@@ -5089,7 +5575,7 @@ date	where	score	winner	loser
 20200414	A	0-0	Randolph-Macon	Virginia Wesleyan
 20200414	A	0-0	Thiel	Allegheny
 20200414	A	0-0	Mt. St. Mary (NY)	Farmingdale State
-20200414	H	0-0	McHenry County (IL)	Prairie State
+20200414	A	0-0	Prairie State	McHenry County (IL)
 20200414	A	0-0	Cowley County (KS)	Oklahoma Baptist
 20200415	A	0-0	Kennesaw State	Mercer
 20200415	A	0-0	Lehigh	Lafayette
@@ -5113,16 +5599,20 @@ date	where	score	winner	loser
 20200415	A	0-0	Emerson	MIT
 20200415	A	0-0	Springfield	Babson
 20200415	A	0-0	Huntingdon	LaGrange
+20200415	A	0-0	Olivet Nazarene	Judson (IL)
+20200415	A	0-0	Bethany (KS)	Southwestern (KS)
+20200415	A	0-0	Kansas Wesleyan	McPherson
+20200415	A	0-0	Ottawa	Friends
 20200416	A	0-0	Virginia State	Salem - WV
 20200416	A	0-0	Kentucky Wesleyan	Oakland City
 20200416	A	0-0	MSU-Texas	St. Edward's (TX)
 20200416	A	0-0	Shepherd	Fairmont State
 20200416	A	0-0	Millersville	West Chester
-20200416	H	0-0	Calvin	Bethel (IN)
 20200416	A	0-0	Clark (MA)	UMass Boston
 20200416	A	0-0	Capital (OH)	Defiance
 20200416	A	0-0	Ohio Northern	Earlham
 20200416	A	0-0	Washington & Jefferson	Allegheny
+20200416	A	0-0	Bethel (IN)	Calvin
 20200416	A	0-0	Elgin (IL)	Prairie State
 20200416	A	0-0	Centenary (LA)	Mary Hardin-Baylor
 20200417	A	0-0	Montana	Southern Utah
@@ -5136,7 +5626,6 @@ date	where	score	winner	loser
 20200417	A	0-0	UCSD	Holy Names
 20200417	A	0-0	California	Arizona State
 20200417	A	0-0	Stanford	Arizona
-20200417	H	0-0	New Orleans	Florida National
 20200417	A	0-0	Denver	Drake
 20200417	A	0-0	Mount Olive	Limestone
 20200417	A	0-0	North Greenville	Barton
@@ -5157,7 +5646,6 @@ date	where	score	winner	loser
 20200417	N	0-0	CSU-Pueblo	Metropolitan State
 20200417	A	0-0	Central (IA)	Doane
 20200417	A	0-0	Ozarks	Millsaps
-20200417	H	0-0	Texas Dallas	TAMU-Texarkana
 20200417	A	0-0	Augustana (IL)	Grinnell
 20200417	A	0-0	Union (NY)	Ithaca
 20200417	A	0-0	St. John's (MN)	Macalester
@@ -5167,6 +5655,11 @@ date	where	score	winner	loser
 20200417	A	0-0	Randolph	Roanoke
 20200417	A	0-0	Caltech	Cal Lutheran
 20200417	A	0-0	Principia	Westminster (MO)
+20200417	A	0-0	Florida National	New Orleans
+20200417	A	0-0	TAMU-Texarkana	Texas Dallas
+20200417	A	0-0	Indiana East	Taylor
+20200417	A	0-0	Indiana Southeast	Marian (IN)
+20200417	A	0-0	John Brown	Southwestern (KS)
 20200417	A	0-0	Seward County (KS)	Oklahoma Baptist
 20200417	A	0-0	Valparaiso	Omaha
 20200418	A	0-0	Duquesne	Carnegie Mellon
@@ -5206,6 +5699,7 @@ date	where	score	winner	loser
 20200418	A	0-0	William Jewell	UMSL
 20200418	A	0-0	Mississippi College	Auburn Montgomery
 20200418	A	0-0	West Alabama	Georgia Gwinnett
+20200418	A	0-0	Oakland City	Johnson (TN)
 20200418	A	0-0	Dallas Baptist	St. Mary's (TX)
 20200418	A	0-0	UTPB	Arkansas Ft. Smith
 20200418	A	0-0	West Liberty	Frostburg State
@@ -5267,6 +5761,13 @@ date	where	score	winner	loser
 20200418	A	0-0	NYU	Brandeis
 20200418	A	0-0	Rochester (NY)	Babson
 20200418	A	0-0	Huntingdon	Covenant
+20200418	A	0-0	Roosevelt	Holy Cross (IN)
+20200418	N	0-0	Marian (IN)	Lewis-Clark (ID)
+20200418	N	0-0	Marian (IN)	Xavier (LA)
+20200418	A	0-0	Hastings	Midland (NE)
+20200418	A	0-0	Missouri Valley	Baker
+20200418	A	0-0	Brescia	Midway
+20200418	A	0-0	Aquinas (MI)	Taylor
 20200418	A	0-0	Concord	Davis & Elkins
 20200418	A	0-0	Valparaiso	Drake
 20200419	A	0-0	St. Joseph's (PA)	George Washington
@@ -5293,6 +5794,7 @@ date	where	score	winner	loser
 20200419	A	0-0	Shaw	Salem - WV
 20200419	A	0-0	Kentucky Wesleyan	Findlay
 20200419	A	0-0	Walsh	Hillsdale
+20200419	A	0-0	Oakland City	Maryville (TN)
 20200419	A	0-0	Hawaii Hilo	Holy Names
 20200419	A	0-0	Young Harris (GA)	Columbus State
 20200419	A	0-0	Bloomsburg	Jefferson
@@ -5324,14 +5826,17 @@ date	where	score	winner	loser
 20200419	A	0-0	Berry	Millsaps
 20200419	A	0-0	Centre	Hendrix
 20200419	A	0-0	NYU	Babson
-20200419	H	0-0	Maryville (TN)	Oakland City
 20200419	A	0-0	Methodist (NC)	Washington & Lee
+20200419	A	0-0	IU South Bend	Holy Cross (IN)
+20200419	A	0-0	Doane	Midland (NE)
+20200419	A	0-0	Southwestern (KS)	Missouri Valley
+20200419	A	0-0	Keiser	Florida National
 20200419	A	0-0	Concord	Wesleyan (WV)
 20200420	A	0-0	Shaw	Davis & Elkins
 20200420	A	0-0	Arkansas Ft. Smith	John Brown
-20200420	H	0-0	Anderson (IN)	Spring Arbor
 20200420	A	0-0	UMass Boston	JWU Providence
 20200420	A	0-0	Olivet	Adrian
+20200420	A	0-0	Spring Arbor	Anderson (IN)
 20200421	A	0-0	Fordham	Eastern Florida
 20200421	A	0-0	UMSL	Lindenwood
 20200421	A	0-0	Cedarville	Indiana East
@@ -5349,12 +5854,12 @@ date	where	score	winner	loser
 20200422	A	0-0	Wheaton (MA)	Babson
 20200422	A	0-0	Clark (MA)	Springfield
 20200422	A	0-0	Emerson	Coast Guard
-20200422	H	0-0	Capital (OH)	Pikeville
 20200422	A	0-0	Ohio Northern	Otterbein
 20200422	A	0-0	Washington & Lee	Sewanee
 20200422	A	0-0	Redlands	Caltech
 20200422	A	0-0	Farmingdale State	Sarah Lawrence
 20200422	A	0-0	Yeshiva	Purchase
+20200422	A	0-0	Pikeville	Capital (OH)
 20200423	A	0-0	Wartburg	Loras
 20200423	A	0-0	Baruch	Farmingdale State
 20200423	A	0-0	Alma	Hope
@@ -5364,8 +5869,8 @@ date	where	score	winner	loser
 20200424	A	0-0	Shenandoah	Bridgewater
 20200424	A	0-0	Seward County (KS)	Cowley County (KS)
 20200425	A	0-0	Yale	Brown
+20200425	A	0-0	Nebraska Wesleyan	Wartburg
 20200425	A	0-0	Buena Vista	Wartburg
-20200425	H	0-0	Wartburg	Nebraska Wesleyan
 20200425	A	0-0	Washington (MD)	Ursinus
 20200425	A	0-0	Franklin & Marshall	Muhlenberg
 20200425	A	0-0	Johns Hopkins	Dickinson
@@ -5393,4 +5898,5 @@ date	where	score	winner	loser
 20200426	A	0-0	Trinity (CT)	Wesleyan (CT)
 20200426	A	0-0	Yeshiva	Sarah Lawrence
 20200428	A	0-0	Dubuque	Loras
+20200501	A	0-0	SCAD - Atlanta	Georgia Gwinnett
 20200520	N	0-0	Barton	Findlay
