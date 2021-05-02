@@ -698,7 +698,6 @@ date	where	score	winner	loser
 20210213	H	7-0	UNC Asheville	Emmanuel (GA)
 20210213	H	7-0	Michigan	Rutgers
 20210213	H	4-3	Michigan State	Maryland
-20210213	A	0-0	UNC Wilmington	S.C. State
 20210213	A	4-3	Charlotte	Clemson
 20210213	A	0-0	Southern Miss	Jacksonville State
 20210213	H	7-0	Milwaukee	Northern Iowa
@@ -1496,7 +1495,7 @@ date	where	score	winner	loser
 20210303	H	9-0	Gulf Coast (MS)	Southwest (MS)
 20210304	H	4-3	Baylor	TCU
 20210304	H	7-0	Texas	UTSA
-20210304	A	0-0	College of Charleston	S.C. State
+20210304	A	5-2	College of Charleston	S.C. State
 20210304	H	6-1	Illinois - Chicago	Cardinal Stritch
 20210304	H	5-2	Missouri State	Saint Louis
 20210304	H	5-2	UNC Greensboro	Radford
@@ -1936,7 +1935,7 @@ date	where	score	winner	loser
 20210310	A	5-2	Kennesaw State	Davidson
 20210310	H	7-0	Connecticut	Sacred Heart
 20210310	A	4-3	Presbyterian	Gardner-Webb
-20210310	A	0-0	UNC Wilmington	S.C. State
+20210310	A	4-2	UNC Wilmington	S.C. State
 20210310	H	7-0	Toledo	Oakland
 20210310	A	5-2	Illinois State	Chattanooga
 20210310	H	6-1	ETSU	Mercer
@@ -2319,6 +2318,7 @@ date	where	score	winner	loser
 20210314	A	7-0	Lindsey Wilson	Cumberland (TN)
 20210314	A	7-0	Indiana East	Freed-Hardeman
 20210315	H	6-1	Virginia Tech	Radford
+20210315	H	6-1	S.C. State	Towson
 20210315	N	0-0	Colorado State	New Mexico State
 20210315	H	7-0	Sacred Heart	St. Francis (NY)
 20210315	H	4-3	Western Carolina	North Dakota
@@ -2544,7 +2544,6 @@ date	where	score	winner	loser
 20210320	H	5-2	Youngstown State	Cleveland State
 20210320	N	6-1	Northern Illinois	Buffalo
 20210320	N	7-0	Florida A&M	NC A&T
-20210320	A	0-0	S.C. State	Western Carolina
 20210320	H	6-1	Drake	Creighton
 20210320	H	6-1	Boise State	Montana State
 20210320	N	5-2	Fresno State	Santa Clara
@@ -2729,6 +2728,7 @@ date	where	score	winner	loser
 20210321	A	6-1	Ball State	Western Michigan
 20210321	A	4-3	Bowling Green	Toledo
 20210321	H	6-1	Miami (OH)	Eastern Michigan
+20210321	H	4-1	S.C. State	NC A&T
 20210321	A	6-1	Illinois State	Saint Louis
 20210321	H	6-1	Fresno State	CSUN
 20210321	N	5-2	Bryant	Fairfield
@@ -3049,7 +3049,7 @@ date	where	score	winner	loser
 20210327	A	7-0	Youngstown State	Oakland
 20210327	A	4-3	Fairfield	Niagara
 20210327	H	6-1	Quinnipiac	Rider
-20210327	A	0-0	S.C. State	Florida A&M
+20210327	A	4-3	S.C. State	Florida A&M
 20210327	A	4-3	Drake	Marquette
 20210327	A	4-3	Illinois State	Bradley
 20210327	H	5-2	Missouri State	Southwest Baptist (MO)
@@ -3578,6 +3578,7 @@ date	where	score	winner	loser
 20210403	A	5-2	Niagara	Rider
 20210403	N	4-3	Ball State	Buffalo
 20210403	A	4-1	Norfolk State	Coppin State
+20210403	H	6-1	S.C. State	NCCU
 20210403	H	6-1	Drake	Valparaiso
 20210403	H	5-2	Missouri State	Bradley
 20210403	H	4-1	Boise State	San Diego State
@@ -3813,10 +3814,10 @@ date	where	score	winner	loser
 20210407	A	4-2	Wichita State	UMKC
 20210407	H	7-0	Connecticut	Merrimack
 20210407	H	5-2	UCSD	UC Riverside
+20210407	H	5-2	College of Charleston	S.C. State
 20210407	A	4-3	Monmouth (NJ)	Fairfield
 20210407	H	5-2	Quinnipiac	Providence
 20210407	A	8-0	Norfolk State	Virginia Wesleyan
-20210407	A	0-0	S.C. State	College of Charleston
 20210407	A	7-0	ETSU	Western Carolina
 20210407	A	4-3	South Dakota	Omaha
 20210407	A	4-2	Coastal Carolina	Appalachian State
@@ -5137,6 +5138,7 @@ date	where	score	winner	loser
 20210424	N	4-1	Siena	Fairfield
 20210424	N	4-3	Northern Illinois	Buffalo
 20210424	H	4-3	Western Michigan	Eastern Michigan
+20210424	N	4-0	S.C. State	Delaware State
 20210424	N	4-3	Drake	Illinois State
 20210424	N	4-3	Missouri State	Stony Brook
 20210424	A	4-1	Air Force	Nevada
@@ -5264,6 +5266,7 @@ date	where	score	winner	loser
 20210425	N	4-1	Siena	Quinnipiac
 20210425	H	6-1	Ball State	Western Michigan
 20210425	A	4-3	Miami (OH)	Eastern Michigan
+20210425	N	4-0	S.C. State	Florida A&M
 20210425	A	4-0	Drake	Missouri State
 20210425	N	4-2	Boise State	Colorado State
 20210425	H	4-3	UNLV	San Diego State
@@ -5412,6 +5415,7 @@ date	where	score	winner	loser
 20210501	N	4-0	Youngstown State	Milwaukee
 20210501	H	4-3	Navy	Army
 20210501	H	4-0	Denver	UMKC
+20210501	H	4-1	New Mexico State	UTRGV
 20210501	N	4-0	Charleston	West Liberty
 20210501	N	4-0	Southwest Baptist (MO)	Drury
 20210501	H	5-0	Luther (IA)	Wartburg
@@ -5443,11 +5447,14 @@ date	where	score	winner	loser
 20210501	A	0-0	UW Eau Claire	Chicago
 20210501	H	0-0	Antelope Valley	Sequoias
 20210502	A	0-0	Syracuse	San Francisco
+20210502	N	0-0	Michigan	Ohio State
 20210502	N	0-0	Illinois - Chicago	Youngstown State
 20210502	A	0-0	Ball State	Toledo
 20210502	A	0-0	Bowling Green	Miami (OH)
+20210502	A	6-1	Buffalo	Eastern Michigan
 20210502	A	0-0	Western Michigan	Northern Illinois
 20210502	A	0-0	Boston University	Navy
+20210502	A	4-0	Grand Canyon	New Mexico State
 20210502	N	0-0	Charleston	West Virginia State
 20210502	A	0-0	WNE	Nichols
 20210502	A	0-0	Johns Hopkins	Christopher Newport

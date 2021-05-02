@@ -2325,8 +2325,8 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210116	564156	565408	N	    	North Carolina	Adam Neff           	Virginia Tech	Ryan Fishback       	6-4, 6-3
 20210116	514358	402996	N	    	North Carolina	Rinky Hijikata      	Virginia Tech	Carlo Donato        	7-5, 6-2
 20210116	453379	445208	N	    	North Carolina	Simon Soendergaard  	Virginia Tech	Alexandre Ribeiro   	7-5, 6-3
-20210116	521233	514359	N	    	Virginia Tech	Matthis Ross        	North Carolina	Anuj Watane         	6-2, 5-7, 6-2
 20210116	565404	517797	N	    	Virginia Tech	Hugo Maia           	North Carolina	Mark Dillon         	6-2, 6-0
+20210116	521233	514359	N	    	Virginia Tech	Matthis Ross        	North Carolina	Anuj Watane         	6-2, 5-7, 6-2
 20210116	564416	423647	N	    	Duke	Andrew Dale         	Virginia Tech	Ryan Kros           	6-1, 6-4
 20210116	514016	453379	N	    	N.C. State	Rafa Izquierdo Luque	North Carolina	Simon Soendergaard  	2-6, 6-0, 6-1
 20210116	387254	564156	N	    	N.C. State	Tadas Babelis       	North Carolina	Adam Neff           	7-5, 6-3
@@ -20604,6 +20604,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210409	564258	497140	A	   1	Georgia State	Harvey Maughan      	UAB	Roman Postolka      	6-3, 7-6(6)
 20210409	403537	565694	A	   3	Georgia State	Andrei Duarte       	UAB	Athanasios Spyropoulos	7-5, 6-4
 20210409	485944	439997	A	   6	Georgia State	Diego Padilha       	UAB	Giovani Pasini      	6-3, 6-4
+20210409	432466	566994	N	   1	New Mexico State	Louis Menard        	Seattle	Eli Ogilvy          	7-6, 6-2
+20210409	488642	566998	N	   2	New Mexico State	Nicolas Buitrago    	Seattle	Lucas Cerbelli      	3-6, 6-0, 1-0(3)
+20210409	566997	488568	N	   3	Seattle	Julian Worn         	New Mexico State	Martin Simecek      	2-6, 6-2, 6-4
+20210409	565437	434201	N	   4	New Mexico State	Corey Clarke        	Seattle	Emilio Monroy       	6-4, 6-2
+20210409	510613	514980	N	   5	New Mexico State	Jordy Visser        	Seattle	Lars Schmassmann    	6-1, 6-3
+20210409	565439	566995	N	   6	New Mexico State	Petr Stavrovski     	Seattle	Mats Krause         	6-4, 6-2
 20210409	565754	496382	A	   1	Charleston	John Giesberts      	Wesleyan (WV)	Carlos Dodero       	7-5, 6-3
 20210409	451956	565755	H	   2	Wesleyan (WV)	Charalampos Simaioforidis	Charleston	Marshall Dagostine  	6-4, 4-6, 6-4
 20210409	565756	512667	A	   3	Charleston	Frantisek Pirek     	Wesleyan (WV)	Camillo Salvi       	6-1, 6-4
@@ -26855,6 +26861,11 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210501	501132	498897	H	   4	Franklin & Marshall	Adith Chandavarkar  	Gettysburg	Alec Shalk          	6-0, 6-0
 20210501	487221	513382	H	   5	Franklin & Marshall	Tristan Steffe      	Gettysburg	Matthew Rau         	6-1, 6-2
 20210501	392753	513381	H	   6	Franklin & Marshall	Jack Brinkley       	Gettysburg	Max Levy            	4-6, 6-3, 1-0(7)
+20210501	509752	519928	N	   2	Youngstown State	Laurentiu Mandocescu	Northern Kentucky	Brandon Ponomarew   	6-1, 1-6, 6-1
+20210501	437056	409155	N	   3	Northern Kentucky	Andrew Niehaus      	Youngstown State	Joao Garretto       	7-5, 6-2
+20210501	446455	493967	N	   4	Northern Kentucky	Jorge Rodriguez-Agudo	Youngstown State	Erik Gran           	1-6, 6-3, 6-2
+20210501	565798	509750	N	   5	Northern Kentucky	Santiago Casamayor  	Youngstown State	William Everett     	7-6, 6-4
+20210501	415518	564491	N	   6	Northern Kentucky	Felipe Hidalgo      	Youngstown State	David Alvarez Moreno	6-4, 6-4
 20210501	423252	510689	N	   1	Illinois	Aleksandar Kovacevic	Michigan	Ondrej Styler       	6-4, 6-1
 20210501	485650	489235	N	   2	Illinois	Siphosothando Montsi	Michigan	Andrew Fenty        	6-2, 6-3
 20210501	393009	488521	N	   3	Illinois	Alex Brown          	Michigan	Patrick Maloney     	6-4, 6-4
@@ -26928,3 +26939,18 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210501	398928	434251	N	   2	Southwest Baptist (MO)	Carlos Corser       	UMSL	Vitor Monteiro      	6-2, 1-6, 6-1
 20210501	512657	563734	N	   3	Southwest Baptist (MO)	Alvaro Nunez        	UMSL	Marcos Navas        	6-4, 6-2
 20210501	456199	414713	N	   4	Southwest Baptist (MO)	David Szeri         	UMSL	Karl Heinrichs      	6-4, 7-5
+20210501	565437	434201	H	   4	New Mexico State	Corey Clarke        	Seattle	Emilio Monroy       	6-3, 6-0
+20210501	510613	566995	H	   5	New Mexico State	Jordy Visser        	Seattle	Mats Krause         	6-1, 6-3
+20210501	565439	514980	H	   6	New Mexico State	Petr Stavrovski     	Seattle	Lars Schmassmann    	6-2, 6-4
+20210502	513983	406376	N	   1	VCU	Lleyton Cronje      	Richmond	Matthew Fernandez   	6-1, 6-3
+20210502	458156	510644	N	   3	VCU	Inigo Torre Martin  	Richmond	Pieter Wernink      	6-1, 6-1
+20210502	497736	488100	N	   4	VCU	Rayane Stable       	Richmond	John Walsh          	6-4, 6-2
+20210502	432019	423252	N	   1	Ohio State	John McNally        	Illinois	Aleksandar Kovacevic	3-6, 6-3, 6-4
+20210502	511704	485650	N	   2	Ohio State	Cannon Kingsley     	Illinois	Siphosothando Montsi	6-1, 6-2
+20210502	485329	393009	N	   3	Ohio State	James Trotter       	Illinois	Alex Brown          	6-3, 6-4
+20210502	397557	450412	N	   4	Illinois	Zeke Clark          	Ohio State	Kyle Seelig         	6-7, 6-3, 7-6
+20210502	564624	564703	N	   5	Illinois	Hunter Heck         	Ohio State	JJ Tracy            	0-6, 6-3, 7-5
+20210502	421665	511706	N	   6	Illinois	Noe Khlif           	Ohio State	Robert Cash         	4-6, 6-3, 7-5
+20210502	491339	565430	N	   2	Northern Arizona	Facundo Tumosa      	Idaho State	Aleksandar Petrovic 	6-3, 6-4
+20210502	565343	486581	N	   5	Northern Arizona	Maciej Ziomber      	Idaho State	Gary Rendek         	6-0, 6-4
+20210502	508999	565433	N	   6	Northern Arizona	Alexander Groves    	Idaho State	Wikus Robbertse     	6-1, 6-1
