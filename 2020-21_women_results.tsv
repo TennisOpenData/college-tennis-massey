@@ -434,7 +434,6 @@ date	where	score	winner	loser
 20210205	H	5-2	Middle Tennessee	Kennesaw State
 20210205	N	4-0	UTSA	Youngstown State
 20210205	A	4-3	Eastern Michigan	Dayton
-20210205	A	0-0	St. Francis (PA)	Toledo
 20210205	H	5-2	Arizona	Northern Arizona
 20210205	H	4-3	Oregon	Portland State
 20210205	A	4-0	UCLA	Oklahoma State
@@ -858,7 +857,7 @@ date	where	score	winner	loser
 20210219	H	4-3	Illinois - Chicago	North Dakota
 20210219	H	5-2	Youngstown State	Toledo
 20210219	H	7-0	Drake	Colorado State
-20210219	A	0-0	Nevada	Santa Clara
+20210219	A	4-3	Nevada	Santa Clara
 20210219	A	6-1	St. Francis (PA)	Thomas More
 20210219	H	5-2	Colorado	BYU
 20210219	H	7-0	Oregon	Portland
@@ -1974,7 +1973,6 @@ date	where	score	winner	loser
 20210311	H	5-2	Charlotte	Kennesaw State
 20210311	H	7-0	Charlotte	NC A&T
 20210311	H	6-1	UAB	Tennessee Martin
-20210311	A	0-0	Nevada	UC Davis
 20210311	H	6-1	Stanford	St. Mary's (CA)
 20210311	H	4-1	Washington State	Utah
 20210311	H	4-0	Auburn	Mississippi State
@@ -2399,6 +2397,7 @@ date	where	score	winner	loser
 20210317	H	7-0	Campbellsville	Brescia
 20210317	N	7-2	Ave Maria	Bethel (MN)
 20210317	H	9-0	Tyler JC (TX)	Northeastern State (OK)
+20210317	A	8-1	Harford (MD)	Rowan (NJ)
 20210318	H	6-1	SMU	Cincinnati
 20210318	H	4-0	Rice	North Texas
 20210318	H	7-0	Missouri	Saint Louis
@@ -2419,6 +2418,7 @@ date	where	score	winner	loser
 20210318	H	6-1	Southwestern (KS)	Kansas Wesleyan
 20210318	H	7-0	Cumberland (TN)	Missouri Baptist
 20210318	N	4-1	Loyola - New Orleans	Blue Mountain
+20210318	A	5-2	Seward County (KS)	Oklahoma Baptist
 20210318	A	5-4	St. Petersburg	SCF
 20210319	H	4-3	George Mason	Mary Washington
 20210319	A	4-1	Houston	Tulane
@@ -2454,7 +2454,7 @@ date	where	score	winner	loser
 20210319	H	5-2	NCCU	Shaw
 20210319	A	0-0	Norfolk State	Longwood
 20210319	A	9-0	Missouri State	Texas Dallas
-20210319	A	0-0	Nevada	Dominican (NY)
+20210319	A	7-0	Nevada	Dominican (NY)
 20210319	H	7-0	Jacksonville State	Eastern Illinois
 20210319	H	6-1	Austin Peay	Western Kentucky
 20210319	A	6-1	Southeast Missouri	Tennessee Martin
@@ -2529,7 +2529,6 @@ date	where	score	winner	loser
 20210320	A	6-1	Georgia Tech	Virginia Tech
 20210320	H	6-1	Virginia	Clemson
 20210320	N	4-3	Florida Gulf Coast	Kennesaw State
-20210320	A	0-0	Idaho	Washington State
 20210320	A	6-1	Northern Arizona	Sacramento State
 20210320	A	4-3	Radford	Campbell
 20210320	H	7-0	Illinois	Indiana
@@ -2809,7 +2808,7 @@ date	where	score	winner	loser
 20210323	H	4-3	VCU	James Madison
 20210323	H	4-3	Temple	Villanova
 20210323	A	5-2	Presbyterian	Radford
-20210323	A	0-0	UC Davis	Santa Clara
+20210323	A	4-3	UC Davis	Santa Clara
 20210323	H	6-1	Elon	Longwood
 20210323	H	4-1	North Texas	MSU-Texas
 20210323	H	7-0	UTSA	Incarnate Word
@@ -2896,7 +2895,7 @@ date	where	score	winner	loser
 20210325	H	5-2	Southeastern (OK)	Oklahoma Baptist
 20210325	A	5-4	St. Mary's (TX)	Trinity (TX)
 20210325	A	4-1	Stonehill	New Haven
-20210325	N	0-0	St. Anselm	Bentley
+20210325	N	5-2	Bentley	St. Anselm
 20210325	A	4-0	Biola	Westmont
 20210325	H	4-2	Concordia (CA)	Metropolitan State
 20210325	N	0-0	Benedict	Tuskegee
@@ -2936,7 +2935,6 @@ date	where	score	winner	loser
 20210326	H	4-0	Hawaii	UCSD
 20210326	H	5-2	UC Santa Barbara	Colorado
 20210326	H	5-2	College of Charleston	Charleston Southern
-20210326	A	0-0	Hofstra	Towson
 20210326	A	7-0	James Madison	UNC Wilmington
 20210326	A	4-1	Old Dominion	Wake Forest
 20210326	H	4-0	North Texas	Louisiana Tech
@@ -3169,7 +3167,7 @@ date	where	score	winner	loser
 20210327	H	9-0	St. Benedict (MN)	Minnesota Morris
 20210327	A	9-0	Wisconsin Lutheran	Dubuque
 20210327	H	9-0	Colby	Thomas (ME)
-20210327	A	0-0	Connecticut College	Trinity (CT)
+20210327	H	8-1	Trinity (CT)	Connecticut College
 20210327	A	6-3	George Fox	Pacific (OR)
 20210327	H	7-2	Lewis & Clark (OR)	Willamette
 20210327	H	5-4	Pacific Lutheran	Puget Sound
@@ -3206,6 +3204,7 @@ date	where	score	winner	loser
 20210327	N	7-0	Indiana Kokomo	Oakland City
 20210327	H	6-0	Midway	Carlow
 20210327	A	0-0	Coastal Georgia	Ave Maria
+20210327	N	5-2	Keiser	SCAD (GA)
 20210327	A	7-0	St. Thomas (FL)	Warner
 20210327	H	7-0	Indiana Tech	Cornerstone
 20210327	A	7-0	Collin County (TX)	TAMU-Texarkana
@@ -3275,7 +3274,6 @@ date	where	score	winner	loser
 20210328	A	7-0	LA Monroe	Arkansas State
 20210328	H	4-0	Texas Arlington	Texas State
 20210328	N	4-1	San Francisco	Colorado
-20210328	A	0-0	Chestnut Hill	Dominican (NY)
 20210328	A	6-1	McKendree	Rockhurst
 20210328	H	5-2	Illinois Springfield	Quincy
 20210328	H	5-2	Delta State	West Georgia
@@ -3317,6 +3315,7 @@ date	where	score	winner	loser
 20210329	A	6-0	Houston	UTRGV
 20210329	H	6-1	Duke	Notre Dame
 20210329	H	7-0	Western Kentucky	Tennessee Martin
+20210329	H	5-2	Rider	Hofstra
 20210329	N	4-0	Alabama State	Alcorn State
 20210329	A	0-0	Lewis	Olivet Nazarene
 20210329	A	4-3	Lee (TN)	Christian Brothers
@@ -3338,6 +3337,7 @@ date	where	score	winner	loser
 20210330	A	0-0	Florida A&M	Mercer
 20210330	H	6-1	Arizona	New Mexico State
 20210330	H	6-1	Arizona	New Mexico State
+20210330	H	7-0	Loyola (MD)	Hofstra
 20210330	H	4-3	Belmont Abbey	Converse
 20210330	H	6-1	Lees-McRae	North Greenville
 20210330	A	5-2	Mount Olive	Barton
@@ -3458,7 +3458,6 @@ date	where	score	winner	loser
 20210402	H	4-3	Weber State	Idaho State
 20210402	A	4-0	Charleston Southern	Longwood
 20210402	H	4-0	Rutgers	Maryland
-20210402	A	0-0	Long Beach State	UC Davis
 20210402	H	4-3	UNC Wilmington	College of Charleston
 20210402	H	4-1	Charlotte	James Madison
 20210402	H	4-3	Florida International	Rice
@@ -3501,7 +3500,7 @@ date	where	score	winner	loser
 20210402	H	7-0	Texas Tyler	Arkansas Ft. Smith
 20210402	A	6-1	Northwest Missouri	Northeastern State (OK)
 20210402	H	7-0	Missouri Western	Fort Hays State
-20210402	A	0-0	Newman	Emporia State
+20210402	A	5-2	Newman	Emporia State
 20210402	H	6-1	Central Oklahoma	Washburn-Topeka
 20210402	H	7-0	Metropolitan State	CSU-Pueblo
 20210402	H	4-1	Metropolitan State	Omaha
@@ -3575,7 +3574,7 @@ date	where	score	winner	loser
 20210403	H	7-0	Cleveland State	Oakland
 20210403	H	5-2	Milwaukee	IUPUI
 20210403	H	7-0	Illinois - Chicago	Youngstown State
-20210403	A	0-0	Fairfield	Hofstra
+20210403	A	5-2	Fairfield	Hofstra
 20210403	A	5-2	Niagara	Rider
 20210403	N	4-3	Ball State	Buffalo
 20210403	A	4-1	Norfolk State	Coppin State
@@ -3683,6 +3682,7 @@ date	where	score	winner	loser
 20210403	H	7-2	Birmingham Southern	Oglethorpe
 20210403	H	9-0	Centre	Hendrix
 20210403	H	9-0	Chapman	Cal Lutheran
+20210403	H	7-2	Webster	St. Louis - Pharmacy
 20210403	H	7-2	Webster	Westminster (MO)
 20210403	A	9-0	Carnegie Mellon	Allegheny
 20210403	H	9-0	Chicago	North Central (IL)
@@ -3692,7 +3692,6 @@ date	where	score	winner	loser
 20210403	A	9-0	UW Whitewater	UW River Falls
 20210403	A	9-0	UW Whitewater	UW Stout
 20210403	H	4-3	Montreat	Tennessee Wesleyan
-20210403	A	0-0	St. Louis - Pharmacy	Webster
 20210403	A	0-0	Rust	Loyola - New Orleans
 20210403	H	7-0	Xavier (LA)	Rust
 20210403	H	7-0	Lewis-Clark (ID)	Idaho (Caldwell)
@@ -3734,7 +3733,7 @@ date	where	score	winner	loser
 20210404	H	4-0	Georgia	Arkansas
 20210404	H	4-0	Coastal Carolina	Troy
 20210404	H	6-1	Georgia Southern	Emory
-20210404	A	0-0	South Alabama	Appalachian State
+20210404	A	4-1	South Alabama	Appalachian State
 20210404	H	4-1	LA Monroe	Texas State
 20210404	A	4-1	Texas Arlington	Louisiana
 20210404	A	4-3	Pepperdine	California
@@ -3744,9 +3743,9 @@ date	where	score	winner	loser
 20210404	H	9-0	Randolph-Macon	Ferrum
 20210404	H	5-2	Union (KY)	SCAD - Atlanta
 20210405	H	6-1	Liberty	Radford
-20210405	A	0-0	Hofstra	Siena
 20210405	A	4-2	UAB	Kennesaw State
 20210405	A	4-0	Southern Miss	Southeastern Louisiana
+20210405	H	6-1	Siena	Hofstra
 20210405	H	4-0	New Orleans	Southern
 20210405	H	4-0	Denver	Washington State
 20210405	A	4-3	West Alabama	West Florida
@@ -3767,7 +3766,7 @@ date	where	score	winner	loser
 20210406	H	6-1	Charleston Southern	Presbyterian
 20210406	A	4-3	Gardner-Webb	Davidson
 20210406	H	7-0	Delaware	St. Joseph's (PA)
-20210406	A	4-1	Toledo	Buffalo
+20210406	A	5-2	Toledo	Buffalo
 20210406	H	4-1	Bradley	Northern Illinois
 20210406	H	4-3	A&M-Corpus Christi	Sam Houston
 20210406	A	5-1	Coastal Carolina	NCCU
@@ -3864,6 +3863,7 @@ date	where	score	winner	loser
 20210407	A	0-0	Sterling (KS)	Southwestern (KS)
 20210407	A	6-1	Lindsey Wilson	Pikeville
 20210407	A	0-0	Indiana East	Marian (IN)
+20210407	N	7-0	SCAD (GA)	Coastal Georgia
 20210407	H	7-2	St. Petersburg	Eastern Florida
 20210407	N	5-4	Marion Military	Hinds (MS)
 20210408	A	4-2	Texas Tech	SMU
@@ -3872,7 +3872,6 @@ date	where	score	winner	loser
 20210408	H	5-2	Elon	UNC Greensboro
 20210408	A	7-0	UNC Wilmington	Loyola (MD)
 20210408	A	4-3	St. Francis (PA)	Slippery Rock
-20210408	A	0-0	Wagner	Fairleigh Dickinson
 20210408	H	4-1	Texas A&M	Missouri
 20210408	H	4-0	LSU	Arkansas
 20210408	H	4-0	Ole Miss	Vanderbilt
@@ -3935,7 +3934,7 @@ date	where	score	winner	loser
 20210409	A	6-1	Ball State	Northern Illinois
 20210409	A	7-0	Bowling Green	Eastern Michigan
 20210409	A	4-3	Buffalo	Miami (OH)
-20210409	A	0-0	Western Michigan	Toledo
+20210409	H	4-3	Toledo	Western Michigan
 20210409	A	4-1	Boise State	Utah State
 20210409	A	4-3	Long Island	Bryant
 20210409	H	4-3	Murray State	SIUE
@@ -3956,6 +3955,7 @@ date	where	score	winner	loser
 20210409	H	4-0	Central Arkansas	Abilene Christian
 20210409	H	4-3	New Orleans	A&M-Corpus Christi
 20210409	H	6-1	South Dakota	Oral Roberts
+20210409	H	7-0	Alabama State	Spring Hill
 20210409	H	4-1	Gonzaga	Santa Clara
 20210409	A	6-1	Pepperdine	St. Mary's (CA)
 20210409	A	6-1	San Francisco	Portland
@@ -3992,11 +3992,11 @@ date	where	score	winner	loser
 20210409	A	4-3	Georgia College	Lander
 20210409	A	5-2	Mercyhurst	Millersville
 20210409	A	0-0	Coker	Mars Hill
-20210409	A	0-0	Spring Hill	Alabama State
 20210409	A	9-0	East Texas Baptist	Ozarks
 20210409	A	0-0	LeTourneau	Louisiana College
 20210409	H	6-3	Elmhurst	Illinois Wesleyan
 20210409	H	8-1	North Central (IL)	Wheaton (IL)
+20210409	A	0-0	Clarks Summit	Penn State - Harrisburg
 20210409	H	0-0	Rhode Island College	Plymouth State
 20210409	H	9-0	Bethel (MN)	Hamline
 20210409	N	8-1	Macalester	St. Catherine (MN)
@@ -4180,6 +4180,9 @@ date	where	score	winner	loser
 20210410	A	9-0	Millsaps	Rhodes
 20210410	A	9-0	Southwestern (TX)	East Texas Baptist
 20210410	A	9-0	Southwestern (TX)	LeTourneau
+20210410	A	5-4	St. Thomas (TX)	Schreiner
+20210410	A	6-3	St. Joseph's (Long Island)	Farmingdale State
+20210410	A	9-0	CWRU	Oberlin
 20210410	A	9-0	CWRU	Oberlin
 20210410	H	9-0	Emory	Piedmont
 20210410	H	9-0	Wash U	Augustana (IL)
@@ -4203,7 +4206,7 @@ date	where	score	winner	loser
 20210410	A	7-0	Campbellsville	Freed-Hardeman
 20210410	A	6-1	Cumberlands (KY)	Cumberland (TN)
 20210410	H	6-1	Lindsey Wilson	Thomas More
-20210410	A	0-0	Pikeville	Martin Methodist
+20210410	A	5-2	Pikeville	Martin Methodist
 20210410	A	5-2	Carlow	Ohio Christian
 20210410	N	7-0	Indiana Southeast	Carlow
 20210410	A	7-0	Indiana Southeast	Ohio Christian
@@ -4211,7 +4214,9 @@ date	where	score	winner	loser
 20210410	N	0-0	John Brown	St. Louis - Pharmacy
 20210410	H	7-0	Ave Maria	Warner
 20210410	A	0-0	Coastal Georgia	St. Thomas (FL)
+20210410	A	7-0	SCAD (GA)	Southeastern (FL)
 20210411	A	5-0	George Washington	Radford
+20210411	A	4-2	St. Joseph's (PA)	Lafayette
 20210411	A	4-3	Cincinnati	Marshall
 20210411	A	4-2	SMU	Houston
 20210411	A	4-2	Wichita State	Memphis
@@ -4248,8 +4253,8 @@ date	where	score	winner	loser
 20210411	H	5-2	Fairfield	Siena
 20210411	A	7-0	Quinnipiac	Monmouth (NJ)
 20210411	A	5-2	Ball State	Bowling Green
-20210411	A	0-0	Eastern Michigan	Toledo
 20210411	A	4-3	Northern Illinois	Miami (OH)
+20210411	H	6-1	Toledo	Eastern Michigan
 20210411	H	7-0	Bradley	Northern Iowa
 20210411	H	5-2	Illinois State	Drake
 20210411	N	4-3	Colorado State	Nevada
@@ -4276,6 +4281,7 @@ date	where	score	winner	loser
 20210411	A	4-0	South Alabama	Georgia State
 20210411	H	4-0	LA Monroe	Arkansas State
 20210411	A	4-3	Texas Arlington	UTSA
+20210411	H	5-2	UMKC	Oral Roberts
 20210411	A	5-2	Converse	Southern Wesleyan
 20210411	A	4-3	Harding	Southeastern (OK)
 20210411	N	4-3	Wayne State	Michigan Tech
@@ -4290,6 +4296,7 @@ date	where	score	winner	loser
 20210411	H	7-0	Fairmont State	Wesleyan (WV)
 20210411	A	5-2	Northeastern State (OK)	Emporia State
 20210411	A	7-0	Central Oklahoma	Newman
+20210411	N	4-0	Stonehill	St. Anselm
 20210411	A	0-0	Adelphi	American International
 20210411	A	4-2	Le Moyne	New Haven
 20210411	A	5-1	SNHU	Bentley
@@ -4334,7 +4341,7 @@ date	where	score	winner	loser
 20210411	H	4-3	Morningside	Simpson (IA)
 20210411	H	7-0	Cumberland (TN)	Pikeville
 20210411	A	4-3	Shawnee State	Thomas More
-20210411	A	0-0	Seward County (KS)	Southeastern (OK)
+20210411	A	7-0	Seward County (KS)	Southeastern (OK)
 20210412	H	4-0	Tulane	Wichita State
 20210412	H	4-3	Penn State	Minnesota
 20210412	H	7-0	Towson	Mary Washington
@@ -4366,13 +4373,12 @@ date	where	score	winner	loser
 20210413	H	5-2	Louisiana Tech	Northwestern State (LA)
 20210413	H	4-0	UTEP	UTRGV
 20210413	H	5-2	Fairleigh Dickinson	Seton Hall
-20210413	A	0-0	Eastern Illinois	Western Illinois
 20210413	A	4-3	Austin Peay	Belmont
 20210413	H	4-0	Stanford	Hawaii
 20210413	H	4-0	Washington State	Gonzaga
 20210413	A	4-2	Florida	South Carolina
 20210413	H	7-0	Tarleton State	UTPB
-20210413	A	0-0	Chestnut Hill	Jefferson
+20210413	A	5-2	Chestnut Hill	Jefferson
 20210413	H	7-0	Concordia (NY)	Caldwell
 20210413	A	5-2	Sciences (Philadelphia)	Dominican (NY)
 20210413	A	4-3	Barton	Chowan
@@ -4426,6 +4432,7 @@ date	where	score	winner	loser
 20210414	A	4-3	UNC Greensboro	Mercer
 20210414	A	6-1	Erskine	North Greenville
 20210414	A	4-3	Ferris State	Grand Valley State
+20210414	H	7-0	Newman	Bethany (KS)
 20210414	H	4-1	Franklin Pierce	SNHU
 20210414	A	0-0	New Haven	American International
 20210414	H	7-0	Augustana (SD)	SMSU
@@ -4434,11 +4441,11 @@ date	where	score	winner	loser
 20210414	A	6-1	Indiana (PA)	Edinboro
 20210414	A	7-0	Slippery Rock	Clarion
 20210414	A	5-2	Rollins	Tampa
+20210414	H	5-4	York (PA)	Lebanon Valley
 20210414	A	0-0	North Park	Wheaton (IL)
 20210414	H	8-1	RIT	Geneseo
 20210414	A	0-0	Alvernia	Messiah
 20210414	A	7-2	DeSales	Arcadia
-20210414	A	0-0	Lebanon Valley	York (PA)
 20210414	H	7-2	Bethel (MN)	UW Eau Claire
 20210414	A	6-3	Edgewood	Wisconsin Lutheran
 20210414	H	8-1	Kenyon	Denison
@@ -4451,7 +4458,6 @@ date	where	score	winner	loser
 20210414	H	9-0	Piedmont	Covenant
 20210414	A	8-1	UW La Crosse	Wartburg
 20210414	H	9-0	UW Whitewater	UW Stevens Point
-20210414	A	0-0	Bethany (KS)	Newman
 20210414	H	6-1	McPherson	Tabor
 20210414	A	0-0	Loyola - New Orleans	Nicholls State
 20210414	A	0-0	Ventura	Cal Lutheran
@@ -4461,8 +4467,8 @@ date	where	score	winner	loser
 20210415	H	4-3	UTEP	Tarleton State
 20210415	N	4-1	Texas State	Appalachian State
 20210415	N	4-1	LA Monroe	Georgia State
+20210415	H	6-1	Chestnut Hill	Dominican (NY)
 20210415	A	6-1	Concordia (NY)	Sciences (Philadelphia)
-20210415	A	0-0	Dominican (NY)	Chestnut Hill
 20210415	A	7-0	St. Thomas Aquinas	West Chester
 20210415	H	4-3	Harding	Arkansas Tech
 20210415	A	4-0	Hillsdale	Cedarville
@@ -4487,8 +4493,8 @@ date	where	score	winner	loser
 20210415	A	5-4	Bethel (IN)	Anderson (IN)
 20210415	A	0-0	Doane	Mount Marty (SD)
 20210415	A	4-3	Bethel (KS)	Baker
-20210415	A	0-0	Kansas Wesleyan	Oklahoma Baptist
 20210415	N	4-3	Blue Mountain	Mobile
+20210415	H	5-4	Harford (MD)	CCC
 20210415	N	5-1	Copiah-Lincoln (MS)	Meridian (MS)
 20210415	N	5-4	East Central (MS)	Hinds (MS)
 20210415	H	9-0	Riverside	Cypress
@@ -4504,9 +4510,7 @@ date	where	score	winner	loser
 20210416	A	0-0	DePaul	Illinois - Chicago
 20210416	A	4-3	Eastern Washington	Montana State
 20210416	A	4-3	Idaho	Montana
-20210416	A	0-0	Sacramento State	UC Davis
 20210416	A	4-1	UC Santa Barbara	CSUN
-20210416	A	0-0	Hofstra	Temple
 20210416	A	0-0	Marshall	West Virginia
 20210416	A	4-3	Marist	Niagara
 20210416	A	7-0	Siena	Rider
@@ -4517,6 +4521,8 @@ date	where	score	winner	loser
 20210416	A	6-1	Toledo	Northern Illinois
 20210416	H	4-1	Norfolk State	Christopher Newport
 20210416	H	4-3	Air Force	New Mexico
+20210416	N	4-3	Fairleigh Dickinson	Sacred Heart
+20210416	N	4-3	Mount St. Mary's (MD)	Wagner
 20210416	H	6-1	Austin Peay	Murray State
 20210416	A	5-2	Southeast Missouri	SIUE
 20210416	A	4-3	Tennessee Martin	Eastern Illinois
@@ -4528,7 +4534,9 @@ date	where	score	winner	loser
 20210416	A	6-1	North Dakota	Omaha
 20210416	N	4-0	Coastal Carolina	Louisiana
 20210416	N	4-0	Georgia Southern	LA Monroe
+20210416	N	4-1	South Alabama	Troy
 20210416	N	4-0	Texas Arlington	Texas State
+20210416	N	4-2	Alabama A&M	Alcorn State
 20210416	N	7-0	New Mexico State	Chicago State
 20210416	N	6-1	Tarleton State	Dixie State
 20210416	A	5-2	BYU	Santa Clara
@@ -4563,9 +4571,9 @@ date	where	score	winner	loser
 20210416	H	4-3	Wesleyan (WV)	Davis & Elkins
 20210416	A	4-3	Northwest Missouri	Nebraska - Kearney
 20210416	H	5-2	Southwest Baptist (MO)	UMSL
+20210416	A	7-0	St. Anselm	St. Michael's
 20210416	H	6-1	Winona State	Luther (IA)
 20210416	H	7-0	Azusa Pacific	San Diego Christian
-20210416	H	0-0	Biola	Ventura
 20210416	A	4-3	Hawaii Pacific	Point Loma (CA)
 20210416	A	7-0	Metropolitan State	Colorado Mesa
 20210416	A	7-0	Lander	GSW
@@ -4576,7 +4584,9 @@ date	where	score	winner	loser
 20210416	H	4-3	Saint Leo	Lynn
 20210416	H	6-3	Carroll (WI)	Carthage
 20210416	A	8-1	Millikin	Elmhurst
+20210416	A	9-0	Johnson (TN)	Ferrum
 20210416	A	6-3	Webster	Greenville
+20210416	N	6-3	Brandeis	Merrimack
 20210416	H	9-0	Northwestern (MN)	Buena Vista
 20210416	H	8-1	UW La Crosse	UW Stevens Point
 20210416	N	4-1	Union (KY)	Reinhardt
@@ -4592,8 +4602,10 @@ date	where	score	winner	loser
 20210416	A	4-3	Indiana East	Indiana Southeast
 20210416	A	0-0	Indiana Kokomo	Bethel (TN)
 20210416	A	0-0	Concordia (MI)	Indiana Tech
+20210416	N	6-1	Northwestern Ohio	Lewis-Clark (ID)
 20210416	N	5-0	Jones	Copiah-Lincoln (MS)
 20210416	N	5-3	Gulf Coast (MS)	East Central (MS)
+20210416	A	0-0	Ventura	Biola
 20210417	A	8-1	Duquesne	Carnegie Mellon
 20210417	H	5-2	George Mason	St. Joseph's (PA)
 20210417	H	4-1	Richmond	UNC Greensboro
@@ -4616,6 +4628,7 @@ date	where	score	winner	loser
 20210417	H	4-0	UC Santa Barbara	Cal Poly
 20210417	H	6-1	College of Charleston	UNC Wilmington
 20210417	H	6-1	Delaware	Towson
+20210417	H	7-0	Drexel	Hofstra
 20210417	H	4-1	Elon	Davidson
 20210417	H	4-0	Charlotte	VCU
 20210417	A	0-0	Southern Miss	New Orleans
@@ -4656,7 +4669,6 @@ date	where	score	winner	loser
 20210417	H	6-1	San Francisco	BYU
 20210417	H	6-1	St. Mary's (CA)	Pacific (CA)
 20210417	A	7-0	San Diego	Santa Clara
-20210417	A	0-0	Caldwell	Chestnut Hill
 20210417	A	4-3	Sciences (Philadelphia)	Jefferson
 20210417	H	6-1	Belmont Abbey	Barton
 20210417	H	5-2	Converse	Chowan
@@ -4671,9 +4683,11 @@ date	where	score	winner	loser
 20210417	A	6-1	Ferris State	Michigan Tech
 20210417	A	7-0	Grand Valley State	Lake Superior St.
 20210417	A	6-1	Indianapolis	Lindenwood
+20210417	H	5-2	McKendree	Webster
 20210417	N	4-3	Maryville (MO)	Lewis
 20210417	H	4-3	Quincy	Rockhurst
 20210417	H	5-2	Illinois Springfield	Southern Indiana
+20210417	A	4-2	UMSL	Drury
 20210417	A	7-0	Cedarville	Ursuline
 20210417	H	7-0	Findlay	Kentucky Wesleyan
 20210417	H	4-3	Mississippi College	Auburn Montgomery
@@ -4713,8 +4727,9 @@ date	where	score	winner	loser
 20210417	A	0-0	Goucher	Drew
 20210417	H	7-0	Moravian	Juniata
 20210417	A	0-0	Susquehanna	Elizabethtown
+20210417	H	5-4	RIT	Hobart & William Smith
 20210417	H	9-0	Vassar	Ithaca
-20210417	A	0-0	DeSales	King's (PA)
+20210417	A	8-0	DeSales	King's (PA)
 20210417	H	8-1	Lebanon Valley	Alvernia
 20210417	H	6-3	Stevenson	Messiah
 20210417	H	9-0	Calvin	Albion
@@ -4727,8 +4742,10 @@ date	where	score	winner	loser
 20210417	H	9-0	Denison	Allegheny
 20210417	H	9-0	Denison	Allegheny
 20210417	H	8-1	Kenyon	Wooster
+20210417	A	0-0	Penn State - Harrisburg	Lancaster Bible
+20210417	H	6-3	Amherst	Williams
+20210417	A	8-1	Trinity (CT)	Connecticut College
 20210417	H	7-2	Wesleyan (CT)	Middlebury
-20210417	A	0-0	Williams	Amherst
 20210417	A	8-1	Babson	Springfield
 20210417	A	7-2	George Fox	Whitman
 20210417	H	8-1	Lewis & Clark (OR)	Pacific Lutheran
@@ -4747,7 +4764,6 @@ date	where	score	winner	loser
 20210417	A	7-2	Southwestern (TX)	Trinity (TX)
 20210417	H	9-0	Trinity (TX)	Schreiner
 20210417	H	6-3	Greenville	Illinois Wesleyan
-20210417	A	0-0	Webster	McKendree
 20210417	A	0-0	Oswego	Geneseo
 20210417	A	6-3	UW Superior	Bethany Lutheran
 20210417	H	9-0	Covenant	Maryville (TN)
@@ -4758,10 +4774,11 @@ date	where	score	winner	loser
 20210417	H	7-0	Indiana Wesleyan	Huntington
 20210417	N	4-3	Spring Arbor	Warner
 20210417	A	7-0	Concordia (NE)	Northwestern (IA)
+20210417	N	6-1	Lewis-Clark (ID)	Spring Arbor
 20210417	A	7-0	San Diego Christian	Hope International
 20210417	N	0-0	Missouri Valley	Southwestern (KS)
 20210417	A	6-1	Missouri Valley	Tabor
-20210417	A	0-0	Kansas Wesleyan	Bethany (KS)
+20210417	A	7-0	Kansas Wesleyan	Bethany (KS)
 20210417	A	7-0	McPherson	Friends
 20210417	A	4-3	Ottawa	Baker
 20210417	A	6-1	Sterling (KS)	Bethel (KS)
@@ -4770,6 +4787,7 @@ date	where	score	winner	loser
 20210417	H	7-0	Asbury	Carlow
 20210417	A	0-0	Texas Wesleyan	Austin
 20210417	N	4-3	Northwestern Ohio	Holy Cross (IN)
+20210417	H	6-3	Seward County (KS)	Barton County (KS)
 20210417	H	8-1	Tyler JC (TX)	MSU-Texas
 20210417	N	5-0	Copiah-Lincoln (MS)	East Central (MS)
 20210417	H	5-0	Jones	Gulf Coast (MS)
@@ -4780,6 +4798,7 @@ date	where	score	winner	loser
 20210418	H	5-2	Duke	Wake Forest
 20210418	H	7-0	Georgia Tech	Boston College
 20210418	A	6-1	Syracuse	Marshall
+20210418	H	4-2	Florida Gulf Coast	Kennesaw State
 20210418	H	4-0	North Florida	Stetson
 20210418	A	4-0	Baylor	Texas Tech
 20210418	A	0-0	Iowa State	West Virginia
@@ -4824,6 +4843,7 @@ date	where	score	winner	loser
 20210418	N	4-0	Georgia	Texas A&M
 20210418	A	5-2	North Dakota	South Dakota
 20210418	N	4-3	Georgia Southern	South Alabama
+20210418	N	4-0	Alabama State	Alabama A&M
 20210418	A	7-0	Grand Canyon	New Mexico State
 20210418	H	7-0	Pepperdine	Washington State
 20210418	H	7-0	St. Thomas Aquinas	D'Youville
@@ -4851,7 +4871,7 @@ date	where	score	winner	loser
 20210418	A	5-4	Wisconsin Lutheran	MSOE
 20210418	H	8-1	Denison	DePauw
 20210418	A	9-0	Kenyon	Wooster
-20210418	H	0-0	Penn State - Harrisburg	St. Mary's (MD)
+20210418	A	0-0	Penn State - Harrisburg	Penn College
 20210418	A	8-1	Bates	Trinity (CT)
 20210418	H	9-0	Tufts	Connecticut College
 20210418	A	7-2	Tufts	Middlebury
@@ -4862,6 +4882,8 @@ date	where	score	winner	loser
 20210418	H	8-1	Berry	Birmingham Southern
 20210418	A	9-0	Millsaps	Oglethorpe
 20210418	A	8-1	Mt. St. Mary (NY)	Yeshiva
+20210418	A	8-1	Farmingdale State	Sarah Lawrence
+20210418	A	4-3	Webster	Oakland City
 20210418	A	9-0	Wash U	North Central (IL)
 20210418	A	6-3	St. Scholastica	Minnesota Morris
 20210418	H	9-0	UW Superior	Crown
@@ -4870,7 +4892,7 @@ date	where	score	winner	loser
 20210418	N	4-0	Xavier (LA)	William Carey
 20210418	A	4-3	Midland (NE)	Hastings
 20210418	A	5-2	Morningside	Doane
-20210418	A	0-0	Kansas Wesleyan	Baker
+20210418	H	5-2	Baker	Kansas Wesleyan
 20210418	A	5-2	McPherson	Missouri Valley
 20210418	N	4-2	Lindsey Wilson	Cumberlands (KY)
 20210418	A	5-2	Brescia	Carlow
@@ -4881,6 +4903,7 @@ date	where	score	winner	loser
 20210419	N	4-3	Arkansas	Missouri
 20210419	A	4-3	Mississippi State	Alabama
 20210419	A	6-1	Northwestern State (LA)	LSU Alexandria
+20210419	N	4-1	Alabama State	Jackson State
 20210419	A	5-2	Jefferson	Bloomsburg
 20210419	H	6-1	Emmanuel (GA)	North Greenville
 20210419	H	7-0	Franklin Pierce	Assumption
@@ -4894,11 +4917,11 @@ date	where	score	winner	loser
 20210419	A	0-0	Geneseo	Brockport
 20210419	A	7-0	Piedmont	Johnson (TN)
 20210419	H	7-0	William Woods	Ottawa
-20210419	A	0-0	IU South Bend	Manchester
 20210419	H	7-0	Indiana East	Midway
 20210419	H	6-1	Indiana Kokomo	Asbury
 20210419	N	0-0	John Brown	Southwestern (KS)
 20210419	A	0-0	Lawrence Tech	Indiana Tech
+20210420	A	4-3	St. Joseph's (PA)	Drexel
 20210420	N	4-1	Auburn	Arkansas
 20210420	N	4-1	South Carolina	Vanderbilt
 20210420	N	4-0	Tennessee	Mississippi State
@@ -4907,6 +4930,7 @@ date	where	score	winner	loser
 20210420	H	7-0	St. Thomas Aquinas	Kutztown
 20210420	A	7-0	Northwood	Davenport
 20210420	H	7-0	Wesleyan (WV)	Frostburg State
+20210420	H	6-1	St. Anselm	St. Michael's
 20210420	H	6-1	Indiana (PA)	West Liberty
 20210420	H	7-0	Millersville	Shippensburg
 20210420	A	7-0	Slippery Rock	Cal U (PA)
@@ -4916,13 +4940,15 @@ date	where	score	winner	loser
 20210420	A	0-0	RPI	RIT
 20210420	H	9-0	Lebanon Valley	Messiah
 20210420	A	0-0	Wilkes	DeSales
+20210420	A	0-0	Penn State - Harrisburg	Penn State - Berks
 20210420	H	9-0	Emory	Brenau
 20210420	A	0-0	Martin Luther	Northwestern (MN)
 20210420	A	6-3	Averett	Roanoke
 20210420	A	5-4	Harford (MD)	Mercer County (NJ)
-20210420	A	0-0	Orange Coast	Riverside
+20210420	A	7-2	Orange Coast	Riverside
 20210420	A	0-0	Cypress	Irvine Valley
-20210421	A	0-0	George Mason	VCU
+20210420	A	0-0	Santa Monica	Mt. San Antonio
+20210420	A	9-0	Ventura	Antelope Valley
 20210421	H	7-0	Rhode Island	Holy Cross (MA)
 20210421	N	4-1	Louisville	Boston College
 20210421	N	4-2	Virginia Tech	Clemson
@@ -4930,10 +4956,12 @@ date	where	score	winner	loser
 20210421	N	4-2	Texas A&M	Auburn
 20210421	N	4-1	South Carolina	Florida
 20210421	N	4-1	Tennessee	LSU
+20210421	N	4-0	Georgia	Kentucky
 20210421	H	6-0	San Diego	Washington State
 20210421	A	0-0	Shepherd	Millersville
 20210421	A	0-0	West Liberty	Indiana (PA)
 20210421	A	0-0	Emporia State	Bethel (KS)
+20210421	H	6-1	Assumption	St. Anselm
 20210421	A	7-0	Franklin Pierce	Bentley
 20210421	N	4-1	Academy of Art	Colorado Mesa
 20210421	N	4-0	Metropolitan State	Hawaii Hilo
@@ -4943,17 +4971,16 @@ date	where	score	winner	loser
 20210421	A	0-0	Salve Regina	Nichols
 20210421	A	0-0	Catholic	Goucher
 20210421	A	0-0	Juniata	Susquehanna
-20210421	A	0-0	Eastern (PA)	Stevenson
+20210421	H	8-1	Stevenson	Eastern (PA)
 20210421	A	0-0	Trine	Calvin
 20210421	N	0-0	Bethel (MN)	Macalester
 20210421	A	0-0	Washington & Lee	Bridgewater
-20210421	A	0-0	Yeshiva	Farmingdale State
 20210421	H	8-1	UW Superior	Martin Luther
 20210421	A	6-1	Covenant	Johnson (TN)
 20210421	A	0-0	UW Whitewater	Chicago
 20210421	A	0-0	Judson (IL)	Olivet Nazarene
+20210421	H	4-3	St. Mary (NE)	Midland (NE)
 20210421	A	6-1	Doane	Concordia (NE)
-20210421	A	0-0	Midland (NE)	St. Mary (NE)
 20210421	H	7-0	Georgia Gwinnett	Brenau
 20210422	N	4-1	South Florida	Cincinnati
 20210422	N	4-0	Duke	Louisville
@@ -4962,8 +4989,10 @@ date	where	score	winner	loser
 20210422	N	5-0	Wake Forest	Syracuse
 20210422	N	4-3	Kansas	Kansas State
 20210422	N	4-0	Creighton	Providence
+20210422	N	4-0	Towson	Hofstra
 20210422	N	4-0	Charlotte	Louisiana Tech
 20210422	A	4-1	Florida Atlantic	North Texas
+20210422	N	4-0	Florida International	UTEP
 20210422	N	4-0	Marshall	Western Kentucky
 20210422	N	4-0	UAB	UTSA
 20210422	N	4-2	Texas A&M	South Carolina
@@ -4978,6 +5007,8 @@ date	where	score	winner	loser
 20210422	N	4-1	Azusa Pacific	Metropolitan State
 20210422	N	4-1	Biola	Point Loma (CA)
 20210422	N	4-0	Concordia (CA)	Academy of Art
+20210422	H	5-2	West Chester	Harford (MD)
+20210422	H	9-0	Texas Dallas	Collin County (TX)
 20210422	H	6-3	Mary Washington	Washington & Lee
 20210422	A	0-0	Elmhurst	Wheaton (IL)
 20210422	A	7-2	St. Thomas (MN)	St. Olaf
@@ -4986,13 +5017,15 @@ date	where	score	winner	loser
 20210422	A	0-0	Geneseo	Fredonia
 20210422	H	7-2	Rochester (NY)	St. Lawrence
 20210422	A	7-2	St. Scholastica	UW Superior
-20210422	A	0-0	IU South Bend	St. Francis (IL)
-20210422	A	0-0	Olivet Nazarene	Holy Cross (IN)
-20210422	A	0-0	Mount Marty (SD)	Morningside
-20210422	A	0-0	Collin County (TX)	Texas Dallas
-20210422	A	0-0	Harford (MD)	West Chester
+20210422	H	4-1	Holy Cross (IN)	Olivet Nazarene
+20210422	A	4-3	Hastings	St. Mary (NE)
+20210422	H	7-0	Morningside	Mount Marty (SD)
+20210422	H	7-0	SCAD (GA)	Ave Maria
+20210422	A	5-0	Canada	Cabrillo
 20210422	A	0-0	Irvine Valley	Cypress
 20210422	A	0-0	Riverside	Orange Coast
+20210422	A	8-1	Santa Monica	Antelope Valley
+20210422	A	0-0	Ventura	Mt. San Antonio
 20210423	A	6-1	George Washington	Duquesne
 20210423	H	6-1	St. Joseph's (PA)	Harford (MD)
 20210423	A	4-0	Richmond	George Mason
@@ -5010,36 +5043,45 @@ date	where	score	winner	loser
 20210423	N	4-1	Iowa State	Texas Tech
 20210423	N	4-0	Oklahoma	Oklahoma State
 20210423	N	4-0	Texas	Kansas
+20210423	N	4-0	Xavier	Marquette
 20210423	H	4-0	Northern Arizona	Grand Canyon
 20210423	N	4-2	College of Charleston	Delaware
 20210423	N	4-0	James Madison	Towson
 20210423	H	4-0	William & Mary	UNC Wilmington
 20210423	N	4-1	Florida Atlantic	Charlotte
+20210423	N	4-0	Florida International	Marshall
 20210423	N	4-0	Old Dominion	UAB
 20210423	N	4-0	Rice	Middle Tennessee
 20210423	A	4-3	Ball State	Miami (OH)
 20210423	H	6-1	Bowling Green	Northern Illinois
-20210423	A	0-0	Buffalo	Toledo
+20210423	H	4-3	Toledo	Buffalo
+20210423	N	4-3	Drake	Bradley
+20210423	H	4-1	Missouri State	Valparaiso
 20210423	N	4-0	Stony Brook	Northern Iowa
 20210423	N	4-1	Fresno State	Air Force
 20210423	H	4-2	UNLV	San Jose State
+20210423	N	4-0	Oregon	Utah
 20210423	N	4-1	Washington	Arizona
 20210423	N	4-0	Washington State	Colorado
 20210423	H	7-0	Army	Binghamton
+20210423	N	4-0	Georgia	Texas A&M
 20210423	N	4-0	Furman	Samford
-20210423	N	0-0	Northwestern State (LA)	A&M-Corpus Christi
 20210423	H	4-0	Gonzaga	St. Mary's (CA)
 20210423	A	0-0	Pacific (CA)	Portland
 20210423	A	7-0	Pepperdine	BYU
+20210423	H	4-3	Chestnut Hill	Sciences (Philadelphia)
 20210423	H	4-0	Concordia (NY)	Jefferson
 20210423	N	4-2	Lees-McRae	Southern Wesleyan
 20210423	A	7-0	St. Thomas Aquinas	Caldwell
 20210423	N	4-0	Harding	Henderson State
 20210423	N	4-0	Southeastern (OK)	Arkansas Tech
+20210423	N	4-0	Ferris State	SVSU
+20210423	N	4-0	Grand Valley State	Purdue Northwest
 20210423	H	7-0	Drury	Truman State
 20210423	A	6-1	Indianapolis	Southern Indiana
 20210423	N	4-3	McKendree	Maryville (MO)
 20210423	A	4-3	Illinois Springfield	Lindenwood
+20210423	A	7-0	UMSL	William Jewell
 20210423	N	4-2	Findlay	Walsh
 20210423	N	4-2	Hillsdale	Tiffin
 20210423	N	4-0	West Alabama	Auburn Montgomery
@@ -5050,18 +5092,30 @@ date	where	score	winner	loser
 20210423	H	6-1	Southwest Baptist (MO)	Quincy
 20210423	A	7-0	Missouri Western	Northeastern State (OK)
 20210423	N	4-0	Augustana (SD)	Bemidji State
+20210423	N	4-0	Azusa Pacific	Biola
 20210423	N	4-3	Fresno Pacific	Academy of Art
 20210423	N	4-2	Metropolitan State	Point Loma (CA)
 20210423	H	4-3	Edinboro	Daemen
 20210423	A	9-0	East Texas Baptist	LeTourneau
+20210423	H	9-0	McMurry	Howard Payne
 20210423	A	7-2	Salisbury	Southern Virginia
 20210423	A	9-0	North Central (IL)	Carthage
 20210423	H	8-1	Calvin	Alma
 20210423	N	8-1	St. Thomas (MN)	Hamline
 20210423	H	5-4	Emory & Henry	Roanoke
 20210423	H	9-0	Sweet Briar	Virginia Wesleyan
-20210423	A	0-0	Virginia Wesleyan	Christopher Newport
+20210423	H	9-0	Washington & Lee	Lynchburg
+20210423	A	9-0	Farmingdale State	Purchase
 20210423	A	0-0	Principia	Greenville
+20210423	N	5-4	Webster	Greenville
+20210423	N	5-0	Webster	Westminster (MO)
+20210423	H	9-0	Brandeis	Bentley
+20210423	N	5-0	William Woods	St. Louis - Pharmacy
+20210423	N	4-3	Grand View	Evangel
+20210423	N	4-0	Asbury	Indiana Kokomo
+20210423	N	4-0	Asbury	Oakland City
+20210423	N	4-2	Indiana East	Indiana Southeast
+20210423	N	4-0	Indiana Southeast	Midway
 20210423	A	0-0	Seward County (KS)	Cowley County (KS)
 20210424	N	4-0	Tulsa	SMU
 20210424	H	4-0	Central Florida	Houston
@@ -5070,8 +5124,9 @@ date	where	score	winner	loser
 20210424	H	4-2	North Florida	Florida Gulf Coast
 20210424	H	4-0	Baylor	Iowa State
 20210424	N	4-2	Texas	Oklahoma
+20210424	N	4-1	Xavier	St. John's (NY)
 20210424	A	4-2	Cal Poly	UC Riverside
-20210424	A	0-0	UC Davis	UCSD
+20210424	A	4-1	UC Davis	UCSD
 20210424	N	4-0	James Madison	College of Charleston
 20210424	H	4-0	William & Mary	Elon
 20210424	N	4-2	Florida International	Rice
@@ -5079,15 +5134,19 @@ date	where	score	winner	loser
 20210424	H	4-3	Milwaukee	Cleveland State
 20210424	A	5-2	Youngstown State	Northern Kentucky
 20210424	N	4-1	Quinnipiac	Niagara
+20210424	N	4-1	Siena	Fairfield
 20210424	N	4-3	Northern Illinois	Buffalo
+20210424	H	4-3	Western Michigan	Eastern Michigan
+20210424	N	4-3	Drake	Illinois State
 20210424	N	4-3	Missouri State	Stony Brook
-20210424	A	0-0	Air Force	Nevada
+20210424	A	4-1	Air Force	Nevada
 20210424	A	4-3	Colorado State	Utah State
 20210424	N	4-1	Fresno State	New Mexico
 20210424	N	4-1	San Jose State	San Diego State
 20210424	N	4-1	Wyoming	Boise State
 20210424	A	0-0	Merrimack	Holy Cross (MA)
 20210424	N	4-0	Austin Peay	Murray State
+20210424	N	4-1	Southeast Missouri	Jacksonville State
 20210424	N	4-3	Arizona State	USC
 20210424	N	4-1	California	Oregon
 20210424	N	4-2	Stanford	Washington
@@ -5095,15 +5154,21 @@ date	where	score	winner	loser
 20210424	A	6-1	Army	Fordham
 20210424	N	6-1	Boston University	Navy
 20210424	N	4-0	Furman	ETSU
+20210424	N	4-2	Stephen F. Austin	Sam Houston
+20210424	N	5-0	A&M-Corpus Christi	Northwestern State (LA)
 20210424	H	7-0	Denver	South Dakota
 20210424	H	6-1	Gonzaga	Pacific (CA)
 20210424	H	6-1	San Francisco	Santa Clara
 20210424	A	6-1	St. Mary's (CA)	Portland
 20210424	N	5-1	Erskine	Belmont Abbey
+20210424	N	4-1	Mount Olive	Emmanuel (GA)
 20210424	A	4-3	Queens (NY)	St. Thomas Aquinas
 20210424	N	4-3	Harding	Southeastern (OK)
+20210424	N	4-0	Ferris State	Northwood
+20210424	N	4-1	Grand Valley State	Wayne State
 20210424	H	7-0	Drury	Quincy
 20210424	H	4-3	McKendree	Lindenwood
+20210424	A	7-0	UMSL	Rockhurst
 20210424	N	4-2	Hillsdale	Findlay
 20210424	N	4-3	West Alabama	West Florida
 20210424	N	0-0	Bluefield State	Mercyhurst
@@ -5111,12 +5176,13 @@ date	where	score	winner	loser
 20210424	A	6-1	Cameron	WNM
 20210424	H	5-2	Texas Tyler	Texas A&M-Kingsville
 20210424	H	6-1	Southwest Baptist (MO)	Truman State
-20210424	A	0-0	Fort Hays State	Newman
+20210424	H	6-1	Newman	Fort Hays State
 20210424	H	6-1	Central Oklahoma	Missouri Western
 20210424	A	5-2	Nebraska - Kearney	Emporia State
 20210424	H	5-2	Washburn-Topeka	Northwest Missouri
 20210424	N	4-0	Augustana (SD)	Winona State
 20210424	N	4-0	Augustana (SD)	SMSU
+20210424	N	4-3	Azusa Pacific	Hawaii Pacific
 20210424	N	4-2	Metropolitan State	Fresno Pacific
 20210424	N	4-1	Point Loma (CA)	Academy of Art
 20210424	H	4-3	Millersville	Bloomsburg
@@ -5124,22 +5190,23 @@ date	where	score	winner	loser
 20210424	A	0-0	Belhaven	Ozarks
 20210424	A	8-1	Hardin-Simmons	Mary Hardin-Baylor
 20210424	A	0-0	Texas Dallas	LeTourneau
-20210424	H	0-0	Frostburg State	St. Mary's (MD)
-20210424	H	0-0	York (PA)	Stevenson
+20210424	H	6-1	Frostburg State	St. Mary's (MD)
+20210424	H	9-0	York (PA)	Stevenson
 20210424	A	0-0	Nichols	Salve Regina
 20210424	A	0-0	Curry	Endicott
 20210424	A	8-1	Millikin	Illinois Wesleyan
 20210424	A	9-0	North Central (IL)	Carroll (WI)
-20210424	A	0-0	Washington (MD)	Muhlenberg
+20210424	A	6-2	Washington (MD)	Muhlenberg
 20210424	A	5-4	Franklin & Marshall	Dickinson
 20210424	N	9-0	Johns Hopkins	Ursinus
 20210424	A	0-0	Cairn	Cedar Crest
 20210424	H	9-0	Rose-Hulman	Franklin (IN)
 20210424	A	9-0	Transylvania	Manchester
-20210424	A	0-0	Hobart & William Smith	Ithaca
+20210424	H	6-3	Ithaca	Hobart & William Smith
+20210424	A	8-1	Skidmore	RPI
 20210424	A	7-2	St. Lawrence	RIT
 20210424	A	0-0	Vassar	Union (NY)
-20210424	A	0-0	DeSales	Stevens
+20210424	H	8-1	Stevens	DeSales
 20210424	A	0-0	Hood	Messiah
 20210424	A	9-0	Lebanon Valley	Eastern (PA)
 20210424	A	0-0	Olivet	Trine
@@ -5148,42 +5215,56 @@ date	where	score	winner	loser
 20210424	A	0-0	St. Olaf	St. Benedict (MN)
 20210424	H	9-0	Concordia (WI)	Dominican (IL)
 20210424	H	7-2	Denison	Carnegie Mellon
-20210424	A	0-0	Wooster	CWRU
-20210424	A	0-0	Amherst	Middlebury
+20210424	H	5-4	Middlebury	Amherst
 20210424	A	9-0	Tufts	Bates
+20210424	H	8-1	Williams	Hamilton
 20210424	A	0-0	Clark (MA)	Springfield
-20210424	A	0-0	Babson	Wheaton (MA)
+20210424	A	6-3	Babson	Wheaton (MA)
 20210424	A	0-0	Whitman	Pacific Lutheran
-20210424	A	0-0	Whitworth	Pacific (OR)
+20210424	A	6-3	Whitworth	Pacific (OR)
+20210424	A	9-0	Baldwin Wallace	Marietta
 20210424	A	0-0	Capital (OH)	Muskingum
 20210424	A	8-1	Ohio Northern	Mount Union
 20210424	A	9-0	Lynchburg	Randolph-Macon
-20210424	A	0-0	Washington & Lee	Christopher Newport
+20210424	A	7-2	Washington & Lee	Christopher Newport
 20210424	N	5-3	Centre	Berry
+20210424	N	5-0	Millsaps	Rhodes
 20210424	A	0-0	Colorado College	Schreiner
-20210424	A	0-0	Chapman	Cal Lutheran
+20210424	A	8-1	Chapman	Cal Lutheran
+20210424	H	6-3	Farmingdale State	Mt. St. Mary (NY)
+20210424	H	9-0	CWRU	Wooster
 20210424	A	0-0	Northwestern (MN)	St. Scholastica
+20210424	N	5-2	UW La Crosse	UW Eau Claire
+20210424	N	9-0	UW La Crosse	UW Stout
 20210424	H	5-0	UW Whitewater	UW Stevens Point
-20210424	A	0-0	Holy Cross (IN)	Roosevelt
-20210424	A	0-0	Judson (IL)	St. Francis (IL)
-20210424	A	0-0	St. Mary (NE)	Morningside
-20210424	A	0-0	Midland (NE)	Doane
+20210424	N	4-0	William Woods	Grand View
+20210424	N	4-0	William Woods	Missouri Valley
+20210424	A	7-0	Holy Cross (IN)	Roosevelt
+20210424	A	4-3	Judson (IL)	St. Francis (IL)
+20210424	H	5-2	Doane	Midland (NE)
+20210424	H	5-2	Hastings	Mount Marty (SD)
+20210424	H	6-1	Morningside	St. Mary (NE)
 20210424	A	0-0	Bethany (KS)	Southwestern (KS)
-20210424	A	0-0	McPherson	Kansas Wesleyan
-20210424	A	0-0	Ottawa	Friends
-20210424	A	0-0	Tabor	Sterling (KS)
+20210424	A	5-2	McPherson	Kansas Wesleyan
+20210424	A	5-2	Ottawa	Friends
+20210424	H	4-3	Sterling (KS)	Tabor
+20210424	N	4-1	Indiana East	Asbury
+20210424	A	0-0	Mercer County (NJ)	Harford (MD)
+20210424	A	0-0	Antelope Valley	Sequoias
+20210425	H	7-0	St. Joseph's (PA)	La Salle
 20210425	H	4-1	Central Florida	Tulsa
 20210425	N	4-1	North Carolina	Georgia Tech
 20210425	A	4-0	Texas	Baylor
 20210425	A	4-0	Hawaii	UC Riverside
-20210425	A	0-0	UC Davis	UC Irvine
+20210425	A	4-0	UC Davis	UC Irvine
 20210425	A	4-2	James Madison	William & Mary
 20210425	N	4-2	Old Dominion	Florida International
 20210425	H	4-3	Milwaukee	Cleveland State
 20210425	H	4-3	Northern Kentucky	Youngstown State
-20210425	N	0-0	Quinnipiac	Siena
+20210425	N	4-1	Siena	Quinnipiac
 20210425	H	6-1	Ball State	Western Michigan
 20210425	A	4-3	Miami (OH)	Eastern Michigan
+20210425	A	4-0	Drake	Missouri State
 20210425	N	4-2	Boise State	Colorado State
 20210425	H	4-3	UNLV	San Diego State
 20210425	A	0-0	New Mexico	Nevada
@@ -5192,71 +5273,149 @@ date	where	score	winner	loser
 20210425	N	4-3	Austin Peay	Southeast Missouri
 20210425	N	4-1	California	Stanford
 20210425	N	4-2	UCLA	Arizona State
+20210425	N	4-0	A&M-Corpus Christi	Stephen F. Austin
 20210425	A	7-0	Pepperdine	San Diego
 20210425	H	4-0	Concordia (NY)	Chestnut Hill
 20210425	N	4-3	Erskine	Mount Olive
 20210425	A	4-3	St. Thomas Aquinas	Queens (NY)
+20210425	N	4-3	Ferris State	Grand Valley State
 20210425	H	5-2	Maryville (MO)	Illinois Springfield
 20210425	A	5-2	Angelo State	Texas Tyler
 20210425	H	7-0	West Liberty	Wesleyan (WV)
 20210425	A	0-0	Fort Hays State	Emporia State
 20210425	A	6-1	Nebraska - Kearney	Newman
+20210425	H	4-0	Bentley	St. Anselm
 20210425	H	5-4	Augustana (IL)	Luther (IA)
 20210425	H	5-0	Illinois Wesleyan	North Park
 20210425	A	8-1	Transylvania	Hanover
-20210425	A	0-0	Ithaca	Hobart & William Smith
-20210425	A	0-0	RIT	St. Lawrence
-20210425	A	0-0	Union (NY)	Vassar
+20210425	H	7-2	Hobart & William Smith	Ithaca
+20210425	H	6-3	St. Lawrence	RIT
 20210425	A	7-2	Alma	Albion
 20210425	H	5-4	St. Thomas (MN)	Gustavus Adolphus
 20210425	A	9-0	Concordia (WI)	Lakeland
 20210425	H	8-1	Kenyon	DePauw
-20210425	A	0-0	Wooster	Ohio Wesleyan
+20210425	A	9-0	Wooster	Ohio Wesleyan
 20210425	N	9-0	Bates	Connecticut College
 20210425	H	7-2	Colby	Trinity (CT)
+20210425	H	5-4	Middlebury	Skidmore
 20210425	A	0-0	Puget Sound	Willamette
-20210425	A	0-0	Whitworth	Pacific (OR)
+20210425	A	5-4	Whitworth	Pacific (OR)
+20210425	N	5-1	Millsaps	Centre
 20210425	A	0-0	Colorado College	Texas Lutheran
-20210425	A	0-0	UW Superior	Minnesota Morris
+20210425	H	6-3	Minnesota Morris	UW Superior
 20210425	H	5-1	UW Whitewater	UW La Crosse
 20210425	A	0-0	Cardinal Stritch	Chicago
+20210425	A	7-0	St. Mary (NE)	Mount Marty (SD)
 20210425	A	0-0	Ottawa	Rockhurst
+20210426	N	4-1	Xavier	DePaul
+20210426	N	4-2	California	UCLA
+20210426	A	4-0	A&M-Corpus Christi	Lamar
 20210426	N	4-1	Emmanuel (GA)	Lees-McRae
-20210426	H	0-0	Kutztown	Harford (MD)
 20210426	A	0-0	Hamline	Northwestern (MN)
+20210426	H	8-1	Farmingdale State	Yeshiva
+20210426	H	9-0	Wash U	Webster
 20210426	A	0-0	Crown	Northwestern (MN)
-20210427	A	0-0	St. Thomas Aquinas	Daemen
-20210427	A	0-0	UMSL	Lindenwood
-20210427	A	0-0	Wesleyan (WV)	Davis & Elkins
-20210427	A	0-0	Southern Virginia	St. Mary's (MD)
+20210426	H	4-3	St. Francis (IL)	Olivet Nazarene
+20210426	A	6-3	Spring Arbor	Anderson (IN)
+20210426	A	0-0	Harford (MD)	Kutztown
+20210427	A	6-1	St. Thomas Aquinas	Daemen
+20210427	A	6-1	UMSL	Lindenwood
+20210427	A	6-1	Fairmont State	Frostburg State
+20210427	A	5-2	Wesleyan (WV)	Davis & Elkins
+20210427	A	9-0	Southern Virginia	St. Mary's (MD)
+20210427	H	5-1	Augustana (IL)	Carthage
+20210427	H	5-0	Millikin	Carroll (WI)
+20210427	H	5-0	North Central (IL)	Illinois Wesleyan
 20210427	N	0-0	Hamline	St. Catherine (MN)
 20210427	A	0-0	St. Olaf	Macalester
-20210427	A	0-0	Yeshiva	St. Joseph's (Long Island)
-20210427	A	0-0	CWRU	Franciscan
-20210427	A	0-0	Concordia (NE)	Midland (NE)
+20210427	N	9-0	Sewanee	Covenant
+20210427	H	8-1	St. Joseph's (Long Island)	Yeshiva
+20210427	H	4-3	Spring Arbor	Calvin
+20210427	A	4-3	Concordia (NE)	Midland (NE)
+20210427	A	7-0	Doane	Mount Marty (SD)
+20210427	H	4-3	Northwestern Ohio	Cornerstone
 20210427	A	0-0	Fullerton	Cypress
+20210427	A	0-0	Irvine Valley	Orange Coast
 20210427	A	0-0	Saddleback	Riverside
-20210428	A	0-0	Gonzaga	San Diego
+20210427	H	6-1	Mt. San Antonio	Antelope Valley
+20210427	A	0-0	Ventura	Santa Monica
+20210428	N	4-1	Fordham	St. Joseph's (PA)
+20210428	N	4-0	George Washington	La Salle
+20210428	N	4-2	Maryland	Rutgers
+20210428	H	4-0	San Diego	Gonzaga
+20210428	A	0-0	SNHU	Le Moyne
+20210428	H	4-0	Columbus State	Georgia College
+20210428	H	4-1	Indiana (PA)	Slippery Rock
+20210428	A	4-3	Millersville	West Chester
+20210428	H	9-0	Christopher Newport	Virginia Wesleyan
 20210428	A	0-0	McDaniel	Dickinson
-20210428	A	0-0	Lycoming	DeSales
-20210428	A	0-0	Stevenson	Lebanon Valley
+20210428	H	5-4	St. Lawrence	RPI
+20210428	A	0-0	Union (NY)	Vassar
+20210428	H	8-0	DeSales	Lycoming
+20210428	H	8-1	Lebanon Valley	Stevenson
+20210428	A	7-0	John Carroll	Baldwin Wallace
 20210428	A	0-0	Marietta	Capital (OH)
-20210428	H	0-0	Washington & Lee	Lynchburg
-20210428	A	0-0	Northwestern (MN)	UW Superior
-20210429	N	0-0	Cal Poly	CSUN
+20210428	A	8-1	Northwestern (MN)	UW Superior
+20210428	H	4-3	Holy Cross (IN)	St. Francis (IL)
+20210429	N	4-0	George Washington	Fordham
+20210429	N	4-0	Richmond	Davidson
+20210429	N	4-3	Rhode Island	Saint Louis
+20210429	N	4-0	VCU	Duquesne
+20210429	N	4-3	Illinois	Purdue
+20210429	N	4-3	Maryland	Nebraska
+20210429	N	4-2	Cal Poly	CSUN
+20210429	N	4-0	CSU Fullerton	UC Irvine
+20210429	N	4-1	Hawaii	UC Davis
+20210429	N	4-0	UC Santa Barbara	UC Riverside
 20210429	A	0-0	Nichols	WNE
+20210429	N	4-0	McPherson	Friends
+20210429	A	0-0	Orange Coast	Irvine Valley
 20210429	A	0-0	Cypress	Fullerton
 20210429	A	0-0	Riverside	Saddleback
-20210430	A	0-0	Eastern Michigan	Bowling Green
-20210430	A	0-0	Miami (OH)	Buffalo
+20210429	H	8-1	Ventura	Antelope Valley
+20210430	N	4-0	Richmond	Rhode Island
+20210430	N	4-0	VCU	George Washington
+20210430	N	4-0	Iowa	Maryland
+20210430	N	4-0	Michigan	Illinois
+20210430	N	4-0	Northwestern	Minnesota
+20210430	N	4-0	Ohio State	Michigan State
+20210430	N	4-0	Cal Poly	CSU Fullerton
+20210430	N	4-0	UC Santa Barbara	Hawaii
+20210430	H	5-2	Bowling Green	Eastern Michigan
+20210430	H	4-3	Buffalo	Miami (OH)
 20210430	A	0-0	Northern Illinois	Ball State
+20210430	A	4-3	Toledo	Western Michigan
+20210430	H	4-0	Navy	Colgate
+20210430	H	4-0	Denver	South Dakota
+20210430	A	5-0	Southwest Baptist (MO)	Lewis
+20210430	N	4-3	Washburn-Topeka	Northwest Missouri
+20210430	H	5-0	Luther (IA)	Central (IA)
+20210430	N	0-0	Millikin	North Central (IL)
 20210430	A	0-0	Rhode Island College	Plymouth State
 20210430	A	0-0	Bethel (MN)	St. Catherine (MN)
 20210430	A	0-0	Lewis & Clark (OR)	George Fox
+20210430	N	5-0	Trinity (TX)	St. Thomas (TX)
 20210430	A	0-0	Cal Lutheran	Chapman
-20210501	N	0-0	Milwaukee	Youngstown State
+20210430	A	8-1	Georgia Gwinnett	Emory
+20210430	N	4-3	Southwestern (KS)	McPherson
+20210430	A	9-0	Canada	CCSF
+20210430	A	0-0	Mt. San Jacinto	Antelope Valley
+20210430	A	0-0	Ventura	Fresno
+20210430	A	0-0	Ventura	Modesto
+20210501	N	4-0	VCU	Richmond
+20210501	N	4-0	Northern Arizona	Portland State
+20210501	N	4-2	Weber State	Eastern Washington
+20210501	N	4-1	Michigan	Northwestern
+20210501	N	4-2	Ohio State	Iowa
+20210501	N	4-0	UC Santa Barbara	Cal Poly
+20210501	N	4-1	Illinois - Chicago	Cleveland State
+20210501	N	4-0	Youngstown State	Milwaukee
+20210501	H	4-3	Navy	Army
+20210501	H	4-0	Denver	UMKC
+20210501	N	4-0	Charleston	West Liberty
+20210501	H	5-0	Luther (IA)	Wartburg
 20210501	A	0-0	Dickinson	Washington (MD)
-20210501	A	0-0	Gettysburg	Franklin & Marshall
+20210501	H	9-0	Franklin & Marshall	Gettysburg
 20210501	A	0-0	Muhlenberg	Johns Hopkins
 20210501	A	0-0	Ursinus	McDaniel
 20210501	A	0-0	Manchester	Hanover
@@ -5264,36 +5423,58 @@ date	where	score	winner	loser
 20210501	A	0-0	RIT	Ithaca
 20210501	A	0-0	St. Lawrence	Hobart & William Smith
 20210501	A	0-0	Vassar	Skidmore
-20210501	A	0-0	Alvernia	Stevenson
+20210501	A	5-4	Alvernia	Stevenson
 20210501	A	0-0	DeSales	Misericordia
 20210501	A	0-0	Eastern (PA)	Messiah
 20210501	A	0-0	Lebanon Valley	Hood
 20210501	A	0-0	Concordia - Moorhead	St. Olaf
 20210501	A	0-0	Gustavus Adolphus	Bethel (MN)
-20210501	A	0-0	Allegheny	Kenyon
-20210501	A	0-0	Allegheny	Wooster
-20210501	A	0-0	Bates	Colby
-20210501	A	0-0	Tufts	Trinity (CT)
+20210501	H	5-4	Edgewood	Concordia (WI)
+20210501	H	9-0	Kenyon	Allegheny
+20210501	H	9-0	Colby	Bates
+20210501	A	8-1	Tufts	Trinity (CT)
 20210501	A	0-0	Babson	Springfield
 20210501	A	0-0	Pacific (OR)	Whitman
 20210501	A	0-0	Willamette	Whitworth
 20210501	A	0-0	Mount Union	Otterbein
-20210501	A	0-0	Emory & Henry	Sweet Briar
+20210501	H	5-2	Sweet Briar	Emory & Henry
+20210501	H	7-2	Sewanee	Wash U
 20210501	A	0-0	UW Eau Claire	Chicago
+20210501	H	0-0	Antelope Valley	Sequoias
+20210502	A	0-0	Syracuse	San Francisco
+20210502	N	0-0	Illinois - Chicago	Youngstown State
 20210502	A	0-0	Ball State	Toledo
 20210502	A	0-0	Bowling Green	Miami (OH)
 20210502	A	0-0	Western Michigan	Northern Illinois
+20210502	A	0-0	Boston University	Navy
+20210502	N	0-0	Charleston	West Virginia State
 20210502	A	0-0	WNE	Nichols
+20210502	A	0-0	Johns Hopkins	Christopher Newport
 20210502	A	0-0	Gustavus Adolphus	Macalester
+20210502	A	0-0	Kenyon	Carnegie Mellon
 20210502	A	0-0	Williams	Middlebury
 20210502	A	0-0	Willamette	Whitworth
 20210502	A	0-0	John Carroll	Ohio Northern
+20210502	A	0-0	Farmingdale State	Manhattanville
 20210502	A	0-0	Purchase	Yeshiva
 20210504	A	0-0	Cypress	Saddleback
 20210504	A	0-0	Irvine Valley	Riverside
+20210504	A	0-0	Antelope Valley	Santa Monica
+20210505	A	0-0	Sweet Briar	Lynchburg
+20210506	A	0-0	Canada	Mission
 20210506	A	0-0	Riverside	Irvine Valley
 20210506	A	0-0	Saddleback	Cypress
+20210506	A	0-0	Santa Monica	Ventura
+20210507	A	0-0	CWRU	Franciscan
+20210507	A	0-0	Chabot	Canada
+20210511	A	0-0	LSU Alexandria	Xavier (LA)
 20210511	A	0-0	Orange Coast	Cypress
 20210511	A	0-0	Riverside	Fullerton
+20210513	A	0-0	Canada	Chabot
 20210513	A	0-0	Cypress	Orange Coast
 20210513	A	0-0	Fullerton	Riverside
+20210515	A	0-0	Antelope Valley	Mt. San Jacinto
+20210518	A	0-0	Mt. San Antonio	Santa Monica
+20210520	A	0-0	Sierra	Canada
+20210521	A	0-0	West Valley	Canada
+20210527	A	0-0	Mission	Canada
