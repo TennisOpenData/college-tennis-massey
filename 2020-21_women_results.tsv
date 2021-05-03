@@ -3789,7 +3789,6 @@ date	where	score	winner	loser
 20210406	H	7-2	Ozarks	John Brown
 20210406	A	5-4	Lynchburg	Sweet Briar
 20210406	H	9-0	Randolph-Macon	Mary Baldwin
-20210406	A	0-0	Franciscan	Washington & Jefferson
 20210406	A	0-0	Carnegie Mellon	Westminster (PA)
 20210406	A	4-3	Wash U	UMSL
 20210406	A	0-0	UW Whitewater	UW Oshkosh
@@ -5106,6 +5105,7 @@ date	where	score	winner	loser
 20210423	H	5-4	Emory & Henry	Roanoke
 20210423	H	9-0	Sweet Briar	Virginia Wesleyan
 20210423	H	9-0	Washington & Lee	Lynchburg
+20210423	N	5-4	Franciscan	Grove City
 20210423	A	9-0	Farmingdale State	Purchase
 20210423	A	0-0	Principia	Greenville
 20210423	N	5-4	Webster	Greenville
@@ -5222,7 +5222,8 @@ date	where	score	winner	loser
 20210424	H	8-1	Williams	Hamilton
 20210424	A	0-0	Clark (MA)	Springfield
 20210424	A	6-3	Babson	Wheaton (MA)
-20210424	A	0-0	Whitman	Pacific Lutheran
+20210424	A	9-0	Linfield	George Fox
+20210424	A	7-0	Whitman	Pacific Lutheran
 20210424	A	6-3	Whitworth	Pacific (OR)
 20210424	A	9-0	Baldwin Wallace	Marietta
 20210424	A	0-0	Capital (OH)	Muskingum
@@ -5346,6 +5347,7 @@ date	where	score	winner	loser
 20210428	N	4-0	George Washington	La Salle
 20210428	N	4-2	Maryland	Rutgers
 20210428	H	4-0	San Diego	Gonzaga
+20210428	H	4-0	Franklin Pierce	Bentley
 20210428	A	0-0	SNHU	Le Moyne
 20210428	H	4-0	Columbus State	Georgia College
 20210428	H	4-1	Indiana (PA)	Slippery Rock
@@ -5384,21 +5386,23 @@ date	where	score	winner	loser
 20210430	N	4-0	Ohio State	Michigan State
 20210430	N	4-0	Cal Poly	CSU Fullerton
 20210430	N	4-0	UC Santa Barbara	Hawaii
+20210430	H	6-1	Ball State	Northern Illinois
 20210430	H	5-2	Bowling Green	Eastern Michigan
 20210430	H	4-3	Buffalo	Miami (OH)
-20210430	A	0-0	Northern Illinois	Ball State
 20210430	A	4-3	Toledo	Western Michigan
 20210430	H	4-0	Navy	Colgate
 20210430	H	4-0	Denver	South Dakota
 20210430	A	5-0	Southwest Baptist (MO)	Lewis
+20210430	N	4-0	Central Oklahoma	Missouri Western
 20210430	N	4-3	Washburn-Topeka	Northwest Missouri
 20210430	H	5-0	Luther (IA)	Central (IA)
-20210430	N	0-0	Millikin	North Central (IL)
+20210430	N	5-0	North Central (IL)	Millikin
 20210430	A	0-0	Rhode Island College	Plymouth State
 20210430	A	0-0	Bethel (MN)	St. Catherine (MN)
-20210430	A	0-0	Lewis & Clark (OR)	George Fox
+20210430	H	7-2	George Fox	Lewis & Clark (OR)
 20210430	N	5-0	Trinity (TX)	St. Thomas (TX)
 20210430	A	0-0	Cal Lutheran	Chapman
+20210430	N	4-0	Morningside	Concordia (NE)
 20210430	A	8-1	Georgia Gwinnett	Emory
 20210430	N	4-3	Southwestern (KS)	McPherson
 20210430	A	9-0	Canada	CCSF
@@ -5418,12 +5422,14 @@ date	where	score	winner	loser
 20210501	H	4-1	New Mexico State	UTRGV
 20210501	N	4-0	Charleston	West Liberty
 20210501	N	4-0	Southwest Baptist (MO)	Drury
+20210501	N	4-0	Central Oklahoma	Washburn-Topeka
 20210501	H	5-0	Luther (IA)	Wartburg
+20210501	N	5-0	North Central (IL)	Augustana (IL)
 20210501	A	0-0	Dickinson	Washington (MD)
 20210501	H	9-0	Franklin & Marshall	Gettysburg
 20210501	A	0-0	Muhlenberg	Johns Hopkins
 20210501	A	0-0	Ursinus	McDaniel
-20210501	A	0-0	Manchester	Hanover
+20210501	H	9-0	Hanover	Manchester
 20210501	A	0-0	Plymouth State	Castleton State
 20210501	A	0-0	RIT	Ithaca
 20210501	A	0-0	St. Lawrence	Hobart & William Smith
@@ -5438,30 +5444,33 @@ date	where	score	winner	loser
 20210501	H	9-0	Kenyon	Allegheny
 20210501	H	9-0	Colby	Bates
 20210501	A	8-1	Tufts	Trinity (CT)
+20210501	A	9-0	Wesleyan (CT)	Hamilton
 20210501	A	0-0	Babson	Springfield
-20210501	A	0-0	Pacific (OR)	Whitman
-20210501	A	0-0	Willamette	Whitworth
+20210501	A	5-4	Pacific (OR)	Whitman
+20210501	H	9-0	Whitworth	Willamette
 20210501	A	0-0	Mount Union	Otterbein
 20210501	H	5-2	Sweet Briar	Emory & Henry
 20210501	H	7-2	Sewanee	Wash U
 20210501	A	0-0	UW Eau Claire	Chicago
+20210501	N	4-3	Morningside	Doane
 20210501	H	0-0	Antelope Valley	Sequoias
 20210502	A	0-0	Syracuse	San Francisco
-20210502	N	0-0	Michigan	Ohio State
+20210502	N	4-2	Northern Arizona	Weber State
+20210502	N	4-1	Ohio State	Michigan
 20210502	N	0-0	Illinois - Chicago	Youngstown State
-20210502	A	0-0	Ball State	Toledo
-20210502	A	0-0	Bowling Green	Miami (OH)
 20210502	A	6-1	Buffalo	Eastern Michigan
+20210502	H	4-3	Miami (OH)	Bowling Green
+20210502	H	4-3	Toledo	Ball State
 20210502	A	0-0	Western Michigan	Northern Illinois
 20210502	A	0-0	Boston University	Navy
 20210502	A	4-0	Grand Canyon	New Mexico State
-20210502	N	0-0	Charleston	West Virginia State
+20210502	N	4-1	Charleston	West Virginia State
 20210502	A	0-0	WNE	Nichols
 20210502	A	0-0	Johns Hopkins	Christopher Newport
 20210502	A	0-0	Gustavus Adolphus	Macalester
 20210502	A	0-0	Kenyon	Carnegie Mellon
 20210502	A	0-0	Williams	Middlebury
-20210502	A	0-0	Willamette	Whitworth
+20210502	H	9-0	Whitworth	Willamette
 20210502	A	0-0	John Carroll	Ohio Northern
 20210502	A	0-0	Farmingdale State	Manhattanville
 20210502	A	0-0	Purchase	Yeshiva
