@@ -29583,6 +29583,8 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210425	572198	442520	N	   1	S.C. State	Rachida Berjane     	Florida A&M	Haleigh Porter      	6-2, 6-3
 20210425	572197	417040	N	   2	S.C. State	Hind Semlali        	Florida A&M	Aylen Hubeaut       	6-2, 6-4
 20210425	501650	397623	N	   5	S.C. State	Ikram Rassif        	Florida A&M	Adrienne Clayton    	6-2, 1-6, 6-1
+20210425	567993	488855	A	   1	Saint Louis	Elizabeth Mintusova 	Chicago State	Kristina Pukhaeva   	6-2, 6-0
+20210425	567992	514664	A	   4	Saint Louis	Mya Spencer         	Chicago State	Katarina Dukic      	6-3, 6-4
 20210426	509199	505857	H	   1	Farmingdale State	Anastasia Hoffman   	Yeshiva	Alexandra Huberfeld 	6-0, 6-1
 20210426	486792	569819	H	   2	Farmingdale State	Rosa Lettieri       	Yeshiva	Eden Hariri         	6-4, 6-4
 20210426	569818	571570	A	   3	Yeshiva	Elisheva Gofman     	Farmingdale State	Stephanie Negrillo  	6-4, 7-5
@@ -29697,6 +29699,8 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210427	571928	571964	H	   3	Mt. San Antonio	Cassandra Paulson   	Antelope Valley	Gabriela Garcia     	6-0, 6-2
 20210427	571929	498615	H	   4	Mt. San Antonio	Priscilla Pranajasa 	Antelope Valley	Marbella Rubio      	6-1, 6-1
 20210427	571963	571926	A	   5	Antelope Valley	Juliana Martinez    	Mt. San Antonio	Rebecca Contreras   	6-4, 7-6(2)
+20210427	514664	457672	H	   4	Chicago State	Katarina Dukic      	Cardinal Stritch	Kimberley Tiat      	7-6(4), 6-2
+20210427	514665	421212	H	   5	Chicago State	Susana Andres       	Cardinal Stritch	Chelsea Kelly       	7-5, 6-3
 20210428	493373	564827	H	   1	San Diego	Solymar Colling     	Gonzaga	Adrianna Sosnowska  	6-0, 6-2
 20210428	565869	421543	H	   3	San Diego	Jordyn McBride      	Gonzaga	Kate Ketels         	6-0, 6-0
 20210428	423873	564828	H	   5	San Diego	Katharina Kukaras   	Gonzaga	Hannah Jones        	6-0, 6-0
@@ -29762,6 +29766,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210428	527477	571022	H	   1	Franklin Pierce	Maria Penalver Aguilo	Bentley	Adriana Hiraldo     	6-0, 6-2
 20210428	527478	571027	H	   4	Franklin Pierce	Zoe Asterio Correa  	Bentley	Remi Lesage         	6-3, 6-4
 20210428	569240	517355	H	   5	Franklin Pierce	Stella Carra        	Bentley	Zoe Chin            	6-3, 6-0
+20210428	527828	565508	N	   1	Minnesota	Rachel Hanford      	Indiana	Laura Masic         	6-2, 4-6, 6-1
+20210428	513456	513289	N	   2	Indiana	Annabelle Andrinopoulous	Minnesota	Ekin Ercetin        	7-5, 6-4
+20210428	513460	513288	N	   3	Indiana	Alexandra Staiculescu	Minnesota	Dalila Said         	2-6, 7-5, 6-4
+20210428	392161	513287	N	   4	Indiana	Jelly Bozovic       	Minnesota	Lucia De Santa Ana  	6-2, 0-6, 7-5
+20210428	486439	431751	N	   5	Minnesota	Juliet Zhang        	Indiana	Michelle McKamey    	6-2, 6-1
+20210428	527829	389889	N	   6	Minnesota	Zeyneb Sarioglan    	Indiana	Caitlin Bernard     	6-4, 6-1
 20210429	512600	511413	N	   1	CSUN	Ekaterina Repina    	Cal Poly	Dominique Stone     	6-2, 6-2
 20210429	485850	569112	N	   2	Cal Poly	Kimberley Bhunu     	CSUN	Magdalena Hedrzak   	4-6, 6-2, 6-1
 20210429	485931	511412	N	   3	CSUN	Ana Isabel Fraile Toboso	Cal Poly	Melissa Lamette     	6-2, 4-6, 6-3
@@ -29813,6 +29823,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210429	401582	487795	N	   1	VCU	Paola Delgado       	Duquesne	Margot Pessy        	6-3, 6-0
 20210429	564693	566513	N	   3	VCU	Alessia Ciuca       	Duquesne	Ellen Shanahan      	6-0, 6-2
 20210429	464381	487793	N	   4	VCU	Noumea Witmus       	Duquesne	Meredith Lee        	6-0, 6-0
+20210429	527828	438061	N	   1	Minnesota	Rachel Hanford      	Penn State	Gabby OGorman       	7-6(5), 6-1
+20210429	567414	513289	N	   2	Penn State	Sofiya Chekhlystova 	Minnesota	Ekin Ercetin        	6-0, 6-2
+20210429	513288	455926	N	   3	Minnesota	Dalila Said         	Penn State	Frederikke Svarre   	6-0, 6-2
+20210429	453088	513287	N	   4	Penn State	Samantha Smith      	Minnesota	Lucia De Santa Ana  	6-1, 6-0
+20210429	486439	567415	N	   5	Minnesota	Juliet Zhang        	Penn State	Karly Friedland     	6-4, 3-6, 6-2
+20210429	567417	527829	N	   6	Penn State	Alexandra Nielsen   	Minnesota	Zeyneb Sarioglan    	6-3, 6-1
 20210430	497673	489417	A	   1	Miami (OH)	Brindtha Ramasamy   	Buffalo	Pia Schwarz         	6-1, 6-0
 20210430	511782	515261	A	   2	Miami (OH)	Laura Rico          	Buffalo	Gabriella Akopyan   	6-3, 5-7, 6-3
 20210430	498877	402057	H	   3	Buffalo	Hsin-Yuan Shih      	Miami (OH)	Melati Devi         	6-4, 6-3
@@ -29911,6 +29927,11 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210430	511501	509874	N	   3	Morningside	Aleksandra Sadowska 	Concordia (NE)	Tara Ferrel         	6-2, 6-1
 20210430	527910	487228	N	   4	Morningside	Olivia Boudreau     	Concordia (NE)	Katy Krejci         	6-1, 6-2
 20210430	486892	409286	N	   5	Morningside	Tenly Hansen        	Concordia (NE)	Ansley Gates        	6-3, 6-0
+20210430	488855	409787	N	   1	Chicago State	Kristina Pukhaeva   	Seattle	Hannah Gianan       	6-3, 6-0
+20210430	517636	567866	N	   2	Seattle	Peggy Rooke         	Chicago State	Sofiya Sedovich     	6-3, 3-6, 6-4
+20210430	403394	485470	N	   3	Chicago State	Katarina Drazic     	Seattle	Alisa Sabotic       	7-5, 6-2
+20210430	485468	514664	N	   4	Seattle	Hannah Grossman     	Chicago State	Katarina Dukic      	6-0, 6-4
+20210430	485471	514665	N	   5	Seattle	Aranza Sanabria     	Chicago State	Susana Andres       	6-4, 7-6(7)
 20210501	426674	401171	H	   1	Whitworth	Avery Liening       	Willamette	Sarah Dean          	7-5, 6-4
 20210501	515447	410067	H	   2	Whitworth	Aleah Kert          	Willamette	Siena Ginsburg      	6-1, 6-0
 20210501	515448	437807	H	   3	Whitworth	Hannah Plank        	Willamette	Alyssa Oberg        	6-0, 6-0
@@ -30060,10 +30081,20 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210502	515448	513077	H	   4	Whitworth	Hannah Plank        	Willamette	Paisley Lieske      	6-0, 6-0
 20210502	566233	570059	H	   5	Whitworth	Meredith Bedford    	Willamette	Camille Gibney      	6-2, 6-2
 20210502	566232	570058	H	   6	Whitworth	Kara Nelson         	Willamette	Ruby Thompson       	6-2, 6-1
+20210502	564490	565637	N	   2	Youngstown State	Claudia Cecilia Rosas Garcia	Illinois - Chicago	Agnes Gustafsson    	6-2, 0-6, 6-4
+20210502	491968	465857	N	   3	Illinois - Chicago	Lucie Prochazkova   	Youngstown State	Lucia Zagar         	6-0, 6-0
+20210502	565633	564489	N	   4	Illinois - Chicago	Ana Jover           	Youngstown State	Eliska Masarikova   	5-7, 6-4, 6-2
+20210502	491966	498112	N	   6	Illinois - Chicago	Nell Arendt         	Youngstown State	Claudia Barboza     	7-5, 6-1
 20210502	514138	455978	N	   2	West Virginia State	Gaya Solomon        	Charleston	Katie Swann         	6-1, 6-0
 20210502	565750	486487	N	   3	Charleston	Alexiann Drouin     	West Virginia State	Chante Malo         	6-3, 6-1
 20210502	488084	524369	N	   5	Charleston	Haarini Balakrishnan	West Virginia State	Maya Haidari        	6-0, 6-3
 20210502	565749	514139	N	   6	Charleston	Julia Lif           	West Virginia State	Emily Moore         	6-2, 6-2
+20210502	568348	511558	A	   1	Boston University	Victoria Carlsten   	Navy	Jillian Taggart     	6-4, 7-5
+20210502	568347	485598	A	   2	Boston University	Kaitlin Tan         	Navy	Kacey Moore         	6-1, 6-3
+20210502	512752	485597	A	   3	Boston University	Erica Di Battista   	Navy	Meghana Kommaraju   	6-2, 6-4
+20210502	401787	421870	H	   4	Navy	Miranda Deng        	Boston University	Emily Kim           	7-5, 3-4
+20210502	393806	485594	A	   5	Boston University	Lily Burchell       	Navy	Katreina Corpuz     	7-6(4), 6-3
+20210502	567263	429993	H	   6	Navy	Samantha Johns      	Boston University	Katya Martens       	6-3, 6-0
 20210502	515242	565435	A	   3	Grand Canyon	Jana Weiss          	New Mexico State	Miranda Bishard     	6-2, 6-3
 20210502	564213	488673	A	   4	Grand Canyon	Joely Lomas         	New Mexico State	Bhargavi Kalaga     	6-3, 6-3
 20210502	564211	571343	A	   6	Grand Canyon	Taylor Andersen     	New Mexico State	Kayla Fielder       	6-1, 6-0
@@ -30082,3 +30113,9 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210502	433181	497420	N	   3	Northern Arizona	Eleanor Millard     	Weber State	Megan Lombardi      	6-4, 6-3
 20210502	565347	566415	N	   4	Northern Arizona	Ava Neyestani       	Weber State	Megan Davies        	6-3, 6-1
 20210502	434461	566416	N	   6	Northern Arizona	Madison Moore       	Weber State	Sicely Ferreira     	4-6, 6-4, 6-2
+20210502	564454	393669	A	   1	Syracuse	Viktoriya Kanapatskaya	San Francisco	Mya Bui             	7-5, 6-0
+20210502	565556	489241	H	   2	San Francisco	Maria Martinez Vaquero	Syracuse	Guzal Yusupova      	1-6, 4-6
+20210502	515641	443972	H	   3	San Francisco	Chiho Mushika       	Syracuse	Miranda Ramirez     	3-6, 6-4, 6-7(3)
+20210502	565198	489313	A	   4	Syracuse	Natalie Novotna     	San Francisco	Rita Colyer         	6-3, 6-2
+20210502	515640	521319	H	   5	San Francisco	Arianna Capogrosso  	Syracuse	Zeynep Erman        	3-6, 4-6
+20210502	511873	565555	A	   6	Syracuse	Polina Kozyreva     	San Francisco	Caragh Courtney     	6-4, 6-3

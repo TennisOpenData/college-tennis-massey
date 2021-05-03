@@ -2325,8 +2325,8 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210116	564156	565408	N	    	North Carolina	Adam Neff           	Virginia Tech	Ryan Fishback       	6-4, 6-3
 20210116	514358	402996	N	    	North Carolina	Rinky Hijikata      	Virginia Tech	Carlo Donato        	7-5, 6-2
 20210116	453379	445208	N	    	North Carolina	Simon Soendergaard  	Virginia Tech	Alexandre Ribeiro   	7-5, 6-3
-20210116	521233	514359	N	    	Virginia Tech	Matthis Ross        	North Carolina	Anuj Watane         	6-2, 5-7, 6-2
 20210116	565404	517797	N	    	Virginia Tech	Hugo Maia           	North Carolina	Mark Dillon         	6-2, 6-0
+20210116	521233	514359	N	    	Virginia Tech	Matthis Ross        	North Carolina	Anuj Watane         	6-2, 5-7, 6-2
 20210116	564416	423647	N	    	Duke	Andrew Dale         	Virginia Tech	Ryan Kros           	6-1, 6-4
 20210116	514016	453379	N	    	N.C. State	Rafa Izquierdo Luque	North Carolina	Simon Soendergaard  	2-6, 6-0, 6-1
 20210116	387254	564156	N	    	N.C. State	Tadas Babelis       	North Carolina	Adam Neff           	7-5, 6-3
@@ -26877,6 +26877,9 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210430	533367	511511	N	   6	Midland (NE)	Tycho Janssen       	Morningside	JayVon McKinney     	6-1, 6-1
 20210430	569483	409585	N	   1	Grove City	Jack Booker         	Westminster (PA)	Alex Georgescu      	6-0, 6-2
 20210430	486351	445267	N	   2	Grove City	Karsten Lagerquist  	Westminster (PA)	Alec Rich           	6-2, 6-0
+20210430	407794	424441	N	   1	Elon	Kyle Frankel        	Drexel	Youssef Lahlou      	6-1, 6-3
+20210430	442347	514426	N	   4	Elon	Camilo Ponce        	Drexel	Hugo Brungs         	6-2, 6-0
+20210430	520683	567411	N	   5	Elon	Chung-Han Tsai      	Drexel	Matvey Radionov     	6-0, 6-2
 20210501	476241	494869	A	   1	Manchester	Isaac Miller        	Hanover	Keith Asplund       	7-5, 6-4
 20210501	480967	503784	H	   2	Hanover	Roger Trombley      	Manchester	Samuel Hollingsworth	6-1, 6-1
 20210501	471095	503785	H	   3	Hanover	Jed Fajt            	Manchester	Andrew Kibler       	6-0, 6-0
@@ -27034,6 +27037,9 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210501	512705	456029	H	   4	Hamilton	Eric Stein          	Wesleyan (CT)	Marcus Sweeney      	3-6, 6-2, 1-0(4)
 20210501	570553	401893	A	   5	Wesleyan (CT)	Ben Mitchell        	Hamilton	Tim Derby           	6-2, 6-1
 20210501	570554	451032	A	   6	Wesleyan (CT)	Harry Portnoy       	Hamilton	Jafar Sharipov      	6-1, 6-0
+20210501	424781	488583	N	   1	Grand Canyon	Valentin Lang       	Chicago State	Jakov Suler         	6-3, 6-2
+20210501	564214	522193	N	   5	Grand Canyon	Jiri Novak          	Chicago State	Jakub Zamorski      	6-2, 6-3
+20210501	411392	566679	N	   6	Grand Canyon	Frederick Grant     	Chicago State	Maximiliano Sandoval	6-4, 6-3
 20210502	508981	510329	A	   1	Colby	Jan Wenger          	Bates	Nicholas Forester   	2-6, 6-4, 1-0(8)
 20210502	528043	510331	A	   2	Colby	Joey Barrett        	Bates	Cameron Kania       	6-3, 6-1
 20210502	571811	508980	H	   3	Bates	Alexander Gujarathi 	Colby	Ben Powis           	7-5, 7-6(4)
