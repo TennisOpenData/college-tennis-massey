@@ -1,68 +1,68 @@
 line	region	regSeed	seed	notes	conference	team	wins	losses	itaRank	trnRank	slamRank	masseyRank	utrRank	eloRank	glickoRank	rpiRank	ustaRank	coachRank	r2Id	trnId	utrId	masseyId	teamCode	division
-1	UNC	1	1	*	ACC	North Carolina	26	0	1	1	1	1	2	2	2	2	1	1
-2	UNC	4		*	MEAC	S.C. State	6	4	NR	211	214	206	234	150	213	227		
+1	UNC	1	1	AQ	ACC	North Carolina	26	0	1	1	1	1	2	2	2	2	1	1
+2	UNC	4		AQ	MEAC	S.C. State	6	4	NR	211	214	206	234	150	213	227		
 3	UNC	3			SEC	Arkansas	11	10	32	33	39	46	38	123	56	81		33
-4	UNC	2		*	C-USA	Old Dominion	12	4	30	25	28	29	39	16	40	9	RV	32
+4	UNC	2		AQ	C-USA	Old Dominion	12	4	30	25	28	29	39	16	40	9	RV	32
 5	CAL	2			SEC	Kentucky	15	8	26	27	25	33	36	55	20	43	24	27
 6	CAL	3		L4	ACC	Syracuse	8	11	46	45	46	47	50	113	90	90		45
-7	CAL	4		*	MWC	San Jose State	15	1	62	80	93	73	96	18	39	46		
-8	CAL	1	16	*	Pac-12	California	17	6	16	17	17	14	17	9	7	7	13	17
-9	UCF	1	9	*	AAC	Central Florida	18	4	9	12	12	10	15	7	10	6	9	9
-10	UCF	4		*	Big South	Charleston Southern	10	7	118	136	148	149	148	111	156	153		
+7	CAL	4		AQ	MWC	San Jose State	15	1	62	80	93	73	96	18	39	46		
+8	CAL	1	16	AQ	Pac-12	California	17	6	16	17	17	14	17	9	7	7	13	17
+9	UCF	1	9	AQ	AAC	Central Florida	18	4	9	12	12	10	15	7	10	6	9	9
+10	UCF	4		AQ	Big South	Charleston Southern	10	7	118	136	148	149	148	111	156	153		
 11	UCF	3		L4	C-USA	Florida International	12	1	41	29	30	38	52	19	30	13	RV	50
 12	UCF	2			ACC	Miami (FL)	14	8	24	21	22	17	16	31	26	32	21	21
 13	BAY	2			ACC	Duke	15	6	17	15	14	11	13	47	28	19	14	20
 14	BAY	3		L4	SEC	Alabama	12	12	42	47	48	52	47	125	66	91		43
-15	BAY	4		*	Southland	A&M-Corpus Christi	21	4	94	122	110	92	107	61	74	76		
+15	BAY	4		AQ	Southland	A&M-Corpus Christi	21	4	94	122	110	92	107	61	74	76		
 16	BAY	1	8		Big 12	Baylor	23	4	8	4	7	12	8	6	5	8	8	8
-17	PEPP	1	5	*	WCC	Pepperdine	20	3	5	6	6	5	3	4	4	5	5	4
-18	PEPP	4		*	Big Sky	Northern Arizona	14	4	91	108	98	90	133	59	84	128		
-19	PEPP	3		*	Big West	UC Santa Barbara	13	3	48	42	40	45	72	14	22	37		
+17	PEPP	1	5	AQ	WCC	Pepperdine	20	3	5	6	6	5	3	4	4	5	5	4
+18	PEPP	4		AQ	Big Sky	Northern Arizona	14	4	91	108	98	90	133	59	84	128		
+19	PEPP	3		AQ	Big West	UC Santa Barbara	13	3	48	42	40	45	72	14	22	37		
 20	PEPP	2			Pac-12	Stanford	14	4	28	24	23	15	7	20	12	14	18	26
 21	LSU	2			Big Ten	Michigan	17	3	19	8	8	16	19	15	16	26	7	18
 22	LSU	3		L4	C-USA	Rice	15	6	40	37	41	40	37	40	32	21		39
-23	LSU	4		*	Patriot	Boston University	7	1	78	92	110	104	110	29	56	12		
+23	LSU	4		AQ	Patriot	Boston University	7	1	78	92	110	104	110	29	56	12		
 24	LSU	1	12		SEC	LSU	14	5	12	18	21	22	25	34	17	17	23	14
 25	GT	1	13		ACC	Georgia Tech	18	10	13	16	20	18	27	35	25	22	15	T11
-26	GT	4		*	Sun Belt	Georgia Southern	19	8	89	112	108	109	108	22	55	71		
-27	GT	3		*	ASUN	North Florida	17	7	63	61	59	57	59	45	57	38		
+26	GT	4		AQ	Sun Belt	Georgia Southern	19	8	89	112	108	109	108	22	55	71		
+27	GT	3		AQ	ASUN	North Florida	17	7	63	61	59	57	59	45	57	38		
 28	GT	2			SEC	Ole Miss	11	9	25	26	26	30	20	71	38	49	NR	25
 29	UCLA	2			Big 12	Texas Tech	15	8	29	35	34	28	25	50	21	25		29
 30	UCLA	3			WCC	San Diego	15	4	39	39	37	32	34	17	23	51		47
-31	UCLA	4		*	WAC	Grand Canyon	10	8	151	157	143	127	151	117	142	185		
+31	UCLA	4		AQ	WAC	Grand Canyon	10	8	151	157	143	127	151	117	142	185		
 32	UCLA	1	4		Pac-12	UCLA	19	4	4	7	4	4	4	5	6	4	4	5
-33	UGA	1	3	*	SEC	Georgia	20	1	3	3	3	3	5	3	3	3	3	3
-34	UGA	4		*	OVC	Austin Peay	12	3	103	127	130	124	142	51	86	75		
-35	UGA	3		*	SoCon	Furman	21	6	34	36	33	35	51	10	27	39	RV	35
+33	UGA	1	3	AQ	SEC	Georgia	20	1	3	3	3	3	5	3	3	3	3	3
+34	UGA	4		AQ	OVC	Austin Peay	12	3	103	127	130	124	142	51	86	75		
+35	UGA	3		AQ	SoCon	Furman	21	6	34	36	33	35	51	10	27	39	RV	35
 36	UGA	2			ACC	Wake Forest	11	12	33	31	32	34	32	104	63	57		31
 37	UVA	2			SEC	Tennessee	16	8	15	19	19	19	23	28	18	23	19	16
-38	UVA	3		*	CAA	James Madison	14	3	58	63	63	56	73	25	53	18		
-39	UVA	4		*	NEC	Long Island	9	0	87	224	211	154	195	33	62	31		
+38	UVA	3		AQ	CAA	James Madison	14	3	58	63	63	56	73	25	53	18		
+39	UVA	4		AQ	NEC	Long Island	9	0	87	224	211	154	195	33	62	31		
 40	UVA	1	14		ACC	Virginia	14	6	14	11	9	7	12	30	19	15	10	T11
 41	FLA	1	11		SEC	Florida	12	7	11	20	16	21	11	23	14	24	20	15
-42	FLA	4		*	MAAC	Siena	7	3	131	241	239	226	228	85	152	183		
+42	FLA	4		AQ	MAAC	Siena	7	3	131	241	239	226	228	85	152	183		
 43	FLA	3			Pac-12	USC	11	10	35	43	35	26	6	92	47	29		34
 44	FLA	2			Big 12	Oklahoma	15	6	23	22	13	13	14	13	11	10	22	24
 45	NCST	2			SEC	South Carolina	12	11	22	28	27	27	30	37	24	40	RV	23
 46	NCST	3			Big 12	Iowa State	13	7	36	44	42	44	45	52	31	58		36
-47	NCST	4		*	A-10	VCU	14	9	68	77	78	68	88	57	73	36		
+47	NCST	4		AQ	A-10	VCU	14	9	68	77	78	68	88	57	73	36		
 48	NCST	1	6		ACC	N.C. State	16	5	6	10	11	6	9	21	15	12	11	6
 49	FSU	1	7		ACC	Florida State	16	5	7	9	10	9	10	26	13	11	12	7
-50	FSU	4		*	SWAC	Alabama State	9	6	138	213	219	213	226	124	187	219		
+50	FSU	4		AQ	SWAC	Alabama State	9	6	138	213	219	213	226	124	187	219		
 51	FSU	3			Big 12	Oklahoma State	11	11	37	38	38	36	18	73	50	53		37
 52	FSU	2			SEC	Auburn	13	8	20	23	24	25	31	70	33	30	25	22
 53	A&M	2			Big Ten	Northwestern	18	5	21	13	18	20	34	54	46	27	16	19
-54	A&M	3		*	Big East	Xavier	17	3	93	88	92	87	91	29	49	47		
-55	A&M	4		*	MVC	Drake	11	8	152	142	141	135	171	79	96	119		
+54	A&M	3		AQ	Big East	Xavier	17	3	93	88	92	87	91	29	49	47		
+55	A&M	4		AQ	MVC	Drake	11	8	152	142	141	135	171	79	96	119		
 56	A&M	1	10		SEC	Texas A&M	19	7	10	14	15	23	22	12	8	16	17	10
-57	OSU	1	15	*	Big Ten	Ohio State	21	3	18	5	5	8	24	8	9	20	6	13
-58	OSU	4		*	Horizon	Illinois - Chicago	15	5	130	145	137	133	162	49	91	68		
-59	OSU	3		*	MAC	Ball State	22	3	84	101	105	99	105	11	35	48		
+57	OSU	1	15	AQ	Big Ten	Ohio State	21	3	18	5	5	8	24	8	9	20	6	13
+58	OSU	4		AQ	Horizon	Illinois - Chicago	15	5	130	145	137	133	162	49	91	68		
+59	OSU	3		AQ	MAC	Ball State	22	3	84	101	105	99	105	11	35	48		
 60	OSU	2			SEC	Vanderbilt	13	9	27	30	29	31	29	91	36	60		28
 61	TEX	2			Pac-12	Arizona State	14	8	31	34	31	24	27	58	34	34	RV	30
 62	TEX	3			SEC	Mississippi State	11	12	38	41	45	53	39	143	77	78		38
-63	TEX	4		*	The Summit	Denver	14	3	52	59	58	50	62	24	41	69		49
-64	TEX	1	2	*	Big 12	Texas	25	1	2	2	2	2	1	1	1	1	2	2
+63	TEX	4		AQ	The Summit	Denver	14	3	52	59	58	50	62	24	41	69		49
+64	TEX	1	2	AQ	Big 12	Texas	25	1	2	2	2	2	1	1	1	1	2	2
 				F4	AAC	SMU	21	10	43	46	47	43	44	32	29	52		46
 				F4	AAC	Tulsa	15	7	44	48	49	41	42	46	42	55		42
 				F4	Big Ten	Iowa	13	7	45	32	36	37	57	63	61	77		40
