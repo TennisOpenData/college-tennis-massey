@@ -101,6 +101,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200911	506996	559616	N	  SF	Hardin-Simmons	Dia Ndumbe          	Howard Payne	Dakota Anderson     	6-1, 6-0
 20200911	528037	518631	N	  SF	Hardin-Simmons	Alex Pavkovich      	Howard Payne	Hunter Green        	6-0, 6-0
 20200911	518630	408674	N	  SF	Howard Payne	Micah Hunter        	Mary Hardin-Baylor	Robert Galligan     	6-4, 6-4
+20200911	559614	518632	N	  SF	Howard Payne	Ashton Stevens      	Howard Payne	Jonathan Villarreal 	6-4, 4-2
 20200911	559613	559611	N	  SF	Howard Payne	Landon Ferree       	Howard Payne	Garret Bell         	7-5, 6-3
 20200911	487632	518631	N	  SF	Howard Payne	dominic denardo     	Howard Payne	Hunter Green        	6-4, 6-3
 20200911	559616	559612	N	  SF	Howard Payne	Dakota Anderson     	Howard Payne	Gavin Fountain      	6-4, 0-6, 1-0(8)
@@ -271,9 +272,9 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20200918	514997	522672	N	  32	Point	Guido Luna          	Tennessee Wesleyan	Mirko Dedich        	6-4, 5-7, 1-0(8)
 20200918	514998	524785	N	  32	Point	Trey Maust          	Tennessee Wesleyan	Guido Picasso       	6-4, 6-3
 20200918	515000	513975	N	  32	Point	Gavin Thomas        	Tennessee Wesleyan	Patricio Gallegos   	6-3, 1-6, 1-0(3)
-20200918	500977	514999	N	  32	Tennessee Wesleyan	Maximilian Kendler  	Point	Daniel Sheldon      	6-3, 6-3
 20200918	513974	467269	N	  32	Tennessee Wesleyan	Jesus Fernandez     	Reinhardt	Sam Alexander       	6-3, 6-4
 20200918	561005	503174	N	  32	Tennessee Wesleyan	Oscar Gabriel Ortiz 	Reinhardt	Pau Pujadas         	6-1, 6-7(3), 1-0(5)
+20200918	500977	514999	N	  32	Tennessee Wesleyan	Maximilian Kendler  	Point	Daniel Sheldon      	6-3, 6-3
 20200918	395072	500969	N	  32	Georgia Gwinnett	Valentino Caratini  	Tennessee Wesleyan	Ryan Lee            	6-3, 6-0
 20200918	459646	561158	N	  32	Georgia Gwinnett	Sergio Valinotti    	Point	Timothy gray Walker 	6-0, 6-0
 20200918	490038	514611	N	  32	Georgia Gwinnett	Federico Bonacia    	Reinhardt	Musami Komada       	4-6, 6-2, 1-0(5)
@@ -2324,8 +2325,8 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210116	564156	565408	N	    	North Carolina	Adam Neff           	Virginia Tech	Ryan Fishback       	6-4, 6-3
 20210116	514358	402996	N	    	North Carolina	Rinky Hijikata      	Virginia Tech	Carlo Donato        	7-5, 6-2
 20210116	453379	445208	N	    	North Carolina	Simon Soendergaard  	Virginia Tech	Alexandre Ribeiro   	7-5, 6-3
-20210116	521233	514359	N	    	Virginia Tech	Matthis Ross        	North Carolina	Anuj Watane         	6-2, 5-7, 6-2
 20210116	565404	517797	N	    	Virginia Tech	Hugo Maia           	North Carolina	Mark Dillon         	6-2, 6-0
+20210116	521233	514359	N	    	Virginia Tech	Matthis Ross        	North Carolina	Anuj Watane         	6-2, 5-7, 6-2
 20210116	564416	423647	N	    	Duke	Andrew Dale         	Virginia Tech	Ryan Kros           	6-1, 6-4
 20210116	514016	453379	N	    	N.C. State	Rafa Izquierdo Luque	North Carolina	Simon Soendergaard  	2-6, 6-0, 6-1
 20210116	387254	564156	N	    	N.C. State	Tadas Babelis       	North Carolina	Adam Neff           	7-5, 6-3
@@ -19302,7 +19303,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210403	566708	565914	H	   5	Young Harris (GA)	Ethan Carter        	Piedmont	Connor Bowles       	6-1, 3-6, 1-0(7)
 20210403	512797	566706	A	   6	Piedmont	Kyle Graves         	Young Harris (GA)	Ashton Sosebee      	6-2, 7-5
 20210403	420323	485865	A	   1	Williams	Arturo Kam          	Wesleyan (CT)	Noah Lilienthal     	6-2, 6-0
-20210403	388239	485866	A	   2	Williams	Austin Barr         	Wesleyan (CT)	Zach Lieb           	
+20210403	388239	485866	A	   2	Williams	Austin Barr         	Wesleyan (CT)	Zach Lieb           	6-4, 6-2
 20210403	397270	570553	A	   3	Williams	Calvin Chung        	Wesleyan (CT)	Ben Mitchell        	7-5, 6-3
 20210403	512455	456029	A	   4	Williams	Chase Cohen         	Wesleyan (CT)	Marcus Sweeney      	6-4, 6-2
 20210403	444673	570554	A	   5	Williams	Noah Reich          	Wesleyan (CT)	Harry Portnoy       	6-3, 6-4
@@ -20997,6 +20998,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210409	567082	568000	H	   4	Hope	Ezekiel Powell      	Olivet	Caleb Graham        	6-0, 6-1
 20210409	567084	568001	H	   5	Hope	Grant Hylland       	Olivet	McKalen Jambor      	
 20210409	521045	562260	H	   6	Hope	Asher Jones         	Olivet	Sam Vondra          	
+20210409	513775	511088	H	   1	Abilene Christian	Savan Chhabra       	Incarnate Word	Marwin Kralemann    	7-6(3), 6-4
+20210409	485614	564532	H	   2	Abilene Christian	Riley Tran          	Incarnate Word	Joao Sasso          	5-7, 6-1, 6-2
+20210409	564535	564743	A	   3	Incarnate Word	Pietro Perego       	Abilene Christian	Mihaly Deli         	7-5, 0-6, 6-2
+20210409	501274	564742	A	   4	Incarnate Word	Dennis Boisseau     	Abilene Christian	Oswaldo Cano        	6-2, 6-4
+20210409	511092	401572	A	   5	Incarnate Word	Warren Fulgenzi     	Abilene Christian	Joaquin Delgado     	7-5, 6-4
+20210409	564534	564746	A	   6	Incarnate Word	Noah De Luna        	Abilene Christian	Jose Maria Rastroj  	7-6(3), 6-1
 20210410	563494	559694	A	   1	McPherson	Michael Beltran     	Bethel (KS)	Michael Cech        	6-1, 6-4
 20210410	559695	391082	H	   2	Bethel (KS)	Milan Bucek         	McPherson	Julien Bodin        	6-4, 6-2
 20210410	512812	487824	A	   3	McPherson	Martin Millos       	Bethel (KS)	Nolan Schrader      	6-2, 6-3
@@ -27118,6 +27125,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210429	527919	569227	N	   3	Southwestern (KS)	Federico Poi        	Bethany (KS)	Matthew Lucas       	6-1, 6-0
 20210429	511105	502554	N	   5	Southwestern (KS)	Benjamin Erdmann    	Bethany (KS)	Andrew Witter       	6-1, 6-1
 20210429	486782	569228	N	   6	Southwestern (KS)	Marcelo Mann        	Bethany (KS)	Gavin Pastine       	6-0, 6-0
+20210429	430213	516955	N	   1	McMurry	Carlos Martinez     	LeTourneau	Julian Lee          	6-4, 6-1
+20210429	488988	460306	N	   2	McMurry	Chase Daniell       	LeTourneau	Rodrigo Vazquez Chairez	3-6, 6-3, 6-3
+20210429	567501	510675	N	   3	LeTourneau	Patrick Baney       	McMurry	Reid Smith          	6-0, 6-2
+20210429	487837	488990	N	   4	LeTourneau	Jeffrey Golladay    	McMurry	Connor Hogan        	4-6, 6-2, 1-1
+20210429	395984	567502	N	   5	McMurry	Chris Causer        	LeTourneau	Alex Barrero        	6-3, 4-6, 6-4
+20210429	516956	490858	N	   6	LeTourneau	Miles Grubbs        	McMurry	Trey Fambrough      	6-4, 6-2
 20210430	486180	386949	A	   1	George Fox	Luke Lemaitre       	Lewis & Clark (OR)	Ramez Attia         	6-1, 7-5
 20210430	425466	510130	A	   2	George Fox	Will Leach          	Lewis & Clark (OR)	Kristian Peev       	6-2, 6-4
 20210430	460673	565071	H	   3	Lewis & Clark (OR)	Riley Vickers       	George Fox	Alle Banna          	6-3, 6-3
@@ -27229,6 +27242,10 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210430	431034	515029	N	   4	Davidson	Camden Mazzoni      	George Mason	Momin Khan          	6-3, 7-5
 20210430	564696	521271	N	   5	Davidson	Alejandro Solares   	George Mason	Herman Jentoft      	6-3, 6-3
 20210430	490619	492592	N	   6	Davidson	Brooks Green        	George Mason	Eric Rivas          	7-6, 6-0
+20210430	430311	412732	N	   1	Illinois Springfield	Tommy Martinez      	Drury	Nico Hadeler        	6-4, 6-4
+20210430	486548	402578	N	   2	Illinois Springfield	Menno Servaes       	Drury	Augustin Diot       	6-2, 4-6, 6-1
+20210430	454895	486547	N	   5	Drury	Lukas Stierling     	Illinois Springfield	Matthew Lapsley     	7-5, 7-5
+20210430	458147	512824	N	   6	Illinois Springfield	Oscar Toro          	Drury	Isaac Ogiilvy       	6-4, 6-0
 20210501	488497	435277	H	   1	Pacific (OR)	Quentin Gonzalez    	Whitman	Andreas Mueller Immergluck	7-6(5), 2-6, 6-3
 20210501	488492	515350	H	   2	Pacific (OR)	Reyn Miyagawa       	Whitman	Aidan Schutter      	6-0, 6-2
 20210501	435651	396403	H	   3	Pacific (OR)	Sean Murphy         	Whitman	Tom Chang           	6-4, 7-6(5)
@@ -27528,6 +27545,9 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210501	509269	563490	H	   3	Northwestern Ohio	Malik Omarkhanov    	Indiana Tech	Emilio Bowen        	6-1, 7-5
 20210501	527552	520019	A	   4	Indiana Tech	Agustin Cortes      	Northwestern Ohio	Martin Stanchev     	6-1, 7-5
 20210501	527553	388036	A	   5	Indiana Tech	Kayra Kargin        	Northwestern Ohio	Alfredo Barcelo     	6-3, 6-3
+20210501	426774	430311	N	   1	Indianapolis	Renato Lima         	Illinois Springfield	Tommy Martinez      	6-0, 4-6, 6-3
+20210501	522646	486548	N	   2	Indianapolis	Tom Zeuch           	Illinois Springfield	Menno Servaes       	6-2, 6-3
+20210501	522648	458147	N	   6	Indianapolis	Jason Gerweck       	Illinois Springfield	Oscar Toro          	6-1, 6-1
 20210502	571571	495417	H	   1	Farmingdale State	Zachary Baker       	Yeshiva	Aaron Cohen         	6-1, 6-0
 20210502	502458	515561	H	   2	Farmingdale State	Mark Baker          	Yeshiva	Anthony Lallouz     	6-1, 6-1
 20210502	571573	495420	H	   3	Farmingdale State	Alan Sabovic        	Yeshiva	Amram Wahnon        	4-6, 6-4, 1-0(8)
@@ -27759,6 +27779,11 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210506	416900	565158	N	   4	Notre Dame	William Howells     	Western Michigan	Jackson Boone       	6-3, 6-3
 20210506	509883	514041	N	   5	Notre Dame	Connor Fu           	Western Michigan	Arjun Honnappa      	6-4, 6-2
 20210506	564605	565159	N	   6	Notre Dame	Brandon Ancona      	Western Michigan	Benjamin George     	6-3, 6-2
+20210506	395887	408783	H	   1	RPI	Sebastian Castillo-Sanchez	Vassar	David Gandham       	6-1, 6-1
+20210506	417779	570644	H	   2	RPI	Andrew Imrie        	Vassar	Jay Wong            	6-3, 6-1
+20210506	437141	423658	H	   4	RPI	Brian Niguidula     	Vassar	Adam Krueger        	6-1, 6-2
+20210506	514420	570642	H	   5	RPI	Abraham Yohannes    	Vassar	Arun Guruswamy      	6-1, 6-1
+20210506	490220	514421	A	   6	Vassar	Mihajlo Ivanovic    	RPI	Phoenix Tamaoki     	6-3, 6-1
 20210507	515805	571495	A	   1	American River	Brendan Moley       	Folsom Lake	Gage Biery          	7-6(2), 6-4
 20210507	571500	571496	A	   2	American River	Brian Badolato      	Folsom Lake	Yurro Zabala        	6-1, 6-4
 20210507	515802	501317	A	   3	American River	Nathan Gravitz      	Folsom Lake	Jeremy Schubert     	6-0, 6-1
@@ -27857,6 +27882,8 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210507	451828	567637	N	   4	Michigan	Mattias Siimar      	Arizona	Herman Hoyeraal     	6-2, 3-6, 6-3
 20210507	444974	388880	N	   5	Arizona	Alejandro Requant-Bicardi	Michigan	Nick Beaty          	6-4, 6-2
 20210507	414150	564252	N	   6	Arizona	Carlos Hassey       	Michigan	Nino Ehrenschneider 	7-5, 6-1
+20210507	570668	570893	N	   4	Otterbein	Jake McDivitt       	Ohio Northern	Kavya Desai         	6-1, 6-3
+20210507	485592	514763	N	   5	Otterbein	Tom Ohler           	Ohio Northern	Matt Garcia         	7-5, 6-1
 20210508	411457	444483	H	   1	TCU	Alastair Gray       	Arkansas	Alex Reco           	6-2, 6-3
 20210508	489297	497658	H	   2	TCU	Luc Fomba           	Arkansas	Maxim Verboven      	6-4, 7-5
 20210508	516558	521657	H	   6	TCU	Tadeas Paroulek     	Arkansas	Melvin Manuel       	6-0, 7-6
@@ -27902,8 +27929,8 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210508	393233	459116	H	   6	South Carolina	Thomas Brown        	N.C. State	Robert Turzak       	6-4, 6-4
 20210508	459505	459807	H	   1	Texas A&M	Valentin Vacherot   	Oklahoma	Jake Van Emburgh    	6-3, 6-3
 20210508	412687	485308	H	   2	Texas A&M	Hady Habib          	Oklahoma	Mason Beiler        	7-6(4), 6-1
-20210508	559729	485543	A	   4	Oklahoma	Nathan Han          	Texas A&M	Noah Schachter      	7-5, 6-4
-20210508	513401	520725	H	   5	Texas A&M	Pierce Rollins      	Oklahoma	Justin Schlageter   	7-5, 7-5
+20210508	485543	559729	H	   4	Texas A&M	Noah Schachter      	Oklahoma	Nathan Han          	7-5, 6-4
+20210508	520725	513401	A	   5	Oklahoma	Justin Schlageter   	Texas A&M	Pierce Rollins      	7-5, 7-5
 20210508	520306	509001	H	   1	Texas	Eliot Spizzirri     	Northern Arizona	Eban Straker-Meads  	6-4, 6-2
 20210508	528270	491339	H	   2	Texas	Micah Braswell      	Northern Arizona	Facundo Tumosa      	6-0, 6-2
 20210508	513843	521288	H	   6	Texas	Evin McDonald       	Northern Arizona	Joachim Schaefer    	6-1, 6-1
@@ -27987,6 +28014,15 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210508	489076	513068	N	   3	Memphis	Oscar Cutting       	Georgia Tech	Keshav Chopra       	6-4, 6-4
 20210508	439402	513070	N	   4	Memphis	Jan Pallares        	Georgia Tech	Brandon McKinney    	6-4, 7-5
 20210508	564572	407969	N	   6	Memphis	Pau Fanlo           	Georgia Tech	Brandon Freestone   	6-4, 6-4
+20210508	521721	489522	N	   2	Columbus State	Christian Garay     	Wingate	Tolunay Sumer       	2-6, 2-6
+20210508	485915	565260	N	   3	Columbus State	Tomasso Schold      	Wingate	George Barfoot      	3-6, 4-6
+20210508	515691	565259	N	   6	Columbus State	Pietro Martinetti   	Wingate	Edis Nokic          	5-7, 2-6
+20210508	485590	451707	N	   1	Otterbein	Brandon Wall        	John Carroll	Andy Siciliano      	6-2, 6-3
+20210508	570698	443714	N	   2	John Carroll	Logan Langovsky     	Otterbein	Connor Radune       	7-5, 6-3
+20210508	513903	442966	N	   3	John Carroll	Mark Beebe          	Otterbein	Jamie Price         	6-1, 4-6, 6-3
+20210508	570699	570668	N	   4	John Carroll	Grant Sarnowski     	Otterbein	Jake McDivitt       	6-4, 6-7(6), 7-6(5)
+20210508	485592	458615	N	   5	Otterbein	Tom Ohler           	John Carroll	Andrew Triner       	6-3, 2-6, 6-3
+20210508	418981	523472	N	   6	John Carroll	Aditya Jha          	Otterbein	Boban Mihajlov      	6-1, 6-3
 20210509	420323	453607	H	   1	Williams	Arturo Kam          	Tufts	Boris Sorkin        	6-1, 6-4
 20210509	490529	388239	A	   2	Tufts	Isaac Gorelik       	Williams	Austin Barr         	7-6(7), 6-1
 20210509	397270	490531	H	   3	Williams	Calvin Chung        	Tufts	Paris Pentousis     	7-5, 6-4
@@ -28061,12 +28097,83 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210509	451826	449242	H	   3	North Carolina	Benjamin Sigouin    	Oklahoma State	Mathieu Scaglia     	6-4, 6-4
 20210509	491254	520763	H	   4	North Carolina	Brian Cernoch       	Oklahoma State	Etienne Donnet      	6-4, 3-6, 6-1
 20210509	453379	413300	H	   6	North Carolina	Simon Soendergaard  	Oklahoma State	Luke Hammond        	6-2, 6-2
+20210509	485915	515682	A	   3	Columbus State	Tomasso Schold      	North Georgia	Daniel Ostap        	6-2, 6-1
+20210509	521720	461629	A	   4	Columbus State	Javi Cueto Ramos    	North Georgia	Zack Waldow         	6-4, 6-4
+20210509	515688	566061	A	   5	Columbus State	Justin Welz         	North Georgia	Giulio Sassi        	6-3, 6-4
+20210509	426774	511117	N	   1	Indianapolis	Renato Lima         	Hillsdale	Tyler Conrad        	6-0, 6-1
+20210509	528131	487216	N	   3	Indianapolis	Yoann Viel          	Hillsdale	Brian Hackman       	6-2, 6-0
+20210509	485576	464033	H	   3	Washington & Lee	Alex Fedor          	Virginia Wesleyan	Anthony Wilson      	4-6, 6-3, 6-3
+20210509	456553	511539	H	   4	Washington & Lee	Noah Tapp           	Virginia Wesleyan	Henry West          	6-3, 6-1
+20210509	569268	442551	H	   5	Washington & Lee	Harry Kittredge     	Virginia Wesleyan	Michael Portera     	6-1, 6-0
+20210509	485574	566735	H	   6	Washington & Lee	John Rudden         	Virginia Wesleyan	Connor Cummings     	6-2, 6-0
 20210510	561829	430325	N	   1	St. Mary's (TX)	Jeremiah Sanchez    	MSU-Texas	Alex Martinez Roca  	6-4, 6-2
 20210510	439350	561827	N	   2	MSU-Texas	Angel Palacios      	St. Mary's (TX)	Jake Faryniarz      	1-6, 6-1, 6-0
 20210510	561828	521997	N	   4	St. Mary's (TX)	Nicolas Llosa       	MSU-Texas	Alexandre Crepy     	6-1, 6-1
 20210510	561826	435455	N	   5	St. Mary's (TX)	James Finnigan      	MSU-Texas	Jean Muniz          	6-3, 6-4
+20210510	497011	426774	N	   1	Southwest Baptist (MO)	Adham Gaber         	Indianapolis	Renato Lima         	6-1, 6-4
+20210510	522646	398928	N	   2	Indianapolis	Tom Zeuch           	Southwest Baptist (MO)	Carlos Corser       	6-3, 6-3
+20210510	528131	512657	N	   3	Indianapolis	Yoann Viel          	Southwest Baptist (MO)	Alvaro Nunez        	6-3, 6-1
+20210510	522648	520576	N	   5	Indianapolis	Jason Gerweck       	Southwest Baptist (MO)	Youssef Nabil       	7-5, 6-4
+20210511	487606	561827	N	   2	Cameron	Oscar del Granado   	St. Mary's (TX)	Jake Faryniarz      	6-4, 6-3
+20210511	520779	561825	N	   3	Cameron	Maycon Dias         	St. Mary's (TX)	Ryan Koth           	6-1, 6-1
+20210511	562824	561828	N	   4	Cameron	Alvaro Chavez       	St. Mary's (TX)	Nicolas Llosa       	1-6, 6-0, 6-2
 20210513	515038	505896	A	   1	Prairie State	Victor Dieltiens    	Lake County (IL)	Mike Sims           	6-3, 6-0
 20210513	570461	515039	H	   2	Lake County (IL)	Billy Friedman      	Prairie State	Jedrzej Brodzki     	6-7(4), 6-1, 1-0(4)
 20210513	570462	521554	H	   3	Lake County (IL)	Houd Azhar          	Prairie State	Hesley Forbes       	4-6, 6-4, 1-0(4)
 20210513	515041	505894	A	   4	Prairie State	Richard Ngwarwi     	Lake County (IL)	Ken Herrmann        	6-3, 6-4
 20210513	515040	570463	A	   5	Prairie State	Miguel Ferreira     	Lake County (IL)	Mason Cohen         	7-5, 6-0
+20210513	497011	412230	N	   1	Southwest Baptist (MO)	Adham Gaber         	Ferris State	Mathis Guerre       	6-2, 6-0
+20210513	512657	564389	N	   3	Southwest Baptist (MO)	Alvaro Nunez        	Ferris State	Jan Koupil          	6-4, 6-0
+20210513	448725	487565	N	   6	Southwest Baptist (MO)	Max Sanoja          	Ferris State	Ayush Deswal        	6-1, 6-2
+20210515	521057	424736	N	   2	Washington & Lee	Evan Brady          	Rose-Hulman	Ian Landwehr        	6-2, 6-3
+20210515	456553	486549	N	   4	Washington & Lee	Noah Tapp           	Rose-Hulman	Joseph Conrad       	6-2, 6-3
+20210515	485574	569009	N	   6	Washington & Lee	John Rudden         	Rose-Hulman	Rhian Seneviratne   	6-1, 6-1
+20210515	396698	399545	N	   3	CWRU	Matthew Chen        	Illinois Tech	Broderick Croonquist	6-1, 6-0
+20210515	485325	572225	N	   4	CWRU	Chaitanya Aduru     	Illinois Tech	Nabil Fawaz         	6-1, 6-1
+20210515	565357	512546	N	   2	Trinity (TX)	Alessio Azzalini    	Concordia (TX)	Robin Van Der Heijden	6-2, 6-2
+20210515	413242	568097	N	   4	Trinity (TX)	Wilson Hamilton     	Concordia (TX)	Joeri Bregman       	7-5, 6-2
+20210515	489555	490841	N	   6	Trinity (TX)	Christian Settles   	Concordia (TX)	Evan Pena           	6-3, 6-1
+20210516	514005	486031	N	   1	CWRU	James Hopper        	Gustavus Adolphus	Nick Aney           	6-3, 6-1
+20210516	442705	565990	N	   5	CWRU	Jon Powell          	Gustavus Adolphus	Caleb Fridinger     	6-1, 6-3
+20210516	489562	489457	N	   1	Trinity (TX)	Cameron Krimbill    	Southwestern (TX)	Hunter Bajoit       	6-4, 6-2
+20210516	510699	489458	N	   3	Trinity (TX)	Hao Nguyen          	Southwestern (TX)	Vesko Lekovic       	6-3, 6-2
+20210516	413242	489454	N	   4	Trinity (TX)	Wilson Hamilton     	Southwestern (TX)	Carlos Esteban      	6-4, 6-2
+20210516	420323	569269	N	   1	Williams	Arturo Kam          	Washington & Lee	Connor Coleman      	6-0, 6-0
+20210516	388239	521057	N	   2	Williams	Austin Barr         	Washington & Lee	Evan Brady          	6-0, 6-0
+20210517	461891	564319	N	   1	Tennessee	Adam Walton         	Arizona	Gustaf Strom        	7-5, 1-6, 6-2
+20210517	497925	527971	N	   2	Arizona	Jonas Ziverts       	Tennessee	Johannus Monday     	7-5, 6-3
+20210517	497830	429133	N	   3	Tennessee	Martim Prata        	Arizona	Filip Malbasic      	6-0, 6-3
+20210517	463457	567637	N	   4	Tennessee	Luca Wiedenmann     	Arizona	Herman Hoyeraal     	6-3, 4-6, 6-4
+20210517	444974	513101	N	   5	Arizona	Alejandro Requant-Bicardi	Tennessee	Giles Hussey        	6-4, 6-1
+20210517	414150	488721	N	   6	Arizona	Carlos Hassey       	Tennessee	Pat Harper          	6-4, 6-4
+20210517	520891	453651	N	   2	Ole Miss	Finn Reynolds       	Baylor	Matias Soto         	6-1, 6-4
+20210517	562412	561866	N	   4	Baylor	Nick Stachowiak     	Ole Miss	John Hallquist Lithen	6-4, 6-0
+20210517	527260	485272	N	   5	Baylor	Charlie Broom       	Ole Miss	Simon Junk          	2-6, 6-2, 6-4
+20210517	562413	513418	N	   6	Baylor	Spencer Furman      	Ole Miss	Lukas Engelhardt    	6-4, 6-4
+20210517	520306	485261	N	   1	Texas	Eliot Spizzirri     	South Carolina	Daniel Rodrigues    	6-3, 2-6, 6-4
+20210517	528270	511597	N	   2	Texas	Micah Braswell      	South Carolina	Connor Thomson      	6-3, 6-4
+20210517	528050	513841	N	   3	South Carolina	Toby Samuel         	Texas	Siem Woldeab        	6-4, 6-3
+20210517	513840	485260	N	   4	Texas	Cleeve Harper       	South Carolina	Raphael Lambling    	6-2, 6-4
+20210517	485248	486712	N	   5	South Carolina	Jake Beasley        	Texas	Chih Chi Huang      	6-3, 6-2
+20210517	513843	393233	N	   6	Texas	Evin McDonald       	South Carolina	Thomas Brown        	3-6, 6-4, 7-5
+20210517	390976	498429	N	   1	North Carolina	William Blumberg    	Georgia	Trent Bryde         	6-2, 7-6(5)
+20210517	514358	511569	N	   2	North Carolina	Rinky Hijikata      	Georgia	Tyler Zink          	6-3, 7-6(2)
+20210517	498428	451826	N	   3	Georgia	Philip Henning      	North Carolina	Benjamin Sigouin    	6-3, 6-4
+20210517	491254	487816	N	   4	North Carolina	Brian Cernoch       	Georgia	Blake Croyder       	4-6, 6-2, 6-4
+20210517	562702	440447	N	   5	Georgia	Billy Rowe          	North Carolina	Josh Peck           	7-6(6), 6-4
+20210517	511567	453379	N	   6	Georgia	Erik Grevelius      	North Carolina	Simon Soendergaard  	7-6(3), 6-1
+20210517	432019	411457	N	   1	Ohio State	John McNally        	TCU	Alastair Gray       	6-4, 6-0
+20210517	489297	511704	N	   2	TCU	Luc Fomba           	Ohio State	Cannon Kingsley     	6-4, 6-4
+20210517	521012	511705	N	   4	TCU	Tomas Jirousek      	Ohio State	Justin Boulais      	6-2, 6-0
+20210517	516558	450412	N	   5	TCU	Tadeas Paroulek     	Ohio State	Kyle Seelig         	6-4, 6-1
+20210517	453064	564166	N	   2	USC	Riley Smith         	Virginia	Jeffrey von der Schulenburg	6-2, 7-5
+20210517	510835	564151	N	   3	USC	Stefan Dostanic     	Virginia	Chris Rodesch       	6-3, 5-7, 6-2
+20210517	564150	486015	N	   4	Virginia	Inaki Montes de la Torre	USC	Bradley Frye        	7-6(4), 6-2
+20210517	563765	486444	N	   5	USC	Lodewijk Weststrate 	Virginia	Ryan Goetz          	6-3, 7-5
+20210517	447059	486016	N	   6	Virginia	Gianni Ross         	USC	Jake Sands          	6-4, 7-5
+20210517	385909	393009	N	   3	Florida	Andy Andrade        	Illinois	Alex Brown          	6-2, 6-3
+20210517	509770	397557	N	   4	Florida	Blaise Bicknell     	Illinois	Zeke Clark          	6-3, 6-3
+20210517	511775	421665	N	   6	Florida	Josh Goodger        	Illinois	Noe Khlif           	6-1, 6-3
+20210517	412687	392974	N	   2	Texas A&M	Hady Habib          	Mississippi State	Florian Broska      	6-4, 6-1
+20210517	485543	520879	N	   4	Texas A&M	Noah Schachter      	Mississippi State	Alberto Colas       	6-2, 7-6(3)
+20210517	562734	487240	N	   6	Texas A&M	Raphael Perot       	Mississippi State	Gregor Ramskogler   	6-0, 6-1

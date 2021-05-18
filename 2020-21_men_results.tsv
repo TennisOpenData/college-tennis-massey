@@ -3368,6 +3368,7 @@ date	where	score	winner	loser
 20210409	H	5-2	Kentucky	Ole Miss
 20210409	H	7-0	ETSU	The Citadel
 20210409	H	6-1	Samford	Chattanooga
+20210409	A	4-3	Incarnate Word	Abilene Christian
 20210409	A	5-2	Lamar	Nicholls State
 20210409	H	6-1	Denver	Omaha
 20210409	H	5-2	Georgia Southern	College of Charleston
@@ -4615,6 +4616,7 @@ date	where	score	winner	loser
 20210429	N	4-2	Nebraska	Penn State
 20210429	H	6-3	Loras	Wartburg
 20210429	N	5-0	Hardin-Simmons	Ozarks
+20210429	N	5-4	McMurry	LeTourneau
 20210429	H	5-0	Texas Dallas	Mary Hardin-Baylor
 20210429	A	0-0	Bridgewater State	Brandeis
 20210429	H	9-0	Oberlin	Allegheny
@@ -4639,6 +4641,7 @@ date	where	score	winner	loser
 20210430	H	4-0	Denver	North Dakota
 20210430	N	4-3	St. Thomas Aquinas	Daemen
 20210430	N	4-0	Indianapolis	Rockhurst
+20210430	N	4-1	Illinois Springfield	Drury
 20210430	N	4-0	Southwest Baptist (MO)	McKendree
 20210430	A	4-2	Edinboro	Mercyhurst
 20210430	N	5-0	Hardin-Simmons	McMurry
@@ -4676,6 +4679,7 @@ date	where	score	winner	loser
 20210501	H	4-0	New Mexico State	Seattle
 20210501	H	4-2	San Diego	San Diego State
 20210501	H	4-1	Queens (NY)	St. Thomas Aquinas
+20210501	N	4-0	Indianapolis	Illinois Springfield
 20210501	H	4-0	Charleston	West Liberty
 20210501	N	4-1	Wesleyan (WV)	Fairmont State
 20210501	N	4-0	Northwest Missouri	Harding
@@ -4769,6 +4773,7 @@ date	where	score	winner	loser
 20210505	H	7-2	Anderson (IN)	Franklin (IN)
 20210505	H	5-0	Washington & Lee	Roanoke
 20210505	H	5-4	UW Superior	Northwestern (MN)
+20210506	H	5-3	RPI	Vassar
 20210506	A	5-1	Skidmore	Hobart & William Smith
 20210506	H	5-3	Manhattanville	Yeshiva
 20210506	H	5-0	Kalamazoo	Trine
@@ -4799,6 +4804,7 @@ date	where	score	winner	loser
 20210507	H	5-0	Denison	DePauw
 20210507	H	5-1	George Fox	Lewis & Clark (OR)
 20210507	N	5-0	Pacific (OR)	Whitman
+20210507	N	5-0	Otterbein	Ohio Northern
 20210507	H	5-4	St. Scholastica	UW Superior
 20210507	A	8-1	American River	Folsom Lake
 20210508	N	4-2	Memphis	Georgia Tech
@@ -4830,6 +4836,7 @@ date	where	score	winner	loser
 20210508	N	4-0	Bluefield State	Edinboro
 20210508	N	4-1	Charleston	Wesleyan (WV)
 20210508	N	4-3	Hawaii Hilo	Hawaii Pacific
+20210508	N	4-0	Columbus State	Wingate
 20210508	N	4-1	Barry	Saint Leo
 20210508	H	5-2	Luther (IA)	Coe College
 20210508	A	5-0	Southern Virginia	Mary Washington
@@ -4837,6 +4844,7 @@ date	where	score	winner	loser
 20210508	A	5-0	Rose-Hulman	Transylvania
 20210508	H	5-0	Kalamazoo	Hope
 20210508	H	5-1	Gustavus Adolphus	Carleton
+20210508	N	5-4	John Carroll	Otterbein
 20210509	H	4-0	North Carolina	Oklahoma State
 20210509	H	4-2	Virginia	Stanford
 20210509	H	4-0	Baylor	Oregon
@@ -4848,18 +4856,38 @@ date	where	score	winner	loser
 20210509	H	4-0	Tennessee	Memphis
 20210509	H	4-0	Georgia	Texas Tech
 20210509	N	4-0	Concordia (NY)	Le Moyne
+20210509	N	4-0	Indianapolis	Hillsdale
 20210509	A	4-3	Bluefield State	Charleston
+20210509	A	4-0	Columbus State	North Georgia
 20210509	N	5-2	Rose-Hulman	Hanover
 20210509	A	5-0	Skidmore	RPI
 20210509	H	8-1	Wesleyan (CT)	Trinity (CT)
 20210509	H	5-4	Williams	Tufts
 20210509	H	5-3	Babson	Coast Guard
 20210509	H	5-4	George Fox	Pacific (OR)
+20210509	H	5-2	Washington & Lee	Virginia Wesleyan
 20210509	A	0-0	Farmingdale State	Manhattanville
+20210510	N	4-1	Indianapolis	Southwest Baptist (MO)
 20210510	N	4-1	St. Mary's (TX)	MSU-Texas
-20210511	N	0-0	St. Mary's (TX)	Cameron
+20210511	N	4-0	Cameron	St. Mary's (TX)
 20210512	A	0-0	Jacksonville (TX)	Collin County (TX)
+20210513	N	4-0	Southwest Baptist (MO)	Ferris State
 20210513	A	5-4	Prairie State	Lake County (IL)
-20210517	N	0-0	Arizona	Tennessee
+20210515	N	0-0	Denison	Gustavus Adolphus
+20210515	N	5-1	Washington & Lee	Rose-Hulman
+20210515	N	5-1	Trinity (TX)	Concordia (TX)
+20210515	N	5-0	CWRU	Illinois Tech
+20210516	N	5-0	Williams	Washington & Lee
+20210516	N	5-1	Trinity (TX)	Southwestern (TX)
+20210516	N	5-0	CWRU	Gustavus Adolphus
+20210517	N	4-1	Baylor	Ole Miss
+20210517	N	4-1	TCU	Ohio State
+20210517	N	4-3	Texas	South Carolina
+20210517	N	4-2	USC	Virginia
 20210517	N	0-0	Texas A&M	Mississippi State
+20210517	N	4-0	Florida	Illinois
+20210517	N	4-3	Tennessee	Arizona
+20210517	N	4-3	Georgia	North Carolina
 20210518	N	0-0	McPherson	Union (KY)
+20210520	N	0-0	Texas	USC
+20210520	N	0-0	Tennessee	Georgia
