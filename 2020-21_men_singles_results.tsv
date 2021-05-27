@@ -2325,8 +2325,8 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210116	564156	565408	N	    	North Carolina	Adam Neff           	Virginia Tech	Ryan Fishback       	6-4, 6-3
 20210116	514358	402996	N	    	North Carolina	Rinky Hijikata      	Virginia Tech	Carlo Donato        	7-5, 6-2
 20210116	453379	445208	N	    	North Carolina	Simon Soendergaard  	Virginia Tech	Alexandre Ribeiro   	7-5, 6-3
-20210116	565404	517797	N	    	Virginia Tech	Hugo Maia           	North Carolina	Mark Dillon         	6-2, 6-0
 20210116	521233	514359	N	    	Virginia Tech	Matthis Ross        	North Carolina	Anuj Watane         	6-2, 5-7, 6-2
+20210116	565404	517797	N	    	Virginia Tech	Hugo Maia           	North Carolina	Mark Dillon         	6-2, 6-0
 20210116	564416	423647	N	    	Duke	Andrew Dale         	Virginia Tech	Ryan Kros           	6-1, 6-4
 20210116	514016	453379	N	    	N.C. State	Rafa Izquierdo Luque	North Carolina	Simon Soendergaard  	2-6, 6-0, 6-1
 20210116	387254	564156	N	    	N.C. State	Tadas Babelis       	North Carolina	Adam Neff           	7-5, 6-3
@@ -19246,6 +19246,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210403	404430	569968	H	   3	Union (NY)	Austin Egna         	St. Lawrence	Cole Hamilton       	1-6, 6-3, 6-4
 20210403	511761	485980	H	   4	Union (NY)	Thomas McGuire      	St. Lawrence	Quinn Bermingham    	6-1, 6-3
 20210403	569969	404431	A	   5	St. Lawrence	Adam Heilbronner    	Union (NY)	Max Egna            	6-2, 6-3
+20210403	571549	429311	H	   6	Union (NY)	Bailey McAtee       	St. Lawrence	Jordan Mamelak      	7-6(2), 3-6, 1-0(6)
 20210403	567522	511904	H	   1	Methodist (NC)	Jordan Theron       	Southern Virginia	Marcos Dias         	6-3, 6-4
 20210403	487226	413700	A	   2	Southern Virginia	Kukutla Motlojoa    	Methodist (NC)	Trent Harner        	6-2, 6-2
 20210403	522496	388525	H	   3	Methodist (NC)	Henry Blanco        	Southern Virginia	Tanner Bassett      	6-4, 6-4
@@ -20409,10 +20410,10 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210408	562652	503279	A	   5	Indiana East	Thorben Waldburger  	Oakland City	Kaleb Knepp         	6-4, 6-1
 20210408	514662	389555	H	   6	Oakland City	Noah Peak           	Indiana East	David Bennett       	4-6, 6-2, 7-5
 20210408	511708	501923	H	   1	Indiana Wesleyan	Martin Carrizo      	Union (KY)	Simon Campos        	6-2, 6-4
-20210408	528164	566435	H	   3	Indiana Wesleyan	Karl Wurth          	Union (KY)	Kacper Gorecki      	6-4, 0-6, 1-0(7)
-20210408	567061	454542	A	   4	Union (KY)	Mihailo Radosavljevic	Indiana Wesleyan	Eli Steiner         	7-6(9), 6-1
-20210408	511736	566430	H	   5	Indiana Wesleyan	Isaac Steiner       	Union (KY)	Sergio Lizarraga    	6-3, 7-6(5)
-20210408	423862	511711	A	   6	Union (KY)	Mark Kuhnel         	Indiana Wesleyan	Mariano Jalif       	7-5, 6-3
+20210408	528164	567061	H	   3	Indiana Wesleyan	Karl Wurth          	Union (KY)	Mihailo Radosavljevic	6-4, 0-6, 1-0(7)
+20210408	566430	454542	A	   4	Union (KY)	Sergio Lizarraga    	Indiana Wesleyan	Eli Steiner         	7-6(9), 6-1
+20210408	511736	423862	H	   5	Indiana Wesleyan	Isaac Steiner       	Union (KY)	Mark Kuhnel         	6-3, 7-6(5)
+20210408	410828	511711	A	   6	Union (KY)	Mateo Gonzalez      	Indiana Wesleyan	Mariano Jalif       	7-5, 6-3
 20210408	492785	567527	H	   1	Montevallo	Dylan Valentine     	Shorter	Strahinja Radanovic 	1-6, 6-4, 7-5
 20210408	512467	517600	H	   2	Montevallo	Philippe Zehender   	Shorter	Jan Kos             	6-4, 6-1
 20210408	400623	493884	H	   3	Montevallo	Tanguy David        	Shorter	Kiran Namadevaa     	7-6(5), 6-1
@@ -21578,6 +21579,8 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210410	570428	488879	H	   2	Randolph-Macon	Inigo Suescan       	Randolph	Alex Kulvivat       	7-6, 6-1
 20210410	568194	414679	A	   3	Randolph	Bhuvan Ambekallu    	Randolph-Macon	Alex Hein           	1-6, 6-2, 1-0
 20210410	498513	568197	H	   4	Randolph-Macon	Ryan Aud            	Randolph	Colby Cook          	7-5, 6-1
+20210410	444472	572252	H	   5	Randolph-Macon	Dani Recarte        	Randolph	Tucker Leverone     	6-0, 6-0
+20210410	524497	572251	H	   6	Randolph-Macon	Max Presley         	Randolph	Noah Carney         	6-0, 6-0
 20210410	453607	508981	A	   1	Tufts	Boris Sorkin        	Colby	Jan Wenger          	6-0, 4-6, 1-0(6)
 20210410	490529	528043	A	   2	Tufts	Isaac Gorelik       	Colby	Joey Barrett        	7-5, 7-5
 20210410	440099	514257	H	   3	Colby	Sumukh Pathi        	Tufts	Rishabh Sharda      	6-4, 4-6, 1-0(10)
@@ -21825,6 +21828,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210410	511760	513021	A	   2	Union (NY)	Aidan OBrien        	RIT	Verosh Jayanetti    	6-4, 6-3
 20210410	404430	570662	A	   3	Union (NY)	Austin Egna         	RIT	Ethan Martin        	6-2, 6-2
 20210410	511761	485228	A	   4	Union (NY)	Thomas McGuire      	RIT	Jake Wolicki        	6-1, 7-5
+20210410	571549	426762	A	   5	Union (NY)	Bailey McAtee       	RIT	Nick Lim            	6-4, 6-3
 20210410	485270	432906	A	   6	Union (NY)	Cameron Klepper     	RIT	Jacob Meyerson      	6-3, 6-2
 20210410	439404	458493	H	   1	Millikin	Jacob Palley        	Carroll (WI)	Brian Trefilek      	6-1, 6-0
 20210410	512505	514555	H	   2	Millikin	Clayton Maack       	Carroll (WI)	Luke Barter         	6-0, 6-1
@@ -22811,6 +22815,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210414	570668	572246	A	   4	Otterbein	Jake McDivitt       	Marietta	Tyler Wise          	6-0, 6-0
 20210414	485592	572247	A	   5	Otterbein	Tom Ohler           	Marietta	Ali Al Saffar       	6-0, 6-0
 20210414	570671	572248	A	   6	Otterbein	Dylan Shook         	Marietta	Nathan Hanning      	6-1, 6-0
+20210414	495460	504030	A	   1	Houghton	Ethan Yung          	Alfred	Logan Cross         	3-6, 6-2, 6-1
+20210414	406891	393203	A	   2	Houghton	Jake Fisler         	Alfred	Ryan Brown          	6-2, 6-1
+20210414	513199	568637	A	   3	Houghton	Micah Schilke       	Alfred	Isaac Little        	5-7, 7-6(5), 1-0(10)
+20210414	495462	568638	A	   4	Houghton	Matthew Cicero      	Alfred	Sam Cohen           	6-0, 6-3
+20210414	495461	451169	A	   5	Houghton	Micah Christensen   	Alfred	Adam Shearer        	6-3, 5-7, 1-0(11)
+20210414	513098	571080	H	   6	Alfred	Wes Dennison        	Houghton	Benjamin McKay      	1-6, 6-2, 1-0(4)
 20210414	417539	569133	A	   1	Mary Washington	Moses Hutchison     	St. Mary's (MD)	Nick Rohr           	6-0, 6-1
 20210414	569148	502942	A	   2	Mary Washington	Artis Hart          	St. Mary's (MD)	Samuel Sheats       	6-0, 6-1
 20210414	569146	568873	A	   3	Mary Washington	Peter Leese         	St. Mary's (MD)	Kier Nacua          	6-0, 6-1
@@ -23137,6 +23147,11 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210415	517150	487324	A	   4	Bentley	Jordan Soifer       	Brandeis	Colt Tegtmeier      	4-6, 6-3, 1-0(5)
 20210415	571237	501175	H	   5	Brandeis	Dylan Walters       	Bentley	Mauricio Fadul      	6-1, 6-0
 20210415	400528	570911	H	   6	Brandeis	Nikhil Das          	Bentley	Gabe Horwitz        	6-2, 6-2
+20210415	521454	571655	A	   1	Saddleback	Oliver Svensen      	Orange Coast	Khalid Alsadek      	6-0, 6-0
+20210415	520989	521458	H	   3	Orange Coast	Jake Hastings       	Saddleback	Brandon Ho          	6-2, 6-0
+20210415	521455	496772	A	   4	Saddleback	Max Svensen         	Orange Coast	Nick Tran           	6-4, 6-4
+20210415	521453	496774	A	   5	Saddleback	Riley McCall        	Orange Coast	Faress Sorial       	6-1, 6-3
+20210415	571656	572295	H	   6	Orange Coast	Nick Brockie        	Saddleback	Justin Boberg       	7-6, 6-3
 20210416	490491	486694	A	   1	Southeastern (OK)	Juan Scoppetta      	Ouachita Baptist	Francisco Oliveira  	3-6, 6-3, 6-4
 20210416	527371	498785	A	   2	Southeastern (OK)	Guilherme Dos Santos	Ouachita Baptist	Santiago Kearney    	2-6, 6-4, 6-4
 20210416	511854	565400	A	   3	Southeastern (OK)	Manuel Pilotto      	Ouachita Baptist	Alex Blanchar       	7-6, 6-7, 6-4
@@ -24908,7 +24923,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210418	514224	485282	A	   1	Skidmore	Sergiu Celebidachi  	Union (NY)	Giannos Binopoulos  	6-4, 6-2
 20210418	514226	404430	A	   2	Skidmore	Brendan Jimenez     	Union (NY)	Austin Egna         	6-2, 6-4
 20210418	514230	511761	A	   3	Skidmore	David Cohen         	Union (NY)	Thomas McGuire      	6-2, 6-2
-20210418	570311	511759	A	   4	Skidmore	Zachary Portnoy     	Union (NY)	Ryan Dagan          	6-3, 6-1
+20210418	570311	571549	A	   4	Skidmore	Zachary Portnoy     	Union (NY)	Bailey McAtee       	6-3, 6-1
 20210418	570312	485270	A	   5	Skidmore	Joseph Wilkanowski  	Union (NY)	Cameron Klepper     	6-4, 6-0
 20210418	412630	404431	A	   6	Skidmore	Kevin Ha            	Union (NY)	Max Egna            	6-1, 6-3
 20210418	417735	459664	A	   1	Belmont	Marko Ilic          	Jacksonville State	Joaquin Vallejo     	2-6, 6-2, 6-4
@@ -25112,7 +25127,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210419	569614	394657	N	   6	Alabama A&M	Divesh Gahlot       	Alabama State	Alejo Calvis        	6-2, 2-6, 7-5
 20210420	561032	490491	H	   1	Collin County (TX)	Rafal Bednarczuk    	Southeastern (OK)	Juan Scoppetta      	6-3, 0-6, 1-0(7)
 20210420	527371	563636	A	   2	Southeastern (OK)	Guilherme Dos Santos	Collin County (TX)	Agustin Kalinowski  	6-3, 6-1
-20210420	561031	527372	H	   3	Collin County (TX)	Timothy Karpinski   	Southeastern (OK)	Diego Orduz         	6-4, 4-6, 1-0(11)
+20210420	561031	511854	H	   3	Collin County (TX)	Timothy Karpinski   	Southeastern (OK)	Manuel Pilotto      	6-4, 4-6, 1-0(11)
 20210420	527376	565054	A	   4	Southeastern (OK)	Gen Naraya          	Collin County (TX)	Jorge Abreu         	6-1, 6-1
 20210420	515524	566499	H	   5	Collin County (TX)	Charlie Heffernan   	Southeastern (OK)	George Botha        	7-5, 7-5
 20210420	515525	527374	H	   6	Collin County (TX)	Michel Zobel        	Southeastern (OK)	Thabo Ncube         	6-3, 6-4
@@ -25916,6 +25931,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210423	446598	572306	H	   4	Penn State - Harrisburg	Alexander Rohn      	Clarks Summit	Joel Kessler        	6-0, 6-2
 20210423	518575	572307	H	   5	Penn State - Harrisburg	Ryan McGlynn        	Clarks Summit	Thomas Ord          	6-1, 6-1
 20210423	570047	572305	H	   6	Penn State - Harrisburg	Casey Detwiler      	Clarks Summit	Brody Johnson       	6-0, 6-0
+20210423	391152	489800	A	   1	Boston University	David Bogatin       	Lehigh	Zack Elliott        	3-6, 6-4, 6-3
+20210423	428047	461935	A	   2	Boston University	Owen Lu             	Lehigh	Harry Wang          	3-6, 6-3, 6-4
+20210423	452231	510270	A	   3	Boston University	Pete Siozios        	Lehigh	Matt Kleiman        	6-4, 6-3
+20210423	404268	493383	H	   4	Lehigh	Jacob Edelchik      	Boston University	Max Hartenstein     	6-1, 6-4
+20210423	567930	567972	H	   5	Lehigh	Jordan Paul         	Boston University	Johann Sajonz       	6-2, 6-3
+20210423	489798	567974	H	   6	Lehigh	Gary Fishkin        	Boston University	Jose Robalino       	6-3, 4-6, 7-6(8)
 20210424	563494	460489	A	   1	McPherson	Michael Beltran     	Kansas Wesleyan	Rodrigo Vera        	6-1, 6-3
 20210424	391082	396960	A	   2	McPherson	Julien Bodin        	Kansas Wesleyan	Shingi Chingaya     	6-0, 6-2
 20210424	512812	445249	A	   3	McPherson	Martin Millos       	Kansas Wesleyan	Kyle Rice           	6-0, 6-1
@@ -27315,6 +27336,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210501	452059	403817	H	   4	Johns Hopkins	Robbie Simon        	Muhlenberg	Noah Dunn           	8-7(4)
 20210501	416132	489214	H	   5	Johns Hopkins	Jack Hogan          	Muhlenberg	Daniel Kantor       	8-1
 20210501	570200	489219	H	   6	Johns Hopkins	Nikhil Charanjiva   	Muhlenberg	Gavin Meyers        	8-1
+20210501	385878	446719	H	   1	Hobart & William Smith	Walker Anderson     	St. Lawrence	Leo Romanetz        	6-1, 6-3
+20210501	512962	512780	A	   2	St. Lawrence	Nathan Turtledove   	Hobart & William Smith	Jeremy Atwater      	2-6, 6-2, 6-4
+20210501	569800	569968	H	   3	Hobart & William Smith	Winter Fagerberg    	St. Lawrence	Cole Hamilton       	6-2, 6-2
+20210501	485507	485980	H	   4	Hobart & William Smith	Thomas Shung        	St. Lawrence	Quinn Bermingham    	6-1, 6-0
+20210501	512778	569969	H	   5	Hobart & William Smith	Jett Wright         	St. Lawrence	Adam Heilbronner    	3-6, 7-5, 1-0(7)
+20210501	512779	429311	H	   6	Hobart & William Smith	Guthrie Speers      	St. Lawrence	Jordan Mamelak      	6-3, 7-5
 20210501	570080	485224	H	   1	Ithaca	Nico Luis Vega      	RIT	Brennan Bull        	3-6, 6-3, 6-3
 20210501	570079	570662	H	   2	Ithaca	Eric Dubilirer      	RIT	Ethan Martin        	6-4, 6-0
 20210501	513021	427476	A	   3	RIT	Verosh Jayanetti    	Ithaca	George Lomas        	5-7, 6-2, 6-3
@@ -27731,6 +27758,10 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210504	472849	568872	H	   4	Salisbury	Stefan Hein         	St. Mary's (MD)	William Shepherd-Johnson	6-3, 6-0
 20210504	489163	512235	H	   5	Salisbury	Gavin Reagle        	St. Mary's (MD)	Liam Pratt          	6-0, 6-0
 20210504	489162	502946	H	   6	Salisbury	Wayne Russell       	St. Mary's (MD)	Justin Karoyli      	6-1, 6-0
+20210504	571654	522206	H	   1	Orange Coast	Malik Thiaw         	Fullerton	Timothy Kams        	6-4, 7-5
+20210504	572729	520989	A	   2	Fullerton	Jonathan Kams       	Orange Coast	Jake Hastings       	6-2, 3-6, 6-2
+20210504	571655	499805	H	   3	Orange Coast	Khalid Alsadek      	Fullerton	Scott Merritt       	2-6, 7-5, 1-0
+20210504	496774	522201	H	   4	Orange Coast	Faress Sorial       	Fullerton	Jeffrey Lawton      	6-1, 3-6, 6-4
 20210505	565974	441341	H	   1	UW Superior	Gergo Potz-Nagy     	Northwestern (MN)	Davis Pfaff         	5-7, 6-2, 1-0(9)
 20210505	522340	498449	H	   2	UW Superior	Michael Janes       	Northwestern (MN)	Matthew Wedin       	6-0, 6-0
 20210505	566716	565973	A	   3	Northwestern (MN)	Stewart Morrell     	UW Superior	Andre Guedes        	3-6, 7-5, 1-0(8)
@@ -27784,6 +27815,10 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210506	437141	423658	H	   4	RPI	Brian Niguidula     	Vassar	Adam Krueger        	6-1, 6-2
 20210506	514420	570642	H	   5	RPI	Abraham Yohannes    	Vassar	Arun Guruswamy      	6-1, 6-1
 20210506	490220	514421	A	   6	Vassar	Mihajlo Ivanovic    	RPI	Phoenix Tamaoki     	6-3, 6-1
+20210506	522206	571655	H	   1	Fullerton	Timothy Kams        	Orange Coast	Khalid Alsadek      	6-0, 6-0
+20210506	571654	572729	A	   2	Orange Coast	Malik Thiaw         	Fullerton	Jonathan Kams       	6-2, 6-4
+20210506	520989	499805	A	   3	Orange Coast	Jake Hastings       	Fullerton	Scott Merritt       	6-4, 6-1
+20210506	496774	522201	A	   4	Orange Coast	Faress Sorial       	Fullerton	Jeffrey Lawton      	6-4, 7-6
 20210507	515805	571495	A	   1	American River	Brendan Moley       	Folsom Lake	Gage Biery          	7-6(2), 6-4
 20210507	571500	571496	A	   2	American River	Brian Badolato      	Folsom Lake	Yurro Zabala        	6-1, 6-4
 20210507	515802	501317	A	   3	American River	Nathan Gravitz      	Folsom Lake	Jeremy Schubert     	6-0, 6-1
@@ -27884,6 +27919,10 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210507	414150	564252	N	   6	Arizona	Carlos Hassey       	Michigan	Nino Ehrenschneider 	7-5, 6-1
 20210507	570668	570893	N	   4	Otterbein	Jake McDivitt       	Ohio Northern	Kavya Desai         	6-1, 6-3
 20210507	485592	514763	N	   5	Otterbein	Tom Ohler           	Ohio Northern	Matt Garcia         	7-5, 6-1
+20210507	409781	566529	N	   1	Wingate	Enrico Giacomini    	Tusculum	Dmitry Bezborodov   	6-2, 6-1
+20210507	489522	566530	N	   2	Wingate	Tolunay Sumer       	Tusculum	Nemanja Subanovic   	6-4, 7-6(2)
+20210507	565260	513429	N	   3	Wingate	George Barfoot      	Tusculum	Francesco Bonacia   	6-4, 6-1
+20210507	511177	394989	N	   4	Tusculum	Leon Huck           	Wingate	Josep Canyadell Fabregas	6-2, 6-3
 20210508	411457	444483	H	   1	TCU	Alastair Gray       	Arkansas	Alex Reco           	6-2, 6-3
 20210508	489297	497658	H	   2	TCU	Luc Fomba           	Arkansas	Maxim Verboven      	6-4, 7-5
 20210508	516558	521657	H	   6	TCU	Tadeas Paroulek     	Arkansas	Melvin Manuel       	6-0, 7-6
@@ -28117,14 +28156,34 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210511	487606	561827	N	   2	Cameron	Oscar del Granado   	St. Mary's (TX)	Jake Faryniarz      	6-4, 6-3
 20210511	520779	561825	N	   3	Cameron	Maycon Dias         	St. Mary's (TX)	Ryan Koth           	6-1, 6-1
 20210511	562824	561828	N	   4	Cameron	Alvaro Chavez       	St. Mary's (TX)	Nicolas Llosa       	1-6, 6-0, 6-2
+20210511	512642	572729	H	   1	Riverside	Chris Lee           	Fullerton	Jonathan Kams       	6-1, 7-5
+20210511	490499	522206	H	   2	Riverside	Jacob McMahon       	Fullerton	Timothy Kams        	6-1, 6-1
+20210511	499805	512646	A	   3	Fullerton	Scott Merritt       	Riverside	Andrew Hernandez    	6-4, 2-6, 7-5
+20210511	522201	528014	A	   4	Fullerton	Jeffrey Lawton      	Riverside	Noah Canones        	6-2, 7-5
 20210513	515038	505896	A	   1	Prairie State	Victor Dieltiens    	Lake County (IL)	Mike Sims           	6-3, 6-0
 20210513	570461	515039	H	   2	Lake County (IL)	Billy Friedman      	Prairie State	Jedrzej Brodzki     	6-7(4), 6-1, 1-0(4)
 20210513	570462	521554	H	   3	Lake County (IL)	Houd Azhar          	Prairie State	Hesley Forbes       	4-6, 6-4, 1-0(4)
 20210513	515041	505894	A	   4	Prairie State	Richard Ngwarwi     	Lake County (IL)	Ken Herrmann        	6-3, 6-4
 20210513	515040	570463	A	   5	Prairie State	Miguel Ferreira     	Lake County (IL)	Mason Cohen         	7-5, 6-0
+20210513	512642	522206	A	   1	Riverside	Chris Lee           	Fullerton	Timothy Kams        	6-1, 5-7, 6-1
+20210513	572729	490499	H	   2	Fullerton	Jonathan Kams       	Riverside	Jacob McMahon       	6-3, 6-4
+20210513	512646	522201	A	   3	Riverside	Andrew Hernandez    	Fullerton	Jeffrey Lawton      	6-1, 6-2
+20210513	499805	528014	H	   4	Fullerton	Scott Merritt       	Riverside	Noah Canones        	6-3, 6-4
 20210513	497011	412230	N	   1	Southwest Baptist (MO)	Adham Gaber         	Ferris State	Mathis Guerre       	6-2, 6-0
 20210513	512657	564389	N	   3	Southwest Baptist (MO)	Alvaro Nunez        	Ferris State	Jan Koupil          	6-4, 6-0
 20210513	448725	487565	N	   6	Southwest Baptist (MO)	Max Sanoja          	Ferris State	Ayush Deswal        	6-1, 6-2
+20210514	511904	514224	N	   1	Southern Virginia	Marcos Dias         	Skidmore	Sergiu Celebidachi  	6-4, 6-3
+20210514	487226	514226	N	   2	Southern Virginia	Kukutla Motlojoa    	Skidmore	Brendan Jimenez     	6-4, 6-0
+20210514	570311	388525	N	   3	Skidmore	Zachary Portnoy     	Southern Virginia	Tanner Bassett      	6-3, 6-1
+20210514	485210	485183	N	   4	Southern Virginia	Daniel Blonquist    	Skidmore	Noah Williamson     	6-4, 6-0
+20210514	434216	485185	N	   5	Southern Virginia	Paul Monson         	Skidmore	Connor Biernat      	7-5, 7-5
+20210514	485186	568035	N	   6	Skidmore	Tristan Thiebaut    	Southern Virginia	Benton Drake        	6-3, 6-4
+20210515	489878	486031	N	   1	Denison	Tim Cianciola       	Gustavus Adolphus	Nick Aney           	6-1, 6-1
+20210515	486043	447194	N	   2	Gustavus Adolphus	Indraneel Raut      	Denison	Vladislav Rotnov    	2-6, 4-6
+20210515	512163	566247	N	   3	Gustavus Adolphus	Daniel Fouchier     	Denison	Marc-Lennart Harms  	1-6, 6-4, 4-6
+20210515	514704	512154	N	   4	Denison	Jack Bulger         	Gustavus Adolphus	Alex Budde          	6-3, 3-6, 6-3
+20210515	566243	565990	N	   5	Denison	Andy Mackler        	Gustavus Adolphus	Caleb Fridinger     	6-3, 6-2
+20210515	512152	566248	N	   6	Gustavus Adolphus	Jack Bergmeyer      	Denison	Dan Garcia          	7-6(4), 3-6, 2-6
 20210515	521057	424736	N	   2	Washington & Lee	Evan Brady          	Rose-Hulman	Ian Landwehr        	6-2, 6-3
 20210515	456553	486549	N	   4	Washington & Lee	Noah Tapp           	Rose-Hulman	Joseph Conrad       	6-2, 6-3
 20210515	485574	569009	N	   6	Washington & Lee	John Rudden         	Rose-Hulman	Rhian Seneviratne   	6-1, 6-1
@@ -28133,6 +28192,12 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210515	565357	512546	N	   2	Trinity (TX)	Alessio Azzalini    	Concordia (TX)	Robin Van Der Heijden	6-2, 6-2
 20210515	413242	568097	N	   4	Trinity (TX)	Wilson Hamilton     	Concordia (TX)	Joeri Bregman       	7-5, 6-2
 20210515	489555	490841	N	   6	Trinity (TX)	Christian Settles   	Concordia (TX)	Evan Pena           	6-3, 6-1
+20210515	486180	568355	N	   1	George Fox	Luke Lemaitre       	Oglethorpe	Ameya Dani          	6-0, 6-0
+20210515	425466	568357	N	   2	George Fox	Will Leach          	Oglethorpe	Vince Claussen      	6-0, 6-0
+20210515	490770	434888	N	   2	Southwestern (TX)	Alex Joseph         	Stevens	Keegan Morris       	6-2, 6-0
+20210515	489458	569514	N	   3	Southwestern (TX)	Vesko Lekovic       	Stevens	Aashutosh Kulakarni Prachet	6-2, 6-3
+20210515	489454	451807	N	   4	Southwestern (TX)	Carlos Esteban      	Stevens	Gabriel Sifuentes   	6-1, 6-1
+20210515	567833	488423	N	   6	Southwestern (TX)	Anton Borovik       	Stevens	Mark Pabalan        	6-1, 6-1
 20210516	514005	486031	N	   1	CWRU	James Hopper        	Gustavus Adolphus	Nick Aney           	6-3, 6-1
 20210516	442705	565990	N	   5	CWRU	Jon Powell          	Gustavus Adolphus	Caleb Fridinger     	6-1, 6-3
 20210516	489562	489457	N	   1	Trinity (TX)	Cameron Krimbill    	Southwestern (TX)	Hunter Bajoit       	6-4, 6-2
@@ -28140,12 +28205,185 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210516	413242	489454	N	   4	Trinity (TX)	Wilson Hamilton     	Southwestern (TX)	Carlos Esteban      	6-4, 6-2
 20210516	420323	569269	N	   1	Williams	Arturo Kam          	Washington & Lee	Connor Coleman      	6-0, 6-0
 20210516	388239	521057	N	   2	Williams	Austin Barr         	Washington & Lee	Evan Brady          	6-0, 6-0
+20210516	486180	391552	N	   1	George Fox	Luke Lemaitre       	Carnegie Mellon	Ray Boppana         	7-6, 6-0
+20210516	425466	511790	N	   2	George Fox	Will Leach          	Carnegie Mellon	Jonathan Nottingham 	7-6(4), 6-1
+20210516	569026	565069	N	   3	Carnegie Mellon	Brandon Aprill      	George Fox	Vahag Pashayan      	4-6, 6-1, 6-2
+20210516	569025	565071	N	   4	Carnegie Mellon	Nadim Motaghedi     	George Fox	Alle Banna          	6-1, 6-2
+20210516	511786	486181	N	   5	Carnegie Mellon	Raahil Doshi        	George Fox	Rox Rogers          	6-4, 6-3
+20210516	512555	569030	N	   6	George Fox	Camden Camacho      	Carnegie Mellon	Derek Wong          	6-3, 7-5
+20210517	565456	567552	N	   F	Tyler JC (TX)	Yassir Kilani       	Seward County (KS)	Enzo Frequelin      	6-3, 6-1
+20210517	565456	515525	N	  SF	Tyler JC (TX)	Yassir Kilani       	Collin County (TX)	Michel Zobel        	4-6, 7-6(5), 6-3
+20210517	567552	568762	N	  SF	Seward County (KS)	Enzo Frequelin      	Cowley County (KS)	Javi Pla            	7-5, 6-3
+20210517	565456	565284	N	  QF	Tyler JC (TX)	Yassir Kilani       	East Central (MS)	Garrett Crimm       	6-1, 6-0
+20210517	568762	566035	N	  QF	Cowley County (KS)	Javi Pla            	Eastern Florida	Jaewoo Choi         	5-7, 6-0, 7-5
+20210517	567552	565510	N	  QF	Seward County (KS)	Enzo Frequelin      	Jacksonville (TX)	Juan Agudelo        	6-2, 7-5
+20210517	515525	565979	N	  QF	Collin County (TX)	Michel Zobel        	Abraham Baldwin	Luke Stuart         	6-1, 7-6(4)
+20210517	566035	520861	N	  16	Eastern Florida	Jaewoo Choi         	Mesa (AZ)	Hung Pham           	6-1, 6-0
+20210517	565979	565269	N	  16	Abraham Baldwin	Luke Stuart         	Marion Military	Drake Delvalle      	6-0, 6-0
+20210517	565456	563118	N	  16	Tyler JC (TX)	Yassir Kilani       	Gulf Coast (MS)	Jackson Ward        	6-0, 6-1
+20210517	568762	565417	N	  16	Cowley County (KS)	Javi Pla            	Barton County (KS)	Leonel Caspe        	6-2, 6-0
+20210517	567552	522151	N	  16	Seward County (KS)	Enzo Frequelin      	Wallace State	Hudson Thompson     	6-0, 6-1
+20210517	565284	512437	N	  16	East Central (MS)	Garrett Crimm       	Meridian (MS)	Cainan Black        	6-0, 5-7, 6-4
+20210517	515525	570464	N	  16	Collin County (TX)	Michel Zobel        	Lake County (IL)	Jack Murrie         	6-0, 6-1
+20210517	565510	515483	N	  16	Jacksonville (TX)	Juan Agudelo        	Iowa Central	Juan Navarrete      	6-3, 6-3
+20210517	570464	568727	N	  32	Lake County (IL)	Jack Murrie         	Pima (AZ)	Emanuel Robles-Serrano	7-5, 6-1
+20210517	522151	561880	N	  32	Wallace State	Hudson Thompson     	Copiah-Lincoln (MS)	Bryce Oster         	6-1, 6-1
+20210517	520861	519105	N	  32	Mesa (AZ)	Hung Pham           	Jones	Braxton Wallis      	6-4, 6-3
+20210517	515483	514200	N	  32	Iowa Central	Juan Navarrete      	USC Sumter	Daniel Mahoney      	7-5, 6-3
+20210517	565417	513319	N	  32	Barton County (KS)	Leonel Caspe        	Itawamba (MS)	Torean King         	6-1, 6-0
+20210517	565284	523463	N	  32	East Central (MS)	Garrett Crimm       	Harford (MD)	Michael Francis     	4-6, 6-0, 6-3
+20210517	514200	568727	N	 C-F	USC Sumter	Daniel Mahoney      	Pima (AZ)	Emanuel Robles-Serrano	8-0
+20210517	568727	512437	N	C-SF	Pima (AZ)	Emanuel Robles-Serrano	Meridian (MS)	Cainan Black        	8-2
+20210517	514200	519105	N	C-SF	USC Sumter	Daniel Mahoney      	Jones	Braxton Wallis      	9-7
+20210517	519105	513319	N	C-QF	Jones	Braxton Wallis      	Itawamba (MS)	Torean King         	8-5
+20210517	514200	561880	N	C-QF	USC Sumter	Daniel Mahoney      	Copiah-Lincoln (MS)	Bryce Oster         	8-1
+20210517	512437	523463	N	C-16	Meridian (MS)	Cainan Black        	Harford (MD)	Michael Francis     	8-5
+20210517	515250	520870	N	   F	Tyler JC (TX)	Jaycer Lyeons       	Cowley County (KS)	Jack Clements       	6-2, 2-6, 6-2
+20210517	515250	565983	N	  SF	Tyler JC (TX)	Jaycer Lyeons       	Abraham Baldwin	Gaston Cantero      	6-3, 1-6, 6-2
+20210517	520870	561032	N	  SF	Cowley County (KS)	Jack Clements       	Collin County (TX)	Rafal Bednarczuk    	6-4, 6-3
+20210517	565983	523458	N	  QF	Abraham Baldwin	Gaston Cantero      	Harford (MD)	Harry Collins       	6-1, 6-2
+20210517	515250	568840	N	  QF	Tyler JC (TX)	Jaycer Lyeons       	NMMI	Carlos Gutierrez    	6-2, 6-1
+20210517	520870	496104	N	  QF	Cowley County (KS)	Jack Clements       	East Central (MS)	Chris Lawrence      	6-3, 6-2
+20210517	561032	567551	N	  QF	Collin County (TX)	Rafal Bednarczuk    	Seward County (KS)	Luciano Fisicaro    	7-6(7), 6-4
+20210517	565983	512585	N	  16	Abraham Baldwin	Gaston Cantero      	Eastern Florida	Tomi Reche          	6-4, 6-1
+20210517	520870	567090	N	  16	Cowley County (KS)	Jack Clements       	Mesa (AZ)	Austreberto Carlon  	6-2, 6-3
+20210517	567551	513835	N	  16	Seward County (KS)	Luciano Fisicaro    	Marion Military	Joseph Tanjuatco    	6-3, 6-1
+20210517	523458	521305	N	  16	Harford (MD)	Harry Collins       	Copiah-Lincoln (MS)	Julian Toloza       	6-2, 6-3
+20210517	496104	522212	N	  16	East Central (MS)	Chris Lawrence      	Meridian (MS)	Matthew Tennant     	7-6(5), 6-3
+20210517	561032	515474	N	  16	Collin County (TX)	Rafal Bednarczuk    	Iowa Central	Merlin Bolema       	6-1, 6-0
+20210517	568840	519109	N	  16	NMMI	Carlos Gutierrez    	Jones	Gaspar Meda         	6-4, 6-3
+20210517	513835	569937	N	  32	Marion Military	Joseph Tanjuatco    	USC Sumter	Ruben Emmerson-Hiini	3-6, 7-6(3), 7-5
+20210517	567090	498757	N	  32	Mesa (AZ)	Austreberto Carlon  	Itawamba (MS)	Sergio Garcia       	6-2, 6-1
+20210517	512585	513035	N	  32	Eastern Florida	Tomi Reche          	Gulf Coast (MS)	Willie Seth Macute  	6-1, 6-1
+20210517	515474	569473	N	  32	Iowa Central	Merlin Bolema       	Jacksonville (TX)	Miguel Gamborino    	6-3, 6-0
+20210517	523699	568111	N	  32	Barton County (KS)	Samrakshyak Bajracharya	Wallace State	Sebastian Gamez     	6-4, 4-6, 7-6(3)
+20210517	523458	568726	N	  32	Harford (MD)	Harry Collins       	Pima (AZ)	Corey Pabst         	6-0, 6-0
+20210517	522212	505896	N	  32	Meridian (MS)	Matthew Tennant     	Lake County (IL)	Mike Sims           	6-3, 6-2
+20210517	568840	568260	N	  32	NMMI	Carlos Gutierrez    	Paradise Valley (AZ)	Cameron Meinhart    	6-3, 6-0
+20210517	568111	498757	N	 C-F	Wallace State	Sebastian Gamez     	Itawamba (MS)	Sergio Garcia       	8-6
+20210517	568111	513035	N	C-SF	Wallace State	Sebastian Gamez     	Gulf Coast (MS)	Willie Seth Macute  	8-3
+20210517	498757	569473	N	C-SF	Itawamba (MS)	Sergio Garcia       	Jacksonville (TX)	Miguel Gamborino    	8-0
+20210517	568111	568260	N	C-QF	Wallace State	Sebastian Gamez     	Paradise Valley (AZ)	Cameron Meinhart    	8-3
+20210517	498757	505896	N	C-QF	Itawamba (MS)	Sergio Garcia       	Lake County (IL)	Mike Sims           	8-2
+20210517	564411	565453	N	   F	Cowley County (KS)	Takeshi Taco        	Tyler JC (TX)	Cash Hanzlik        	3-6, 6-3, 7-5
+20210517	565453	565981	N	  SF	Tyler JC (TX)	Cash Hanzlik        	Abraham Baldwin	Cheng En Tsai       	6-0, 6-0
+20210517	564411	521555	N	  SF	Cowley County (KS)	Takeshi Taco        	Eastern Florida	Dario Kmet          	6-3, 6-2
+20210517	521555	520859	N	  QF	Eastern Florida	Dario Kmet          	Mesa (AZ)	Leandro Carneiro    	6-0, 6-0
+20210517	565981	565014	N	  QF	Abraham Baldwin	Cheng En Tsai       	Copiah-Lincoln (MS)	Julian Parada       	6-1, 7-5
+20210517	565453	563636	N	  QF	Tyler JC (TX)	Cash Hanzlik        	Collin County (TX)	Agustin Kalinowski  	4-6, 6-2, 6-3
+20210517	564411	523571	N	  QF	Cowley County (KS)	Takeshi Taco        	Seward County (KS)	Kyllian Savary      	6-1, 6-1
+20210517	521555	570461	N	  16	Eastern Florida	Dario Kmet          	Lake County (IL)	Billy Friedman      	6-2, 6-1
+20210517	565981	568115	N	  16	Abraham Baldwin	Cheng En Tsai       	Wallace State	Connor Coots        	6-2, 6-3
+20210517	565453	515478	N	  16	Tyler JC (TX)	Cash Hanzlik        	Iowa Central	Juan Gomez          	6-0, 6-0
+20210517	564411	514127	N	  16	Cowley County (KS)	Takeshi Taco        	Harford (MD)	Pablo Lopez Real    	6-4, 6-0
+20210517	523571	565511	N	  16	Seward County (KS)	Kyllian Savary      	Jacksonville (TX)	Santiago Castellanos Donoso	6-3, 6-4
+20210517	565014	565019	N	  16	Copiah-Lincoln (MS)	Julian Parada       	Jones	Ignacio Vanecek     	6-1, 6-2
+20210517	563636	523700	N	  16	Collin County (TX)	Agustin Kalinowski  	Barton County (KS)	James Kaoma         	6-4, 6-2
+20210517	570461	565097	N	  32	Lake County (IL)	Billy Friedman      	Itawamba (MS)	Rhonzo Olaechea     	6-3, 6-1
+20210517	568115	498281	N	  32	Wallace State	Connor Coots        	East Central (MS)	Isaac Santitto      	6-0, 4-6, 6-3
+20210517	520859	565267	N	  32	Mesa (AZ)	Leandro Carneiro    	Marion Military	Eddie Hunter        	6-2, 4-6, 6-1
+20210517	515478	564979	N	  32	Iowa Central	Juan Gomez          	Meridian (MS)	Cameron Garrett     	6-0, 6-0
+20210517	523700	568725	N	  32	Barton County (KS)	James Kaoma         	Pima (AZ)	Anton Nazaroff      	6-3, 6-0
+20210517	514127	563115	N	  32	Harford (MD)	Pablo Lopez Real    	Gulf Coast (MS)	Pedro Molero        	6-1, 6-1
+20210517	565014	514198	N	  32	Copiah-Lincoln (MS)	Julian Parada       	USC Sumter	Heimanarii Lai San  	6-1, 6-2
+20210517	514198	563115	N	 C-F	USC Sumter	Heimanarii Lai San  	Gulf Coast (MS)	Pedro Molero        	8-3
+20210517	563115	565267	N	C-SF	Gulf Coast (MS)	Pedro Molero        	Marion Military	Eddie Hunter        	8-1
+20210517	514198	568725	N	C-SF	USC Sumter	Heimanarii Lai San  	Pima (AZ)	Anton Nazaroff      	8-2
+20210517	565267	565097	N	C-QF	Marion Military	Eddie Hunter        	Itawamba (MS)	Rhonzo Olaechea     	8-3
+20210517	568725	564979	N	C-QF	Pima (AZ)	Anton Nazaroff      	Meridian (MS)	Cameron Garrett     	8-2
+20210517	514198	498281	N	C-QF	USC Sumter	Heimanarii Lai San  	East Central (MS)	Isaac Santitto      	8-1
+20210517	515251	512586	N	   F	Tyler JC (TX)	Ryo Minakata        	Eastern Florida	Mikar Fisher        	6-1, 6-2
+20210517	512586	513820	N	  SF	Eastern Florida	Mikar Fisher        	Abraham Baldwin	Baptiste Mercier    	6-4, 3-6, 6-4
+20210517	515251	561031	N	  SF	Tyler JC (TX)	Ryo Minakata        	Collin County (TX)	Timothy Karpinski   	6-4, 6-3
+20210517	512586	568112	N	  QF	Eastern Florida	Mikar Fisher        	Wallace State	Tristian Du Plessis 	6-3, 6-4
+20210517	513820	511944	N	  QF	Abraham Baldwin	Baptiste Mercier    	Seward County (KS)	Raul Centeno        	6-4, 6-2
+20210517	515251	562364	N	  QF	Tyler JC (TX)	Ryo Minakata        	Iowa Central	Nicholas Espinoza   	6-2, 6-0
+20210517	561031	523701	N	  QF	Collin County (TX)	Timothy Karpinski   	Barton County (KS)	Eduardo Morais      	6-3, 7-6(3)
+20210517	568112	567088	N	  16	Wallace State	Tristian Du Plessis 	Mesa (AZ)	Cameron Khan        	6-1, 6-2
+20210517	512586	521625	N	  16	Eastern Florida	Mikar Fisher        	USC Sumter	Sabri Laphitz       	6-0, 6-2
+20210517	562364	564977	N	  16	Iowa Central	Nicholas Espinoza   	Meridian (MS)	Colin Hartman       	6-1, 6-1
+20210517	523701	561066	N	  16	Barton County (KS)	Eduardo Morais      	Cowley County (KS)	Aymeric Bruno       	6-3, 7-6(4)
+20210517	515251	565268	N	  16	Tyler JC (TX)	Ryo Minakata        	Marion Military	Pj Smith            	6-1, 6-1
+20210517	511944	511845	N	  16	Seward County (KS)	Raul Centeno        	Jacksonville (TX)	David Perez De La Fuente	0-6, 6-1, 5-3
+20210517	561031	523459	N	  16	Collin County (TX)	Timothy Karpinski   	Harford (MD)	Josep Coll Llopis   	6-3, 7-5
+20210517	568112	570462	N	  32	Wallace State	Tristian Du Plessis 	Lake County (IL)	Houd Azhar          	7-6(4), 6-2
+20210517	567088	561878	N	  32	Mesa (AZ)	Cameron Khan        	Copiah-Lincoln (MS)	Ty Nelson           	6-2, 6-2
+20210517	562364	519103	N	  32	Iowa Central	Nicholas Espinoza   	Jones	Daniel Panzica      	6-2, 6-1
+20210517	523701	568264	N	  32	Barton County (KS)	Eduardo Morais      	Paradise Valley (AZ)	Roman Earhart       	6-0, 6-0
+20210517	523459	501436	N	  32	Harford (MD)	Josep Coll Llopis   	Gulf Coast (MS)	Wesley Fontaine     	6-3, 6-0
+20210517	521625	498286	N	  32	USC Sumter	Sabri Laphitz       	East Central (MS)	Jacob Gardner       	6-0, 6-0
+20210517	511845	565099	N	  32	Jacksonville (TX)	David Perez De La Fuente	Itawamba (MS)	Grayson Godbold     	6-2, 6-0
+20210517	561066	570462	N	 C-F	Cowley County (KS)	Aymeric Bruno       	Lake County (IL)	Houd Azhar          	8-2
+20210517	570462	565099	N	C-SF	Lake County (IL)	Houd Azhar          	Itawamba (MS)	Grayson Godbold     	8-3
+20210517	561066	519103	N	C-SF	Cowley County (KS)	Aymeric Bruno       	Jones	Daniel Panzica      	8-2
+20210517	570462	498286	N	C-QF	Lake County (IL)	Houd Azhar          	East Central (MS)	Jacob Gardner       	8-0
+20210517	561066	501436	N	C-QF	Cowley County (KS)	Aymeric Bruno       	Gulf Coast (MS)	Wesley Fontaine     	8-0
+20210517	570462	561878	N	C-16	Lake County (IL)	Houd Azhar          	Copiah-Lincoln (MS)	Ty Nelson           	8-2
+20210517	519103	564977	N	C-16	Jones	Daniel Panzica      	Meridian (MS)	Colin Hartman       	8-6
+20210517	565457	511945	N	   F	Tyler JC (TX)	Alan Magadan        	Seward County (KS)	Mauricio Gonzalez   	6-1, 6-2
+20210517	565457	566033	N	  SF	Tyler JC (TX)	Alan Magadan        	Eastern Florida	Ramiro Rincon       	6-0, 7-6(5)
+20210517	511945	513276	N	  SF	Seward County (KS)	Mauricio Gonzalez   	Cowley County (KS)	Alejandro Orihuela  	7-6(4), 2-6, 6-1
+20210517	566033	513825	N	  QF	Eastern Florida	Ramiro Rincon       	Abraham Baldwin	Lorenzo Del Biondo  	6-2, 6-4
+20210517	565457	565054	N	  QF	Tyler JC (TX)	Alan Magadan        	Collin County (TX)	Jorge Abreu         	6-1, 7-6(1)
+20210517	513276	565513	N	  QF	Cowley County (KS)	Alejandro Orihuela  	Jacksonville (TX)	Muntingh Hamman     	6-1, 6-4
+20210517	511945	568113	N	  QF	Seward County (KS)	Mauricio Gonzalez   	Wallace State	Eli Hagan           	6-2, 6-3
+20210517	568113	514864	N	  16	Wallace State	Eli Hagan           	Barton County (KS)	Victor Pestana      	7-6(3), 6-3
+20210517	513825	512439	N	  16	Abraham Baldwin	Lorenzo Del Biondo  	Meridian (MS)	Taylor Jefcoat      	6-2, 6-0
+20210517	565457	505894	N	  16	Tyler JC (TX)	Alan Magadan        	Lake County (IL)	Ken Herrmann        	6-0, 6-0
+20210517	513276	563117	N	  16	Cowley County (KS)	Alejandro Orihuela  	Gulf Coast (MS)	Clay Fudge          	6-1, 6-4
+20210517	511945	520860	N	  16	Seward County (KS)	Mauricio Gonzalez   	Mesa (AZ)	Emilio Alvarado     	6-2, 6-1
+20210517	565054	570810	N	  16	Collin County (TX)	Jorge Abreu         	Harford (MD)	Pablo Poleo         	6-4, 6-1
+20210517	565513	514199	N	  16	Jacksonville (TX)	Muntingh Hamman     	USC Sumter	Hector Romero       	6-3, 6-2
+20210517	505894	513329	N	  32	Lake County (IL)	Ken Herrmann        	Itawamba (MS)	Jacambrian Madlock  	6-4, 6-3
+20210517	520860	565016	N	  32	Mesa (AZ)	Emilio Alvarado     	Copiah-Lincoln (MS)	Lawson Pearson      	6-2, 6-4
+20210517	570810	565270	N	  32	Harford (MD)	Pablo Poleo         	Marion Military	Carson Johnson      	6-0, 6-0
+20210517	563117	497707	N	  32	Gulf Coast (MS)	Clay Fudge          	Iowa Central	Nicolas Zumba       	6-2, 6-4
+20210517	565054	568261	N	  32	Collin County (TX)	Jorge Abreu         	Paradise Valley (AZ)	Dylan Mulstay       	6-0, 6-0
+20210517	514199	568729	N	  32	USC Sumter	Hector Romero       	Pima (AZ)	Mitchell Wilkinson  	6-0, 6-2
+20210517	565513	519108	N	  32	Jacksonville (TX)	Muntingh Hamman     	Jones	Greyson Parman      	6-4, 6-0
+20210517	497707	513329	N	 C-F	Iowa Central	Nicolas Zumba       	Itawamba (MS)	Jacambrian Madlock  	9-8(5)
+20210517	497707	565016	N	C-SF	Iowa Central	Nicolas Zumba       	Copiah-Lincoln (MS)	Lawson Pearson      	8-1
+20210517	513329	565282	N	C-SF	Itawamba (MS)	Jacambrian Madlock  	East Central (MS)	Ian Gordon          	8-5
+20210517	497707	519108	N	C-QF	Iowa Central	Nicolas Zumba       	Jones	Greyson Parman      	8-1
+20210517	513329	568261	N	C-QF	Itawamba (MS)	Jacambrian Madlock  	Paradise Valley (AZ)	Dylan Mulstay       	8-2
+20210517	568261	565270	N	C-16	Paradise Valley (AZ)	Dylan Mulstay       	Marion Military	Carson Johnson      	8-5
+20210517	519108	568729	N	C-16	Jones	Greyson Parman      	Pima (AZ)	Mitchell Wilkinson  	8-3
+20210517	561079	567553	N	   F	Cowley County (KS)	Andoni Garmendia    	Seward County (KS)	Martins Abamu       	7-6(5), 6-0
+20210517	561079	515249	N	  SF	Cowley County (KS)	Andoni Garmendia    	Tyler JC (TX)	Jeff Guerrero       	6-4, 6-2
+20210517	567553	566039	N	  SF	Seward County (KS)	Martins Abamu       	Eastern Florida	Sergio Gomez        	6-4, 6-4
+20210517	566039	567091	N	  QF	Eastern Florida	Sergio Gomez        	Mesa (AZ)	Duncan Mulenga      	6-3, 6-0
+20210517	515249	569938	N	  QF	Tyler JC (TX)	Jeff Guerrero       	USC Sumter	Kristen Pavitt      	6-1, 6-2
+20210517	561079	513819	N	  QF	Cowley County (KS)	Andoni Garmendia    	Abraham Baldwin	Tiago Marques       	6-7(4), 6-2, 6-0
+20210517	567553	515524	N	  QF	Seward County (KS)	Martins Abamu       	Collin County (TX)	Charlie Heffernan   	2-6, 6-2, 6-4
+20210517	567091	513837	N	  16	Mesa (AZ)	Duncan Mulenga      	Marion Military	Emmanuel Warner     	6-0, 6-0
+20210517	566039	565512	N	  16	Eastern Florida	Sergio Gomez        	Jacksonville (TX)	Ryan Christensen    	6-1, 6-2
+20210517	513819	566412	N	  16	Abraham Baldwin	Tiago Marques       	Iowa Central	Theo Devals-Hamel   	6-1, 6-1
+20210517	515249	565416	N	  16	Tyler JC (TX)	Jeff Guerrero       	Barton County (KS)	Barnabas Kalaba     	6-2, 6-0
+20210517	561079	565100	N	  16	Cowley County (KS)	Andoni Garmendia    	Itawamba (MS)	Russell Moorman     	6-0, 6-0
+20210517	567553	519106	N	  16	Seward County (KS)	Martins Abamu       	Jones	Ryan Myers          	6-1, 6-0
+20210517	515524	570808	N	  16	Collin County (TX)	Charlie Heffernan   	Harford (MD)	Mathius Dessureau   	6-2, 6-3
+20210517	569938	568728	N	  16	USC Sumter	Kristen Pavitt      	Pima (AZ)	Landon Strickland   	6-1, 6-2
+20210517	513837	564978	N	  32	Marion Military	Emmanuel Warner     	Meridian (MS)	Grant Frank         	6-2, 6-2
+20210517	566412	521304	N	  32	Iowa Central	Theo Devals-Hamel   	Copiah-Lincoln (MS)	John Ready          	6-0, 6-0
+20210517	565416	565286	N	  32	Barton County (KS)	Barnabas Kalaba     	East Central (MS)	Steed Springfield   	6-1, 6-0
+20210517	570808	570463	N	  32	Harford (MD)	Mathius Dessureau   	Lake County (IL)	Mason Cohen         	6-1, 6-1
+20210517	565100	568263	N	  32	Itawamba (MS)	Russell Moorman     	Paradise Valley (AZ)	Drake Young         	6-2, 6-1
+20210517	569938	522152	N	  32	USC Sumter	Kristen Pavitt      	Wallace State	Gage Anderson       	7-6(4), 6-1
+20210517	565512	563119	N	  32	Jacksonville (TX)	Ryan Christensen    	Gulf Coast (MS)	Anderson Dulaney    	6-1, 4-6, 7-5
+20210517	522152	563119	N	 C-F	Wallace State	Gage Anderson       	Gulf Coast (MS)	Anderson Dulaney    	8-3
+20210517	522152	521304	N	C-SF	Wallace State	Gage Anderson       	Copiah-Lincoln (MS)	John Ready          	8-0
+20210517	563119	570463	N	C-SF	Gulf Coast (MS)	Anderson Dulaney    	Lake County (IL)	Mason Cohen         	8-3
+20210517	522152	565286	N	C-QF	Wallace State	Gage Anderson       	East Central (MS)	Steed Springfield   	8-4
+20210517	521304	568263	N	C-QF	Copiah-Lincoln (MS)	John Ready          	Paradise Valley (AZ)	Drake Young         	8-3
 20210517	461891	564319	N	   1	Tennessee	Adam Walton         	Arizona	Gustaf Strom        	7-5, 1-6, 6-2
 20210517	497925	527971	N	   2	Arizona	Jonas Ziverts       	Tennessee	Johannus Monday     	7-5, 6-3
 20210517	497830	429133	N	   3	Tennessee	Martim Prata        	Arizona	Filip Malbasic      	6-0, 6-3
 20210517	463457	567637	N	   4	Tennessee	Luca Wiedenmann     	Arizona	Herman Hoyeraal     	6-3, 4-6, 6-4
 20210517	444974	513101	N	   5	Arizona	Alejandro Requant-Bicardi	Tennessee	Giles Hussey        	6-4, 6-1
 20210517	414150	488721	N	   6	Arizona	Carlos Hassey       	Tennessee	Pat Harper          	6-4, 6-4
+20210517	412687	392974	N	   2	Texas A&M	Hady Habib          	Mississippi State	Florian Broska      	6-4, 6-1
+20210517	485543	520879	N	   4	Texas A&M	Noah Schachter      	Mississippi State	Alberto Colas       	6-2, 7-6(3)
+20210517	562734	487240	N	   6	Texas A&M	Raphael Perot       	Mississippi State	Gregor Ramskogler   	6-0, 6-1
 20210517	520891	453651	N	   2	Ole Miss	Finn Reynolds       	Baylor	Matias Soto         	6-1, 6-4
 20210517	562412	561866	N	   4	Baylor	Nick Stachowiak     	Ole Miss	John Hallquist Lithen	6-4, 6-0
 20210517	527260	485272	N	   5	Baylor	Charlie Broom       	Ole Miss	Simon Junk          	2-6, 6-2, 6-4
@@ -28160,26 +28398,56 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210517	514358	511569	N	   2	North Carolina	Rinky Hijikata      	Georgia	Tyler Zink          	6-3, 7-6(2)
 20210517	498428	451826	N	   3	Georgia	Philip Henning      	North Carolina	Benjamin Sigouin    	6-3, 6-4
 20210517	491254	487816	N	   4	North Carolina	Brian Cernoch       	Georgia	Blake Croyder       	4-6, 6-2, 6-4
-20210517	562702	440447	N	   5	Georgia	Billy Rowe          	North Carolina	Josh Peck           	7-6(6), 6-4
+20210517	562702	440447	N	   5	Georgia	Billy Rowe          	North Carolina	Joshua Peck         	7-6(6), 6-4
 20210517	511567	453379	N	   6	Georgia	Erik Grevelius      	North Carolina	Simon Soendergaard  	7-6(3), 6-1
 20210517	432019	411457	N	   1	Ohio State	John McNally        	TCU	Alastair Gray       	6-4, 6-0
 20210517	489297	511704	N	   2	TCU	Luc Fomba           	Ohio State	Cannon Kingsley     	6-4, 6-4
 20210517	521012	511705	N	   4	TCU	Tomas Jirousek      	Ohio State	Justin Boulais      	6-2, 6-0
 20210517	516558	450412	N	   5	TCU	Tadeas Paroulek     	Ohio State	Kyle Seelig         	6-4, 6-1
-20210517	453064	564166	N	   2	USC	Riley Smith         	Virginia	Jeffrey von der Schulenburg	6-2, 7-5
+20210517	453064	564166	N	   2	USC	Riley Smith         	Virginia	Jeffrey Von Der Schulenburg	6-2, 7-5
 20210517	510835	564151	N	   3	USC	Stefan Dostanic     	Virginia	Chris Rodesch       	6-3, 5-7, 6-2
-20210517	564150	486015	N	   4	Virginia	Inaki Montes de la Torre	USC	Bradley Frye        	7-6(4), 6-2
+20210517	564150	486015	N	   4	Virginia	Inaki Montes De La Torre	USC	Bradley Frye        	7-6(4), 6-2
 20210517	563765	486444	N	   5	USC	Lodewijk Weststrate 	Virginia	Ryan Goetz          	6-3, 7-5
 20210517	447059	486016	N	   6	Virginia	Gianni Ross         	USC	Jake Sands          	6-4, 7-5
 20210517	385909	393009	N	   3	Florida	Andy Andrade        	Illinois	Alex Brown          	6-2, 6-3
 20210517	509770	397557	N	   4	Florida	Blaise Bicknell     	Illinois	Zeke Clark          	6-3, 6-3
-20210517	511775	421665	N	   6	Florida	Josh Goodger        	Illinois	Noe Khlif           	6-1, 6-3
-20210517	412687	392974	N	   2	Texas A&M	Hady Habib          	Mississippi State	Florian Broska      	6-4, 6-1
-20210517	485543	520879	N	   4	Texas A&M	Noah Schachter      	Mississippi State	Alberto Colas       	6-2, 7-6(3)
-20210517	562734	487240	N	   6	Texas A&M	Raphael Perot       	Mississippi State	Gregor Ramskogler   	6-0, 6-1
-20210520	453651	489297	N	   2	Baylor	Matias Soto         	TCU	Luc Fomba           	6-4, 6-4
-20210520	424430	514378	N	   3	Baylor	Sven Lah            	TCU	Jacob Fearnley      	6-3, 6-1
-20210520	562413	423670	N	   6	Baylor	Spencer Furman      	TCU	Bertus Kruger       	7-5, 6-1
+20210517	511775	421665	N	   6	Florida	Joshua Goodger      	Illinois	Noe Khlif           	6-1, 6-3
+20210518	567061	512812	N	   3	Union (KY)	Mihailo Radosavljevic	McPherson	Martin Millos       	7-5, 6-1
+20210518	423862	461560	N	   5	Union (KY)	Mark Kuhnel         	McPherson	Nicolas Wahl        	6-4, 6-4
+20210518	410828	512815	N	   6	Union (KY)	Mateo Gonzalez      	McPherson	Trey Murphy         	6-3, 7-6(6)
+20210518	500513	511206	N	   1	Hawaii Hilo	Martin Soukal       	Concordia (NY)	Tobias Lentz        	6-2, 6-2
+20210518	566806	430545	N	   2	Hawaii Hilo	Alessio Demichelis  	Concordia (NY)	Henry Masters       	7-5, 6-4
+20210518	486010	500515	N	   4	Concordia (NY)	Jan Seno            	Hawaii Hilo	Luca Checchia Adell 	6-2, 4-6, 6-3
+20210518	426915	520164	N	   5	Concordia (NY)	William Lindqvist Nilsson	Hawaii Hilo	Santiago Di Loreto  	6-3, 3-6, 6-4
+20210518	566809	569633	N	   6	Hawaii Hilo	Joshua Liu          	Concordia (NY)	Oskar Irdoja        	6-3, 3-6, 7-5
+20210518	515949	568512	N	   1	San Diego Christian	Christopher Papa    	Blue Mountain	Bernardo Tajada     	6-4, 6-2
+20210518	515948	568510	N	   2	San Diego Christian	Nick Nienhaus       	Blue Mountain	Jonas Mathiasen     	6-2, 6-1
+20210518	522419	561083	N	   3	San Diego Christian	Ivan Smith          	Blue Mountain	Philippe Labbe      	6-2, 7-6(1)
+20210518	568083	508966	N	   3	Lindsey Wilson	Aleksa Ciric        	Asbury	Rodrigo Cavero      	6-1, 6-0
+20210518	504287	413994	N	   5	Lindsey Wilson	Tiago Almeida       	Asbury	Luiz Gustavo Hartkopf	6-3, 6-0
+20210518	568086	508965	N	   6	Lindsey Wilson	Anatoliy Voloshyn   	Asbury	Duarte Teixeira     	6-2, 6-1
+20210518	485915	520779	N	   3	Columbus State	Tomasso Schold      	Cameron	Maycon Dias         	6-4, 6-2
+20210518	521720	562824	N	   4	Columbus State	Javi Cueto Ramos    	Cameron	Alvaro Chavez       	6-3, 6-4
+20210518	515691	514602	N	   6	Columbus State	Pietro Martinetti   	Cameron	Carlos Vidal        	6-2, 6-1
+20210519	568084	528159	N	   2	Lindsey Wilson	Jan Silhavy         	Indiana Wesleyan	Stefano Di Aloy     	6-4, 6-1
+20210519	568083	528164	N	   3	Lindsey Wilson	Aleksa Ciric        	Indiana Wesleyan	Karl Wurth          	6-3, 6-3
+20210519	454542	405320	N	   4	Indiana Wesleyan	Eli Steiner         	Lindsey Wilson	Steven Espinoza     	6-4, 6-4
+20210519	504287	511736	N	   5	Lindsey Wilson	Tiago Almeida       	Indiana Wesleyan	Isaac Steiner       	6-4, 6-2
+20210519	568086	494623	N	   6	Lindsey Wilson	Anatoliy Voloshyn   	Indiana Wesleyan	Diego Freire        	3-6, 6-3, 6-3
+20210519	498901	501923	N	   1	Xavier (LA)	Santiago Perez      	Union (KY)	Simon Campos        	6-2, 6-1
+20210519	384026	514291	N	   2	Xavier (LA)	Shaikh Abdullah     	Union (KY)	Sebastiano Zorzi    	6-2, 7-5
+20210519	567061	569635	N	   3	Union (KY)	Mihailo Radosavljevic	Xavier (LA)	Megh Patel          	6-7(5), 6-1, 6-1
+20210519	566430	489436	N	   4	Union (KY)	Sergio Lizarraga    	Xavier (LA)	Juan Ramirez        	6-3, 7-5
+20210519	423862	567229	N	   5	Union (KY)	Mark Kuhnel         	Xavier (LA)	Juan Varon          	6-3, 6-3
+20210519	515293	410828	N	   6	Xavier (LA)	Guillermo Coiras    	Union (KY)	Mateo Gonzalez      	6-4, 6-0
+20210519	561005	388008	N	   1	Tennessee Wesleyan	Oscar Gabriel Ortiz 	Cumberlands (KY)	Martin Barbier      	4-6, 6-2, 6-4
+20210519	514885	566964	N	   2	Tennessee Wesleyan	Valentin Popescu    	Cumberlands (KY)	Martin Muller       	6-2, 6-4
+20210519	560963	434333	N	   3	Tennessee Wesleyan	German Delcanto     	Cumberlands (KY)	Luis Montull        	6-3, 6-2
+20210519	513974	561731	N	   4	Tennessee Wesleyan	Jesus Fernandez     	Cumberlands (KY)	Mattis Le Montagner 	6-0, 5-7, 6-0
+20210519	561728	560962	N	   6	Cumberlands (KY)	Robert Wu Hung-Ju   	Tennessee Wesleyan	Patryk Kosinski     	4-6, 7-5, 6-4
+20210519	444634	500513	N	   1	Columbus State	Alvaro Regalado     	Hawaii Hilo	Martin Soukal       	6-1, 6-3
+20210519	521720	500515	N	   4	Columbus State	Javi Cueto Ramos    	Hawaii Hilo	Luca Checchia Adell 	6-1, 6-1
+20210519	515691	566809	N	   6	Columbus State	Pietro Martinetti   	Hawaii Hilo	Joshua Liu          	6-2, 6-1
 20210520	461891	498429	N	   1	Tennessee	Adam Walton         	Georgia	Trent Bryde         	6-4, 6-4
 20210520	527971	511569	N	   2	Tennessee	Johannus Monday     	Georgia	Tyler Zink          	7-6(3), 6-4
 20210520	463457	487816	N	   4	Tennessee	Luca Wiedenmann     	Georgia	Blake Croyder       	4-6, 6-2, 6-3
@@ -28190,6 +28458,24 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210520	513840	486015	N	   4	Texas	Cleeve Harper       	USC	Bradley Frye        	6-4, 3-6, 7-5
 20210520	486712	563765	N	   5	Texas	Chih Chi Huang      	USC	Lodewijk Weststrate 	6-2, 0-6, 6-3
 20210520	486016	513843	N	   6	USC	Jake Sands          	Texas	Evin McDonald       	6-4, 6-4
+20210520	453651	489297	N	   2	Baylor	Matias Soto         	TCU	Luc Fomba           	6-4, 6-4
+20210520	424430	514378	N	   3	Baylor	Sven Lah            	TCU	Jacob Fearnley      	6-3, 6-1
+20210520	516558	527260	N	   5	TCU	Tadeas Paroulek     	Baylor	Charlie Broom       	6-2, 6-4
+20210520	562413	423670	N	   6	Baylor	Spencer Furman      	TCU	Bertus Kruger       	7-5, 6-1
+20210520	561005	561104	N	   1	Tennessee Wesleyan	Oscar Gabriel Ortiz 	Reinhardt	Artem Vasheshnikov  	7-5, 6-1
+20210520	560963	503173	N	   3	Tennessee Wesleyan	German Delcanto     	Reinhardt	Jordi Puig          	7-6(6), 6-4
+20210520	513974	467269	N	   4	Tennessee Wesleyan	Jesus Fernandez     	Reinhardt	Sam Alexander       	6-1, 6-2
+20210520	568084	522230	N	   2	Lindsey Wilson	Jan Silhavy         	Middle Georgia	Jordi Bou           	6-1, 6-3
+20210520	568083	566551	N	   3	Lindsey Wilson	Aleksa Ciric        	Middle Georgia	Angelo Tost         	6-2, 7-5
+20210520	566550	405320	N	   4	Middle Georgia	Maxence Kupfert     	Lindsey Wilson	Steven Espinoza     	6-4, 6-2
+20210520	504287	522231	N	   5	Lindsey Wilson	Tiago Almeida       	Middle Georgia	Naufal Kamaruzzaman 	4-6, 6-1, 6-2
+20210520	523180	501923	N	   1	Keiser	Luke Simkiss        	Union (KY)	Simon Campos        	6-1, 6-4
+20210520	565599	514291	N	   2	Keiser	Toru Horie          	Union (KY)	Sebastiano Zorzi    	6-2, 6-2
+20210520	561568	566430	N	   4	Keiser	Frederik Oervad     	Union (KY)	Sergio Lizarraga    	6-3, 7-6(5)
+20210520	490658	521721	N	   2	Barry	Alejandro Ortega Palacios	Columbus State	Christian Garay     	3-6, 7-5, 6-4
+20210520	485915	500942	N	   3	Columbus State	Tomasso Schold      	Barry	Alejandro Ibanez Gallego	6-3, 6-4
+20210520	490657	515690	N	   5	Barry	Ignasi Forcano      	Columbus State	Felix Steen         	6-3, 6-3
+20210520	516933	515688	N	   6	Barry	Tim Buttner         	Columbus State	Justin Welz         	6-2, 7-5
 20210520	459591	459505	N	   1	Florida	Duarte Vale         	Texas A&M	Valentin Vacherot   	6-7(5), 6-1, 6-2
 20210520	488586	412687	N	   2	Florida	Sam Riffice         	Texas A&M	Hady Habib          	7-6(5), 6-4
 20210520	509770	485543	N	   4	Florida	Blaise Bicknell     	Texas A&M	Noah Schachter      	6-3, 6-4
@@ -28197,7 +28483,15 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20210521	453651	527971	N	   2	Baylor	Matias Soto         	Tennessee	Johannus Monday     	7-6(3), 4-6, 7-5
 20210521	424430	497830	N	   3	Baylor	Sven Lah            	Tennessee	Martim Prata        	6-0, 6-3
 20210521	562412	463457	N	   4	Baylor	Nick Stachowiak     	Tennessee	Luca Wiedenmann     	1-6, 6-2, 6-4
+20210521	513101	527260	N	   5	Tennessee	Giles Hussey        	Baylor	Charlie Broom       	6-4, 6-2
 20210521	562413	446520	N	   6	Baylor	Spencer Furman      	Tennessee	Andrew Rogers       	6-3, 6-2
+20210521	565599	568084	N	   2	Keiser	Toru Horie          	Lindsey Wilson	Jan Silhavy         	6-4, 6-4
+20210521	561568	405320	N	   4	Keiser	Frederik Oervad     	Lindsey Wilson	Steven Espinoza     	6-4, 6-2
+20210521	561570	568086	N	   6	Keiser	Bart Nouws          	Lindsey Wilson	Anatoliy Voloshyn   	6-4, 6-3
 20210521	385909	513841	N	   3	Florida	Andy Andrade        	Texas	Siem Woldeab        	6-3, 7-5
 20210521	509770	513840	N	   4	Florida	Blaise Bicknell     	Texas	Cleeve Harper       	6-1, 7-5
 20210521	561860	486712	N	   5	Florida	Ben Shelton         	Texas	Chih Chi Huang      	6-3, 6-0
+20210522	488586	453651	N	   2	Florida	Sam Riffice         	Baylor	Matias Soto         	7-5, 6-3
+20210522	385909	424430	N	   3	Florida	Andy Andrade        	Baylor	Sven Lah            	7-6(6), 6-0
+20210522	561860	527260	N	   5	Florida	Ben Shelton         	Baylor	Charlie Broom       	3-6, 6-1, 6-2
+20210522	511775	562413	N	   6	Florida	Joshua Goodger      	Baylor	Spencer Furman      	6-3, 7-5
