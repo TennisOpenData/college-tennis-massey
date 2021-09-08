@@ -23,16 +23,16 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20160828	439171	471622	H	   5	Saint Louis	Oscar Pachon        	Missouri Baptist	Ian Furey           	6-0,6-1
 20160828	437350	471351	H	   6	Saint Louis	Justin Nogalski     	Missouri Baptist	Jed Flemming        	6-0,6-1
 20160901	430411	454177	N	    	South Alabama	Clement Marzol      	New Orleans	Federico Staksrud   	6-3, 6-4
-20160909	449587	394620	N	   8	Gardner-Webb	Adam Schmidt        	NCCU	Davide Callegari    	6-4, 6-3
 20160909	449814	462518	N	   8	Gardner-Webb	Maximillian Scholl  	Appalachian State	Scott Webster       	6-4,3-6,6-4
+20160909	449587	394620	N	   8	Gardner-Webb	Adam Schmidt        	NCCU	Davide Callegari    	6-4, 6-3
 20160909	389691	455272	N	   8	James Madison	Alex Berdnikoff     	NCCU	Dillon Strepay      	6-0, 6-0
 20160909	424868	437008	N	   8	James Madison	Theophile Lanthiez  	Florida Atlantic	Gerald Nickerson    	6-1, 6-3
 20160909	462063	440285	N	   8	UNC Wilmington	Marshall Waren      	Appalachian State	Alex Pavkovich      	6-4, 6-7, 6-3
 20160909	455051	394778	N	   8	Appalachian State	Campbell Stone      	NCCU	Gary Brooks Campbell	6-1,7-5
 20160909	392493	392884	N	   8	Appalachian State	Alex Brea           	NCCU	Sebastian Bromley   	2-6,6-1,6-4
 20160909	443056	453728	N	  16	Kennesaw State	Simon Pritchard     	Gardner-Webb	Breno Souza Plentz  	6-3, 6-0
-20160909	449587	394619	N	  16	Gardner-Webb	Adam Schmidt        	NCCU	Davide Callegari    	6-4,6-3
 20160909	449814	394663	N	  16	Gardner-Webb	Maximillian Scholl  	Kennesaw State	Fermin Calvo Barcelo	1-6, 6-0, 6-4
+20160909	449587	394619	N	  16	Gardner-Webb	Adam Schmidt        	NCCU	Davide Callegari    	6-4,6-3
 20160909	443250	423012	N	  16	Gardner-Webb	Stefano Puga        	NCCU	Maksym Konovalov    	6-4,6-3
 20160909	449814	395837	N	  16	Gardner-Webb	Maximillian Scholl  	Kennesaw State	Manuel Castellanos  	1-6,6-0.6-4
 20160909	432537	414252	N	  16	James Madison	Paul Mendoza        	Florida Atlantic	Christian Haushammer	7-5, 6-2
@@ -562,6 +562,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20160917	409361	448453	N	   4	DePaul	Yahn Gawrit         	Illinois - Chicago	Christian San Andres	6-4,6-2
 20160917	404035	409688	N	   4	Xavier	Jack Dykema         	Butler	Ari Gerstein        	6-2, 5-3
 20160917	401612	438514	N	   4	Xavier	Nate Dell           	Duquesne	Andrew Ong          	6-4, 6-2
+20160917	481921	392884	N	   4	NC A&T	John Wilson Iv      	NCCU	Sebastian Bromley   	3-6, 6-2, (12-10)
 20160917	426269	440463	N	   4	Iowa	Tony Leto           	Valparaiso	Brian Pecyna        	0-6, 7-6, 11-9
 20160917	448990	430591	N	   4	Elon	Felipe Sarrasague   	Duke	Catalin Mateas      	7-6 (7-1), 6-2
 20160917	412777	442223	A	   4	Hofstra	Corentin Haener     	Wagner	Eric Poland         	6-1, 6-4
@@ -571,7 +572,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20160917	423107	471945	A	   4	Siena	Jace Koretz         	Rider	Brandon Gildea      	6-1, 6-4
 20160917	450132	443366	N	   4	Northern Illinois	Bor Schweiger Muzar 	Youngstown State	Luke Purser         	6-1, 6-1
 20160917	429572	423589	N	   4	Northern Illinois	Eric Marbach        	Youngstown State	Matthew Kritzinger  	6-4, 6-0
-20160917	481921	392884	N	   4	NC A&T	John Wilson Iv      	NCCU	Sebastian Bromley   	3-6, 6-2, (12-10)
 20160917	387136	412090	N	   4	St. Francis (PA)	Plamen Avuski       	CWRU	Phil Gruber         	7-5, 6-3
 20160917	448998	438048	N	   4	Auburn	Carles Sarrio       	N.C. State	Michael Ogden       	6-1, 6-2
 20160917	457263	409268	N	   4	Auburn	Olle Thestrup       	Denver	Alex Gasson         	6-1, 7-6
@@ -762,6 +762,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20160917	469517	416231	N	    	Northern Colorado	Alex Clerihew       	Colorado College	Daniel Holland      	6-4,6-4
 20160917	469843	440705	N	    	Northern Colorado	Hayden Cramer       	Colorado College	Logan Pepperl       	6-3,6-2
 20160917	474199	407421	N	    	Northern Colorado	Cassell King        	Colorado College	Noah Forman         	6-2,6-3
+20160917	467498	394620	N	    	NC A&T	Nicholas Ardur      	NCCU	Davide Callegari    	8-4
 20160917	456821	439943	N	    	Radford	Samuel Taylor       	Wake Forest	Charles Parry       	6-0, 6-2
 20160917	410594	412815	N	    	Illinois	Gui Gomes           	Notre Dame	Josh Hagar          	6-3, 2-6, 7-6
 20160917	421517	465044	N	    	Iowa	Jason Kerst         	Wash U	Johnny Wu           	7-6, 7-6
@@ -838,8 +839,8 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20160917	436080	395671	N	    	Penn	Matt Nardella       	Cornell	Bernardo Casares Rosa	6-3, 3-6, 14-12
 20160917	442337	395170	N	    	Penn	Josh Pompan         	William & Mary	Christian Cargill   	7-6, 7-6
 20160917	451063	386263	N	    	Penn	Marshall Sharp      	William & Mary	Addison Appleby     	2-6, 7-5, 10-5
-20160917	453994	436705	N	    	Penn	Thomas Spratt       	William & Mary	Ryan Newman         	6-4, 6-4
 20160917	451086	437198	N	    	Penn	Dmitry Shatalin     	William & Mary	Damon Niquet        	6-4, 6-2
+20160917	453994	436705	N	    	Penn	Thomas Spratt       	William & Mary	Ryan Newman         	6-4, 6-4
 20160917	430855	461310	N	    	Penn	Kyle Mautner        	Cornell	Chris Vrabel        	6-3, 6-4
 20160917	462202	430356	N	    	Princeton	Jimmy Wasserman     	TCU	Scott Martinson     	7-5, 6-3
 20160917	408746	454180	N	    	Princeton	Luke Gamble         	TCU	Reese Stalder       	6-3, 7-5
@@ -869,7 +870,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20160917	413197	402294	N	    	Northern Illinois	Louis-Philippe Hamel	Illinois - Chicago	Marcelo Dib         	6-4,7-6 (3)
 20160917	447677	404552	N	    	Northern Illinois	Austin Russell      	Youngstown State	Bassem El Mekawi    	6-4, 6-4
 20160917	437879	394778	N	    	Bethune Cookman	David Ocampo        	NCCU	Gary Brooks Campbell	8-7
-20160917	467498	394620	N	    	NC A&T	Nicholas Ardur      	NCCU	Davide Callegari    	8-4
 20160917	394620	407543	N	    	NCCU	Davide Callegari    	Howard	Laguna Foster       	8-2
 20160917	450864	463753	N	    	Boise State	Harvey Shackleton   	Wichita State	Austin Williams     	6-2, 6-2
 20160917	400709	391845	N	    	Eastern Illinois	Braden Davis        	Purdue	Matt Bouggy         	6-2, 6-3
@@ -1252,7 +1252,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20160923	443470	429585	N	   8	Richmond	Jonathan Quenard    	Delaware	Luis Marcano        	6-0,6-4
 20160923	417993	465192	N	   8	VCU	Louis Ishizaka      	Princeton	Joshua Yablon       	6-4, 6-3
 20160923	465114	455976	N	   8	Louisville	Parker Wynn         	South Carolina	Sam Swank           	6-2, 6-3
-20160923	387751	401969	N	   8	Stetson	Graham Ball         	North Florida	Sahil Deshmukh      	6-7, 6-2, 10-7
 20160923	406790	407406	N	   8	Oklahoma State	Lukas Finzelberg    	USC	Thibault Forget     	6-3, 7-5
 20160923	450204	450637	N	   8	Texas	Harrison Scott      	Texas Tech	Alex Sendegeya      	6-4, 6-4
 20160923	457579	429766	N	   8	Texas Tech	Bjorn Thomson       	Texas	Colin Markes        	4-6, 6-3, 6-3
@@ -1336,8 +1335,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20160923	452452	409912	N	  16	Kennesaw State	Sam Slade           	Gardner-Webb	Ross Gilbert        	6-4, 6-2
 20160923	442758	394768	N	  16	Liberty	Alex Poynter        	NCCU	Brooks Campbell     	6-3, 6-1
 20160923	386642	424868	N	  16	USC Upstate	Ankush Arora        	James Madison	Theophile Lanthiez  	7-5, 6-4
-20160923	451503	452424	N	  16	Stetson	William Shkrob      	Florida A&M	Illya Skoromnyy     	3-6, 6-4, 16-14
-20160923	390758	417900	N	  16	Stetson	Loic Blanco         	Florida State	Guy Iradukunda      	7-6, 6-0
 20160923	384420	422972	N	  16	Butler	Temilope Adelakun   	CWRU	Rohith Koneru       	5-7, 6-2, 7-5
 20160923	428853	450985	N	  16	Butler	Adrian Mag          	Marquette	Brandon Shanklin    	6-2, 6-1
 20160923	389408	440915	N	  16	Butler	Aviv Ben Shabat     	Wright State	Jacob Perkins       	6-1, 6-4
@@ -1512,8 +1509,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20160923	425458	393968	N	  32	North Florida	Dominic Lea         	Florida Atlantic	Stefan Burnett      	4-6, 6-3, 10-2
 20160923	435711	388274	N	  32	North Florida	Lasse Muscheites    	Bethune Cookman	Alvaro Barrera      	6-2, 6-3
 20160923	401969	447543	N	  32	North Florida	Sahil Deshmukh      	Bethune Cookman	Juan Diego Ruiz     	6-2, 7-5
-20160923	451503	437879	N	  32	Stetson	William Shkrob      	Bethune Cookman	David Ocampo        	6-2, 6-4
-20160923	404818	396234	N	  32	Stetson	Pierre Emanuel-Fossier	Florida Gulf Coast	Sam Chaffin         	6-2, 7-5
 20160923	439598	403756	N	  32	Oklahoma	Spencer Papa        	Georgia	Walker Duncan       	6-4, 6-3
 20160923	392276	390514	N	  32	Oklahoma	Florin Bragusi      	Texas Tech	Ronit Bisht         	6-2, 6-2
 20160923	409766	421382	N	  32	Oklahoma	Alex Ghilea         	Georgia State	Zackery Kennedy     	6-3, 6-2
@@ -1590,7 +1585,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20160923	395583	390233	N	  64	Virginia Tech	George Cartledge    	Tennessee	Sunay Bhat          	6-1,6-0
 20160923	432765	442535	N	  64	Virginia Tech	Fred Mesmer         	Central Florida	Mariano Porter      	6-3, 7-6
 20160923	423646	454008	N	  64	Virginia Tech	Jason Kros          	Lander	Alexandre Springer  	6-2,6-7,7-5
-20160923	392236	461590	N	  64	Stetson	Angus Bradshaw      	Florida A&M	Carlos Agustin Waitman	6-3, 6-2
 20160923	456851	443056	N	  64	Baylor	Maxime Tchoutakian  	Kennesaw State	Simon Pritchard     	5-7, 6-4, 7-5
 20160923	439598	405366	N	  64	Oklahoma	Spencer Papa        	Tennessee Tech	Alberto Esteban     	6-3, 6-2
 20160923	392276	426534	N	  64	Oklahoma	Florin Bragusi      	Georgia Tech	Andrew Li           	7-6, 4-6, 7-6
@@ -1688,8 +1682,8 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20160923	456988	423403	N	    	Texas	Leonardo Telles     	Louisiana	Vlad Kramarov       	5-7, 6-3, 6-2
 20160923	399926	404658	N	    	Texas Tech	Connor Curry        	Kentucky	Nils Ellefsen       	6-3, 6-0
 20160923	409688	412591	N	    	Butler	Ari Gerstein        	Ball State	Marko Guzina        	6-7, 6-4, 6-1
-20160923	424779	412591	N	    	Butler	Spencer Lang        	Ball State	Marko Guzina        	6-2, 6-2
 20160923	403347	440714	N	    	Butler	Mason Dragos        	Cardinal Stritch	Fabio Perasso       	6-4, 6-4
+20160923	424779	412591	N	    	Butler	Spencer Lang        	Ball State	Marko Guzina        	6-2, 6-2
 20160923	395681	400114	N	    	DePaul	Christopher Casati  	Purdue	Lucas Dages         	6-3, 6-1
 20160923	465846	416376	N	    	DePaul	Tamas Zador         	CWRU	Tyler Holsopple     	6-3, 6-4
 20160923	438445	465894	N	    	DePaul	Conor OMeara        	CWRU	David Zakhodin      	6-3, 7-6(4)
@@ -1940,8 +1934,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20160924	389898	430522	N	  16	USC Upstate	Fernando Bernardes  	UNC Asheville	James Massie        	7-5 6-2
 20160924	409162	393400	N	  16	USC Upstate	Ignacio Garrido     	UNC Greensboro	Warren Bryan        	3-6 6-2 6-2
 20160924	389898	417378	N	  16	USC Upstate	Fernando Bernardes  	Old Dominion	Harrison Hunter     	6-2, 6-3
-20160924	387751	396164	N	  16	Stetson	Graham Ball         	Florida Gulf Coast	Ezequiel Cerrini    	6-3, 7-6
-20160924	392236	425458	N	  16	Stetson	Angus Bradshaw      	North Florida	Dominic Lea         	7-5, 6-3
 20160924	409766	422447	N	  16	Oklahoma	Alex Ghilea         	Vanderbilt	Cameron Klinger     	6-7, 6-2, 6-2
 20160924	439598	459611	N	  16	Oklahoma	Spencer Papa        	Vanderbilt	Daniel Valent       	7-6, 7-6
 20160924	427693	453064	N	  16	TCU	Jerry Lopez         	USC	Riley Smith         	6-2, 6-2
@@ -2390,8 +2382,8 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20160925	436080	398024	N	    	Penn	Matt Nardella       	Princeton	Thomas Colautti     	3-6, 6-4, (10-7)
 20160925	408388	395090	N	    	Penn	Kaden Funk          	Princeton	Jonathan Carcione   	6-1, 6-3
 20160925	413822	389695	N	    	Penn	Dan Harris          	Harvard	Samuel Beren        	6-4, 3-6, 10-6
-20160925	453172	424500	N	    	Penn	Robert Smithline    	Drexel	Balaji Lakshmanan   	7-5 6-1
 20160925	451086	413176	N	    	Penn	Dmitry Shatalin     	Columbia	Taiyo Hamanaka      	6-2, 6-1
+20160925	453172	424500	N	    	Penn	Robert Smithline    	Drexel	Balaji Lakshmanan   	7-5 6-1
 20160925	462202	422425	N	    	Princeton	Jimmy Wasserman     	Bryant	Josh Kliger         	6-3, 7-5
 20160925	445957	386443	N	    	Princeton	Davey Roberts       	Cornell	Karim Arem          	6-3, 6-4
 20160925	416194	461310	N	    	Princeton	Payton Holden       	Cornell	Chris Vrabel        	5-7, 6-4, (10-4)
@@ -2419,8 +2411,8 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20160925	455079	405357	N	    	Boise State	Morgan Stone        	Pepperdine	Dane Esses          	6-4, 6-1
 20160925	415352	405357	N	    	Boise State	Jack Heslin         	Pepperdine	Dane Esses          	6-3, 6-7 (3), 1-0 (10-5)
 20160925	415352	385146	N	    	Boise State	Jack Heslin         	Iowa	Kareem Allaf        	6-4, 6-4
-20160925	435006	401021	N	    	Fresno State	Jeremy Moser        	San Diego State	Raul De La Torre    	6-7(5) 6-1 10-1
 20160925	393644	443054	N	    	Fresno State	Mantas Bugailiskis  	Tulsa	Mitchell Pritchard  	4-6 7-6(3) 6-3
+20160925	435006	401021	N	    	Fresno State	Jeremy Moser        	San Diego State	Raul De La Torre    	6-7(5) 6-1 10-1
 20160925	408729	414372	N	    	Air Force	Mack Galvin         	Metropolitan State	Calum Hayes         	6-1, 6-2
 20160925	438417	414372	N	    	Air Force	Max Olson           	Metropolitan State	Calum Hayes         	6-0, 6-1
 20160925	409006	420306	N	    	Air Force	Santiago Garcia     	Metropolitan State	Keenan Kaltenbacher 	6-4, 6-1
@@ -2861,7 +2853,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20161001	413732	384344	N	 256	Virginia Tech	Mitch Harper        	Abilene Christian	Henry Adams         	7-6 (1), 6-4
 20161001	413732	454419	N	 256	Virginia Tech	Mitch Harper        	Marquette	Mackenzie Stearns   	6-2, 6-3
 20161001	448177	391123	N	 256	Liberty	Vince Salas         	Illinois State	Andreas Boers       	7-5, 1-6, 6-4
-20161001	390758	444277	N	 256	Stetson	Loic Blanco         	Middle Tennessee	Max Rauch           	6-7 (5), 6-4, 6-3
 20161001	389438	413215	N	 256	Baylor	Jimmy Bendeck       	Ole Miss	Grey Hamilton       	6-3, 6-1
 20161001	449242	434366	N	 256	Oklahoma State	Mathieu Scaglia     	Middle Tennessee	Tom Moonen          	2-6, 6-2, 6-0
 20161001	454180	424681	N	 256	TCU	Reese Stalder       	Illinois	Pablo Landa         	4-6, 6-3, 6-0
@@ -3682,8 +3673,8 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20161007	461435	459901	N	    	Idaho State	Quentin Wacquez     	Weber State	Kris Van Wyk        	6-1, 4-6, 1-0
 20161007	433537	406224	N	    	Montana	Peter Mimnagh-Fleming	Whitman	Trevor Fennessy     	6-1, 6-2
 20161007	407075	419070	N	    	Montana State	Alexander Flink     	Whitman	Petar Jivkov        	6-3, 6-3
-20161007	404440	387646	N	    	Northern Arizona	Sebastian Eguez     	New Mexico	Sean Baklini        	6-2, 2-6, 6-4
 20161007	384725	400206	N	    	Northern Arizona	Harun Ajanovic      	New Mexico State	Simon DAlfonso      	6-1, 6-0
+20161007	404440	387646	N	    	Northern Arizona	Sebastian Eguez     	New Mexico	Sean Baklini        	6-2, 2-6, 6-4
 20161007	441607	446716	N	    	Indiana	William Piekarsky   	Marquette	Andre Romanello     	6-4, 6-0
 20161007	431365	399492	N	    	Indiana	Matthew McCoy       	Michigan	Davis Crocker       	6-3, 6-1
 20161007	450369	394402	N	    	Indiana	Oliver Sec          	Notre Dame	Guillermo Cabrera   	6-3, 7-6
@@ -3958,10 +3949,10 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20161008	458221	455664	N	    	Montana State	Adrian Torrico      	Idaho State	Keegan Sullivan     	6-3, 7-5
 20161008	388579	431448	N	    	Montana State	Kellen Bates        	Boise State	Ryland McDermott    	7-5, 6-2
 20161008	414056	449398	N	    	Montana State	Dylan Harvala       	Idaho State	Bjorn Scheepbouwer  	6-7, 6-2, 1-0
-20161008	404440	401422	N	    	Northern Arizona	Sebastian Eguez     	New Mexico State	Stijn DeHaan        	2-6, 6-4, 6-3
-20161008	384725	406726	N	    	Northern Arizona	Harun Ajanovic      	Abilene Christian	Jackson Fine        	7-6, 3-6, 7-5
 20161008	406879	410216	N	    	Northern Arizona	Thomas Fisher       	Abilene Christian	Brad Gleason        	7-6(2), 6-3
 20161008	404440	402919	N	    	Northern Arizona	Sebastian Eguez     	Abilene Christian	Paul Domanski       	6-2, 2-6, 6-4
+20161008	384725	406726	N	    	Northern Arizona	Harun Ajanovic      	Abilene Christian	Jackson Fine        	7-6, 3-6, 7-5
+20161008	404440	401422	N	    	Northern Arizona	Sebastian Eguez     	New Mexico State	Stijn DeHaan        	2-6, 6-4, 6-3
 20161008	436808	424784	N	    	Northern Arizona	David Nguyen        	Abilene Christian	Sebastian Langdon   	7-6(4), 6-4
 20161008	396671	417591	N	    	Weber State	Hou-En Chen         	Whitman	Alexander Hwang     	7-5,5-7, 1-10
 20161008	396671	441219	N	    	Weber State	Hou-En Chen         	Montana State	Max Petrak          	7-5, 6-1
@@ -4090,8 +4081,8 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20161008	425317	466300	N	    	Abilene Christian	Cole Lawson         	Northern Arizona	Adi Zilberstein     	6-4, 6-4
 20161008	416325	450048	N	    	Abilene Christian	Hunter Holman       	Northern Arizona	Felix Schumann      	3-6, 6-3, 6-7
 20161008	424784	458403	N	    	Abilene Christian	Sebastian Langdon   	New Mexico	Michael Tran        	7-5, 6-4
-20161008	416965	445072	N	    	New Orleans	Jeffrey Hsu         	Southern Miss	Jorman Reyes        	7-6, 7-6
 20161008	416965	410062	N	    	New Orleans	Jeffrey Hsu         	South Alabama	Olivier Gingras     	5-7, 2-6
+20161008	416965	445072	N	    	New Orleans	Jeffrey Hsu         	Southern Miss	Jorman Reyes        	7-6, 7-6
 20161008	406748	462386	N	    	Georgia Southern	Diego Finkelstein   	Georgia College	Anton Wearn         	6-1, 7-5
 20161008	384928	452324	N	    	Georgia Southern	Joan Carles Alcala  	Point	Asad Siyyid         	6-1, 6-1
 20161008	455525	390714	N	    	Georgia Southern	Santiago Suarez     	Berry	Matthew Blakely     	6-0, 6-2
@@ -4415,8 +4406,8 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20161014	462339	445465	N	   8	Chicago State	Rohan Wattley       	Green Bay	Charlie Ridout      	6-4, ret
 20161014	430235	449879	N	   8	Chicago State	Gonzalo Martinez    	Green Bay	Josh Schramm        	6-3, 3-6, 10-5
 20161014	406716	418054	N	  16	North Florida	Jack Findel-Hawkins 	Texas	Yuya Ito            	5-7, 6-2, 6-3
-20161014	424779	426973	N	  16	Butler	Spencer Lang        	Olivet Nazarene	Ryan Lingle         	6-3, 6-2
 20161014	389408	442464	N	  16	Butler	Aviv Ben Shabat     	Northwestern Ohio	Gjorgji Popovski    	6-1, 7-5
+20161014	424779	426973	N	  16	Butler	Spencer Lang        	Olivet Nazarene	Ryan Lingle         	6-3, 6-2
 20161014	403347	409058	N	  16	Butler	Mason Dragos        	Valparaiso	Garrett Gardner     	6-0, 3-6, 14-12
 20161014	426269	435784	N	  16	Iowa	Tony Leto           	Northwestern Ohio	Ronnie Myburgh      	6-4, 6-1
 20161014	435136	445605	N	  16	Old Dominion	Adam Moundir        	Texas A&M	Arthur Rinderknech  	3-6, 6-3, 6-4
@@ -4779,8 +4770,8 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20161015	448641	448364	N	  16	Ole Miss	Tim Sandkaulen      	LSU	Nikola Samardzic    	6-4, 7-5
 20161015	391606	418313	N	  16	Mississippi State	Nuno Borges         	South Alabama	Tuki Jacobs         	2-6, 7-5, 6-1
 20161015	443861	418619	N	  16	Mississippi State	Strahinja Rakic     	Tulane	Chi-Shan Jao        	6-4, 6-4
-20161015	433897	386319	N	  16	Alabama State	Takura Mlambo       	Bluefield	Markel Aramberri    	6-1;6-3
 20161015	404393	408912	N	  16	Alabama State	Ion Efrim           	Eastern Florida	Eduardo Garcia      	6-4, 5-7, (10-7)
+20161015	433897	386319	N	  16	Alabama State	Takura Mlambo       	Bluefield	Markel Aramberri    	6-1;6-3
 20161015	407222	408440	N	  16	Illinois State	Peter Foersom       	Campbellsville	Johan Fuzellier     	4-6 4-6
 20161015	416692	417555	N	  16	Georgia State	Valentin Horvat     	Georgia Gwinnett	Gregor Hutterer     	6-0, 6-3
 20161015	441030	416105	N	  16	Portland	Michail Pervolarakis	California	Bjorn Hoffmann      	6-3, 6-4
@@ -4946,8 +4937,8 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20161015	409058	410765	N	    	Valparaiso	Garrett Gardner     	Chicago State	Christian Gonzalez  	6-3, 6-3
 20161015	403812	426269	N	    	Valparaiso	Kyle Dunn           	Iowa	Tony Leto           	6-4, 6-1
 20161015	393270	440463	N	    	Valparaiso	Franklin Brozovich  	Valparaiso	Brian Pecyna        	4-6, 6-1, 10-7
-20161015	451035	435496	N	    	Georgia State	Abhin Sharma        	Eastern Florida	Pablo Munoz         	8-1
 20161015	451035	446769	N	    	Georgia State	Abhin Sharma        	Emmanuel (GA)	Juan Carlos Romero  	8-1
+20161015	451035	435496	N	    	Georgia State	Abhin Sharma        	Eastern Florida	Pablo Munoz         	8-1
 20161015	426592	454323	N	    	Louisiana	Arthur Libaud       	Tulane	Jonathan Star       	1-6, 6-4, 1-0
 20161015	423403	410816	N	    	Louisiana	Vlad Kramarov       	South Alabama	Lucas Gonzalez      	7-5, 6-3
 20161015	426592	451005	N	    	Louisiana	Arthur Libaud       	Jacksonville State	Liu Shao Chun       	6-4, 6-3
@@ -5615,7 +5606,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20161021	396164	442676	N	  64	Florida Gulf Coast	Ezequiel Cerrini    	Florida State	Lucas Poullain      	6-1, 4--6, 6-1
 20161021	424702	390758	N	  64	Florida Gulf Coast	Oliver Landert      	Stetson	Loic Blanco         	7-6, 6-4
 20161021	421024	420924	N	  64	North Florida	Jefta Kecic         	Georgia Tech	Michael Kay         	6-4, 6-2
-20161021	451503	403890	N	  64	Stetson	William Shkrob      	Kennesaw State	David Durham        	7-6 (6), 6-3
 20161021	441117	424481	N	  64	Baylor	Bjoern Petersen     	Lamar	Juuso Laitinen      	6-2, 6-4
 20161021	389438	398268	N	  64	Baylor	Jimmy Bendeck       	Texas Arlington	Pablo Colvee        	6-2; 6-0
 20161021	439598	410991	N	  64	Oklahoma	Spencer Papa        	Tulsa	Chase Gordon        	6-2, 6-2
@@ -5772,7 +5762,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20161021	444363	429838	N	    	Notre Dame	Daniel Rayl         	Youngstown State	Mitch Maroscher     	8-3
 20161021	388568	403890	N	    	Florida Gulf Coast	Austin Bates        	Kennesaw State	David Durham        	7-5, 6-4
 20161021	425458	462850	N	    	North Florida	Dominic Lea         	Kennesaw State	Drew Wendel         	1-6, 6-3, 6-3
-20161021	416651	393968	N	    	Stetson	John Horoz Garner   	Florida Atlantic	Stefan Burnett      	3-6, 6-4, 1-0
 20161021	423273	435987	N	    	Idaho	Mark Kovacs         	Utah State	Andrew Nakajima     	6-3, 6-0
 20161021	407285	447442	N	    	Idaho	Felipe Fonseca      	Denver	Jesse Ruder-Hook    	6-4, 6-4
 20161021	433537	404295	N	    	Montana	Peter Mimnagh-Fleming	Idaho State	Sebastian Edin      	6-3, 6-4
@@ -6053,7 +6042,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20161022	442758	478141	N	    	Liberty	Alex Poynter        	The Citadel	Jack Pyritz         	0-6, 6-0,6-0
 20161022	414796	480633	N	    	Liberty	Ryker Heller        	The Citadel	Ryan Templet        	6-4, 6-2
 20161022	425458	452424	N	    	North Florida	Dominic Lea         	Florida A&M	Illya Skoromnyy     	4-6, 6-4, 10-1
-20161022	387751	422515	N	    	Stetson	Graham Ball         	Florida State	Alex Knaff          	4-6, 6-4(5)
 20161022	407836	451193	N	    	Baylor	Constantin Frantzen 	Abilene Christian	Josh Sheehy         	4-6, 6-2, 10-5
 20161022	407836	397802	N	    	Baylor	Constantin Frantzen 	Texas Tech	Jackson Cobb        	6-2, 6-7, 1-0 (10-2)
 20161022	430903	422949	N	    	Baylor	Sam May             	Texas Arlington	Sanshidh Kommaruju  	6-7, 7-5, 1-0 (10-7)
@@ -6284,10 +6272,10 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20161028	389647	460709	N	  16	South Carolina	Wood Benton         	UNC Greensboro	Marcus Vidgren      	6-4, 6-2
 20161028	442480	455976	N	  16	Wofford	Haris Poric         	South Carolina	Sam Swank           	7-5, 6-3
 20161028	406385	432680	N	  16	Alabama State	Tomas Fernandez     	Southern Miss	Daniel Merker       	3-6, 7-5, 11-9
-20161028	462518	456952	N	  16	Appalachian State	Scott Webster       	Winthrop	Ruy Teixeira        	6-2,6-3
 20161028	434908	449587	N	  16	Appalachian State	Trey Morris         	Gardner-Webb	Adam Schmidt        	6-3,6-1
-20161028	388068	439709	N	  16	Appalachian State	Milo Bargeron       	Charlotte	Francis Pare        	7-5,6-1
+20161028	462518	456952	N	  16	Appalachian State	Scott Webster       	Winthrop	Ruy Teixeira        	6-2,6-3
 20161028	428771	426272	N	  16	Appalachian State	Jack Maddocks       	Clemson	Brent Lett          	6-3,6-2
+20161028	388068	439709	N	  16	Appalachian State	Milo Bargeron       	Charlotte	Francis Pare        	7-5,6-1
 20161028	387688	449789	N	  16	Troy	Andre Baldo         	Wofford	Parks Schoen        	5-7, 6-2, 6-1
 20161028	389199	430522	N	  16	Troy	Mustapha Belcora    	UNC Asheville	James Massie        	6-0, 6-2
 20161028	389199	413259	N	  16	Troy	Mustapha Belcora    	UNC Greensboro	Daniel Hammarstedt  	6-1, 6-2
@@ -6778,10 +6766,10 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20161030	395821	404211	N	    	Denver	Ignatius Castelino  	Utah State	Daniel Echeverry    	3-6, 7-6 (5), 10-7
 20161030	440285	417018	N	    	Appalachian State	Alex Pavkovich      	Bluefield	Rodrigo Huarachi    	6-1,6-1
 20161030	462518	406220	N	    	Appalachian State	Scott Webster       	South Carolina	Alex Fennell        	6-7,6-3,6-2
+20161030	407914	463391	N	    	Appalachian State	Alex Free           	Bluefield	Conor Whyte         	6-2;6-4
 20161030	392493	398561	N	    	Appalachian State	Alex Brea           	Charlotte	Josh Cook           	6-0,6-1
 20161030	455051	398561	N	    	Appalachian State	Campbell Stone      	Charlotte	Josh Cook           	6-1,6-4
 20161030	428771	393944	N	    	Appalachian State	Jack Maddocks       	UNC Greensboro	Jack Burkill        	6-2,6-2
-20161030	407914	463391	N	    	Appalachian State	Alex Free           	Bluefield	Conor Whyte         	6-2;6-4
 20161030	418709	388068	N	    	Georgia State	Felipe Jaworski     	Appalachian State	Milo Bargeron       	6-3,6-1
 20161030	417503	389647	N	    	Georgia State	Giles Hussey        	South Carolina	Wood Benton         	7-5, 6-4
 20161030	451035	439709	N	    	Georgia State	Abhin Sharma        	Charlotte	Francis Pare        	6-2,6-4
@@ -6840,8 +6828,8 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20161104	418054	449737	N	  16	Texas	Yuya Ito            	North Carolina	Ronnie Schneider    	7-6 (7), 1-6, 6-3
 20161104	451825	440643	N	  16	Texas	Christian Sigsgaard 	Memphis	Ryan Peniston       	6-1, 7-5
 20161104	384420	429838	N	  16	Butler	Temilope Adelakun   	Youngstown State	Mitch Maroscher     	7-5, 4-6, 11-9
-20161104	466300	399624	N	  16	Northern Arizona	Adi Zilberstein     	UNLV	Charlie Croxford    	6-3, 7-5
 20161104	436808	408517	N	  16	Northern Arizona	David Nguyen        	UNLV	Adam Gage-Brown     	6-3, 6-3
+20161104	466300	399624	N	  16	Northern Arizona	Adi Zilberstein     	UNLV	Charlie Croxford    	6-3, 7-5
 20161104	458151	386308	N	  16	Ohio State	Mikael Torpegaard   	Virginia	Jc Aragone          	6-3, 6-0
 20161104	428268	409155	N	  16	Northern Illinois	Georg Lundkvist     	Youngstown State	Joao Garretto       	6-3, 7-6
 20161104	384877	408256	N	  16	UNLV	Ruben Alberts       	Grand Canyon	Lorenzo Fucile      	6-1, 6-1
@@ -8471,7 +8459,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170118	458151	435062	H	   1	Ohio State	Mikael Torpegaard   	Cleveland State	Nico Mostardi       	6-0, 6-0
 20170118	405579	392667	A	   1	Nevada	Julien Evrard       	UC Riverside	Cooper Bridge       	6-4, 6-4
 20170118	393441	443836	H	   1	UCLA	Gage Brymer         	Grand Canyon	Mathieu Rajaonah    	6-2, 6-2
-20170118	387751	452435	H	   2	Stetson	Graham Ball         	St. John's (NY)	Daniel Skripnik     	6-2, 6-4
 20170118	442286	386219	H	   2	Ohio State	Herkko Pollanen     	Toledo	Vince Anzalone      	7-6 (7-1), 6-4
 20170118	464514	393634	H	   2	Ohio State	JJ Wolf             	Cleveland State	Colton Buffington   	6-2, 6-1
 20170118	401498	424863	A	   2	Nevada	Augustin Delahodde  	UC Riverside	Tadeas Lansky       	6-0, 6-3
@@ -10641,8 +10628,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170204	443056	403681	H	   1	Kennesaw State	Simon Pritchard     	Belmont	Cedric Dujacquier   	6-4, 6-7(5), 6-4
 20170204	394061	424868	H	   1	Liberty	Chase Burton        	James Madison	Theophile Lanthiez  	6-7 (4-7), 6-3, 6-3
 20170204	433808	434265	A	   1	Lipscomb	Rob Mitchell        	Austin Peay	Manuel Montenegro   	6-4, 6-3
-20170204	387751	428254	H	   1	Stetson	Graham Ball         	Florida Southern	Fabian Lundberg     	6-0, 6-4, 1-0(3)
-20170204	390758	394869	H	   1	Stetson	Loic Blanco         	Florida Tech	Aria Canadell Solana	6-4, 6-4
 20170204	413798	444527	A	   1	Oklahoma	Andrew Harris       	Arkansas	Mike Redlicki       	7-6 (7-5), 6-3
 20170204	389408	389520	H	   1	Butler	Aviv Ben Shabat     	Dayton	Jordan Benjamin     	6-4, 6-4
 20170204	433537	464488	H	   1	Montana	Peter Mimnagh-Fleming	Lewis-Clark (ID)	Yonas Woldetsadik   	6-2, 6-4
@@ -10718,8 +10703,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170204	452452	417857	H	   2	Kennesaw State	Sam Slade           	Belmont	Hendrik Inno        	6-4, 3-6, 6-3
 20170204	412512	448266	H	   2	Liberty	Eddie Gutierrez     	James Madison	Sebastian Salinas   	7-5, 6-0
 20170204	396614	439117	A	   2	Lipscomb	Victor Chaw         	Austin Peay	Almantas Ozelis     	7-6, 5-7, 6-4
-20170204	390758	452524	H	   2	Stetson	Loic Blanco         	Florida Southern	Brian Slivonik      	6-2, 4-6, 6-4
-20170204	451503	398878	H	   2	Stetson	William Shkrob      	Florida Tech	Ricardo Corona      	7-5, 7-5
 20170204	421669	406842	H	   2	Butler	Mikheil Khmiadashvili	Dayton	Carsten Fisher      	6-2, 6-3
 20170204	427583	406118	A	   2	Idaho	Carlos Longhi Neto  	Gonzaga	Sam Feit            	6-3,7-5
 20170204	449584	455503	H	   2	Montana	Yannick Schmidl     	Lewis-Clark (ID)	Jeff Su             	6-2, 6-3
@@ -10791,8 +10774,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170204	453365	440671	A	   3	Virginia	Carl Söderlund      	Kentucky	Beck Pennington     	6-0, 6-2
 20170204	429531	403454	A	   3	Lipscomb	Alejandro Manzanares	Austin Peay	Aleh Drobysh        	6-1, 6-2
 20170204	403500	397877	A	   3	North Alabama	Max Druppel         	UAB	Christian Coetzee   	6-3, 2-6, 10-8
-20170204	392236	395381	H	   3	Stetson	Angus Bradshaw      	Florida Tech	Gerard Carpinell    	6-2, 6-3
-20170204	392236	429012	H	   3	Stetson	Angus Bradshaw      	Florida Southern	Laurent Mailloux    	6-4, 6-3
 20170204	409766	448712	A	   3	Oklahoma	Alex Ghilea         	Arkansas	Adam Sanjurjo       	6-2, 6-4
 20170204	450204	413732	H	   3	Texas	Harrison Scott      	Virginia Tech	Mitch Harper        	6-3, 7-5
 20170204	403347	390003	H	   3	Butler	Mason Dragos        	Dayton	Zach Berry          	5-7, 6-4, def.
@@ -10867,8 +10848,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170204	392815	433193	H	   4	Notre Dame	Grayson Broadus     	William & Mary	Alec Miller         	6-3, 6-3
 20170204	423144	418054	A	   4	Virginia Tech	Henrik Korsgaard    	Texas	Yuya Ito            	6-4, 4-6, 1-0 (10-3)
 20170204	403078	439971	A	   4	North Alabama	Ray Donovan         	UAB	Kenton Parton       	3-6, 6-1, 6-2
-20170204	451503	385478	H	   4	Stetson	William Shkrob      	Florida Southern	Miguel Alvarez      	6-3, 6-0
-20170204	404818	385357	H	   4	Stetson	Pierre Emanuel-Fossier	Florida Tech	Majed Alshaikh      	6-4, 6-3
 20170204	392276	401768	A	   4	Oklahoma	Florin Bragusi      	Arkansas	Johan Den Toom      	6-4, 6-2
 20170204	424779	448737	H	   4	Butler	Spencer Lang        	Dayton	Bernardo Sanson     	6-0, 7-6 (5)
 20170204	396701	435409	A	   4	Georgetown	Michael Chen        	Boston College	Sean Mullins        	7-6,4-6 10-7
@@ -10947,8 +10926,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170204	463495	465383	A	   5	Virginia	Henrik Wiersholm    	Kentucky	Trey Yates          	6-3, 6-4
 20170204	391833	398195	H	   5	Kennesaw State	Jake Bouchillon     	Belmont	Josiah Collins      	6-4, 6-0
 20170204	438740	433788	A	   5	Lipscomb	Jorge Ortegon       	Austin Peay	James Mitchell      	6-3, 6-4
-20170204	401282	387761	H	   5	Stetson	Colter Decoste      	Florida Tech	Wade Ball           	6-1, 6-3
-20170204	404818	430715	H	   5	Stetson	Pierre Emanuel-Fossier	Florida Southern	Matt Matsuyama      	6-1, 6-3
 20170204	438021	432767	A	   5	Oklahoma	Adrian Oetzbach     	Arkansas	Oscar Mesquida      	3-6, 6-3, 6-3
 20170204	456988	423646	H	   5	Texas	Leonardo Telles     	Virginia Tech	Jason Kros          	7-6 (5), 6-2
 20170204	409688	418721	H	   5	Butler	Ari Gerstein        	Dayton	Simon Jayaram       	2-1 def.
@@ -11024,7 +11001,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170204	452590	437198	H	   6	Notre Dame	Johnathan Small     	William & Mary	Damon Niquet        	6-1, 6-1
 20170204	445729	389621	A	   6	Virginia	Alexander Ritschard 	Kentucky	Gus Benson          	6-1, 6-4
 20170204	401196	428600	A	   6	North Florida	Jonathan Deautriell 	Georgia State	Jack Macfarlane     	6-1, 6-1
-20170204	428726	464040	H	   6	Stetson	Coilin Macnamara    	Florida Southern	Brian Wilson        	6-2, 6-1
 20170204	390055	429735	A	   6	Oklahoma	Jochen Bertsch      	Arkansas	Juan Marino         	6-4, 6-1
 20170204	432243	395583	H	   6	Texas	John Mee            	Virginia Tech	George Cartledge    	6-1, 6-0
 20170204	449284	405563	A	   6	Idaho	Guilherme Scarpelli 	Gonzaga	Kyle Everly         	6-4,6-3
@@ -11196,6 +11172,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170205	457579	436674	A	   3	Texas Tech	Bjorn Thomson       	Vanderbilt	Baker Newman        	6-3, 6-4
 20170205	424779	400863	H	   3	Butler	Spencer Lang        	Southern Indiana	Denis Davydov       	6-2, 6-2
 20170205	456791	431688	A	   3	Northern Arizona	Lucas Taylor        	Utah	Parker McGuinness   	7-5
+20170205	467882	421731	H	   3	NC A&T	Adair Bartra        	College of Charleston	Vasily Kichigin     	4-6,6-2(10-7)
 20170205	422565	390046	H	   3	Michigan	Alex Knight         	South Florida	Peter Bertran       	7-5, 6-3
 20170205	433162	436080	A	   3	Minnesota	Stefan Milicevic    	Penn	Matt Nardella       	0-6, 6-4, 7-6(4)
 20170205	466268	426359	H	   3	Northwestern	Konrad Zieba        	Duke	Robert Levine       	6-4, 7-6 (5)
@@ -11216,7 +11193,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170205	436143	455550	A	   3	Binghamton	Kushaan Nath        	St. John's (NY)	Luka Sucevic        	6-2,5-7,6-3
 20170205	429572	441602	H	   3	Northern Illinois	Eric Marbach        	Cardinal Stritch	Gian Pico           	6-0,6-4
 20170205	413229	434782	A	   3	Western Michigan	Matt Hamilton       	Middle Tennessee	Luis Morillo Diaz   	6-2, 6-3
-20170205	467882	421731	H	   3	NC A&T	Adair Bartra        	College of Charleston	Vasily Kichigin     	4-6,6-2(10-7)
 20170205	442115	425824	A	   3	Bryant	Mike Plutt          	Boston University	Jay Leelavanich     	3-6 6-4 7-6
 20170205	444974	406870	H	   3	Arizona	Alejandro Requant-Bicardi	Mesa (AZ)	Matt Fisher         	6-2, 6-4
 20170205	391781	387681	H	   3	Arizona	Trent Botha         	Arizona Christian	Marcelo Balderama   	6-3, 6-1
@@ -11730,7 +11706,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170211	412815	432060	H	   1	Notre Dame	Josh Hagar          	Boston College	Aidan McNulty       	6-1, 6-1
 20170211	398753	396560	H	   1	Virginia Tech	Jai Corbett         	Davidson	Shamael Chaudhry    	6-3,6-0
 20170211	413732	390763	H	   1	Virginia Tech	Mitch Harper        	St. Bonaventure	Victor Blanco       	6-4,6-1
-20170211	390758	434794	A	   1	Stetson	Loic Blanco         	Florida Atlantic	Andrei Morin-Kougoucheff	6-1, 3-6, 7-5
 20170211	401098	392400	H	   1	DePaul	Nathan De Veer      	Lewis	Alan Braschinsky    	6-3, 6-4
 20170211	391460	437062	A	   1	Portland State	Nathan Boniel       	Seattle	Trenton Nield       	6-4, 6-3
 20170211	427848	438924	H	   1	Sacramento State	Mikus Losbergs      	Gonzaga	Ruadhan OSullivan   	6-3, 6-1
@@ -12855,7 +12830,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170218	424169	393441	H	   2	Virginia	Thai-Son Kwiatkowski	UCLA	Gage Brymer         	6-1, 6-2
 20170218	429506	410496	N	   2	Wake Forest	Skander Mansouri    	Texas	George Goldhoff     	6-2, 6-2
 20170218	452452	404393	H	   2	Kennesaw State	Sam Slade           	Alabama State	Ion Efrim           	6-3, 4-6, 6-0
-20170218	392236	416138	N	   2	Stetson	Angus Bradshaw      	Gardner-Webb	Paul Hogan          	7/5 6/0
 20170218	456851	444782	N	   2	Baylor	Maxime Tchoutakian  	Georgia	Emil Reinberg       	6-3, 7-6
 20170218	398963	445101	N	   2	DePaul	Tim Corwin          	George Washington	Chris Reynolds      	7-6 (7-5), 7-6 (7-5)
 20170218	390508	455486	A	   2	Xavier	Matt Bishop         	Ball State	Andrew Stutz        	6-3, 6-4
@@ -12904,7 +12878,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170218	439944	398899	N	   3	Saint Louis	Charlie Parry       	Duquesne	Chris Corrao        	3-6, 6-1, 10-8
 20170218	453379	389770	N	   3	North Carolina	Simon Soendergaard  	California	Filip Bergevi       	6-4, 6-2
 20170218	403500	464125	A	   3	North Alabama	Max Druppel         	Chattanooga	Nic Wilson          	6-2, 6-4
-20170218	451503	449587	N	   3	Stetson	William Shkrob      	Gardner-Webb	Adam Schmidt        	6/2 6/2
 20170218	449893	442389	N	   3	Baylor	Johannes Schretter  	Georgia	Nathan Ponwith      	6-4, 6-2
 20170218	409766	451584	H	   3	Oklahoma	Alex Ghilea         	Northwestern	Sam Shropshire      	7-5, 7-6
 20170218	450204	410430	N	   3	Texas	Harrison Scott      	Wake Forest	Borna Gojo          	3-6, 7-5, 6-2
@@ -12953,13 +12926,13 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170218	421260	411840	N	   4	North Carolina	Robert Kelly        	California	Billy Griffith      	6-4, 4-6, 6-2
 20170218	386308	444159	H	   4	Virginia	Jc Aragone          	UCLA	Austin Rapp         	6-3, 6-2
 20170218	394663	428122	H	   4	Kennesaw State	Fermin Calvo Barcelo	Alabama State	Carl-Louis Luckmann 	6-2, 6-0
-20170218	404818	443250	N	   4	Stetson	Pierre Emanuel-Fossier	Gardner-Webb	Stefano Puga        	6/2 6/2
 20170218	392276	454369	H	   4	Oklahoma	Florin Bragusi      	Northwestern	Dominik Starý       	7-6, 6-2
 20170218	418054	450695	N	   4	Texas	Yuya Ito            	Wake Forest	Christian Seraphim  	7-6 (7-2), 7-6 (9-7)
 20170218	421320	469843	A	   4	Creighton	Brooks Kendall      	Northern Colorado	Hayden Cramer       	1-6,6-4,6-2
 20170218	399129	406683	N	   4	Idaho	Lucas Coutinho      	Idaho State	Francis Filipovich  	7-5, 6-4
 20170218	406683	399584	A	   4	Idaho State	Francis Filipovich  	Lewis-Clark (ID)	Anthony Croteau     	6-1, ret.
 20170218	453416	388068	N	   4	Campbell	Gerard Sola         	Appalachian State	Milo Bargeron       	7-6,4-6,10-7
+20170218	467882	441220	H	   4	NC A&T	Adair Bartra        	Longwood	Noah Petralia       	7-6, 7-6
 20170218	421849	433781	H	   4	Michigan State	Alexander Kim       	Army	David Mitchell      	6-7, 7-6, 11-9
 20170218	442286	403570	N	   4	Ohio State	Herkko Pollanen     	Oklahoma State	Artur Dubinski      	6-0, 6-4
 20170218	463385	401045	A	   4	UC Davis	Eli Whittle         	St. Mary's (CA)	Manuel De Luis Lamelas	6-7, 6-0, 10-8
@@ -12974,7 +12947,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170218	412592	453135	H	   4	Ball State	Nemanja Guzina      	Xavier	Trent Smith         	6-4, 4-6, 10-8
 20170218	415881	405399	H	   4	Northern Illinois	Tom Hjertonsson     	Wright State	Carlos Estrada Sanchez	6-1,6-0
 20170218	452591	382024	H	   4	Florida A&M	Karlyn Small        	Alabama A&M	Carlos Salas        	6-2, 6-0
-20170218	467882	441220	H	   4	NC A&T	Adair Bartra        	Longwood	Noah Petralia       	7-6, 7-6
 20170218	462967	448365	N	   4	New Mexico	Dominic West        	Nebraska	David Samardzija    	6-2, 6-1
 20170218	457691	474029	H	   4	St. Francis (PA)	Rodrigo Tico        	Lafayette	Mason Keel          	6-0, 6-2
 20170218	445348	459072	H	   4	Tennessee State	Kato Richardson     	Mississippi Valley	Roderious Turner    	6-0, 6-0
@@ -13791,7 +13763,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170225	465114	452275	H	   1	Louisville	Parker Wynn         	Toledo	Stjepan Sisko       	6-3, 5-1 def.
 20170225	427472	424702	H	   1	Miami (FL)	Piotr Lomacki       	Florida Gulf Coast	Oliver Landert      	3-6, 6-1, 3-0 retired
 20170225	397220	454979	A	   1	Wake Forest	Petros Chrysochos   	Tennessee	Timo Stodder        	3-6, 6-3, 6-1
-20170225	390758	438184	H	   1	Stetson	Loic Blanco         	Florida A&M	Courage Okungbowa   	6-0, 6-3
 20170225	389507	437659	H	   1	Baylor	Juan Benitez        	Texas Arlington	Guanarteme Nuez     	6-1, 6-0
 20170225	437496	427950	H	   1	TCU	Cameron Norrie      	Central Florida	Korey Lovett        	6-2, 6-1
 20170225	394498	400901	N	   1	Texas Tech	Jolan Cailleau      	Princeton	Alexander Day       	6-2, 6-4
@@ -13859,7 +13830,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170225	447206	386219	H	   2	Louisville	Nicolas Rouanet     	Toledo	Vince Anzalone      	6-2, 6-2
 20170225	424826	396164	H	   2	Miami (FL)	Christian Langmo    	Florida Gulf Coast	Ezequiel Cerrini    	6-2, 6-4
 20170225	429506	459639	A	   2	Wake Forest	Skander Mansouri    	Tennessee	Luis Valero         	6-2, 6-3
-20170225	387751	405325	H	   2	Stetson	Graham Ball         	Florida A&M	Walner Espinoza     	6-3, 6-2
 20170225	449893	451192	H	   2	Baylor	Johannes Schretter  	Abilene Christian	Jonathan Sheehy     	6-2, 6-2
 20170225	449893	435451	H	   2	Baylor	Johannes Schretter  	Texas Arlington	Mario Muniesa       	6-1, 6-0
 20170225	447846	445393	H	   2	TCU	Alex Rybakov        	Central Florida	Harrison Richmond   	6-3, 6-2
@@ -13937,7 +13907,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170225	408573	445056	N	   3	N.C. State	Alexis Galarneau    	Tulane	Sebastian Rey       	6-3, 6-1
 20170225	410430	419740	A	   3	Wake Forest	Borna Gojo          	Tennessee	Scott Jones         	6-2, 7-6 (7-5)
 20170225	443947	385989	A	   3	Florida Gulf Coast	Felipe Ramirez      	Miami (FL)	Max Andrews         	6-3, 3-6, 6-3
-20170225	392236	461590	H	   3	Stetson	Angus Bradshaw      	Florida A&M	Carlos Agustin Waitman	6-2, 6-3
 20170225	389438	384559	H	   3	Baylor	Jimmy Bendeck       	Abilene Christian	Nico Agritelley     	6-2, 6-1
 20170225	389438	410796	H	   3	Baylor	Jimmy Bendeck       	Texas Arlington	Jhonathan Gonzalez  	3-6, 6-3, 6-1
 20170225	437716	440324	H	   3	TCU	Guillermo Nuñez     	Central Florida	Enrique Paya        	6-3, 6-2
@@ -14013,7 +13982,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170225	424659	456885	H	   4	Louisville	Brandon Lancaster   	Toledo	Reid Teatsorth      	6-3, 6-3
 20170225	450695	418423	A	   4	Wake Forest	Christian Seraphim  	Tennessee	Srdjan Jakovijevic  	6-1, 6-3
 20170225	447554	391420	A	   4	Florida Gulf Coast	Mateo Ruiz          	Miami (FL)	Kevin Bondar        	6-3, 6-2
-20170225	451503	452591	H	   4	Stetson	William Shkrob      	Florida A&M	Karlyn Small        	7-6, 7-6
 20170225	427123	416325	H	   4	Baylor	Will Little         	Abilene Christian	Hunter Holman       	6-2, 6-2
 20170225	450637	445378	N	   4	Texas Tech	Alex Sendegeya      	Alabama	Spencer Richey      	6-4, 6-3
 20170225	450637	408746	N	   4	Texas Tech	Alex Sendegeya      	Princeton	Luke Gamble         	6-0, 6-3
@@ -14201,7 +14169,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170226	427950	452542	A	   1	Central Florida	Korey Lovett        	SMU	Ronald Slobodchikov 	6-2, 6-3
 20170226	398969	452978	H	   1	Fordham	Tomas Cosmai        	Hofstra	Marcus Smith        	6-4 4-6 6-4
 20170226	434167	396560	H	   1	VCU	Daryl Monfils       	Davidson	Shamael Chaudhry    	7-6 (5), 6-1
-20170226	390758	385305	A	   1	Stetson	Loic Blanco         	Bethune Cookman	Greg Almeida        	6-3, 6-3
 20170226	413380	409746	N	   1	Northern Arizona	Tim Handel          	Seattle	Arshak Ghazaryan    	6-0, 6-0
 20170226	465536	471262	H	   1	Weber State	Shao-Po Yin         	Northern Colorado	Connor Finerty      	6-2, 6-1
 20170226	429181	439527	A	   1	Michigan	Jathan Malik        	Cal Poly	Corey Pang          	7-6, 4-6, 6-3
@@ -14303,7 +14270,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170226	445817	421704	H	   3	VCU	Ignacio Rivero Crespo	Davidson	Artem Khrapko       	7-6, 6-1
 20170226	442676	428285	H	   3	Florida State	Lucas Poullain      	Texas A&M	Max Lunkin          	6-2, 6-2
 20170226	408573	400002	A	   3	N.C. State	Alexis Galarneau    	Mississippi State	Mate Cutura         	6-1, 1-6, 6-2
-20170226	392236	437879	A	   3	Stetson	Angus Bradshaw      	Bethune Cookman	David Ocampo        	7-5, 6-0
 20170226	447166	425762	H	   3	Villanova	Tyler Roth          	Navy	Matthew Lee         	6-2,7-6
 20170226	456791	449805	N	   3	Northern Arizona	Lucas Taylor        	Seattle	Michael Schoettler  	6-0, 6-4
 20170226	481123	459901	A	   3	Northern Colorado	Alex Vakouftis      	Weber State	Kris Van Wyk        	6-3, 6-7 (11-9)
@@ -14350,7 +14316,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170226	421486	388362	H	   4	SMU	Markus Kerner       	Central Florida	Chris Barrus        	6-7 (8-6), 6-4, 6-2
 20170226	390046	432575	H	   4	South Florida	Peter Bertran       	Pepperdine	Stefan Menichella   	6-4, 6-4
 20170226	437467	411144	H	   4	VCU	Arvid Noren         	Davidson	Jb Gough            	6-0, 6-0
-20170226	451503	388274	A	   4	Stetson	William Shkrob      	Bethune Cookman	Alvaro Barrera      	6-4, 6-2
 20170226	403570	454369	A	   4	Oklahoma State	Artur Dubinski      	Northwestern	Dominik Starý       	6-3, 6-4
 20170226	406973	452135	H	   4	Villanova	Dylan Flanagan      	Navy	Walker Sims         	7-6,6-3
 20170226	434232	455126	N	   4	Northern Arizona	Ruben Montano       	Seattle	John Stormans       	3-6, 6-1, 7-6
@@ -14402,7 +14367,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170226	444115	440775	A	   5	NJIT	Richard Rangga      	Army	Nikita Pereverzin   	6-4, 6-3
 20170226	408137	385550	A	   5	Davidson	Axel Fries          	VCU	Javier Amantegui    	6-3, 6-3
 20170226	391553	449931	H	   5	Fordham	Nick Borak          	Hofstra	David Schrott       	6-3 6-7(8) 6-3
-20170226	404818	447543	A	   5	Stetson	Pierre Emanuel-Fossier	Bethune Cookman	Juan Diego Ruiz     	6-3, 6-2
 20170226	432623	459976	A	   5	Oklahoma State	Tristan Meraut      	Northwestern	Ben Vandixhorn      	6-1, 6-2
 20170226	402818	429054	H	   5	Villanova	Tommy Dodson        	Navy	Andrey Majkic       	7-6,5-7,6-3
 20170226	406879	384969	N	   5	Northern Arizona	Thomas Fisher       	Seattle	Matt Alderson       	6-2, 6-1
@@ -14443,7 +14407,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170226	419490	442535	H	   6	SMU	Yates Johnson       	Central Florida	Mariano Porter      	6-2, 6-3
 20170226	397278	451943	H	   6	Fordham	Jeremy Chung        	Hofstra	Nick Silvestri      	6-4 6-3
 20170226	417993	430479	H	   6	VCU	Louis Ishizaka      	Davidson	Tommy Mason         	6-3, 4-6, 10-4
-20170226	401282	427730	A	   6	Stetson	Colter Decoste      	Bethune Cookman	Pablo Lopez         	6-0, 6-1
 20170226	417438	415483	H	   6	Villanova	Alastair Hurry      	Navy	Andrew Hicks        	6-4,6-2
 20170226	436808	396323	N	   6	Northern Arizona	David Nguyen        	Seattle	Alex Chan           	6-1, 6-3
 20170226	461738	474199	H	   6	Weber State	Cezary Walkusz      	Northern Colorado	Cassell King        	6-3, 1-6, 6-2
@@ -14579,7 +14542,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170301	393644	424549	H	   6	Fresno State	Mantas Bugailiskis  	UC Davis	Tommy Lam           	6-1 6-4
 20170301	442823	448842	H	   6	Jackson State	Vishu Prasad        	Nicholls State	Leo Santos          	6-4, 6-1
 20170302	434167	427202	H	   1	VCU	Daryl Monfils       	St. John's (NY)	Robert Livi         	6-1, (2)6-7, 6-2
-20170302	390758	428405	H	   1	Stetson	Loic Blanco         	Presbyterian	Alexander Lykou     	6/1, 6/0
 20170302	395733	429181	N	   1	Oklahoma State	Julian Cash         	Michigan	Jathan Malik        	6-3, 6-4
 20170302	437496	452542	A	   1	TCU	Cameron Norrie      	SMU	Ronald Slobodchikov 	6-0, 6-2
 20170302	392095	408785	H	   1	Nebraska	Toby Boyer          	Creighton	Armando Gandini     	6-3, 6-2
@@ -14592,7 +14554,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170302	391561	384387	H	   1	Loyola Marymount	Nicholas Borchenko  	UC Davis	Alec Adamson        	6-3, 6-4
 20170302	412748	417649	A	   1	Pepperdine	Guilherme Hadlich   	San Diego State	Milen Ianakiev      	6-1, 6-0
 20170302	461007	424484	H	   1	San Diego	Filip Vittek        	California	Florian Lakat       	4-6, 6-2, 6-3
-20170302	387751	429533	H	   2	Stetson	Graham Ball         	Presbyterian	Diego Manzanas      	6/1, 6/1
 20170302	447846	419285	A	   2	TCU	Alex Rybakov        	SMU	Hunter Johnson      	7-5, 4-6, 6-4
 20170302	455550	419793	A	   2	St. John's (NY)	Luka Sucevic        	VCU	Marten Jonsson      	6-3, 6-2
 20170302	449723	393634	A	   2	Xavier	Jeremy Schneider    	Cleveland State	Colton Buffington   	6-3, 6-4
@@ -14607,7 +14568,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170302	410974	439282	A	   2	California	Andre Goransson     	San Diego	Joshua Page         	6-3, 6-2
 20170302	459616	446256	H	   3	Connecticut	Arnaud Valentin     	Fairfield	Jeffrey Rodgers     	6-0, 6-2
 20170302	445817	384610	H	   3	VCU	Ignacio Rivero Crespo	St. John's (NY)	Alan Aguilera Nunez 	7-6(6), 5-5, (SJU Injury Default)
-20170302	392236	389161	H	   3	Stetson	Angus Bradshaw      	Presbyterian	Alejandro Bejar     	6/4, 6/3
 20170302	437716	394216	A	   3	TCU	Guillermo Nuñez     	SMU	Samm Butler         	6-7 (4), 7-5, 3-0, ret.
 20170302	447166	417966	A	   3	Villanova	Tyler Roth          	UCSD	Marc Isaia          	6-2, 6-3
 20170302	404035	429229	A	   3	Xavier	Jack Dykema         	Cleveland State	William Malm        	6-1, 6-4
@@ -14648,7 +14608,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170302	415630	398148	H	   6	Connecticut	Hank Hill           	Fairfield	Peter Colliard      	6-2, 6-2
 20170302	452543	429347	H	   6	SMU	Arkadijs Slobodkins 	TCU	Gianni Mancini      	6-3, 6-2
 20170302	417993	447537	H	   6	VCU	Louis Ishizaka      	St. John's (NY)	Federico Ruiz       	6-4, 6-1
-20170302	428726	445972	H	   6	Stetson	Coilin Macnamara    	Presbyterian	Joel Roberts        	2/6, 6/3, 6/2
 20170302	432164	448365	A	   6	Creighton	McCulloh Mease      	Nebraska	David Samardzija    	7-5, 5-7, 1-0
 20170302	426798	432529	N	   6	Michigan	Carter Lin          	Oklahoma State	Jurence Mendoza     	6-0, 6-4
 20170302	411152	391885	A	   6	UC Davis	David Goulak        	Loyola Marymount	Alex Bourgeois      	6-2, 6-7 (4), 6-3
@@ -15206,7 +15165,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170305	445208	424868	H	   2	Virginia Tech	Alexandre Ribeiro   	James Madison	Theophile Lanthiez  	7-5, 6-0
 20170305	423991	422695	A	   2	Bellarmine	Zachary Kuo         	Centre	Matthew Ko          	6-0, 6-1
 20170305	421024	433086	A	   2	North Florida	Jefta Kecic         	Elon	Salvador Mijares    	6-2, 6-4
-20170305	387751	454694	H	   2	Stetson	Graham Ball         	Belmont	Vincent Sterkens    	6-3, 6-4
 20170305	410496	389583	H	   2	Texas	George Goldhoff     	Rice	Tommy Bennett       	4-6, 7-5, 1-0 (11-9)
 20170305	424779	430533	N	   2	Butler	Spencer Lang        	Mount St. Mary's (MD)	Darren Mast         	6-3, 6-0
 20170305	455527	446306	N	   2	Villanova	Stefan Suarez       	Youngstown State	Thomas Rodrigues    	3-6, 6-3, 6-1
@@ -15257,7 +15215,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170305	423144	445954	H	   3	Virginia Tech	Henrik Korsgaard    	James Madison	Damon Roberts       	6-3, 6-3
 20170305	394663	437879	N	   3	Kennesaw State	Fermin Calvo Barcelo	Bethune Cookman	David Ocampo        	6-0 6-0
 20170305	466511	458037	A	   3	North Florida	Yannick Zuern       	Elon	Petar Tomic         	6-1, 6-3
-20170305	392236	417857	H	   3	Stetson	Angus Bradshaw      	Belmont	Hendrik Inno        	3-6, 6-3, 7-6(4)
 20170305	457579	454369	A	   3	Texas Tech	Bjorn Thomson       	Northwestern	Dominik Starý       	6-2, 6-3
 20170305	428853	458091	N	   3	Butler	Adrian Mag          	Mount St. Mary's (MD)	Louis Tonon         	6-4, 6-1
 20170305	396701	447523	A	   3	Georgetown	Michael Chen        	UCSD	Marius Ruh          	6-0, 4-6, 6-4
@@ -15319,7 +15276,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170305	395837	427730	N	   4	Kennesaw State	Manuel Castellanos  	Bethune Cookman	Pablo Lopez         	6-4 6-3
 20170305	435711	438897	A	   4	North Florida	Lasse Muscheites    	Elon	Felipe Osses-Konig  	6-2, 6-4
 20170305	386642	444463	A	   4	USC Upstate	Ankush Arora        	Samford	Max Rebol           	6-4 7-6(14)
-20170305	451503	421631	H	   4	Stetson	William Shkrob      	Belmont	Zak Khan            	6-3, 7-5
 20170305	456988	462118	H	   4	Texas	Leonardo Telles     	Rice	David Warren        	6-2, 5-7, 1-0 (10-4)
 20170305	409688	393787	N	   4	Butler	Ari Gerstein        	Mount St. Mary's (MD)	Zach Burau          	6-3, 6-0
 20170305	406973	409155	N	   4	Villanova	Dylan Flanagan      	Youngstown State	Joao Garretto       	7-5, 7-6
@@ -15377,7 +15333,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170305	462850	388274	N	   5	Kennesaw State	Drew Wendel         	Bethune Cookman	Alvaro Barrera      	6-3 6-3
 20170305	401969	445436	A	   5	North Florida	Sahil Deshmukh      	Elon	Louis Rico          	6-2, 6-2
 20170305	436572	460557	A	   5	USC Upstate	Francisco Neto      	Samford	Curran Verma        	6-3 6-1
-20170305	404818	398195	H	   5	Stetson	Pierre Emanuel-Fossier	Belmont	Josiah Collins      	6-2, 0-6, 7-6(3)
 20170305	387915	447773	H	   5	Texas	Rodrigo Banzer      	Rice	Eric Rutledge       	6-2, 6-2
 20170305	384420	424716	N	   5	Butler	Temilope Adelakun   	Mount St. Mary's (MD)	Peter Landis        	7-6, 6-4
 20170305	464378	429477	A	   5	Georgetown	Ian Witmer          	UCSD	Sreeganesh Manoharan	6-3, 6-2
@@ -15435,7 +15390,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170305	423646	454582	H	   6	Virginia Tech	Jason Kros          	James Madison	Tate Steinour       	6-2, 6-1
 20170305	401196	390287	A	   6	North Florida	Jonathan Deautriell 	Elon	Jacob Bicknell      	6-2, 6-1
 20170305	409162	434634	A	   6	USC Upstate	Ignacio Garrido     	Samford	Hugo Moreira        	6-7 6-3 6-2
-20170305	428726	447722	H	   6	Stetson	Coilin Macnamara    	Belmont	Bruno Russo         	4-6, 6-3, 6-2
 20170305	466399	418534	H	   6	Texas	Julian Zlobinsky    	Rice	Oscar Janglin       	6-4, 7-6 (4)
 20170305	435626	398792	A	   6	Georgetown	Jack Murphy         	UCSD	Adrian Cordova      	6-0, 6-1
 20170305	432896	463056	H	   6	Marquette	Brett Meyers        	Utah	Egbert Weverink     	1-6, 6-3, 6-3
@@ -15553,7 +15507,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170306	406748	426964	H	   6	Georgia Southern	Diego Finkelstein   	East Carolina	James Ling          	6-2, 6-1
 20170306	403535	409162	H	   6	Troy	Jiaqi Duan          	USC Upstate	Ignacio Garrido     	1-6 6-4 6-4
 20170307	449737	430591	H	   1	North Carolina	Ronnie Schneider    	Duke	Catalin Mateas      	6-3, 6-4
-20170307	390758	442479	A	   1	Stetson	Loic Blanco         	Wofford	Alan Poric          	6-1, 6-1
 20170307	439527	462588	H	   1	Cal Poly	Corey Pang          	Utah State	Kai Wehnelt         	6-4, 6-4
 20170307	414672	432060	H	   1	UC Irvine	Sebastian Heim      	Boston College	Aidan McNulty       	6-0, 6-0
 20170307	414672	388877	H	   1	UC Irvine	Sebastian Heim      	Georgetown	Peter Beatty        	6-3, 6-3
@@ -15586,7 +15539,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170307	453404	419530	H	   2	A&M-Corpus Christi	Cagatay Soke        	UTRGV	Elliot Johnstone    	2-6, 7-5, 11-9
 20170307	405840	424771	N	   2	Coastal Carolina	Luiz Faria          	Creighton	Harrison Lang       	6-3, 4-6, 6-1
 20170307	453379	408415	H	   3	North Carolina	Simon Soendergaard  	Duke	Spencer Furman      	7-6 (3), 2-6, 1-0 (8)
-20170307	392236	449789	A	   3	Stetson	Angus Bradshaw      	Wofford	Parks Schoen        	6-2, 6-3
 20170307	403347	464051	N	   3	Butler	Mason Dragos        	Furman	Clarke Wilson       	4-6, 6-1, 6-2
 20170307	427709	424540	H	   3	UC Irvine	Luis Lopez          	Georgetown	Marco Lam           	6-3, 6-2
 20170307	427709	464873	H	   3	UC Irvine	Luis Lopez          	Boston College	Hank Workman        	6-3, 6-7, 7-6
@@ -15620,7 +15572,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170307	433060	421320	N	   4	Coastal Carolina	Francesco Migliano  	Creighton	Brooks Kendall      	6-0, 7-6 (1)
 20170307	435305	387543	A	   5	Boston College	Kent Mukai          	UC Irvine	Vatsal Bajpai       	6-2, 6-3
 20170307	392075	402325	H	   5	North Carolina	Bo Boyden           	Duke	Ryan Dickerson      	7-5 (5), 5-7, 1-0 (2)
-20170307	404818	397117	A	   5	Stetson	Pierre Emanuel-Fossier	Wofford	Julian Chousa       	7-6 (5), 7-6 (4)
 20170307	434513	470150	A	   5	James Madison	Brett Moorhead      	The Citadel	Trey Davis          	6-3,6-0
 20170307	434513	473133	A	   5	James Madison	Brett Moorhead      	The Citadel	Roy Hobson          	6-3,6-2
 20170307	436035	458838	A	   5	Florida A&M	Federico Nani       	Mercer	Efstathios Tsiranidis	6-3, 6-4
@@ -15752,7 +15703,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170309	396560	385305	A	   1	Davidson	Shamael Chaudhry    	Bethune Cookman	Greg Almeida        	6-2,6-0
 20170309	424702	390508	H	   1	Florida Gulf Coast	Oliver Landert      	Xavier	Matt Bishop         	3-6, 6-4, 6-4
 20170309	408982	425876	H	   1	North Alabama	Miguel Garcia       	Bellarmine	Jose Legarreta      	6-0, 6-3
-20170309	390758	467461	A	   1	Stetson	Loic Blanco         	The Citadel	Michael Anzalone    	6-4, 6-0
 20170309	389507	430992	A	   1	Baylor	Juan Benitez        	UC Santa Barbara	Morgan Mays         	6-3, 6-3
 20170309	424771	442125	N	   1	Creighton	Harrison Lang       	Marian (IN)	Marty Pochop        	6-2, 6-3
 20170309	443863	412512	A	   1	Campbell	Nicolas Rakitin     	Liberty	Eddie Gutierrez     	6-2, 6-3
@@ -15775,7 +15725,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170309	412835	437879	A	   2	Davidson	David Hager         	Bethune Cookman	David Ocampo        	6-0,6-0
 20170309	443947	449723	H	   2	Florida Gulf Coast	Felipe Ramirez      	Xavier	Jeremy Schneider    	6-4, 6-2
 20170309	403500	423991	H	   2	North Alabama	Max Druppel         	Bellarmine	Zachary Kuo         	6-4, 6-2
-20170309	387751	481179	A	   2	Stetson	Graham Ball         	The Citadel	Willem Van Zyl      	7-5, 4-6, 1-0 (4)
 20170309	456851	434695	A	   2	Baylor	Maxime Tchoutakian  	UC Santa Barbara	Nicolas Moreno De Alboran	3-6, 6-2, 6-1
 20170309	408785	391185	N	   2	Creighton	Armando Gandini     	Marian (IN)	Nathan Bogle        	6-3, 6-1
 20170309	449316	394061	A	   2	Campbell	Lukas Schaefer      	Liberty	Chase Burton        	3-6, 7-5, 1-0 (10-7)
@@ -15820,7 +15769,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170309	390524	385039	N	   4	East Carolina	William Bissett     	Davis & Elkins	Matthew Alexander   	6-0, 6-0
 20170309	425913	406453	N	   4	East Carolina	Fredric Lehfeldt    	Palm Beach Atlantic	Bernardo Ferreira   	6-2, 6-3
 20170309	410109	434118	H	   4	North Alabama	Gustavo Girao       	Bellarmine	Matthew Momper      	6-4, 6-2
-20170309	451503	473133	A	   4	Stetson	William Shkrob      	The Citadel	Roy Hobson          	6-2, 6-4
 20170309	421320	401443	N	   4	Creighton	Brooks Kendall      	Marian (IN)	Ian Deiters         	6-1, 6-0
 20170309	435626	420234	A	   4	Georgetown	Jack Murphy         	Loyola Marymount	Max Kaiser          	7-6 (4), 0-6, 6-4
 20170309	453135	406361	A	   4	Xavier	Trent Smith         	Florida Gulf Coast	Javier Fernandez    	7-5, 6-4
@@ -15842,7 +15790,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170309	426964	453948	N	   5	East Carolina	James Ling          	Davis & Elkins	Tristram Spitsnaugle	6-0, 6-0
 20170309	396234	401612	H	   5	Florida Gulf Coast	Sam Chaffin         	Xavier	Nate Dell           	7-6, 6-2
 20170309	387034	419569	H	   5	North Alabama	Taylor Ausbon       	Bellarmine	Andrew Jones        	6-0, 6-0
-20170309	428726	470150	A	   5	Stetson	Coilin Macnamara    	The Citadel	Trey Davis          	6-0, 6-1
 20170309	427123	443856	A	   5	Baylor	Will Little         	UC Santa Barbara	Cody Rakela         	6-3, 6-3
 20170309	410212	415835	N	   5	Creighton	Jake Glazer         	Marian (IN)	Marcus Hirsch       	6-3, 6-2
 20170309	450080	395811	A	   5	Campbell	Lorenz Schwab       	Liberty	Diego Castano       	6-4, 7-5
@@ -15862,7 +15809,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170309	385167	408539	N	   6	East Carolina	Austin Allen        	Davis & Elkins	Jonathan Gainer     	6-0, 6-1
 20170309	426964	448294	N	   6	East Carolina	James Ling          	Palm Beach Atlantic	Thomas Salmon       	6-4, 6-3
 20170309	429786	400945	H	   6	North Alabama	George Markos       	Bellarmine	Lauren De Boeck     	6-4, 6-3
-20170309	401282	478141	A	   6	Stetson	Colter Decoste      	The Citadel	Jack Pyritz         	6-0, 6-4
 20170309	396277	457910	N	   6	Creighton	Aaron Chalstrom     	Marian (IN)	Kirby Tobin         	6-0, 6-0
 20170309	386366	395203	A	   6	Xavier	Gabriel Araujo      	Florida Gulf Coast	Pedro Carle         	6-3, 6-2
 20170309	397666	391564	A	   6	Campbell	Fernando Clemente   	Liberty	Max Borcuti         	3-6, 6-4, 1-0 (10-7)
@@ -16793,7 +16739,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170315	424169	441892	H	   1	Virginia	Thai-Son Kwiatkowski	Monmouth (NJ)	Nicola Pipoli       	6-0, 6-4
 20170315	385376	423449	H	   1	Virginia	Collin Altamirano   	Washington & Lee	Jordan Krasner      	6-1, 6-0
 20170315	448177	454893	N	   1	Liberty	Vince Salas         	St. Joseph's (PA)	Tim Stierle         	3-6,6-4,12-10
-20170315	390758	422958	H	   1	Stetson	Loic Blanco         	Oral Roberts	Barnabas Koncz      	6-0, 6-3
 20170315	460524	416965	N	   1	Marquette	Alvaro Verdu        	New Orleans	Jeffrey Hsu         	7-6, 6-2
 20170315	423273	435731	A	   1	Idaho	Mark Kovacs         	Grand Canyon	Francois Musitelli  	7-6(1), 7-6(4)
 20170315	458151	451825	A	   1	Ohio State	Mikael Torpegaard   	Texas	Christian Sigsgaard 	6-4, 3-6, 6-2
@@ -16815,7 +16760,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170315	386308	387900	H	   2	Virginia	Jc Aragone          	Washington & Lee	Will Bannister      	6-3, 6-0
 20170315	412512	395057	N	   2	Liberty	Eddie Gutierrez     	Fairfield	Anthony Caputo      	6-4,7-5
 20170315	394061	396275	N	   2	Liberty	Chase Burton        	St. Joseph's (PA)	Kyle Chalmers       	6-2,6-4
-20170315	392236	440511	H	   2	Stetson	Angus Bradshaw      	Oral Roberts	Jan Pehnec          	6-1, 6-3
 20170315	453203	391697	N	   2	Marquette	Luke Smrek          	New Orleans	Federico Boscarino  	6-2, 7-5
 20170315	407285	425874	A	   2	Idaho	Felipe Fonseca      	Grand Canyon	Adrian Legarreta    	6-7(0), 6-1, 6-0
 20170315	464514	450204	A	   2	Ohio State	JJ Wolf             	Texas	Harrison Scott      	6-4, 3-6, 6-3
@@ -16855,7 +16799,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170315	445729	457402	H	   4	Virginia	Alexander Ritschard 	Washington & Lee	Mitchell Thomas     	6-1, 6-0
 20170315	395811	385627	N	   4	Liberty	Diego Castano       	Fairfield	Ethan Ammon         	6-4,6-2
 20170315	395811	456423	N	   4	Liberty	Diego Castano       	St. Joseph's (PA)	Dan Tan             	6-0,6-4
-20170315	404818	392103	H	   4	Stetson	Pierre Emanuel-Fossier	Oral Roberts	Kenneth Boykin      	7-6, 6-3
 20170315	410496	442286	H	   4	Texas	George Goldhoff     	Ohio State	Herkko Pollanen     	6-2, 4-6, 6-4
 20170315	458758	384479	N	   4	Marquette	Kristiyan Trukov    	New Orleans	Giacomo Adoncecchi  	6-3, 7-5
 20170315	448796	424781	A	   4	Idaho	Esteban Santibanez  	Grand Canyon	Valentin Lang       	5-7, 6-1, 6-1
@@ -17949,7 +17892,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170323	449664	445226	H	   1	Tulane	Constantin Schmitz  	Dartmouth	Ciro Riccardi       	6-0, 6-1
 20170323	443056	405591	H	   1	Kennesaw State	Simon Pritchard     	USC Upstate	Felix Ewers         	6-4 6-1
 20170323	433808	441265	A	   1	Lipscomb	Rob Mitchell        	NJIT	Aleksa Petrovic     	5-7, 6-2, 6-2
-20170323	390758	424702	H	   1	Stetson	Loic Blanco         	Florida Gulf Coast	Oliver Landert      	6-1, 3-6, 7-5
 20170323	405377	401098	H	   1	College of Charleston	Juan Estevarena     	DePaul	Nathan De Veer      	6-3, 6-1
 20170323	399743	443897	H	   1	NCCU	Gabriel Cucalon     	Morgan State	Arjun Ramakrishnan  	6-0, 6-1
 20170323	453513	384862	A	   1	Washington	Enzo Sommer         	Hawaii	Felix Albert        	4-6,6-1,1-0(3)
@@ -18937,16 +18879,16 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170328	449738	407016	H	   3	Coastal Carolina	Sebastian Schneider 	Delaware	Tyler Flematti      	6-0, 6-3
 20170328	429764	438632	H	   3	San Francisco	Ryan Marker         	Drexel	Sinan Orhon         	6-2, 6-1
 20170328	438484	384025	H	   4	Campbell	Jonathan ONeal      	UC Riverside	Nabil Abdallah      	6-1, 6-4
+20170328	467840	423012	H	   4	NC A&T	Niko Barr           	NCCU	Maksym Konovalov    	6-3, 6-2
 20170328	402210	460073	H	   4	Winthrop	Gabriel Dias        	Radford	Matko Varga         	6-3, 6-4
 20170328	387031	396342	A	   4	Cal Poly	Garrett Auproux     	Hawaii	Marcel Chan         	6-2, 4-6, 7-5
-20170328	467840	423012	H	   4	NC A&T	Niko Barr           	NCCU	Maksym Konovalov    	6-3, 6-2
 20170328	435466	457369	A	   4	Furman	Jake Munns          	Wofford	Jack Thomas         	6-3, 6-7 (3-7), 6-0
 20170328	393400	476836	H	   4	UNC Greensboro	Warren Bryan        	The Citadel	Noah Nawabi         	6-3, 6-4
 20170328	433060	440812	H	   4	Coastal Carolina	Francesco Migliano  	Delaware	Dominick Perez      	6-3, 6-2
+20170328	468929	392884	H	   5	NC A&T	Brett Cabon         	NCCU	Sebastian Bromley   	6-4, 7-6(2)
 20170328	456821	410431	A	   5	Radford	Samuel Taylor       	Winthrop	Aditya Gokahle      	2-6, 7-6(5), 1-0(5)
 20170328	400289	458462	A	   5	Cal Poly	Axel Damiens        	Hawaii	Spencer Travallino  	6-1, 2-6, 6-1
 20170328	397274	450080	A	   5	UC Riverside	Gilbert Chung       	Campbell	Lorenz Schwab       	7-6, 6-2
-20170328	468929	392884	H	   5	NC A&T	Brett Cabon         	NCCU	Sebastian Bromley   	6-4, 7-6(2)
 20170328	454721	397117	A	   5	Furman	Alex Steryous       	Wofford	Julian Chousa       	6-3, 7-5
 20170328	413259	478141	H	   5	UNC Greensboro	Daniel Hammarstedt  	The Citadel	Jack Pyritz         	6-2, 6-0
 20170328	456367	443995	H	   5	Coastal Carolina	Zak Talic           	Delaware	Venkatesh Ramkumar  	6-2, 4-6, 10-2
@@ -19061,7 +19003,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170330	436384	444475	H	   3	George Mason	Jakob Neilsen       	Georgetown	Mac Rechan          	6-3,6-7,7-6
 20170330	385071	386642	A	   3	Florida Gulf Coast	Andres Alfonzo      	USC Upstate	Ankush Arora        	6-2 2-6 6-4
 20170330	394663	466511	H	   3	Kennesaw State	Fermin Calvo Barcelo	North Florida	Yannick Zuern       	3-6, 6-2, (10-2)
-20170330	392236	396614	A	   3	Stetson	Angus Bradshaw      	Lipscomb	Victor Chaw         	6-4, 6-3
 20170330	466106	438632	H	   3	Sacramento State	Kasparas Zemaitelis 	Drexel	Sinan Orhon         	6-1, 6-3
 20170330	388049	452210	A	   3	Longwood	Arthur Bardellotto  	Hampden-Sydney	Trent Singleton     	6-0, 6-0
 20170330	394535	424863	H	   3	Radford	Robin Calais        	UC Riverside	Tadeas Lansky       	4-6, 6-1, 6-3
@@ -19075,7 +19016,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170330	390046	405135	H	   4	South Florida	Peter Bertran       	Tulane	Luis Erlenbusch     	6-3, 6-2
 20170330	396164	389898	A	   4	Florida Gulf Coast	Ezequiel Cerrini    	USC Upstate	Fernando Bernardes  	6-4 6-1
 20170330	435711	401094	A	   4	North Florida	Lasse Muscheites    	Kennesaw State	Lucas De Torres Curth	6-1, 6-3
-20170330	451503	395096	A	   4	Stetson	William Shkrob      	Lipscomb	Daniel Cardenas     	7-6, 6-4
 20170330	464378	387165	A	   4	Georgetown	Ian Witmer          	George Mason	Eddie Ayers         	6-2,3-6,6-4
 20170330	396207	466119	H	   4	Sacramento State	Louis Chabut        	Drexel	Alex Zenonos        	4-6, 6-3, 10-6
 20170330	441220	399822	A	   4	Longwood	Noah Petralia       	Hampden-Sydney	Clark Cummings      	6-3, 6-0
@@ -19091,7 +19031,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170330	412509	451080	H	   5	George Mason	Daniel Gutierrez    	Georgetown	Will Sharton        	6-3,6-3
 20170330	401969	391833	A	   5	North Florida	Sahil Deshmukh      	Kennesaw State	Jake Bouchillon     	6-2, 6-0
 20170330	409162	406361	H	   5	USC Upstate	Ignacio Garrido     	Florida Gulf Coast	Javier Fernandez    	6-2 7-5
-20170330	428726	438740	A	   5	Stetson	Coilin Macnamara    	Lipscomb	Jorge Ortegon       	6-3, 4-6, 6-2
 20170330	410356	465656	A	   5	Longwood	Jorge Godoy Gomis   	Hampden-Sydney	Levy Young          	6-3, 6-1
 20170330	397274	460073	A	   5	UC Riverside	Gilbert Chung       	Radford	Matko Varga         	2-6, 7-6 (3), 6-2
 20170330	443856	455079	A	   5	UC Santa Barbara	Cody Rakela         	Boise State	Morgan Stone        	6-2, 6-2
@@ -19107,7 +19046,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170330	399938	435626	H	   6	George Mason	Andrew Curtis       	Georgetown	Jack Murphy         	6-3,6-2
 20170330	401196	462850	A	   6	North Florida	Jonathan Deautriell 	Kennesaw State	Drew Wendel         	6-3, 7-6(5)
 20170330	436572	388568	H	   6	USC Upstate	Francisco Neto      	Florida Gulf Coast	Austin Bates        	6-4 4-6 6-1
-20170330	401282	433580	A	   6	Stetson	Colter Decoste      	Lipscomb	Thais Minet         	7-6, 3-6, 6-2
 20170330	417731	427958	A	   6	Longwood	Rosen Ilchev        	Hampden-Sydney	Andrew Loving       	6-1, 6-0
 20170330	457312	419956	H	   6	Radford	Janken Thoen        	UC Riverside	Anderson Ju         	4-6, 6-1, 6-1
 20170330	410075	425878	A	   6	Drexel	Daniil Ginzburg     	Sacramento State	Hermont Legaspi     	6-4, 4-6, 10-8
@@ -19366,7 +19304,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170401	394061	428405	H	   1	Liberty	Chase Burton        	Presbyterian	Alexander Lykou     	6-4,6-3
 20170401	433808	406716	H	   1	Lipscomb	Rob Mitchell        	North Florida	Jack Findel-Hawkins 	7-5, 6-1
 20170401	403500	382013	H	   1	North Alabama	Max Druppel         	Alabama A&M	Nishangan Nadaraja  	6-2, 6-0
-20170401	390758	443056	A	   1	Stetson	Loic Blanco         	Kennesaw State	Simon Pritchard     	2-6, 7-5, 6-0
 20170401	389408	394577	H	   1	Butler	Aviv Ben Shabat     	IUPUI	Jose Calero         	6-4, 6-0
 20170401	408785	386247	H	   1	Creighton	Armando Gandini     	Luther (IA)	Kyle Appel          	6-1 6-2
 20170401	423273	471262	N	   1	Idaho	Mark Kovacs         	Northern Colorado	Connor Finerty      	6-2, 6-4
@@ -19421,7 +19358,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170401	423991	445085	A	   2	Bellarmine	Zachary Kuo         	Campbellsville	Alejandro Reyes Lillo	1-6, 6-2, 6-3
 20170401	408982	381991	H	   2	North Alabama	Miguel Garcia       	Alabama A&M	Christian Bigott    	6-1, 6-0
 20170401	421024	429531	A	   2	North Florida	Jefta Kecic         	Lipscomb	Alejandro Manzanares	2-6, 6-3, 6-1
-20170401	387751	452452	A	   2	Stetson	Graham Ball         	Kennesaw State	Sam Slade           	6-2, 6-3
 20170401	421669	436668	H	   2	Butler	Mikheil Khmiadashvili	IUPUI	Jac Newis           	7-5, 7-6
 20170401	424771	449744	H	   2	Creighton	Harrison Lang       	Luther (IA)	Trent Schneider     	6-1 6-4
 20170401	453203	408549	N	   2	Marquette	Luke Smrek          	UMKC	Uldis Gaismins      	6-7, 6-2, 7-6
@@ -19478,7 +19414,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170401	440207	406578	A	   3	St. Bonaventure	Indra Patwardhan    	St. Joseph's (PA)	Andre Fick          	1-6, 6-2, (10-7)
 20170401	442190	382011	H	   3	North Alabama	Benjamin Poire      	Alabama A&M	Mateo Monroy        	2-6, 6-4, 10-8
 20170401	466511	396614	A	   3	North Florida	Yannick Zuern       	Lipscomb	Victor Chaw         	6-4, 6-7, (10-6)
-20170401	392236	394663	A	   3	Stetson	Angus Bradshaw      	Kennesaw State	Fermin Calvo Barcelo	6-1, 6-4
 20170401	403347	397197	H	   3	Butler	Mason Dragos        	IUPUI	Steven Christie     	7-6, 6-2
 20170401	421320	418881	H	   3	Creighton	Brooks Kendall      	Luther (IA)	Anders Jensen       	6-1 6-1
 20170401	385782	436248	N	   3	Marquette	Greg Anderson       	UMKC	Amaury Navette      	6-3, 7-6
@@ -19532,7 +19467,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170401	449326	426874	H	   4	St. Joseph's (PA)	Beekman Schaeffer   	St. Bonaventure	Lukas Linden Malmberg	6-4, 6-2
 20170401	395096	435711	H	   4	Lipscomb	Daniel Cardenas     	North Florida	Lasse Muscheites    	6-3, 6-3
 20170401	403078	382024	H	   4	North Alabama	Ray Donovan         	Alabama A&M	Carlos Salas        	6-1, 6-2
-20170401	451503	401094	A	   4	Stetson	William Shkrob      	Kennesaw State	Lucas De Torres Curth	6-2, 6-3
 20170401	424779	388858	H	   4	Butler	Spencer Lang        	IUPUI	David Beasley       	6-0, 6-4
 20170401	422717	435595	H	   4	Creighton	Alex Koca           	Luther (IA)	Brian Murman        	7-6 6-3
 20170401	399129	469843	N	   4	Idaho	Lucas Coutinho      	Northern Colorado	Hayden Cramer       	6-4, 6-1
@@ -19993,6 +19927,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170402	448796	423117	N	   5	Idaho	Esteban Santibanez  	Montana	Max Korkh           	6-3, 6-4
 20170402	449398	416171	H	   5	Idaho State	Bjorn Scheepbouwer  	North Dakota	Matt Hokanson       	6-1, 6-1
 20170402	397629	434232	H	   5	Sacramento State	Christopher Clayton 	Northern Arizona	Ruben Montano       	4-6, 6-1, 6-3
+20170402	468929	439943	A	   5	NC A&T	Brett Cabon         	Wake Forest	Charles Parry       	2-6, 6-3, 1-0 (10-5)
 20170402	389161	410356	A	   5	Presbyterian	Alejandro Bejar     	Longwood	Jorge Godoy Gomis   	6-0, 6-0
 20170402	450369	421849	H	   5	Indiana	Oliver Sec          	Michigan State	Alexander Kim       	6-2, 7-6 (7-2)
 20170402	426798	413351	A	   5	Michigan	Carter Lin          	Purdue	Renan Hanayama      	6-0, 6-2
@@ -20013,7 +19948,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170402	391831	454702	N	   5	Binghamton	Valentin Bouchet    	Quinnipiac	Axel Stern          	6-2, 6-3
 20170402	426437	468010	H	   5	Coppin State	Gavin Lewis         	Rider	Matt Begely         	6-2, 6-0
 20170402	444323	443995	A	   5	Morgan State	Nihit Rawal         	Delaware	Venkatesh Ramkumar  	6-3, 6-2
-20170402	468929	439943	A	   5	NC A&T	Brett Cabon         	Wake Forest	Charles Parry       	2-6, 6-3, 1-0 (10-5)
 20170402	393644	408729	H	   5	Fresno State	Mantas Bugailiskis  	Air Force	Mack Galvin         	6-2 6-4
 20170402	393644	444885	H	   5	Fresno State	Mantas Bugailiskis  	Cypress	Ingmar Remmerswaal  	6-2, 6-2
 20170402	453437	447619	H	   5	UNLV	Richard Solberg     	Southern Utah	Cedric Rupa         	6-4, 6-2
@@ -20202,7 +20136,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170405	438727	430075	H	   6	Coastal Carolina	Jose Ortega         	Charlotte	Jensen Martin       	7-6 (14), 6-2
 20170406	443947	443056	H	   1	Florida Gulf Coast	Felipe Ramirez      	Kennesaw State	Simon Pritchard     	6-2, 6-7, 7-6
 20170406	406716	405591	H	   1	North Florida	Jack Findel-Hawkins 	USC Upstate	Felix Ewers         	6-4, 6-3
-20170406	390758	441265	H	   1	Stetson	Loic Blanco         	NJIT	Aleksa Petrovic     	6-2, 6-1
 20170406	406657	462901	A	   1	S.C. State	Martin Figura       	Campbell	Dustin Werner       	6-4, 6-3
 20170406	462588	421527	H	   1	Utah State	Kai Wehnelt         	St. Mary's (CA)	Damon Kesaris       	6-2, 6-2
 20170406	443544	422552	H	   1	Fairleigh Dickinson	Gonzalo Quintana    	St. Peter's	Ivan Knezevic       	7-6 (4), 6-1
@@ -20212,7 +20145,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170406	400581	396186	H	   1	Colgate	Jacob Daugherty     	Binghamton	Ludovico Cestarollo 	6-3,6-7,6-2
 20170406	394663	424702	A	   2	Kennesaw State	Fermin Calvo Barcelo	Florida Gulf Coast	Oliver Landert      	4-6, 7-6, 6-4
 20170406	421024	414245	H	   2	North Florida	Jefta Kecic         	USC Upstate	Lenhard Haupt       	4-6, 6-3, (10-6)
-20170406	387751	397358	H	   2	Stetson	Graham Ball         	NJIT	Jan Cimrman         	6-4, 6-2
 20170406	453416	465282	H	   2	Campbell	Gerard Sola         	S.C. State	Vladyslav Yanchenko 	4-6, 6-3, 6-4
 20170406	436143	385386	A	   2	Binghamton	Kushaan Nath        	Colgate	Rob Alter           	6-2,3-6,7-6
 20170406	395636	446633	H	   2	Fairleigh Dickinson	Pedro Carvalho      	St. Peter's	Sebastian Rojas     	6-1, 6-0
@@ -20220,7 +20152,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170406	382009	446375	H	   2	Alabama A&M	Masteo Monroy       	Tennessee State	Jorge Rodriguez     	3-6,6-3,6-3
 20170406	452452	447554	A	   3	Kennesaw State	Sam Slade           	Florida Gulf Coast	Mateo Ruiz          	6-4, 6-4
 20170406	466511	386642	H	   3	North Florida	Yannick Zuern       	USC Upstate	Ankush Arora        	6-1, 2-6, 6-1
-20170406	392236	466578	H	   3	Stetson	Angus Bradshaw      	NJIT	Lukas Zvikas        	6-3, 6-4
 20170406	443863	435125	H	   3	Campbell	Nicolas Rakitin     	S.C. State	Soufiane Mouline    	6-2, 6-1
 20170406	450738	461191	H	   3	Utah State	Sam Serrano         	St. Mary's (CA)	Nash Vollenwider    	6-2, 6-0
 20170406	396321	437597	H	   3	Fairleigh Dickinson	Adam Chan           	St. Peter's	Douglas Nover       	6-1, 7-5
@@ -20229,7 +20160,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170406	415841	395064	H	   3	Colgate	Jake Hirschberg     	Binghamton	Thomas Caputo       	6-2,6-4
 20170406	396164	401094	H	   4	Florida Gulf Coast	Ezequiel Cerrini    	Kennesaw State	Lucas De Torres Curth	7-6, 6-4
 20170406	435711	389898	H	   4	North Florida	Lasse Muscheites    	USC Upstate	Fernando Bernardes  	6-2, 6-2
-20170406	451503	395793	H	   4	Stetson	William Shkrob      	NJIT	Zac Castagna        	7-5, 6-3
 20170406	391831	446984	A	   4	Binghamton	Valentin Bouchet    	Colgate	Noah Rosenblat      	6-1,7-5
 20170406	387339	397666	A	   4	S.C. State	Stanislav Baco      	Campbell	Fernando Clemente   	6-4, 1-6, 6-3
 20170406	461382	447738	H	   4	Fairleigh Dickinson	Danilo Vukotic      	St. Peter's	Gabriel Russotto    	6-2, 6-3
@@ -20244,7 +20174,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170406	445125	448049	H	   5	Colgate	Win Reynolds        	Binghamton	Inigo Saez Irazusta 	7-6,7-6
 20170406	406361	391833	H	   6	Florida Gulf Coast	Javier Fernandez    	Kennesaw State	Jake Bouchillon     	6-3, 6-4
 20170406	401196	436572	H	   6	North Florida	Jonathan Deautriell 	USC Upstate	Francisco Neto      	6-1, 6-3
-20170406	401282	386697	H	   6	Stetson	Colter Decoste      	NJIT	Pablo Arrutia       	6-3, 6-4
 20170406	450080	439040	H	   6	Campbell	Lorenz Schwab       	S.C. State	Cyprian Owczarz     	6-2, 6-1
 20170406	403487	400479	A	   6	Binghamton	Josh Druger         	Colgate	Alec Dardis         	7-6,6-4
 20170406	404211	424412	H	   6	Utah State	Daniel Echeverry    	St. Mary's (CA)	Jacob Lagman        	6-0, 6-1
@@ -20268,6 +20197,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170407	471262	411262	H	   1	Northern Colorado	Connor Finerty      	Metropolitan State	Josh Graetz         	6-1, 7-6(4)
 20170407	427848	395655	A	   1	Sacramento State	Mikus Losbergs      	Montana	Victor Casadevall   	6-1, 6-7, 6-2
 20170407	465536	387946	A	   1	Weber State	Shao-Po Yin         	Utah State	Jaime Barajas       	6-4, 2-6, 10-8
+20170407	467498	437879	H	   1	NC A&T	Nicholas Ardur      	Bethune Cookman	David Ocampo        	6-1 7-6
 20170407	429181	453814	H	   1	Michigan	Jathan Malik        	Minnesota	Matic Spec          	6-2, 6-0
 20170407	466268	392095	H	   1	Northwestern	Konrad Zieba        	Nebraska	Toby Boyer          	6-1, 6-2
 20170407	458151	396096	H	   1	Ohio State	Mikael Torpegaard   	Indiana	Antonio Cembellin   	6-1, 6-3
@@ -20286,7 +20216,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170407	445005	408273	A	   1	Marist	Javier Restrepo     	Niagara	Felipe Fuentes      	6-2,6-2
 20170407	452275	385723	H	   1	Toledo	Stjepan Sisko       	Ball State	Lucas Andersen      	6-3, 6-2
 20170407	438184	399743	A	   1	Florida A&M	Courage Okungbowa   	NCCU	Gabriel Cucalon     	6-1, 7-6(5)
-20170407	467498	437879	H	   1	NC A&T	Nicholas Ardur      	Bethune Cookman	David Ocampo        	6-1 7-6
 20170407	394239	459849	H	   1	Boise State	Kyle Butters        	New Mexico	Bart Van Leijsen    	6-3, 6-2
 20170407	385611	405579	N	   1	UNLV	Jakob Amilon        	Nevada	Julien Evrard       	6-3, 2-6, 6-3
 20170407	425185	432939	A	   1	Oregon	Thomas Laurent      	Utah	David Micevski      	6-2, 6-4
@@ -20382,6 +20311,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170407	433537	466106	H	   3	Montana	Peter Mimnagh-Fleming	Sacramento State	Kasparas Zemaitelis 	6-4, 7-5
 20170407	481123	430323	H	   3	Northern Colorado	Alex Vakouftis      	Metropolitan State	Alejandro Martinez Morilla	6-4, 7-6(2)
 20170407	459901	456089	A	   3	Weber State	Kris Van Wyk        	Utah State	Jack Swindells      	6-3, 6-7 (7), 10-3
+20170407	467882	385305	H	   3	NC A&T	Adair Bartra        	Bethune Cookman	Greg Almeida        	6-2 4-6 6-2
 20170407	449362	433162	H	   3	Michigan	Myles Schalet       	Minnesota	Stefan Milicevic    	6-1, 6-4
 20170407	454369	386175	H	   3	Northwestern	Dominik Starý       	Nebraska	Tomislav Antoljak   	6-4, 6-2
 20170407	402168	456262	H	   3	Ohio State	Hugo Di Feo         	Indiana	Keivon Tabrizi      	6-3, 6-2
@@ -20396,7 +20326,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170407	446256	396447	H	   3	Fairfield	Jeffrey Rodgers     	Sacred Heart	Derek Chapman       	6-1, 6-2
 20170407	396415	435895	A	   3	Marist	Justin Chanthalangsy	Niagara	Francis Nadeau      	4-6,6-2,10-7
 20170407	461005	412591	H	   3	Toledo	Luka Vitosevic      	Ball State	Marko Guzina        	6-2, 6-4
-20170407	467882	385305	H	   3	NC A&T	Adair Bartra        	Bethune Cookman	Greg Almeida        	6-2 4-6 6-2
 20170407	394620	452591	H	   3	NCCU	Davide Callegari    	Florida A&M	Karlyn Small        	6-4, 3-6, 7-5
 20170407	401908	410168	A	   3	Fresno State	Zdenek Derkas       	San Diego State	Sander Gjoels-Andersen	6-4, 6-3
 20170407	436559	436571	N	   3	Nevada	Kostyantin Nesterenko	UNLV	Evaldo Neto         	6-3, 6-1
@@ -20438,6 +20367,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170407	461377	406973	H	   4	St. John's (NY)	Dusan Vukicevic     	Villanova	Dylan Flanagan      	6-1, 6-3
 20170407	394912	396207	H	   4	Montana	Alexander Canellopoulos	Sacramento State	Louis Chabut        	6-1, 7-6
 20170407	469843	454604	H	   4	Northern Colorado	Hayden Cramer       	Metropolitan State	Sam Stember         	6-4, 7-6(4)
+20170407	481921	427730	H	   4	NC A&T	John Wilson Iv      	Bethune Cookman	Pablo Lopez         	6-3 2-6 6-4
 20170407	416988	438053	H	   4	Michigan	Runhao Hua          	Minnesota	Eli Ogilvy          	6-2, 7-5
 20170407	459976	422495	H	   4	Northwestern	Ben Vandixhorn      	Nebraska	Micah Klousia       	6-3, 7-5
 20170407	450412	399332	H	   4	Ohio State	Kyle Seelig         	Indiana	Bennett Crane       	6-2, 7-5
@@ -20454,7 +20384,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170407	407056	464094	A	   4	Marist	Dylan Fletcher      	Niagara	Josh Wilson         	6-4,6-3
 20170407	412592	405300	A	   4	Ball State	Nemanja Guzina      	Toledo	Omar Espinosa       	6-4, 6-1
 20170407	405325	423012	A	   4	Florida A&M	Walner Espinoza     	NCCU	Maksym Konovalov    	6-3, 6-1
-20170407	481921	427730	H	   4	NC A&T	John Wilson Iv      	Bethune Cookman	Pablo Lopez         	6-3 2-6 6-4
 20170407	440961	442027	A	   4	New Mexico	Lawrence Perrin     	Boise State	Pedro Platzeck      	6-1, 7-5
 20170407	384877	397353	N	   4	UNLV	Ruben Alberts       	Nevada	Mile Cilic          	6-4, 6-4
 20170407	393568	396671	H	   4	Utah State	Sergiu Bucur        	Weber State	Hou-En Chen         	6-3, 6-3
@@ -20547,6 +20476,7 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170407	464378	436066	A	   6	Georgetown	Ian Witmer          	Temple	Vineet Naran        	6-4,7-5
 20170407	447142	417438	H	   6	St. John's (NY)	Alex Roszkowski     	Villanova	Alastair Hurry      	6-4, 7-6(8)
 20170407	456960	425878	H	   6	Montana	Ignacio Tejerina    	Sacramento State	Hermont Legaspi     	6-4, 7-6
+20170407	468929	447543	H	   6	NC A&T	Brett Cabon         	Bethune Cookman	Juan Diego Ruiz     	6-0 6-1
 20170407	460073	386976	A	   6	Radford	Matko Varga         	Charlotte	Josh Aubrey         	7-6 (4), 6-3
 20170407	385346	399492	A	   6	Minnesota	Marino Alpeza       	Michigan	Davis Crocker       	4-6, 7-5, 1-0(3)
 20170407	461175	448365	H	   6	Northwestern	Brenden Volk        	Nebraska	David Samardzija    	6-1, 6-3
@@ -20564,7 +20494,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170407	451384	449112	H	   6	Fairfield	Tyler Shibles       	Sacred Heart	Christopher Sause   	6-0, 4-6, 10-2
 20170407	401918	462878	A	   6	Marist	Jan Dernic          	Niagara	Lucas Wenninger     	6-1,6-2
 20170407	455614	385716	H	   6	Toledo	Thawin Suksathaporn 	Ball State	Conner Andersen     	7-6 (9-7), 6-2
-20170407	468929	447543	H	   6	NC A&T	Brett Cabon         	Bethune Cookman	Juan Diego Ruiz     	6-0 6-1
 20170407	420000	414139	H	   6	NCCU	Pablo Juez-Torres   	Florida A&M	Samer Hema Hasona   	6-1, 2-6, 1-0 (10-5)
 20170407	405227	464301	A	   6	New Mexico	Jorge Escutia       	Boise State	Greg Wischer        	6-1, 6-4
 20170407	404211	461738	H	   6	Utah State	Daniel Echeverry    	Weber State	Cezary Walkusz      	6-4, 6-1
@@ -20589,7 +20518,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170408	454893	407319	H	   1	St. Joseph's (PA)	Tim Stierle         	St. Francis (PA)	Dylan Foo-Kune      	6-2, 6-4
 20170408	443947	433808	H	   1	Florida Gulf Coast	Felipe Ramirez      	Lipscomb	Rob Mitchell        	7-6, 7-6
 20170408	406716	441265	H	   1	North Florida	Jack Findel-Hawkins 	NJIT	Aleksa Petrovic     	6-0, 6-2
-20170408	390758	405591	H	   1	Stetson	Loic Blanco         	USC Upstate	Felix Ewers         	6-3, 6-4
 20170408	390508	460524	H	   1	Xavier	Matt Bishop         	Marquette	Alvaro Verdu        	6-3, 3-6, 7-6(4)
 20170408	403695	458130	A	   1	Eastern Washington	Robert Dula         	Southern Utah	Conor Tordoff       	6-1,6-1
 20170408	404295	395655	A	   1	Idaho State	Sebastian Edin      	Montana	Victor Casadevall   	5-3, ret.
@@ -20643,7 +20571,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170408	429531	447554	A	   2	Lipscomb	Alejandro Manzanares	Florida Gulf Coast	Mateo Ruiz          	6-3, 2-6, 6-2
 20170408	403500	432558	A	   2	North Alabama	Max Druppel         	Mississippi College	Lucio Menezes       	6-3, 3-6, 6-4
 20170408	421024	397358	H	   2	North Florida	Jefta Kecic         	NJIT	Jan Cimrman         	4-6, 6-3, (10-7)
-20170408	387751	414245	H	   2	Stetson	Graham Ball         	USC Upstate	Lenhard Haupt       	7-5, 5-7, 6-4
 20170408	453203	449723	A	   2	Marquette	Luke Smrek          	Xavier	Jeremy Schneider    	6-4, 0-6, 6-3
 20170408	455527	410546	A	   2	Villanova	Stefan Suarez       	Connecticut	Parker Goldstien    	6-4, 6-4
 20170408	440760	406105	A	   2	Eastern Washington	Victor Pereira      	Southern Utah	Gai Feigin          	7-6,4-6,10-8
@@ -20695,7 +20622,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170408	449326	457691	H	   3	St. Joseph's (PA)	Beekman Schaeffer   	St. Francis (PA)	Rodrigo Tico        	5-7, 6-1, 7-6(4)
 20170408	396614	396164	A	   3	Lipscomb	Victor Chaw         	Florida Gulf Coast	Ezequiel Cerrini    	7-5, 6-2
 20170408	466511	466578	H	   3	North Florida	Yannick Zuern       	NJIT	Lukas Zvikas        	6-3, 3-6, (10-7)
-20170408	392236	386642	H	   3	Stetson	Angus Bradshaw      	USC Upstate	Ankush Arora        	6-4, 7-5
 20170408	447166	386270	A	   3	Villanova	Tyler Roth          	Connecticut	Jacob Appleton      	6-4, 6-2
 20170408	404035	385782	H	   3	Xavier	Jack Dykema         	Marquette	Greg Anderson       	7-5, 6-4
 20170408	440361	439348	A	   3	Eastern Washington	Scott Paz           	Southern Utah	Sergio Palacio      	6-3,6-1
@@ -20804,7 +20730,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170408	406361	433580	H	   5	Florida Gulf Coast	Javier Fernandez    	Lipscomb	Thais Minet         	6-1, 6-1
 20170408	403078	400297	A	   5	North Alabama	Ray Donovan         	Mississippi College	Petar Damjanovic    	6-4, 6-2
 20170408	401196	444115	H	   5	North Florida	Jonathan Deautriell 	NJIT	Richard Rangga      	6-2, 4-6, (10-3)
-20170408	428726	409162	H	   5	Stetson	Coilin Macnamara    	USC Upstate	Ignacio Garrido     	7-6, 7-6
 20170408	386366	458758	H	   5	Xavier	Gabriel Araujo      	Marquette	Kristiyan Trukov    	7-6(5), 1-6, 6-0
 20170408	444300	449624	A	   5	Eastern Washington	Flavien Raveau      	Southern Utah	Nico Schmidt        	6-3,6-1
 20170408	423117	449398	H	   5	Montana	Max Korkh           	Idaho State	Bjorn Scheepbouwer  	6-0, 4-6, 7-6
@@ -21915,7 +21840,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170415	413732	389511	H	   2	Virginia Tech	Mitch Harper        	Georgia Tech	Carlos Benito       	6-1,6-4
 20170415	394663	429531	A	   2	Kennesaw State	Fermin Calvo Barcelo	Lipscomb	Alejandro Manzanares	6-0, 4-6, 6-4
 20170415	414245	397358	H	   2	USC Upstate	Lenhard Haupt       	NJIT	Jan Cimrman         	7-6(4) 6-3
-20170415	392236	421024	A	   2	Stetson	Angus Bradshaw      	North Florida	Jefta Kecic         	2-6, 6-2, 6-4
 20170415	451825	457579	H	   2	Texas	Christian Sigsgaard 	Texas Tech	Bjorn Thomson       	6-4, 6-2
 20170415	407285	452293	N	   2	Idaho	Felipe Fonseca      	Montana State	Rok Sitar           	4-6, 7-5, 10-5
 20170415	433537	440760	A	   2	Montana	Peter Mimnagh-Fleming	Eastern Washington	Victor Pereira      	6-0, 6-2
@@ -22151,7 +22075,6 @@ date	winnerId	loserId	where	roundPos	team1	winner	team2	loser	score
 20170415	423646	465770	H	   6	Virginia Tech	Jason Kros          	Georgia Tech	Chris Yun           	1-6,7-5,7-5
 20170415	391833	438740	A	   6	Kennesaw State	Jake Bouchillon     	Lipscomb	Jorge Ortegon       	7-5, 5-7, 6-4
 20170415	436572	386697	H	   6	USC Upstate	Francisco Neto      	NJIT	Pablo Arrutia       	7-5 6-1
-20170415	401282	410471	A	   6	Stetson	Colter Decoste      	North Florida	Zachary Goldberg    	6-4, 6-3
 20170415	417438	474172	H	   6	Villanova	Alastair Hurry      	Lafayette	Chris Kim           	6-0, 6-1
 20170415	449284	414056	N	   6	Idaho	Guilherme Scarpelli 	Montana State	Dylan Harvala       	6-1, 6-2
 20170415	413120	385311	A	   6	Montana	Ludvig Hallgren     	Eastern Washington	Ricardo Almeida     	6-1, 6-3
