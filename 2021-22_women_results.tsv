@@ -1298,6 +1298,7 @@ date	where	score	winner	loser
 2022-01-25	H	7-0	University of Nebraska	Creighton University
 2022-01-26	A	4-3	Loyola Marymount University	University of California: Los Angeles
 2022-01-27	A		Angelo State University	Abilene Christian University
+2022-01-27	H	6-1	Charleston Southern University	Wofford College
 2022-01-27	A		Elon University	Virginia Commonwealth University
 2022-01-27	A		Florida National University	Embry-Riddle Aeronautical University - FL
 2022-01-27	A		Fullerton College	Glendale Community College - CA
@@ -1312,7 +1313,6 @@ date	where	score	winner	loser
 2022-01-27	A		University of South Dakota	Drake University
 2022-01-27	N		University of the Cumberlands	Savannah College of Art & Design
 2022-01-27	A		Ventura College	Westmont College
-2022-01-27	A		Wofford College	Charleston Southern University
 2022-01-28	N		Auburn University	Arizona State University
 2022-01-28	N		Binghamton University	Sacred Heart University
 2022-01-28	A		Brigham Young University	University of California: Berkeley
@@ -1402,7 +1402,6 @@ date	where	score	winner	loser
 2022-01-29	A		Dallas Baptist University	Abilene Christian University
 2022-01-29	N		Eastern Illinois University	University of North Dakota
 2022-01-29	A		Eastern Washington University	Washington State University
-2022-01-29	A		Fairfield University	University of Connecticut
 2022-01-29	N		Florida International University	University of Florida
 2022-01-29	N		Furman University	University of Oklahoma
 2022-01-29	A		Georgetown University	Liberty University
@@ -1975,6 +1974,7 @@ date	where	score	winner	loser
 2022-02-09	A		Anderson University - SC	University of North Georgia
 2022-02-09	A		Butler University	Indiana University
 2022-02-09	A		College of Charleston	Georgia Southern University
+2022-02-09	A		Fairfield University	University of Connecticut
 2022-02-09	A		Lees-McRae College	Lander University
 2022-02-09	A		Mississippi University for Women	Alcorn State University
 2022-02-09	A		North Carolina Central University	University of North Carolina at Greensboro
@@ -3886,7 +3886,7 @@ date	where	score	winner	loser
 2022-03-08	A		Mesa Community College	Eastern Arizona College
 2022-03-08	N		Millersville University of Pennsylvania	Winona State University
 2022-03-08	A		Missouri Baptist University	Maryville University of Saint Louis
-2022-03-08	A		Missouri State University	Tarleton State University
+2022-03-08	N		Missouri State University	Tarleton State University
 2022-03-08	A		North Carolina A&T	Lenoir-Rhyne College
 2022-03-08	A		North Carolina Central University	Jackson State University
 2022-03-08	A		Northwest Missouri State University	Henderson State University
