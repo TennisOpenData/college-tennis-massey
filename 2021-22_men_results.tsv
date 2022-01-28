@@ -560,9 +560,9 @@ date	where	score	winner	loser
 2022-01-26	H	5-2	Gardner-Webb University	Wofford College
 2022-01-26	H	7-0	Liberty University	College of William & Mary
 2022-01-26	H	6-1	University of Pennsylvania	Temple University
-2022-01-27	A		Abilene Christian University	Texas Christian University
 2022-01-27	A		Florida National University	Embry-Riddle Aeronautical University - FL
 2022-01-27	A		Solano Community College	Chabot College
+2022-01-27	H	4-1	Texas Christian University	Abilene Christian University
 2022-01-27	N		Union College - KY	William Woods University
 2022-01-27	A		University of Arizona	Prairie View A&M University
 2022-01-27	A		University of Arizona	Prairie View A&M University
@@ -585,7 +585,6 @@ date	where	score	winner	loser
 2022-01-28	N		New Mexico State University	University of California: Riverside
 2022-01-28	N		New Mexico State University	Weber State University
 2022-01-28	A		Nicholls State University	Loyola University New Orleans
-2022-01-28	A		Northern Illinois University	Drake University
 2022-01-28	A		Northwestern College - MN	St. Mary's University - MN
 2022-01-28	A		Northwestern University	St. Mary's University - MN
 2022-01-28	A		Old Dominion University	University of Tennessee
@@ -635,6 +634,7 @@ date	where	score	winner	loser
 2022-01-29	N		Georgia Institute of Technology	Middle Tennessee State University
 2022-01-29	N		Gustavus Adolphus College	Keiser University
 2022-01-29	A		Gustavus Adolphus College	Southeastern University
+2022-01-29	N		Harvard University	Pepperdine University
 2022-01-29	A		Harvard University	University of Southern California
 2022-01-29	A		Indiana University	Auburn University
 2022-01-29	A		Indiana University Southeast	Bellarmine University
@@ -649,7 +649,6 @@ date	where	score	winner	loser
 2022-01-29	A		New Mexico State University	Univ. of Nevada: Las Vegas
 2022-01-29	A		North Carolina Central University	University of North Carolina at Asheville
 2022-01-29	A		North Central College	University of Chicago
-2022-01-29	A		North Greenville College	Furman University
 2022-01-29	A		Northwestern University	University of North Carolina
 2022-01-29	N		Oklahoma State University	University of Oregon
 2022-01-29	A		Palm Beach Atlantic University	Ave Maria University
@@ -668,7 +667,6 @@ date	where	score	winner	loser
 2022-01-29	A		University of California: Riverside	Univ. of Nevada: Las Vegas
 2022-01-29	N		University of California: Riverside	Weber State University
 2022-01-29	N		University of California: Santa Barbara	University of Utah
-2022-01-29	N		University of Denver	Pepperdine University
 2022-01-29	N		University of Hawaii	Weber State University
 2022-01-29	N		University of Idaho	Utah State University
 2022-01-29	N		University of Illinois	North Carolina State University
@@ -837,7 +835,6 @@ date	where	score	winner	loser
 2022-02-04	A		Presbyterian College	East Tennessee State University
 2022-02-04	A		Princeton University	Northwestern University
 2022-02-04	N		Ripon College	St. Mary's University - MN
-2022-02-04	A		Saint Francis College - NY	Temple University
 2022-02-04	A		Salem University	Edinboro University of Pennsylvania
 2022-02-04	A		San Diego State University	University of Washington
 2022-02-04	A		Seward County Community College	Collin County Community College
@@ -949,6 +946,7 @@ date	where	score	winner	loser
 2022-02-05	A		Rockhurst University	Washburn University of Topeka
 2022-02-05	A		Rollins College	Palm Beach Atlantic University
 2022-02-05	A		Rose-Hulman Institute of Technology	Wabash College
+2022-02-05	A		Saint Francis College - NY	Temple University
 2022-02-05	A		Saint Francis University - PA	Carnegie Mellon University
 2022-02-05	A		Saint Joseph's University	United States Naval Academy
 2022-02-05	A		Saint Louis University	Purdue University
