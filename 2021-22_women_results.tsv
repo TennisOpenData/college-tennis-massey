@@ -1307,13 +1307,12 @@ date	where	score	winner	loser
 2022-01-27	H	7-0	Virginia Commonwealth University	Elon University
 2022-01-28	N	4-3	Auburn University	Arizona State University
 2022-01-28	H	4-1	Baylor University	University of Kansas
-2022-01-28	N		Binghamton University	Sacred Heart University
 2022-01-28	A		Bucknell University	Penn State University
-2022-01-28	A		California State University: Fresno	California State University: Sacramento
+2022-01-28	A	7-0	California State University: Fresno	California State University: Sacramento
 2022-01-28	H	5-2	Chicago State University	Eastern Illinois University
+2022-01-28	H	6-0	Creighton University	University of Northern Iowa
 2022-01-28	H	9-0	East Central Community College	Northeast Mississippi Community College
 2022-01-28	A	7-0	East Tennessee State University	Middle Tennessee State University
-2022-01-28	N		Eastern Michigan University	Murray State University
 2022-01-28	N	4-2	Elon University	University of Richmond
 2022-01-28	A		Glendale Community College - CA	Riverside Community College
 2022-01-28	A		Hinds Community College	Mississippi Gulf Coast Community College
@@ -1327,18 +1326,20 @@ date	where	score	winner	loser
 2022-01-28	H	7-0	Midwestern State University	McMurry University
 2022-01-28	N	4-1	Mississippi State University	University of Iowa
 2022-01-28	H	6-1	Montana State University	Seattle University
+2022-01-28	N	4-3	Murray State University	Eastern Michigan University
 2022-01-28	A	5-2	New Jersey Institute of Technology	Rutgers University
 2022-01-28	A		Nicholls State University	Loyola University New Orleans
 2022-01-28	A	7-0	Nicholls State University	Loyola University New Orleans
 2022-01-28	A		Northwestern College - MN	St. Mary's University - MN
-2022-01-28	A		Northwestern University	St. Mary's University - MN
 2022-01-28	A		Our Lady of the Lake University of San Antonio	University of the Incarnate Word
 2022-01-28	A		Our Lady of the Lake University of San Antonio	University of the Incarnate Word
+2022-01-28	N	6-1	Sacred Heart University	Binghamton University
 2022-01-28	H	6-1	Samford University	University of North Alabama
 2022-01-28	A	7-0	Southern Illinois University Edwardsville	Indiana University-Purdue University Indianapolis
 2022-01-28	N	4-2	Southern Methodist University	Rice University
 2022-01-28	A		Southwest Mississippi Community College	Copiah-Lincoln Community College
 2022-01-28	H	4-0	St. John's University (NY)	Siena College
+2022-01-28	H	9-0	St. Mary's University - MN	Northwestern University
 2022-01-28	N	4-2	Stanford University	University of Arkansas
 2022-01-28	H	7-0	Stetson University	Florida National University
 2022-01-28	A		Tarleton State University	Lipscomb University
@@ -1358,7 +1359,6 @@ date	where	score	winner	loser
 2022-01-28	A	6-1	University of New Orleans	Alcorn State University
 2022-01-28	H	4-0	University of North Carolina	University of North Carolina at Charlotte
 2022-01-28	H	2-1	University of North Texas	New Mexico State University
-2022-01-28	A		University of Northern Iowa	Creighton University
 2022-01-28	H	6-1	University of Pennsylvania	Drexel University
 2022-01-28	A	4-3	University of Portland	Portland State University
 2022-01-28	N	4-3	University of Southern California	University of Miami (FL)
@@ -1366,7 +1366,7 @@ date	where	score	winner	loser
 2022-01-28	H	7-0	University of Texas at Arlington	Dallas Baptist University
 2022-01-28	H	5-2	University of Texas at Arlington	Prairie View A&M University
 2022-01-28	N	4-2	University of Tulsa	University of Oregon
-2022-01-28	A		University of Utah	University of Cincinnati
+2022-01-28	A	4-3	University of Utah	University of Cincinnati
 2022-01-28	H	4-0	University of Virginia	James Madison University
 2022-01-28	N	4-3	University of Washington	University of Denver
 2022-01-28	A	1-6	University of Wisconsin	DePaul University
@@ -1384,6 +1384,7 @@ date	where	score	winner	loser
 2022-01-29	A		Belmont Abbey College	Presbyterian College
 2022-01-29	A		Bemidji State University	University of Minnesota: Crookston
 2022-01-29	A		Binghamton University	United States Military Academy
+2022-01-29	A		Binghamton University	United States Military Academy
 2022-01-29	A		Boston University	Dartmouth College
 2022-01-29	A		Bowling Green State University	Purdue University
 2022-01-29	A		Bradley University	Northern Illinois University
@@ -1392,6 +1393,7 @@ date	where	score	winner	loser
 2022-01-29	A		Brown University	Dartmouth College
 2022-01-29	N		Brown University	University of Massachusetts Amherst
 2022-01-29	A		California Institute of Technology	California State University: Los Angeles
+2022-01-29	N		California Polytechnic State University	University of Denver
 2022-01-29	A		California State University: Sacramento	San Jose State University
 2022-01-29	A		Campbell University	Liberty University
 2022-01-29	A		Chicago State University	Illinois State University
