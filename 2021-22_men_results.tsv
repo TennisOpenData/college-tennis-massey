@@ -505,6 +505,7 @@ date	where	score	winner	loser
 2022-01-23	H	6-1	Ball State University	Cleveland State University
 2022-01-23	N	4-3	Boise State University	Abilene Christian University
 2022-01-23	N	5-2	Bryant University	Binghamton University
+2022-01-23	A	4-2	California State University: Sacramento	California Polytechnic State University
 2022-01-23	H	6-1	Clemson University	East Tennessee State University
 2022-01-23	H	4-2	Davidson College	Gardner-Webb University
 2022-01-23	H	7-0	Duke University	Elon University
@@ -636,8 +637,6 @@ date	where	score	winner	loser
 2022-01-29	A		New Mexico State University	Univ. of Nevada: Las Vegas
 2022-01-29	A		North Carolina Central University	University of North Carolina at Asheville
 2022-01-29	A		North Central College	University of Chicago
-2022-01-29	A		Northwestern University	University of North Carolina
-2022-01-29	N		Oklahoma State University	University of Oregon
 2022-01-29	A		Palm Beach Atlantic University	Ave Maria University
 2022-01-29	A		Princeton University	University of Florida
 2022-01-29	H	7-0	Rice University	University of Texas Rio Grande Valley
@@ -651,7 +650,6 @@ date	where	score	winner	loser
 2022-01-29	A		University of Arkansas	Mississippi State University
 2022-01-29	A		University of California: Los Angeles	Texas A&M University
 2022-01-29	A		University of California: Riverside	Univ. of Nevada: Las Vegas
-2022-01-29	N		University of California: Riverside	Weber State University
 2022-01-29	N		University of California: Santa Barbara	University of Utah
 2022-01-29	N		University of Idaho	Utah State University
 2022-01-29	N	4-0	University of Kentucky	University of Alabama
@@ -659,14 +657,17 @@ date	where	score	winner	loser
 2022-01-29	N		University of Michigan	Southern Methodist University
 2022-01-29	N		University of Mississippi	University of Oklahoma
 2022-01-29	A		University of Nevada (Reno)	University of California: Davis
+2022-01-29	H	4-0	University of North Carolina	Northwestern University
 2022-01-29	A		University of North Carolina at Wilmington	Florida State University
+2022-01-29	N	4-0	University of Oregon	Oklahoma State University
 2022-01-29	A		University of Portland	Texas Christian University
 2022-01-29	A		University of St. Thomas (Texas)	McMurry University
 2022-01-29	H	4-0	University of Texas	Columbia University
-2022-01-29	A		University of Tulsa	Wichita State University
+2022-01-29	A	4-2	University of Tulsa	Wichita State University
 2022-01-29	N		Vanderbilt University	University of Wisconsin
 2022-01-29	A		Washburn University of Topeka	University of Nebraska Omaha
 2022-01-29	A		Washburn University of Topeka	University of Nebraska Omaha
+2022-01-29	N	4-0	Weber State University	University of California: Riverside
 2022-01-29	A		West Liberty University	Bellarmine University
 2022-01-29	A		Wofford College	Stetson University
 2022-01-29	A		Xavier University of Louisiana	University of Louisiana at Lafayette
