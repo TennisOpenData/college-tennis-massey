@@ -672,22 +672,22 @@ date	where	score	winner	loser
 2022-01-30	A		Cleveland State University	Butler University
 2022-01-30	A		College of Charleston	University of North Florida
 2022-01-30	A		College of William & Mary	Baylor University
+2022-01-30	N	4-3	Columbia University	Oklahoma State University
 2022-01-30	A		Columbus State University	Alabama State University
 2022-01-30	A		Duke University	University of South Carolina
 2022-01-30	A		Eastern Illinois University	Marquette University
 2022-01-30	A		Emmanuel College - GA	Mercer University
-2022-01-30	A		Fairfield University	Yale University
 2022-01-30	A		Florida State University	University of Florida
 2022-01-30	A		Georgia Institute of Technology	University of Virginia
 2022-01-30	A		Georgia Institute of Technology	University of Virginia
-2022-01-30	A		Grand Canyon University	Idaho State University
 2022-01-30	A		Harvard University	University of Southern California
 2022-01-30	A		Holy Names University	California State University: Sacramento
+2022-01-30	H	4-0	Idaho State University	Grand Canyon University
 2022-01-30	A		Indiana University-Purdue University Indianapolis	Purdue University
 2022-01-30	N		Liberty University	Louisiana State University
 2022-01-30	A		Long Island University	New Jersey Institute of Technology
 2022-01-30	A		Loyola University New Orleans	University of New Orleans
-2022-01-30	A		Marist College	United States Military Academy
+2022-01-30	H	6-1	Mercer University	Abraham Baldwin College
 2022-01-30	A		Mercer University	Troy State University
 2022-01-30	N	4-0	Middle Tennessee State University	Ball State University
 2022-01-30	N		Middle Tennessee State University	Middle Tennessee State University
@@ -695,11 +695,13 @@ date	where	score	winner	loser
 2022-01-30	A		Penn State University	Cornell University
 2022-01-30	A		Prairie View A&M University	Nicholls State University
 2022-01-30	A		Presbyterian College	University of North Carolina at Charlotte
-2022-01-30	A		Quinnipiac University	United States Military Academy
+2022-01-30	N	4-2	Princeton University	University of North Carolina at Wilmington
 2022-01-30	A		Siena College	Brown University
 2022-01-30	A		St. Bonaventure University	Cornell University
 2022-01-30	N		Stanford University	Tulane University
 2022-01-30	A		Texas A&M University-Corpus Christi	Texas A&M University
+2022-01-30	H	6-1	United States Military Academy	Marist College
+2022-01-30	H	7-0	United States Military Academy	Quinnipiac University
 2022-01-30	N	4-0	University of Arkansas	University of Alabama
 2022-01-30	H	4-3	University of Central Florida	University of Louisville
 2022-01-30	A		University of Charleston (WV)	University of North Florida
@@ -708,9 +710,8 @@ date	where	score	winner	loser
 2022-01-30	A		University of Illinois at Chicago	DePaul University
 2022-01-30	A		University of North Alabama	University of Alabama at Birmingham
 2022-01-30	N	4-1	University of Oklahoma	University of Illinois
-2022-01-30	H		University of Oregon	University of Texas
-2022-01-30	N		University of Portland	Wichita State University
 2022-01-30	N	4-2	University of South Florida	Virginia Polytechnic Institute & State University
+2022-01-30	H	4-0	University of Texas	University of Oregon
 2022-01-30	A		University of Texas Rio Grande Valley	St. Mary's University - TX
 2022-01-30	A		University of Texas Rio Grande Valley	University of Texas at San Antonio
 2022-01-30	A		University of Tulsa	Texas Christian University
@@ -719,15 +720,17 @@ date	where	score	winner	loser
 2022-01-30	A		Virginia Commonwealth University	University of Georgia
 2022-01-30	A		Western New Mexico University	Northern Arizona University
 2022-01-30	A		Western New Mexico University	Northern Arizona University
+2022-01-30	N	4-1	Wichita State University	University of Portland
+2022-01-30	H	7-0	Yale University	Fairfield University
 2022-01-31	A		Gustavus Adolphus College	Eastern Florida State College
 2022-01-31	A		Gustavus Adolphus College	Saint Leo University
 2022-01-31	N		Gustavus Adolphus College	Warner University
 2022-01-31	A		Itawamba Community College	Jones College
 2022-01-31	A		Meridian Community College	Holmes Community College
 2022-01-31	A		Prairie View A&M University	University of New Orleans
-2022-01-31	N		Stanford University	Tulane University
 2022-01-31	A		The Citadel	Coastal Carolina University
 2022-01-31	A		The Citadel	Coastal Carolina University
+2022-01-31	N		University of Louisville	Tulane University
 2022-02-01	A		Alcorn State University	University of Mississippi
 2022-02-01	A		Alcorn State University	University of Mississippi
 2022-02-01	A		Copiah-Lincoln Community College	Hinds Community College
