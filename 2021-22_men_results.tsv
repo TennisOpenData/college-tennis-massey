@@ -609,14 +609,12 @@ date	where	score	winner	loser
 2022-01-29	A		Arizona Christian	Northern Arizona University
 2022-01-29	N		Arizona State University	Ohio State University
 2022-01-29	A		Austin Peay State University	Lipscomb University
+2022-01-29	H	7-0	Bellarmine University	Indiana University Southeast
 2022-01-29	H	6-1	Bellarmine University	West Liberty University
 2022-01-29	A		Bucknell University	Michigan State University
 2022-01-29	A		California State University: Sacramento	Santa Clara University
-2022-01-29	A		Cleveland State University	Xavier University (Ohio)
 2022-01-29	A		Dallas Baptist University	Abilene Christian University
-2022-01-29	A		Drake University	University of Nebraska
 2022-01-29	N	4-1	Duke University	Liberty University
-2022-01-29	N		Eastern Illinois University	University of North Dakota
 2022-01-29	A		Emmanuel College - GA	Furman University
 2022-01-29	N	4-0	Florida State University	University of North Carolina at Wilmington
 2022-01-29	N	4-2	Georgia Institute of Technology	Middle Tennessee State University
@@ -629,7 +627,6 @@ date	where	score	winner	loser
 2022-01-29	A		Long Island University	Siena College
 2022-01-29	A	4-2	Longwood University	Saint Francis University - PA
 2022-01-29	A		Marist College	United States Military Academy
-2022-01-29	A		Martin Luther College	St. Mary's University - MN
 2022-01-29	H	0-7	Mercer University	Alabama Agricultural & Mechanical University
 2022-01-29	H	6-1	Mercer University	Young Harris College
 2022-01-29	A		Meridian Community College	Coastal Alabama Community College
@@ -637,13 +634,14 @@ date	where	score	winner	loser
 2022-01-29	H	4-3	Michigan State University	University of Toledo
 2022-01-29	H	4-1	Mississippi State University	University of Arkansas
 2022-01-29	N		Montreat College	William Woods University
-2022-01-29	A		North Carolina Central University	University of North Carolina at Asheville
+2022-01-29	N	4-2	North Carolina State University	University of Illinois
 2022-01-29	H	6-1	Northern Arizona University	Arizona Christian
 2022-01-29	A		Palm Beach Atlantic University	Ave Maria University
 2022-01-29	H	7-0	Rice University	Trinity University - Texas
 2022-01-29	H	7-0	Rice University	University of Texas Rio Grande Valley
 2022-01-29	A	4-3	Saint Francis College - NY	United States Naval Academy
 2022-01-29	A		St. Mary's College - CA	California Polytechnic State University
+2022-01-29	H	7-2	St. Mary's University - MN	Martin Luther College
 2022-01-29	H	4-0	Stetson University	Wofford College
 2022-01-29	N		Tennessee Technological University	University of Alabama at Birmingham
 2022-01-29	H	4-0	Texas A&M University	University of California: Los Angeles
@@ -653,8 +651,8 @@ date	where	score	winner	loser
 2022-01-29	A		Trinity University - Texas	Rice University
 2022-01-29	H	4-3	United States Naval Academy	Youngstown State University
 2022-01-29	H	4-0	Univ. of Nevada: Las Vegas	New Mexico State University
+2022-01-29	H	4-1	Univ. of Nevada: Las Vegas	University of California: Riverside
 2022-01-29	N		Univ. of Nevada: Las Vegas	Weber State University
-2022-01-29	A		University of California: Riverside	Univ. of Nevada: Las Vegas
 2022-01-29	H	7-2	University of Chicago	North Central College
 2022-01-29	H	4-0	University of Florida	Princeton University
 2022-01-29	N		University of Idaho	Utah State University
@@ -662,8 +660,11 @@ date	where	score	winner	loser
 2022-01-29	H	4-0	University of Louisiana at Lafayette	Xavier University of Louisiana
 2022-01-29	N	4-0	University of Michigan	Southern Methodist University
 2022-01-29	H	4-1	University of Mississippi	University of Oklahoma
+2022-01-29	H	4-3	University of Nebraska	Drake University
 2022-01-29	A		University of Nevada (Reno)	University of California: Davis
 2022-01-29	H	4-0	University of North Carolina	Northwestern University
+2022-01-29	H	7-0	University of North Carolina at Asheville	North Carolina Central University
+2022-01-29	N	7-0	University of North Dakota	Eastern Illinois University
 2022-01-29	N	4-0	University of Oregon	Oklahoma State University
 2022-01-29	H	4-1	University of South Carolina	Louisiana State University
 2022-01-29	N	4-0	University of Tennessee	University of Memphis
@@ -673,10 +674,12 @@ date	where	score	winner	loser
 2022-01-29	N	4-1	University of Utah	University of California: Santa Barbara
 2022-01-29	H	4-0	University of Virginia	Ball State University
 2022-01-29	N	5-2	Vanderbilt University	University of Wisconsin
+2022-01-29	H	4-1	Wake Forest University	University of Notre Dame
 2022-01-29	A		Washburn University of Topeka	University of Nebraska Omaha
 2022-01-29	A		Washburn University of Topeka	University of Nebraska Omaha
 2022-01-29	N	4-0	Weber State University	University of California: Riverside
 2022-01-29	A		West Liberty University	Bellarmine University
+2022-01-29	H	6-1	Xavier University (Ohio)	Cleveland State University
 2022-01-29	A		Young Harris College	Mercer University
 2022-01-30	A		Abraham Baldwin College	Mercer University
 2022-01-30	A		American River College	California State University: Sacramento
@@ -717,6 +720,7 @@ date	where	score	winner	loser
 2022-01-30	A		Texas A&M University-Corpus Christi	Texas A&M University
 2022-01-30	A		Tusculum College	University of North Carolina at Asheville
 2022-01-30	N		Univ. of Nevada: Las Vegas	Weber State University
+2022-01-30	A		University of Arizona	Texas A&M University
 2022-01-30	N		University of Arkansas	University of Alabama
 2022-01-30	A		University of Charleston (WV)	University of North Florida
 2022-01-30	N		University of Florida	Florida State University
@@ -724,6 +728,7 @@ date	where	score	winner	loser
 2022-01-30	A		University of Idaho	University of Washington
 2022-01-30	A		University of Illinois at Chicago	DePaul University
 2022-01-30	H		University of Louisville	University of Central Florida
+2022-01-30	N		University of Mississippi	North Carolina State University
 2022-01-30	A		University of North Alabama	University of Alabama at Birmingham
 2022-01-30	A		University of Oregon	University of Texas
 2022-01-30	N		University of Portland	Wichita State University
