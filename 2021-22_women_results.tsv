@@ -1374,7 +1374,6 @@ date	where	score	winner	loser
 2022-01-29	N	6-1	Brown University	University of Massachusetts Amherst
 2022-01-29	A		California Institute of Technology	California State University: Los Angeles
 2022-01-29	H	7-0	California State University: Northridge	Westmont College
-2022-01-29	A		Chicago State University	Illinois State University
 2022-01-29	H	7-0	Clemson University	Georgia Southern University
 2022-01-29	A		College of the Sequoias	Antelope Valley College
 2022-01-29	A		Dallas Baptist University	Abilene Christian University
@@ -1387,10 +1386,11 @@ date	where	score	winner	loser
 2022-01-29	A		Georgetown University	Liberty University
 2022-01-29	A		Hope International University	University of California: Riverside
 2022-01-29	A		Idaho State University	Washington State University
+2022-01-29	H	7-0	Illinois State University	Chicago State University
 2022-01-29	A		Lees-McRae College	Appalachian State University
 2022-01-29	H	7-0	Liberty University	Campbell University
 2022-01-29	A		Long Island University	Siena College
-2022-01-29	A		Louisiana State University at Alexandria	Dillard University
+2022-01-29	A	7-0	Louisiana State University at Alexandria	Dillard University
 2022-01-29	H	4-3	Marshall University	Murray State University
 2022-01-29	H	0-7	Mercer University	Alabama Agricultural & Mechanical University
 2022-01-29	H	7-0	Mercer University	Young Harris College
@@ -1444,6 +1444,7 @@ date	where	score	winner	loser
 2022-01-29	A	4-1	University of Nevada (Reno)	Santa Clara University
 2022-01-29	A		University of New Mexico	Colorado College
 2022-01-29	H	4-0	University of North Carolina	University of Tulsa
+2022-01-29	N	4-1	University of North Carolina at Charlotte	University of Oregon
 2022-01-29	N	7-0	University of North Dakota	Eastern Illinois University
 2022-01-29	A		University of Northern Iowa	University of Nebraska Omaha
 2022-01-29	N	4-1	University of Notre Dame	University of Colorado
@@ -1457,7 +1458,7 @@ date	where	score	winner	loser
 2022-01-29	N		University of the Cumberlands	William Woods University
 2022-01-29	H	5-2	University of Toledo	Youngstown State University
 2022-01-29	H	4-3	University of Virginia	Stanford University
-2022-01-29	A		University of Washington	University of California: Los Angeles
+2022-01-29	A	4-3	University of Washington	University of California: Los Angeles
 2022-01-29	A	7-0	University of Wisconsin	Northern Illinois University
 2022-01-29	A	6-1	University of Wisconsin-Milwaukee	Cardinal Stritch University
 2022-01-29	A		University of Wisconsin-Milwaukee	Cardinal Stritch University
