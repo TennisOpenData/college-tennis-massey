@@ -1457,38 +1457,39 @@ date	where	score	winner	loser
 2022-01-30	N		Brown University	Boston University
 2022-01-30	A		Butler University	Ball State University
 2022-01-30	N		Campbell University	Georgetown University
-2022-01-30	A		Cornell University	Syracuse University
 2022-01-30	A		DePaul University	Michigan State University
-2022-01-30	A		Eastern Illinois University	Marquette University
 2022-01-30	A		Emmanuel College - GA	Mercer University
+2022-01-30	N	4-2	Florida International University	University of Illinois
+2022-01-30	N	4-1	Furman University	University of Nebraska
 2022-01-30	A		Illinois State University	Indiana University-Purdue University Indianapolis
 2022-01-30	A		Jackson State University	Stephen F. Austin State University
 2022-01-30	A		Keiser University	Barry University
 2022-01-30	A		Lamar University	University of North Texas
 2022-01-30	A		Lee University	University of Tennessee: Chattanooga
 2022-01-30	A		Lipscomb University	Western Kentucky University
-2022-01-30	N		Louisiana State University	Oklahoma State University
 2022-01-30	A		Loyola University New Orleans	University of New Orleans
+2022-01-30	H	7-0	Marquette University	Eastern Illinois University
 2022-01-30	N		Metropolitan State University of Denver	University of New Mexico
 2022-01-30	N		Middle Tennessee State University	Austin Peay State University
 2022-01-30	A		Morgan State University	United States Naval Academy
 2022-01-30	A		Murray State University	Bellarmine University
 2022-01-30	A		New Mexico State University	University of Texas at Arlington
+2022-01-30	N	2-0	Oklahoma State University	Louisiana State University
 2022-01-30	A		Oral Roberts University	Montana State University
 2022-01-30	A		Ottawa University	Washburn University of Topeka
 2022-01-30	A		Pepperdine University	University of Notre Dame
 2022-01-30	A		Saint Louis University	Purdue University
 2022-01-30	A		Sam Houston State University	University of Texas at San Antonio
 2022-01-30	N		Seton Hall University	Sacred Heart University
+2022-01-30	H	6-1	Syracuse University	Cornell University
 2022-01-30	A		Texas Tech University	Texas A&M University
 2022-01-30	A		Tyler Junior College	Abilene Christian University
 2022-01-30	H	6-1	United States Naval Academy	Villanova University
 2022-01-30	A		University of California: Irvine	Santa Clara University
 2022-01-30	A		University of Florida	Florida State University
-2022-01-30	A		University of Illinois	Florida International University
 2022-01-30	A		University of Illinois at Chicago	University of Toledo
 2022-01-30	A		University of Massachusetts Amherst	Dartmouth College
-2022-01-30	A		University of Michigan	Georgia Institute of Technology
+2022-01-30	A	4-3	University of Michigan	Georgia Institute of Technology
 2022-01-30	A		University of Minnesota: Duluth	University of Wisconsin-Superior
 2022-01-30	N		University of Mississippi	Old Dominion University
 2022-01-30	A		University of Nevada (Reno)	University of California: Davis
@@ -1496,7 +1497,7 @@ date	where	score	winner	loser
 2022-01-30	A		University of South Florida	University of Memphis
 2022-01-30	A		University of Tennessee	Ohio State University
 2022-01-30	A		University of Tennessee: Martin	Western Kentucky University
-2022-01-30	A		University of Utah	Indiana University
+2022-01-30	A	5-2	University of Utah	Indiana University
 2022-01-30	A		Weatherford College	University of Texas at Arlington
 2022-01-30	A		West Virginia University	Cleveland State University
 2022-01-30	A		Wichita State University	University of Nebraska Omaha
@@ -1520,6 +1521,7 @@ date	where	score	winner	loser
 2022-02-01	A		Santa Monica College	Antelope Valley College
 2022-02-01	A		St. Thomas University (FL)	Barry University
 2022-02-01	A		Texas A&M University-Kingsville	Texas A&M University-Corpus Christi
+2022-02-01	A		Texas State University: San Marcos	Prairie View A&M University
 2022-02-01	A		University of Houston	Texas Christian University
 2022-02-01	A		Valdosta State University	Georgia College & State University
 2022-02-01	A		West Valley College	Diablo Valley College
@@ -1533,7 +1535,6 @@ date	where	score	winner	loser
 2022-02-02	A		Florida Agricultural & Mechanical University	Florida State University
 2022-02-02	A		Indiana University-Purdue University Indianapolis	University of Indianapolis
 2022-02-02	A		Pacific Lutheran University	Arizona Christian
-2022-02-02	H		Prairie View A&M University	Texas State University: San Marcos
 2022-02-02	A		St. Mary's College - CA	California State University: Fresno
 2022-02-02	A		United States Air Force Academy	University of Colorado
 2022-02-02	A		University of Alabama at Birmingham	Samford University
