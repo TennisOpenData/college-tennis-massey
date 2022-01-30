@@ -1347,7 +1347,7 @@ date	where	score	winner	loser
 2022-01-28	A	7-0	University of New Orleans	Alcorn State University
 2022-01-28	A	6-1	University of New Orleans	Alcorn State University
 2022-01-28	H	4-0	University of North Carolina	University of North Carolina at Charlotte
-2022-01-28	H	2-1	University of North Texas	New Mexico State University
+2022-01-28	H	3-2	University of North Texas	New Mexico State University
 2022-01-28	H	6-1	University of Pennsylvania	Drexel University
 2022-01-28	A	4-3	University of Portland	Portland State University
 2022-01-28	N	4-3	University of Southern California	University of Miami (FL)
@@ -1438,6 +1438,7 @@ date	where	score	winner	loser
 2022-01-29	A	8-1	University of St. Thomas (Texas)	McMurry University
 2022-01-29	N	4-0	University of Tennessee	Louisiana State University
 2022-01-29	N	4-0	University of Texas	Southern Methodist University
+2022-01-29	N	4-0	University of the Cumberlands	William Woods University
 2022-01-29	H	5-2	University of Toledo	Youngstown State University
 2022-01-29	H	4-3	University of Virginia	Stanford University
 2022-01-29	A	4-3	University of Washington	University of California: Los Angeles
@@ -1453,17 +1454,16 @@ date	where	score	winner	loser
 2022-01-29	N	7-0	Western Michigan University	St. Bonaventure University
 2022-01-29	N	4-3	Xavier University (Ohio)	University of South Florida
 2022-01-30	A		Abraham Baldwin College	Mercer University
-2022-01-30	A		Belmont University	East Tennessee State University
-2022-01-30	N		Brown University	Boston University
-2022-01-30	A		Butler University	Ball State University
+2022-01-30	H	6-1	Ball State University	Butler University
+2022-01-30	N	5-2	Boston University	Brown University
 2022-01-30	N	6-1	Campbell University	Georgetown University
+2022-01-30	H	7-0	East Tennessee State University	Belmont University
 2022-01-30	A		Emmanuel College - GA	Mercer University
 2022-01-30	N	4-2	Florida International University	University of Illinois
 2022-01-30	N	4-1	Furman University	University of Nebraska
 2022-01-30	A		Illinois State University	Indiana University-Purdue University Indianapolis
 2022-01-30	A		Jackson State University	Stephen F. Austin State University
 2022-01-30	A		Keiser University	Barry University
-2022-01-30	A		Lamar University	University of North Texas
 2022-01-30	A		Lee University	University of Tennessee: Chattanooga
 2022-01-30	A		Lipscomb University	Western Kentucky University
 2022-01-30	A		Loyola University New Orleans	University of New Orleans
@@ -1472,21 +1472,21 @@ date	where	score	winner	loser
 2022-01-30	N		Metropolitan State University of Denver	University of New Mexico
 2022-01-30	H	2-5	Michigan State University	DePaul University
 2022-01-30	N		Middle Tennessee State University	Austin Peay State University
-2022-01-30	A		Morgan State University	United States Naval Academy
 2022-01-30	A	7-0	Murray State University	Bellarmine University
+2022-01-30	H	4-0	Ohio State University	University of Tennessee
 2022-01-30	N	2-0	Oklahoma State University	Louisiana State University
 2022-01-30	A		Oral Roberts University	Montana State University
 2022-01-30	A		Ottawa University	Washburn University of Topeka
 2022-01-30	A		Pepperdine University	University of Notre Dame
-2022-01-30	A		Saint Louis University	Purdue University
-2022-01-30	A		Sam Houston State University	University of Texas at San Antonio
+2022-01-30	H	4-0	Purdue University	Saint Louis University
 2022-01-30	N		Seton Hall University	Sacred Heart University
 2022-01-30	H	6-1	Syracuse University	Cornell University
-2022-01-30	A		Texas Tech University	Texas A&M University
+2022-01-30	H	4-0	Texas A&M University	Texas Tech University
 2022-01-30	A		Tyler Junior College	Abilene Christian University
+2022-01-30	H	7-0	United States Naval Academy	Morgan State University
 2022-01-30	H	6-1	United States Naval Academy	Villanova University
 2022-01-30	A		University of California: Irvine	Santa Clara University
-2022-01-30	A		University of Florida	Florida State University
+2022-01-30	A	4-0	University of Florida	Florida State University
 2022-01-30	A		University of Massachusetts Amherst	Dartmouth College
 2022-01-30	H	6-1	University of Memphis	University of South Florida
 2022-01-30	A	4-3	University of Michigan	Georgia Institute of Technology
@@ -1495,15 +1495,16 @@ date	where	score	winner	loser
 2022-01-30	H	4-3	University of Nebraska Omaha	Wichita State University
 2022-01-30	A		University of Nevada (Reno)	University of California: Davis
 2022-01-30	A		University of New Mexico	Colorado State University: Pueblo
+2022-01-30	H	7-0	University of North Texas	Lamar University
 2022-01-30	H	4-2	University of South Carolina	Princeton University
-2022-01-30	A		University of Tennessee	Ohio State University
 2022-01-30	A		University of Tennessee: Martin	Western Kentucky University
 2022-01-30	H	5-2	University of Texas at Arlington	New Mexico State University
+2022-01-30	H	4-3	University of Texas at San Antonio	Sam Houston State University
 2022-01-30	H	5-2	University of Toledo	University of Illinois at Chicago
 2022-01-30	A	5-2	University of Utah	Indiana University
 2022-01-30	A		Weatherford College	University of Texas at Arlington
 2022-01-30	A		West Virginia University	Cleveland State University
-2022-01-30	A		Wofford College	Coastal Carolina University
+2022-01-30	A	6-1	Wofford College	Coastal Carolina University
 2022-01-31	A		Ave Maria University	Florida Gulf Coast University
 2022-01-31	A		Itawamba Community College	Jones College
 2022-01-31	A		Pacific Lutheran University	Ottawa University Arizona
