@@ -1366,15 +1366,17 @@ date	where	score	winner	loser
 2022-01-29	N		Alabama State University	Auburn University at Montgomery
 2022-01-29	N	4-1	Arizona State University	University of California: Santa Barbara
 2022-01-29	A	4-0	Auburn University	University of Central Florida
-2022-01-29	A		Azusa Pacific University	California State University: Fullerton
+2022-01-29	A		Belmont Abbey College	Presbyterian College
 2022-01-29	A		Belmont Abbey College	Presbyterian College
 2022-01-29	A		Bemidji State University	University of Minnesota: Crookston
 2022-01-29	A		Bradley University	Northern Illinois University
 2022-01-29	N		Bradley University	University of Wisconsin
 2022-01-29	N	6-1	Brown University	University of Massachusetts Amherst
 2022-01-29	A		California Institute of Technology	California State University: Los Angeles
+2022-01-29	H	6-1	California State University: Fullerton	Azusa Pacific University
 2022-01-29	H	7-0	California State University: Northridge	Westmont College
 2022-01-29	H	7-0	Clemson University	Georgia Southern University
+2022-01-29	H	5-2	Cleveland State University	Western Michigan University
 2022-01-29	A		College of the Sequoias	Antelope Valley College
 2022-01-29	A		Dallas Baptist University	Abilene Christian University
 2022-01-29	H	5-2	Dartmouth College	Boston University
@@ -1383,12 +1385,11 @@ date	where	score	winner	loser
 2022-01-29	A		Florida Gulf Coast University	Florida Agricultural & Mechanical University
 2022-01-29	H	4-3	Florida State University	University of Illinois
 2022-01-29	H	6-1	George Washington University	Morgan State University
-2022-01-29	A		Georgetown University	Liberty University
-2022-01-29	A		Hope International University	University of California: Riverside
 2022-01-29	A		Idaho State University	Washington State University
 2022-01-29	H	7-0	Illinois State University	Chicago State University
 2022-01-29	A		Lees-McRae College	Appalachian State University
 2022-01-29	H	7-0	Liberty University	Campbell University
+2022-01-29	H	6-1	Liberty University	Georgetown University
 2022-01-29	A		Long Island University	Siena College
 2022-01-29	A	7-0	Louisiana State University at Alexandria	Dillard University
 2022-01-29	H	4-3	Marshall University	Murray State University
@@ -1409,7 +1410,6 @@ date	where	score	winner	loser
 2022-01-29	H	7-0	Purdue University	Bowling Green State University
 2022-01-29	N	4-3	Rice University	Florida Atlantic University
 2022-01-29	H	5-2	Saint Francis University - PA	Longwood University
-2022-01-29	A		Saint Louis University	Valparaiso University
 2022-01-29	H	4-0	San Diego State University	University of California: San Diego
 2022-01-29	H	6-1	San Jose State University	California State University: Sacramento
 2022-01-29	A		St. Bonaventure University	Cleveland State University
@@ -1423,13 +1423,15 @@ date	where	score	winner	loser
 2022-01-29	H	4-0	Tulane University	Northwestern State University
 2022-01-29	H	4-0	Tulane University	Southern University & Agricultural & Mechanical
 2022-01-29	A		Tyler Junior College	Angelo State University
+2022-01-29	H	6-1	United States Air Force Academy	Metropolitan State University of Denver
+2022-01-29	H	7-0	United States Air Force Academy	Metropolitan State University of Denver
 2022-01-29	H	7-0	United States Military Academy	Binghamton University
 2022-01-29	A		United States Naval Academy	University of Richmond
 2022-01-29	H	6-1	University of Alabama	University of Alabama at Birmingham
 2022-01-29	H	5-2	University of Alabama	University of Tennessee: Chattanooga
 2022-01-29	H	6-1	University of California: Davis	University of California: Irvine
 2022-01-29	H	4-0	University of California: Riverside	Hope International University
-2022-01-29	A		University of Cincinnati	Butler University
+2022-01-29	A	5-2	University of Cincinnati	Butler University
 2022-01-29	A	7-0	University of Dayton	Indiana University-Purdue University Indianapolis
 2022-01-29	N	4-2	University of Denver	California Polytechnic State University
 2022-01-29	N	4-1	University of Florida	Florida International University
@@ -1462,13 +1464,13 @@ date	where	score	winner	loser
 2022-01-29	A	7-0	University of Wisconsin	Northern Illinois University
 2022-01-29	A	6-1	University of Wisconsin-Milwaukee	Cardinal Stritch University
 2022-01-29	A		University of Wisconsin-Milwaukee	Cardinal Stritch University
+2022-01-29	H	4-3	Valparaiso University	Saint Louis University
 2022-01-29	A		Vanderbilt University	University of California: Berkeley
 2022-01-29	H	4-3	Virginia Commonwealth University	University of Maryland
 2022-01-29	N	4-2	Wake Forest University	Northwestern University
 2022-01-29	H	2-5	Washington State University	Eastern Washington University
 2022-01-29	A		Weatherford College	University of Texas Rio Grande Valley
 2022-01-29	A		Weatherford College	University of Texas Rio Grande Valley
-2022-01-29	A		Western Michigan University	Cleveland State University
 2022-01-29	A		Westmont College	California State University: Northridge
 2022-01-29	A		William Jessup University	Fresno Pacific University
 2022-01-29	N	4-3	Xavier University (Ohio)	University of South Florida
@@ -3490,6 +3492,7 @@ date	where	score	winner	loser
 2022-03-04	A		Northwestern State University	Lamar University
 2022-03-04	A		Oakland City University	University of Southern Indiana
 2022-03-04	A		Ohio State University	Penn State University
+2022-03-04	A		Ohio State University	Penn State University
 2022-03-04	A		Oklahoma Wesleyan University	McMurry University
 2022-03-04	A		Oklahoma Wesleyan University	McMurry University
 2022-03-04	N		Principia College	Rose-Hulman Institute of Technology
@@ -4826,6 +4829,7 @@ date	where	score	winner	loser
 2022-03-19	N		Florida Southern College	St. Mary's University - TX
 2022-03-19	A		Francis Marion University	Chowan College
 2022-03-19	A		Frostburg State University	Bloomsburg University of Pennsylvania
+2022-03-19	N		Furman University	James Madison University
 2022-03-19	A		Georgetown University	George Washington University
 2022-03-19	A		Georgia Southern University	University of South Alabama
 2022-03-19	A		Georgia State University	Troy State University
