@@ -602,7 +602,6 @@ date	where	score	winner	loser
 2022-01-28	N	5-0	William Woods University	Grace College & Seminary
 2022-01-28	A	6-1	Xavier University (Ohio)	Bellarmine University
 2022-01-28	H	7-0	Yale University	SUNY Buffalo
-2022-01-29	H	7-0	Bellarmine University	Indiana University Southeast
 2022-01-29	H	6-1	Bellarmine University	West Liberty University
 2022-01-29	H	5-2	California Polytechnic State University	St. Mary's College - CA
 2022-01-29	N	4-1	Duke University	Liberty University
@@ -623,6 +622,7 @@ date	where	score	winner	loser
 2022-01-29	N	4-2	Montreat College	William Woods University
 2022-01-29	N	4-2	North Carolina State University	University of Illinois
 2022-01-29	A	9-0	North Central College	University of Chicago
+2022-01-29	H	7-0	Northern Arizona University	Arizona Christian
 2022-01-29	H	6-1	Northern Arizona University	Arizona Christian
 2022-01-29	N	4-0	Ohio State University	Arizona State University
 2022-01-29	N	4-2	Old Dominion University	Western Michigan University
@@ -630,6 +630,7 @@ date	where	score	winner	loser
 2022-01-29	H	7-0	Rice University	University of Texas Rio Grande Valley
 2022-01-29	A	4-3	Saint Francis College - NY	United States Naval Academy
 2022-01-29	H	4-3	Santa Clara University	California State University: Sacramento
+2022-01-29	N	4-0	Southern Methodist University	University of Michigan
 2022-01-29	H	7-2	St. Mary's University - MN	Martin Luther College
 2022-01-29	H	4-0	Stetson University	Wofford College
 2022-01-29	H	4-0	Texas A&M University	University of California: Los Angeles
@@ -644,7 +645,6 @@ date	where	score	winner	loser
 2022-01-29	N	4-1	University of Hawaii	Weber State University
 2022-01-29	N	4-0	University of Kentucky	University of Alabama
 2022-01-29	H	4-0	University of Louisiana at Lafayette	Xavier University of Louisiana
-2022-01-29	N	4-0	University of Michigan	Southern Methodist University
 2022-01-29	H	4-1	University of Mississippi	University of Oklahoma
 2022-01-29	H	4-3	University of Nebraska	Drake University
 2022-01-29	A	4-3	University of Nevada (Reno)	University of California: Davis
@@ -667,7 +667,9 @@ date	where	score	winner	loser
 2022-01-29	H	6-1	Xavier University (Ohio)	Cleveland State University
 2022-01-30	H	6-1	Auburn University	University of Wisconsin
 2022-01-30	H	4-0	Baylor University	College of William & Mary
+2022-01-30	H	7-0	Bellarmine University	Indiana University Southeast
 2022-01-30	H	6-1	Brown University	Siena College
+2022-01-30	H	5-2	Butler University	Cleveland State University
 2022-01-30	H	6-0	California State University: Sacramento	American River College
 2022-01-30	H	7-0	California State University: Sacramento	Holy Names University
 2022-01-30	N	8-1	Carleton College (MN)	University of Wisconsin-La Crosse
@@ -724,6 +726,7 @@ date	where	score	winner	loser
 2022-01-30	N	4-1	Wichita State University	University of Portland
 2022-01-30	H	7-0	Yale University	Fairfield University
 2022-01-31	A		Baylor University	University of Miami (FL)
+2022-01-31	H	7-0	Coastal Carolina University	The Citadel
 2022-01-31	A		Gustavus Adolphus College	Eastern Florida State College
 2022-01-31	A		Gustavus Adolphus College	Saint Leo University
 2022-01-31	N		Gustavus Adolphus College	Warner University
@@ -732,10 +735,9 @@ date	where	score	winner	loser
 2022-01-31	A		Prairie View A&M University	University of New Orleans
 2022-01-31	A		Stanford University	University of Central Florida
 2022-01-31	A		The Citadel	Coastal Carolina University
-2022-01-31	A		The Citadel	Coastal Carolina University
 2022-01-31	N	4-0	University of Louisville	Tulane University
 2022-01-31	A		University of South Florida	University of Georgia
-2022-01-31	N		Virginia Commonwealth University	Virginia Polytechnic Institute & State University
+2022-01-31	N	4-2	Virginia Commonwealth University	Virginia Polytechnic Institute & State University
 2022-02-01	A		Alcorn State University	University of Mississippi
 2022-02-01	A		Alcorn State University	University of Mississippi
 2022-02-01	A		Bluefield State College	Radford University
@@ -1242,7 +1244,6 @@ date	where	score	winner	loser
 2022-02-12	A		Benedict College	Southern Wesleyan University
 2022-02-12	A		Bethany Lutheran College	Gustavus Adolphus College
 2022-02-12	N		Bethel College - TN	Indiana University Southeast
-2022-02-12	N		Bethel University (MN)	University of Wisconsin-Superior
 2022-02-12	A		Biola University	Hawaii Pacific University
 2022-02-12	A		Birmingham-Southern College	Piedmont College
 2022-02-12	A		Boston University	Brown University
@@ -1359,6 +1360,7 @@ date	where	score	winner	loser
 2022-02-12	A		University of Virginia	Baylor University
 2022-02-12	A		University of West Alabama	Columbus State University
 2022-02-12	A		University of Wisconsin-La Crosse	Carthage College
+2022-02-12	A		University of Wisconsin-Superior	Bethel University (MN)
 2022-02-12	A		Vassar College	Rochester Institute of Technology
 2022-02-12	A		Wabash College	Illinois Institute of Technology
 2022-02-12	N		Wartburg College	Wisconsin Lutheran College
@@ -4274,7 +4276,7 @@ date	where	score	winner	loser
 2022-04-03	A		Daemen College	Rochester Institute of Technology
 2022-04-03	A		Edinboro University of Pennsylvania	Fairmont State University
 2022-04-03	A		Embry-Riddle Aeronautical University - FL	Lynn University
-2022-04-03	N		Fairleigh Dickinson University	Merrimack College
+2022-04-03	A		Fairleigh Dickinson University	Merrimack College
 2022-04-03	A		Flagler College	Georgia College & State University
 2022-04-03	A		Florida State University	Boston College
 2022-04-03	A		Furman University	Mercer University
@@ -4481,7 +4483,7 @@ date	where	score	winner	loser
 2022-04-08	A		East Central Community College	Meridian Community College
 2022-04-08	A		Edinboro University of Pennsylvania	Bloomsburg University of Pennsylvania
 2022-04-08	A		Elmhurst College	North Central College
-2022-04-08	N		Fairleigh Dickinson University	Long Island University
+2022-04-08	A		Fairleigh Dickinson University	Long Island University
 2022-04-08	A		Fairleigh Dickinson University: Florham	SUNY Oneonta
 2022-04-08	A		Florida Atlantic University	Tulane University
 2022-04-08	A		Francis Marion University	Belmont Abbey College
