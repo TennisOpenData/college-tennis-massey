@@ -574,6 +574,7 @@ date	where	score	winner	loser
 2022-01-28	N	4-0	Georgetown University	Saint Francis College - NY
 2022-01-28	H	4-3	Georgia State University	University of South Florida
 2022-01-28	H	7-0	Midwestern State University	McMurry University
+2022-01-28	H	8-1	Mississippi Gulf Coast Community College	Hinds Community College
 2022-01-28	H	6-1	Montana State University	Seattle University
 2022-01-28	N	4-1	New Mexico State University	University of California: Riverside
 2022-01-28	N	4-0	New Mexico State University	Weber State University
@@ -678,11 +679,8 @@ date	where	score	winner	loser
 2022-01-30	H	4-3	Cornell University	Penn State University
 2022-01-30	H	7-0	Cornell University	St. Bonaventure University
 2022-01-30	H	7-0	DePaul University	University of Illinois at Chicago
-2022-01-30	A		Georgia Institute of Technology	University of Virginia
-2022-01-30	A		Georgia Institute of Technology	University of Virginia
 2022-01-30	A		Holy Names University	California State University: Sacramento
 2022-01-30	H	4-0	Idaho State University	Grand Canyon University
-2022-01-30	A		Indiana University-Purdue University Indianapolis	Purdue University
 2022-01-30	N		Liberty University	Louisiana State University
 2022-01-30	A		Loyola University New Orleans	University of New Orleans
 2022-01-30	H	5-2	Marquette University	Eastern Illinois University
@@ -691,16 +689,17 @@ date	where	score	winner	loser
 2022-01-30	A		Mercer University	Troy State University
 2022-01-30	N	4-0	Middle Tennessee State University	Ball State University
 2022-01-30	N		Middle Tennessee State University	Middle Tennessee State University
+2022-01-30	H	6-1	Montana State University	Oral Roberts University
 2022-01-30	H	4-3	New Jersey Institute of Technology	Long Island University
+2022-01-30	H	7-0	Nicholls State University	Prairie View A&M University
 2022-01-30	H	7-0	Northern Arizona University	Western New Mexico University
 2022-01-30	N	4-3	Northwestern University	Arizona State University
-2022-01-30	A		Oral Roberts University	Montana State University
-2022-01-30	A		Prairie View A&M University	Nicholls State University
 2022-01-30	N	4-2	Princeton University	University of North Carolina at Wilmington
 2022-01-30	H	7-0	Purdue University	Chicago State University
+2022-01-30	H	6-1	Purdue University	Indiana University-Purdue University Indianapolis
 2022-01-30	N	4-0	Stanford University	Tulane University
+2022-01-30	H	7-0	Texas A&M University	Texas A&M University-Corpus Christi
 2022-01-30	H	4-1	Texas A&M University	University of Arizona
-2022-01-30	A		Texas A&M University-Corpus Christi	Texas A&M University
 2022-01-30	N	4-0	Texas Christian University	University of Tulsa
 2022-01-30	H	6-1	United States Military Academy	Marist College
 2022-01-30	H	7-0	United States Military Academy	Quinnipiac University
@@ -717,6 +716,7 @@ date	where	score	winner	loser
 2022-01-30	H	7-0	University of North Florida	College of Charleston
 2022-01-30	H	7-0	University of North Florida	University of Charleston (WV)
 2022-01-30	N	4-1	University of Oklahoma	University of Illinois
+2022-01-30	N		University of Oregon	University of Texas
 2022-01-30	H	4-3	University of South Carolina	Duke University
 2022-01-30	N	4-2	University of South Florida	Virginia Polytechnic Institute & State University
 2022-01-30	H	4-0	University of Southern California	Harvard University
@@ -724,6 +724,7 @@ date	where	score	winner	loser
 2022-01-30	H	7-0	University of Texas at San Antonio	University of Texas Rio Grande Valley
 2022-01-30	A		University of Texas Rio Grande Valley	St. Mary's University - TX
 2022-01-30	A	4-3	University of Utah	Loyola Marymount University
+2022-01-30	H	4-0	University of Virginia	Georgia Institute of Technology
 2022-01-30	H	6-1	University of Washington	University of Idaho
 2022-01-30	A		Virginia Commonwealth University	University of Georgia
 2022-01-30	A		Western New Mexico University	Northern Arizona University
@@ -2158,7 +2159,6 @@ date	where	score	winner	loser
 2022-02-27	A		Webster University	McKendree University
 2022-02-27	A		Wichita State University	Drake University
 2022-02-28	A		Augusta University	North Greenville College
-2022-02-28	N		Calvin University	St. Mary's University - MN
 2022-02-28	N		Davenport University	Southeastern University
 2022-02-28	A		Davidson College	University of North Carolina at Greensboro
 2022-02-28	N		Houghton College	Piedmont College
