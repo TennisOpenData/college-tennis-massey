@@ -727,16 +727,17 @@ date	where	score	winner	loser
 2022-01-30	N	4-1	Wichita State University	University of Portland
 2022-01-30	H	7-0	Yale University	Fairfield University
 2022-01-31	A		Baylor University	University of Miami (FL)
+2022-01-31	N	4-0	Clemson University	College of William & Mary
 2022-01-31	H	7-0	Coastal Carolina University	The Citadel
 2022-01-31	A		Gustavus Adolphus College	Eastern Florida State College
 2022-01-31	A		Gustavus Adolphus College	Saint Leo University
 2022-01-31	N		Gustavus Adolphus College	Warner University
 2022-01-31	A		Itawamba Community College	Jones College
 2022-01-31	A		Meridian Community College	Holmes Community College
-2022-01-31	A		Prairie View A&M University	University of New Orleans
-2022-01-31	A		Stanford University	University of Central Florida
+2022-01-31	A	4-0	Stanford University	University of Central Florida
 2022-01-31	A		The Citadel	Coastal Carolina University
 2022-01-31	N	4-0	University of Louisville	Tulane University
+2022-01-31	H	7-0	University of New Orleans	Prairie View A&M University
 2022-01-31	A		University of South Florida	University of Georgia
 2022-01-31	N	4-2	Virginia Commonwealth University	Virginia Polytechnic Institute & State University
 2022-02-01	A		Alcorn State University	University of Mississippi
@@ -760,6 +761,7 @@ date	where	score	winner	loser
 2022-02-02	A		Columbus State University	Anderson University - SC
 2022-02-02	A		Indiana University-Purdue University Indianapolis	University of Indianapolis
 2022-02-02	A		Lees-McRae College	Gardner-Webb University
+2022-02-02	A		University of California: San Diego	San Diego State University
 2022-02-02	A		University of Texas Rio Grande Valley	Texas A&M University-Corpus Christi
 2022-02-02	A		Wayne State University (MI)	Lawrence Technological University
 2022-02-02	A		Young Harris College	Jacksonville State University
@@ -1276,7 +1278,7 @@ date	where	score	winner	loser
 2022-02-12	A		Emmanuel College - GA	University of North Carolina at Asheville
 2022-02-12	A		Emmanuel College - GA	Wofford College
 2022-02-12	A		Fairfield University	Lafayette College
-2022-02-12	A		Fairleigh Dickinson University	St. Thomas Aquinas College
+2022-02-12	N		Fairleigh Dickinson University	St. Thomas Aquinas College
 2022-02-12	A		Georgetown College	Asbury University
 2022-02-12	A		Gonzaga University	University of Utah
 2022-02-12	N		Grand Canyon University	Santa Clara University
@@ -3465,7 +3467,7 @@ date	where	score	winner	loser
 2022-03-22	A		DePaul University	Loyola Marymount University
 2022-03-22	A		Drexel University	College of William & Mary
 2022-03-22	A		Eckerd College	Palm Beach Atlantic University
-2022-03-22	A		Fairleigh Dickinson University	Saint Francis College - NY
+2022-03-22	N		Fairleigh Dickinson University	Saint Francis College - NY
 2022-03-22	A		Geneva College	Grove City College
 2022-03-22	N		Georgia College & State University	Southern Arkansas University
 2022-03-22	N		Grinnell College	Hamilton College
@@ -4277,7 +4279,7 @@ date	where	score	winner	loser
 2022-04-03	A		Daemen College	Rochester Institute of Technology
 2022-04-03	A		Edinboro University of Pennsylvania	Fairmont State University
 2022-04-03	A		Embry-Riddle Aeronautical University - FL	Lynn University
-2022-04-03	A		Fairleigh Dickinson University	Merrimack College
+2022-04-03	N		Fairleigh Dickinson University	Merrimack College
 2022-04-03	A		Flagler College	Georgia College & State University
 2022-04-03	A		Florida State University	Boston College
 2022-04-03	A		Furman University	Mercer University

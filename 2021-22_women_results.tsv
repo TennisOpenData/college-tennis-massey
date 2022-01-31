@@ -1354,7 +1354,7 @@ date	where	score	winner	loser
 2022-01-28	H	3-2	University of North Texas	New Mexico State University
 2022-01-28	H	6-1	University of Pennsylvania	Drexel University
 2022-01-28	A	4-3	University of Portland	Portland State University
-2022-01-28	N	4-3	University of Southern California	University of Miami (FL)
+2022-01-28	A	4-3	University of Southern California	University of Miami (FL)
 2022-01-28	H	4-0	University of Texas	Florida Atlantic University
 2022-01-28	H	7-0	University of Texas at Arlington	Dallas Baptist University
 2022-01-28	H	5-2	University of Texas at Arlington	Prairie View A&M University
@@ -1441,7 +1441,7 @@ date	where	score	winner	loser
 2022-01-29	N	4-1	University of Notre Dame	University of Colorado
 2022-01-29	N	4-1	University of Oklahoma	Furman University
 2022-01-29	N	4-0	University of San Diego	Brigham Young University
-2022-01-29	N	4-3	University of Southern California	Baylor University
+2022-01-29	A	4-3	University of Southern California	Baylor University
 2022-01-29	H	4-0	University of Southern Mississippi	Southeastern Louisiana University
 2022-01-29	A	8-1	University of St. Thomas (Texas)	McMurry University
 2022-01-29	N	4-0	University of Tennessee	Louisiana State University
@@ -1511,7 +1511,7 @@ date	where	score	winner	loser
 2022-01-30	H	4-3	Western Kentucky University	Lipscomb University
 2022-01-30	H	4-0	Western Kentucky University	University of Tennessee: Martin
 2022-01-30	A	6-1	Wofford College	Coastal Carolina University
-2022-01-31	A		Ave Maria University	Florida Gulf Coast University
+2022-01-31	H	7-0	Florida Gulf Coast University	Ave Maria University
 2022-01-31	A		Itawamba Community College	Jones College
 2022-01-31	A		Pacific Lutheran University	Ottawa University Arizona
 2022-01-31	A		University of Arizona	New Mexico State University
@@ -1623,7 +1623,6 @@ date	where	score	winner	loser
 2022-02-04	A		LeTourneau University	Dallas Baptist University
 2022-02-04	A		Liberty University	Virginia Commonwealth University
 2022-02-04	N		Lincoln Memorial University	West Virginia State University
-2022-02-04	A		Longwood University	Liberty University
 2022-02-04	A		McMurry University	Texas Wesleyan University
 2022-02-04	A		Meridian Community College	Mississippi Gulf Coast Community College
 2022-02-04	A		Minnesota State University Moorhead	Winona State University
@@ -1672,6 +1671,7 @@ date	where	score	winner	loser
 2022-02-04	A		University of North Dakota	University of Minnesota
 2022-02-04	A		University of North Florida	University of South Florida
 2022-02-04	A		University of Northern Iowa	University of Minnesota
+2022-02-04	A		University of Portland	University of Washington
 2022-02-04	A		University of South Dakota	Eastern Washington University
 2022-02-04	A		University of St. Thomas - MN	Lewis University
 2022-02-04	A		University of Tennessee: Martin	Lipscomb University
@@ -1876,7 +1876,7 @@ date	where	score	winner	loser
 2022-02-06	A		DePauw University	Kenyon College
 2022-02-06	A		Duquesne University	Cleveland State University
 2022-02-06	A		East Carolina University	North Carolina State University
-2022-02-06	N		Fairleigh Dickinson University	Fordham University
+2022-02-06	A		Fairleigh Dickinson University	Fordham University
 2022-02-06	A		Flagler College	Palm Beach Atlantic University
 2022-02-06	A		George Mason University	University of Maryland
 2022-02-06	A		George Washington University	University of Maryland
@@ -2113,7 +2113,6 @@ date	where	score	winner	loser
 2022-02-12	A		Alcorn State University	Lamar University
 2022-02-12	A		Angelo State University	Henderson State University
 2022-02-12	A		Arizona State University	University of Oklahoma
-2022-02-12	N		Auburn University	Florida Gulf Coast University
 2022-02-12	A		Auburn University	University of North Florida
 2022-02-12	A		Auburn University at Montgomery	Flagler College
 2022-02-12	A		Augusta University	Mars Hill University
@@ -2184,6 +2183,7 @@ date	where	score	winner	loser
 2022-02-12	A		Limestone University	North Greenville College
 2022-02-12	A		Lindenwood University	Principia College
 2022-02-12	A		Long Island University	Fordham University
+2022-02-12	A		Longwood University	Liberty University
 2022-02-12	A		Loyola University New Orleans	Xavier University (Ohio)
 2022-02-12	A		McKendree University	Southern Illinois University Edwardsville
 2022-02-12	A		McMurry University	LeTourneau University
@@ -5137,7 +5137,6 @@ date	where	score	winner	loser
 2022-03-22	A		University of California: Santa Barbara	Stanford University
 2022-03-22	A		University of Maryland	University of Pennsylvania
 2022-03-22	A		University of Massachusetts Boston	Nichols College
-2022-03-22	A		University of Portland	University of Washington
 2022-03-22	A		University of Tennessee: Martin	College of Charleston
 2022-03-22	A		University of the Ozarks	Southwestern University (TX)
 2022-03-22	A		Ventura College	Antelope Valley College
