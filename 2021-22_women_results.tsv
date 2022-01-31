@@ -556,7 +556,6 @@ date	where	score	winner	loser
 2021-09-29	A	8-1	Coe College	Cornell College
 2021-09-29	A	9-0	Colby-Sawyer College	Eastern Nazarene College
 2021-09-29	A	8-1	CUNY: Hunter College	CUNY: Brooklyn College
-2021-09-29	H	0-1	Curry College	Salve Regina University
 2021-09-29	A	9-0	Doane College	Nebraska Wesleyan University
 2021-09-29	H	6-2	Endicott College	Nichols College
 2021-09-29	A	9-0	Franciscan University of Steubenville	Geneva College
@@ -569,6 +568,7 @@ date	where	score	winner	loser
 2021-09-29	H	8-1	Rensselaer Polytechnic Institute	SUNY Oneonta
 2021-09-29	H	9-0	Roger Williams University	Suffolk University
 2021-09-29	H	9-0	Roger Williams University	Suffolk University
+2021-09-29	A	1-0	Salve Regina University	Curry College
 2021-09-29	A	5-2	Shawnee State University	Wittenberg University
 2021-09-29	A	9-0	Smith College	Simmons University
 2021-09-29	A	6-3	St. Joseph's College - Long Island	Mount St. Mary College - NY
@@ -2997,6 +2997,7 @@ date	where	score	winner	loser
 2022-02-25	A		Seton Hall University	Providence College
 2022-02-25	A		Shorter University	Auburn University at Montgomery
 2022-02-25	A		Siena College	Temple University
+2022-02-25	A		Southern University & Agricultural & Mechanical	Louisiana State University
 2022-02-25	N		Southwest Minnesota State University	Winona State University
 2022-02-25	A		Spokane Community College	Pacific Lutheran University
 2022-02-25	A		St. Thomas University (FL)	Rollins College
@@ -4565,6 +4566,7 @@ date	where	score	winner	loser
 2022-03-16	N		Saint Leo University	Quincy University
 2022-03-16	A		San Jose State University	St. Mary's College - CA
 2022-03-16	A		Shawnee State University	Cumberland University
+2022-03-16	N		South Carolina State University	Saint Louis University
 2022-03-16	A		St. Mary's University - TX	Embry-Riddle Aeronautical University - FL
 2022-03-16	N		State Univ. of New York at New Paltz	St. Lawrence University
 2022-03-16	A		Texas A&M University-Kingsville	Point Loma Nazarene University
@@ -4606,6 +4608,7 @@ date	where	score	winner	loser
 2022-03-17	A		Davidson College	College of Charleston
 2022-03-17	N		Delaware State University	Norfolk State University
 2022-03-17	N		Delaware State University	North Carolina Central University
+2022-03-17	N		Delaware State University	South Carolina State University
 2022-03-17	N		Denison University	Pacific University
 2022-03-17	A		Drake University	Grand Canyon University
 2022-03-17	A		East Tennessee State University	Florida International University
@@ -4679,7 +4682,6 @@ date	where	score	winner	loser
 2022-03-18	A		Columbia University	University of San Diego
 2022-03-18	A		Columbus State University	Georgia Southwestern State University
 2022-03-18	N		Coppin State College	South Carolina State University
-2022-03-18	N		Delaware State University	South Carolina State University
 2022-03-18	A		Delta State University	State University of West Georgia
 2022-03-18	A		Diablo Valley College	College of the Sequoias
 2022-03-18	N		Dickinson College	Rhodes College
