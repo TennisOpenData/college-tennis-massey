@@ -755,7 +755,7 @@ date	where	score	winner	loser
 2022-02-01	A		Keiser University	Embry-Riddle Aeronautical University - FL
 2022-02-01	A		Lenoir-Rhyne College	Gardner-Webb University
 2022-02-01	A		Lewis University	Prairie State College
-2022-02-01	A		Troy State University	Alabama State University
+2022-02-01	A	7-0	Troy State University	Alabama State University
 2022-02-01	A		Valdosta State University	Georgia College & State University
 2022-02-01	A		Ventura College	Santa Barbara City College
 2022-02-01	A		William Jessup University	American River College
@@ -790,7 +790,6 @@ date	where	score	winner	loser
 2022-02-04	A		Blue Mountain College	Christian Brothers University
 2022-02-04	N		Carnegie Mellon University	University of Richmond
 2022-02-04	A		Case Western Reserve University	University of Northwestern Ohio
-2022-02-04	N		Chicago State University	Illinois State University
 2022-02-04	A		Clemson University	University of South Carolina
 2022-02-04	A		Cleveland State University	Penn State University
 2022-02-04	A		Coastal Carolina University	South Carolina State University
@@ -916,6 +915,7 @@ date	where	score	winner	loser
 2022-02-05	A		Imperial Valley College	Paradise Valley Community College
 2022-02-05	A		Jacksonville State University	University of Southern Mississippi
 2022-02-05	N		Jones College	Oxford College of Emory University
+2022-02-05	A		Kennesaw State University	Coastal Carolina University
 2022-02-05	A		King University	Lee University
 2022-02-05	A		Lake Forest College	Carthage College
 2022-02-05	A		Lake Superior State University	Lawrence Technological University
@@ -1041,7 +1041,6 @@ date	where	score	winner	loser
 2022-02-06	N		Illinois Wesleyan University	Piedmont College
 2022-02-06	A		Illinois Wesleyan University	Transylvania University
 2022-02-06	A		Jacksonville State University	University of New Orleans
-2022-02-06	A		Kennesaw State University	Coastal Carolina University
 2022-02-06	N		Lawrence University	Wartburg College
 2022-02-06	A		Le Moyne College	St. Michael's College
 2022-02-06	A		Lipscomb University	Vanderbilt University
@@ -1121,6 +1120,7 @@ date	where	score	winner	loser
 2022-02-09	A		Boston College	Brown University
 2022-02-09	A		Cameron University	Collin County Community College
 2022-02-09	A		Cumberland University	University of the Southwest
+2022-02-09	A		Illinois State University	Chicago State University
 2022-02-09	A		Keiser University	Barry University
 2022-02-09	A		Lees-McRae College	Lander University
 2022-02-09	A		Nicholls State University	University of New Orleans
@@ -3189,7 +3189,7 @@ date	where	score	winner	loser
 2022-03-18	A		Averett University	Hampden-Sydney College
 2022-03-18	A		Bellarmine University	Florida Gulf Coast University
 2022-03-18	N		Blue Mountain College	Florida National University
-2022-03-18	N		Boise State University	Eastern Washington University
+2022-03-18	A		Boise State University	Eastern Washington University
 2022-03-18	N		Bryant University	Marquette University
 2022-03-18	A		Cameron University	Dallas Baptist University
 2022-03-18	N		Carthage College	Transylvania University
