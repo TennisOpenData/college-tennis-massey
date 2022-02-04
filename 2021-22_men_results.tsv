@@ -124,7 +124,6 @@ date	where	score	winner	loser
 2021-09-18	N	9-0	Kentucky Wesleyan College	Manchester College
 2021-09-18	H	0-2	Kutztown University of Pennsylvania	Thomas Jefferson University
 2021-09-18	H	4-3	Marian University - IN	Grace College & Seminary
-2021-09-18	H	9-0	McMurry University	Texas Lutheran University
 2021-09-18	H	6-1	Missouri Valley College	William Jewell College
 2021-09-18	H	1-0	Missouri Valley College	William Jewell College
 2021-09-18	N	6-1	Shawnee State University	Concordia University Ann Arbor
@@ -596,7 +595,7 @@ date	where	score	winner	loser
 2022-01-28	H	6-1	University of Louisiana at Lafayette	Tyler Junior College
 2022-01-28	N	4-2	University of Memphis	Western Michigan University
 2022-01-28	A	7-0	University of New Orleans	Alcorn State University
-2022-01-28	A	4-0	University of New Orleans	Alcorn State University
+2022-01-28	A	6-1	University of New Orleans	Alcorn State University
 2022-01-28	A	6-1	University of North Dakota	Marquette University
 2022-01-28	N	4-3	University of Notre Dame	Southern Methodist University
 2022-01-28	H	4-0	University of Tennessee	Old Dominion University
@@ -821,6 +820,7 @@ date	where	score	winner	loser
 2022-02-04	A		Oral Roberts University	Lamar University
 2022-02-04	A		Pepperdine University	Oklahoma State University
 2022-02-04	A		Princeton University	Northwestern University
+2022-02-04	H	6-1	Quinnipiac University	St. Michael's College
 2022-02-04	A		Reedley College	Fresno Pacific University
 2022-02-04	N		Ripon College	St. Mary's University - MN
 2022-02-04	A		Riverside Community College	Whittier College
@@ -831,6 +831,7 @@ date	where	score	winner	loser
 2022-02-04	A		Spring Hill College	Auburn University at Montgomery
 2022-02-04	A		St. Michael's College	Quinnipiac University
 2022-02-04	A		SUNY Buffalo	Cornell University
+2022-02-04	A		Tennessee Technological University	Georgia State University
 2022-02-04	A		Texas A&M University-Texarkana	University of Arkansas-Fort Smith
 2022-02-04	A		Thomas Jefferson University	Villanova University
 2022-02-04	A		Tuskegee University	Auburn University at Montgomery
@@ -846,9 +847,9 @@ date	where	score	winner	loser
 2022-02-04	A		University of San Diego	University of Arizona
 2022-02-04	A		University of San Francisco	Point Loma Nazarene University
 2022-02-04	A		University of Tennessee	Ohio State University
-2022-02-04	N		University of Tennessee: Chattanooga	Hampton University
-2022-02-04	A		University of Tennessee: Chattanooga	Virginia Polytechnic Institute & State University
+2022-02-04	N	6-1	University of Tennessee: Chattanooga	Hampton University
 2022-02-04	A		University of Texas	Baylor University
+2022-02-04	H	7-0	Virginia Polytechnic Institute & State University	University of Tennessee: Chattanooga
 2022-02-04	A		Wayne State University (MI)	University of Toledo
 2022-02-04	A		Whitworth University	Eastern Washington University
 2022-02-04	A		Wichita State University	University of Oklahoma
@@ -899,7 +900,6 @@ date	where	score	winner	loser
 2022-02-05	N		Luther College	North Central College
 2022-02-05	A		Marist College	Lehigh University
 2022-02-05	A		Michigan State University	Western Michigan University
-2022-02-05	N		Millikin University	Rose-Hulman Institute of Technology
 2022-02-05	A		Milwaukee School of Engineering	Carthage College
 2022-02-05	A		Mississippi College	Blue Mountain College
 2022-02-05	A		Mt. San Antonio College	Ventura College
@@ -951,7 +951,6 @@ date	where	score	winner	loser
 2022-02-05	A		University of Richmond	Virginia Polytechnic Institute & State University
 2022-02-05	N		University of San Francisco	University of California: San Diego
 2022-02-05	A		University of Southern California	Stanford University
-2022-02-05	A		University of Southern Indiana	Cedarville University
 2022-02-05	A		University of Texas at San Antonio	University of California: Santa Barbara
 2022-02-05	A		University of the Pacific	California Polytechnic State University
 2022-02-05	A		University of Wisconsin-La Crosse	Coe College
@@ -1002,7 +1001,6 @@ date	where	score	winner	loser
 2022-02-06	N		Lawrence University	Wartburg College
 2022-02-06	A		Le Moyne College	St. Michael's College
 2022-02-06	A		Lipscomb University	Vanderbilt University
-2022-02-06	A		Maryville University of Saint Louis	Quincy University
 2022-02-06	A		Mercyhurst University	Walsh University
 2022-02-06	A		New Mexico Military Institute	Western New Mexico University
 2022-02-06	A		New Mexico State University	University of Arizona
@@ -4968,6 +4966,7 @@ date	where	score	winner	loser
 2022-04-10	A		St. Louis College of Pharmacy	Illinois College
 2022-04-10	A		SUNY Oneonta	Wilkes University
 2022-04-10	A		Tennessee State University	Alabama Agricultural & Mechanical University
+2022-04-10	A		Tennessee Technological University	Georgia State University
 2022-04-10	A		The Citadel	Wofford College
 2022-04-10	A		The College of New Jersey	Salisbury University
 2022-04-10	A		Transylvania University	Franklin College
