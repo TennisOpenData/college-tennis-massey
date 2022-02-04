@@ -1585,13 +1585,11 @@ date	where	score	winner	loser
 2022-02-04	A		Cumberland University	Austin Peay State University
 2022-02-04	A		Cumberland University	University of Southern Indiana
 2022-02-04	A		Davenport University	Hope College
-2022-02-04	A		Dillard University	Xavier University (Ohio)
 2022-02-04	A		Dillard University	Xavier University of Louisiana
 2022-02-04	A		Drexel University	Rutgers University
 2022-02-04	A		East Tennessee State University	Vanderbilt University
 2022-02-04	N		Edinboro University of Pennsylvania	Salem University
 2022-02-04	A		Embry-Riddle Aeronautical University - FL	Atlantis University
-2022-02-04	A		Florida Agricultural & Mechanical University	Stetson University
 2022-02-04	A		Florida Gulf Coast University	Florida Atlantic University
 2022-02-04	N		Florida International University	Long Island University
 2022-02-04	N		Francis Marion University	Newberry College
@@ -1630,6 +1628,7 @@ date	where	score	winner	loser
 2022-02-04	A		Spring Hill College	Auburn University at Montgomery
 2022-02-04	N		St. Cloud State University	University of Minnesota: Crookston
 2022-02-04	A		State University of West Georgia	Point University
+2022-02-04	H	6-0	Stetson University	Florida Agricultural & Mechanical University
 2022-02-04	N		SUNY Stony Brook	St. Bonaventure University
 2022-02-04	A		SUNY Stony Brook	United States Military Academy
 2022-02-04	A		Tarleton State University	Tyler Junior College
@@ -1640,9 +1639,7 @@ date	where	score	winner	loser
 2022-02-04	A		Tuskegee University	Auburn University at Montgomery
 2022-02-04	A		University of Arkansas	Kansas State University
 2022-02-04	A		University of California: Santa Barbara	University of California: Los Angeles
-2022-02-04	A		University of Central Florida	University of Virginia
 2022-02-04	A		University of Findlay	University of Toledo
-2022-02-04	A		University of Houston	University of Colorado
 2022-02-04	A		University of Iowa	University of Kansas
 2022-02-04	A		University of Minnesota: Duluth	College of St. Scholastica
 2022-02-04	A		University of Missouri: St. Louis	Saint Louis University
@@ -1659,6 +1656,7 @@ date	where	score	winner	loser
 2022-02-04	N		University of Texas at El Paso	Youngstown State University
 2022-02-04	A		University of Texas Rio Grande Valley	Concordia University - Austin
 2022-02-04	A		University of the Pacific	University of California: San Diego
+2022-02-04	H	4-0	University of Virginia	University of Central Florida
 2022-02-04	A		University of Washington	Rice University
 2022-02-04	A		University of Wisconsin	University of Denver
 2022-02-04	A		Virginia Polytechnic Institute & State University	Xavier University (Ohio)
@@ -1718,6 +1716,7 @@ date	where	score	winner	loser
 2022-02-05	A		Grace College & Seminary	Holy Cross College (Indiana)
 2022-02-05	A		Grand Canyon University	University of California: Riverside
 2022-02-05	N		Gustavus Adolphus College	Northwestern College - IA
+2022-02-05	N		Gustavus Adolphus College	University of North Dakota
 2022-02-05	N		Hamline University	Southwest Minnesota State University
 2022-02-05	A		Hawaii Pacific University	University of Hawaii
 2022-02-05	A		Hofstra University	Long Island University
@@ -1765,7 +1764,6 @@ date	where	score	winner	loser
 2022-02-05	N		Schreiner University	Tabor College
 2022-02-05	A		Siena College	Brown University
 2022-02-05	A		South Carolina State University	Charleston Southern University
-2022-02-05	N		Southeast Missouri State University	University of North Alabama
 2022-02-05	N		Southeastern Louisiana University	University of Wyoming
 2022-02-05	A		Southeastern University	College of Coastal Georgia
 2022-02-05	A		Southern Methodist University	Texas A&M University
@@ -1789,7 +1787,6 @@ date	where	score	winner	loser
 2022-02-05	A		University of California: Davis	California State University: Long Beach
 2022-02-05	A		University of California: Irvine	University of California: San Diego
 2022-02-05	A		University of California: Los Angeles	Pepperdine University
-2022-02-05	A		University of Central Arkansas	Samford University
 2022-02-05	N		University of Florida	Florida State University
 2022-02-05	A		University of Indianapolis	Bowling Green State University
 2022-02-05	N		University of Mary	Upper Iowa University
@@ -1799,7 +1796,6 @@ date	where	score	winner	loser
 2022-02-05	A		University of Nebraska - Kearney	Drake University
 2022-02-05	A		University of North Carolina	University of Michigan
 2022-02-05	A		University of North Carolina at Greensboro	Davidson College
-2022-02-05	A		University of North Dakota	Gustavus Adolphus College
 2022-02-05	N		University of Northern Iowa	University of North Dakota
 2022-02-05	N		University of Oregon	University of Wisconsin
 2022-02-05	A		University of Rhode Island	Quinnipiac University
@@ -1882,6 +1878,7 @@ date	where	score	winner	loser
 2022-02-06	A		Tyler Junior College	Baylor University
 2022-02-06	A		University of Arkansas	University of Kansas
 2022-02-06	A		University of California: Davis	University of California: Riverside
+2022-02-06	A		University of Central Arkansas	Samford University
 2022-02-06	A		University of Findlay	Grand Valley State University
 2022-02-06	A		University of Louisville	Vanderbilt University
 2022-02-06	A		University of Minnesota: Duluth	Bemidji State University
@@ -1919,6 +1916,7 @@ date	where	score	winner	loser
 2022-02-07	N		Southeastern Oklahoma State University	University of Texas, Permian Basin
 2022-02-07	A		Southern University & Agricultural & Mechanical	Nicholls State University
 2022-02-07	A		Southwest Mississippi Community College	Hinds Community College
+2022-02-07	A		University of North Texas	Texas Christian University
 2022-02-07	A		Virginia Polytechnic Institute & State University	Xavier University (Ohio)
 2022-02-08	A		Antelope Valley College	Bakersfield College
 2022-02-08	A		Augusta University	Belmont Abbey College
@@ -2524,8 +2522,8 @@ date	where	score	winner	loser
 2022-02-18	A		Tyler Junior College	Midwestern State University
 2022-02-18	A		United States Military Academy	Rollins College
 2022-02-18	A		University of California: Irvine	California Institute of Technology
-2022-02-18	A		University of Central Arkansas	University of Missouri: Columbia
 2022-02-18	A		University of Central Florida	Louisiana State University
+2022-02-18	A		University of Colorado	Portland State University
 2022-02-18	A		University of Delaware	Rutgers University
 2022-02-18	A		University of Denver	Brigham Young University
 2022-02-18	A		University of Findlay	Wayne State University (MI)
@@ -2707,6 +2705,7 @@ date	where	score	winner	loser
 2022-02-19	A		Trinity University - Texas	University of the Incarnate Word
 2022-02-19	N		United States Air Force Academy	United States Military Academy
 2022-02-19	A		University of Alabama at Birmingham	Jacksonville State University
+2022-02-19	A		University of Central Arkansas	University of Missouri: Columbia
 2022-02-19	A		University of Charleston (WV)	Marshall University
 2022-02-19	N		University of Cincinnati	University of Toledo
 2022-02-19	A		University of Colorado	University of Portland
@@ -2944,7 +2943,6 @@ date	where	score	winner	loser
 2022-02-24	A		Montreat College	University of Tennessee: Chattanooga
 2022-02-24	A		New Mexico State University	Texas Christian University
 2022-02-24	A		San Diego Christian College	Hope International University
-2022-02-24	A		University of Illinois at Chicago	Valparaiso University
 2022-02-24	A		University of New Orleans	South Carolina State University
 2022-02-24	A		University of North Carolina at Asheville	North Carolina A&T
 2022-02-25	A		Alabama Agricultural & Mechanical University	Jacksonville State University
@@ -4055,7 +4053,6 @@ date	where	score	winner	loser
 2022-03-09	N		Southern New Hampshire University	Winona State University
 2022-03-09	A		Southwest Minnesota State University	Concordia University - Irvine
 2022-03-09	N		St. Cloud State University	University of Southern Indiana
-2022-03-09	A		United States Air Force Academy	University of Colorado
 2022-03-09	A		University of Arizona	Loyola Marymount University
 2022-03-09	A		University of Illinois at Chicago	Chicago State University
 2022-03-09	A		University of Nebraska Omaha	University of Nebraska
