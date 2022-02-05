@@ -123,9 +123,10 @@ date	where	score	winner	loser
 2021-09-18	H	5-0	Indiana Wesleyan University	University of Northwestern Ohio
 2021-09-18	N	9-0	Kentucky Wesleyan College	Manchester College
 2021-09-18	H	4-3	Marian University - IN	Grace College & Seminary
+2021-09-18	A	0-3	Mary Baldwin College	Shepherd University
 2021-09-18	H	6-1	Missouri Valley College	William Jewell College
 2021-09-18	N	6-1	Shawnee State University	Concordia University Ann Arbor
-2021-09-18	H	3-0	Shepherd University	Mary Baldwin College
+2021-09-18	H	6-1	Shepherd University	Mary Baldwin College
 2021-09-18	A	7-2	St. Mary's College - MD	Catholic University of America
 2021-09-18	A	5-4	SUNY at Oswego	Alfred University
 2021-09-18	H	8-1	Susquehanna University	Pennsylvania College of Technology
@@ -285,7 +286,7 @@ date	where	score	winner	loser
 2021-10-20	H	6-1	Oakland City University	Kentucky Wesleyan College
 2021-10-20	A	7-0	St. Thomas Aquinas College	West Chester University of Pennsylvania
 2021-10-21	N	0-5	Millikin University	Illinois Wesleyan University
-2021-10-22	H	0-1	Shepherd University	Frostburg State University
+2021-10-22	A	7-0	Frostburg State University	Shepherd University
 2021-10-23	A	4-3	Converse College	Catawba College
 2021-10-23	A	4-3	Davenport University	Northwood University (MI)
 2021-10-23	H	5-2	Fairfield University	Sacred Heart University
@@ -559,6 +560,7 @@ date	where	score	winner	loser
 2022-01-26	H	6-1	Auburn University	Old Dominion University
 2022-01-26	H	5-2	Gardner-Webb University	Wofford College
 2022-01-26	H	7-0	Liberty University	College of William & Mary
+2022-01-26	H	5-0	University of Indianapolis	University of Northwestern Ohio
 2022-01-26	H	6-1	University of Pennsylvania	Temple University
 2022-01-27	H	7-2	Chabot College	Solano Community College
 2022-01-27	N	4-1	Indiana Wesleyan University	Montreat College
@@ -774,6 +776,8 @@ date	where	score	winner	loser
 2022-02-03	H	4-0	Mississippi State University	University of North Alabama
 2022-02-03	H	7-0	Mount St. Mary's University (MD)	Coppin State College
 2022-02-03	H	4-3	St. John's University (NY)	University of Delaware
+2022-02-04	H	4-3	Arizona Christian	Lewis-Clark State College (ID)
+2022-02-04	H	4-3	Arizona Christian	Lewis-Clark State College (ID)
 2022-02-04	A	4-3	Auburn University	Georgia Institute of Technology
 2022-02-04	H	6-1	Carnegie Mellon University	Saint Francis University - PA
 2022-02-04	A	6-1	College of Charleston	Savannah College of Art & Design
@@ -784,12 +788,14 @@ date	where	score	winner	loser
 2022-02-04	H	6-1	Eastern Washington University	Whitworth University
 2022-02-04	H	4-3	Florida Gulf Coast University	Keiser University
 2022-02-04	H	5-2	Gonzaga University	University of New Mexico
+2022-02-04	A	4-2	Hillsdale College	Lawrence Technological University
 2022-02-04	H	5-2	James Madison University	Georgetown University
 2022-02-04	H	9-0	Jones College	Northeast Mississippi Community College
 2022-02-04	A	4-3	Liberty University	Elon University
 2022-02-04	H	4-2	Middle Tennessee State University	University of Louisville
 2022-02-04	H	4-3	Northwestern University	Princeton University
 2022-02-04	H	4-0	Ohio State University	University of Tennessee
+2022-02-04	H	9-0	Paradise Valley Community College	Imperial Valley College
 2022-02-04	H	7-0	Penn State University	Colgate University
 2022-02-04	H	6-1	Quinnipiac University	St. Michael's College
 2022-02-04	N	8-1	St. Mary's University - MN	Ripon College
@@ -812,6 +818,7 @@ date	where	score	winner	loser
 2022-02-04	H	7-0	Wake Forest University	North Carolina Wesleyan College
 2022-02-04	H	7-0	Wake Forest University	University of Central Florida
 2022-02-04	A	4-3	Wayne State University (MI)	University of Toledo
+2022-02-04	H	6-2	Whittier College	Riverside Community College
 2022-02-04	A	6-1	Yale University	Butler University
 2022-02-05	A		American River College	University of California: Santa Cruz
 2022-02-05	A		Arizona Christian	Mesa Community College
@@ -5481,7 +5488,6 @@ date	where	score	winner	loser
 2022-04-22	A		University of Southern Indiana	Lewis & Clark College
 2022-04-22	A		University of Southern Indiana	Lewis University
 2022-04-22	A		University of Wisconsin-La Crosse	University of Wisconsin-Eau Claire
-2022-04-22	A		Virginia Commonwealth University	College of William & Mary
 2022-04-22	A		Western New Mexico University	University of Texas, Permian Basin
 2022-04-22	A		Wheaton College - IL	Millikin University
 2022-04-23	A		Barton College	King University
