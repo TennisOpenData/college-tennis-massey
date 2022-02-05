@@ -1567,17 +1567,18 @@ date	where	score	winner	loser
 2022-02-04	A		Academy of Art University	Dominican University of California
 2022-02-04	A		Alabama Agricultural & Mechanical University	Troy State University
 2022-02-04	A		Aquinas College - MI	Ferris State University
+2022-02-04	H	5-2	Auburn University	Georgia Institute of Technology
 2022-02-04	A		Baker University	Midland University
 2022-02-04	A		Bellarmine University	Northern Illinois University
 2022-02-04	A		Belmont Abbey College	Lincoln Memorial University
 2022-02-04	N		Belmont Abbey College	University of Virginia's College at Wise
 2022-02-04	A		Blue Mountain College	Christian Brothers University
-2022-02-04	A		Boston College	Dartmouth College
 2022-02-04	N		Carnegie Mellon University	Slippery Rock University of Pennsylvania
 2022-02-04	H	6-1	Clemson University	Coastal Carolina University
 2022-02-04	A		College of St. Scholastica	University of Minnesota: Duluth
 2022-02-04	A		Cumberland University	Austin Peay State University
 2022-02-04	A		Cumberland University	University of Southern Indiana
+2022-02-04	H	5-2	Dartmouth College	Boston College
 2022-02-04	A		Davenport University	Hope College
 2022-02-04	A		Dillard University	Xavier University of Louisiana
 2022-02-04	H	7-2	Duquesne University	Mount St. Mary's University (MD)
@@ -1587,11 +1588,9 @@ date	where	score	winner	loser
 2022-02-04	H	5-2	Florida Atlantic University	Tennessee State University
 2022-02-04	N	4-0	Florida International University	Long Island University
 2022-02-04	N		Francis Marion University	Newberry College
-2022-02-04	A		Georgia Institute of Technology	Auburn University
 2022-02-04	A	4-3	Grand Canyon University	University of California: Irvine
 2022-02-04	A		Hawaii Pacific University	University of Hawaii
 2022-02-04	A		Holy Names University	William Jessup University
-2022-02-04	A		Idaho State University	University of Utah
 2022-02-04	A		Imperial Valley College	Paradise Valley Community College
 2022-02-04	A		Indiana University East	Lewis University
 2022-02-04	A		Indiana University of Pennsylvania	Niagara University
@@ -1634,12 +1633,12 @@ date	where	score	winner	loser
 2022-02-04	H	4-0	University of California: Los Angeles	University of California: Santa Barbara
 2022-02-04	A		University of Findlay	University of Toledo
 2022-02-04	H	7-0	University of Minnesota	University of North Dakota
+2022-02-04	H	7-0	University of Minnesota	University of Northern Iowa
 2022-02-04	A		University of Minnesota: Duluth	College of St. Scholastica
 2022-02-04	A		University of Missouri: St. Louis	Saint Louis University
 2022-02-04	A		University of Nebraska Omaha	Creighton University
 2022-02-04	A		University of North Alabama	Vanderbilt University
 2022-02-04	A	5-2	University of North Florida	University of South Florida
-2022-02-04	A		University of Northern Iowa	University of Minnesota
 2022-02-04	H	5-2	University of Pennsylvania	New Jersey Institute of Technology
 2022-02-04	A	5-2	University of South Dakota	Eastern Washington University
 2022-02-04	A		University of St. Thomas - MN	Lewis University
@@ -1648,6 +1647,7 @@ date	where	score	winner	loser
 2022-02-04	A	4-2	University of the Pacific	University of California: San Diego
 2022-02-04	H	7-0	University of Toledo	University of Findlay
 2022-02-04	H	7-0	University of Toledo	Wayne State University (MI)
+2022-02-04	H	5-2	University of Utah	Idaho State University
 2022-02-04	H	5-2	University of Virginia	University of Central Florida
 2022-02-04	A		University of Washington	Rice University
 2022-02-04	H	7-0	University of Washington	University of Portland
@@ -5179,6 +5179,7 @@ date	where	score	winner	loser
 2022-03-22	A		Eastern Arizona College	Paradise Valley Community College
 2022-03-22	A		Fairleigh Dickinson University	Saint Francis College - NY
 2022-03-22	A		Fairleigh Dickinson University: Florham	College of St. Elizabeth
+2022-03-22	A		Fort Hays State University	Bethany College - KS
 2022-03-22	N		Georgia College & State University	Southern Arkansas University
 2022-03-22	N		Grinnell College	Hamilton College
 2022-03-22	A		Henderson State University	Rhodes College
