@@ -1550,7 +1550,6 @@ date	where	score	winner	loser
 2022-02-05	N		Bemidji State University	St. Cloud State University
 2022-02-05	N		Bethel University (MN)	Southwest Minnesota State University
 2022-02-05	A		Boston College	University of North Carolina at Charlotte
-2022-02-05	A		Boston University	Harvard University
 2022-02-05	A		Bradley University	Chicago State University
 2022-02-05	A		Bucknell University	Niagara University
 2022-02-05	A		California Institute of Technology	Westmont College
@@ -1578,6 +1577,7 @@ date	where	score	winner	loser
 2022-02-05	N		Gustavus Adolphus College	Northwestern College - IA
 2022-02-05	N		Gustavus Adolphus College	University of North Dakota
 2022-02-05	N		Hamline University	Southwest Minnesota State University
+2022-02-05	H	5-2	Harvard University	Boston University
 2022-02-05	A		Hastings College	Bethany College - KS
 2022-02-05	A		Hawaii Pacific University	University of Hawaii
 2022-02-05	A		Hofstra University	Long Island University
@@ -1651,14 +1651,13 @@ date	where	score	winner	loser
 2022-02-05	A		University of Massachusetts Amherst	United States Military Academy
 2022-02-05	A		University of Minnesota: Duluth	University of Minnesota: Crookston
 2022-02-05	A		University of Nebraska - Kearney	Drake University
-2022-02-05	A		University of North Carolina	University of Michigan
+2022-02-05	A	5-2	University of North Carolina	University of Michigan
 2022-02-05	A		University of North Carolina at Greensboro	Davidson College
 2022-02-05	N	7-0	University of North Dakota	University of Northern Iowa
 2022-02-05	A		University of North Georgia	Tusculum College
 2022-02-05	N		University of Oregon	University of Wisconsin
 2022-02-05	A		University of Rhode Island	Quinnipiac University
 2022-02-05	A		University of San Francisco	University of California: Santa Barbara
-2022-02-05	A		University of South Carolina	Wake Forest University
 2022-02-05	A		University of South Dakota	Gonzaga University
 2022-02-05	A		University of St. Thomas - MN	Northern Illinois University
 2022-02-05	A		University of Tennessee: Martin	Middle Tennessee State University
@@ -1667,12 +1666,13 @@ date	where	score	winner	loser
 2022-02-05	A		University of Texas Rio Grande Valley	University of Mary Hardin-Baylor
 2022-02-05	N		University of the Cumberlands	Lincoln Memorial University
 2022-02-05	A		University of Wisconsin-Milwaukee	Butler University
+2022-02-05	H	4-3	Wake Forest University	University of South Carolina
 2022-02-05	A		Wallace State Community College	Birmingham-Southern College
 2022-02-05	A		Warner University	Keiser University
 2022-02-05	A		Washington University in St. Louis	Lindenwood University
 2022-02-05	N		Weber State University	Youngstown State University
 2022-02-05	A		West Virginia State University	Lincoln Memorial University
-2022-02-05	A		West Virginia University	College of William & Mary
+2022-02-05	A	4-3	West Virginia University	College of William & Mary
 2022-02-05	A		Western Carolina University	Gardner-Webb University
 2022-02-05	A		Whitworth University	Lewis-Clark State College (ID)
 2022-02-05	A		Yale University	Indiana University
