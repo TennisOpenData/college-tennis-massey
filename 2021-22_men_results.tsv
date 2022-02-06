@@ -775,8 +775,8 @@ date	where	score	winner	loser
 2022-02-05	N		Asbury University	Illinois Wesleyan University
 2022-02-05	N		Ashland University	West Liberty University
 2022-02-05	A		Augustana University	Emporia State University
-2022-02-05	A		Ave Maria University	St. Thomas University (FL)
 2022-02-05	A		Baker University	William Jewell College
+2022-02-05	H	4-3	Binghamton University	Fairleigh Dickinson University
 2022-02-05	H	7-0	Boston College	Siena College
 2022-02-05	A		Cardinal Stritch University	Northern Illinois University
 2022-02-05	A		Cardinal Stritch University	Northern Illinois University
@@ -787,11 +787,9 @@ date	where	score	winner	loser
 2022-02-05	H	8-1	Coe College	Wartburg College
 2022-02-05	N	6-1	Dartmouth College	Cleveland State University
 2022-02-05	H	6-1	Drexel University	New Jersey Institute of Technology
-2022-02-05	A		Emmanuel College - GA	University of North Carolina at Asheville
-2022-02-05	A		Fairleigh Dickinson University	Binghamton University
 2022-02-05	A	4-3	Florida Atlantic University	University of South Florida
 2022-02-05	H	6-1	Fordham University	Quinnipiac University
-2022-02-05	A		George Mason University	University of Mary Washington
+2022-02-05	A	5-2	George Mason University	University of Mary Washington
 2022-02-05	H	4-3	Georgia Southern University	Gardner-Webb University
 2022-02-05	A		Grand View University	Grinnell College
 2022-02-05	A		Hastings College	Bethany College - KS
@@ -820,7 +818,6 @@ date	where	score	winner	loser
 2022-02-05	A		Old Dominion University	Columbia University
 2022-02-05	H	4-3	Palm Beach Atlantic University	Rollins College
 2022-02-05	A	4-2	Pepperdine University	Oklahoma State University
-2022-02-05	N		Portland State University	San Diego State University
 2022-02-05	A		Prairie View A&M University	Oral Roberts University
 2022-02-05	A		Radford University	University of North Carolina at Charlotte
 2022-02-05	A		Reinhardt College	Young Harris College
@@ -829,14 +826,15 @@ date	where	score	winner	loser
 2022-02-05	A		Rose-Hulman Institute of Technology	Wabash College
 2022-02-05	A		Saint Francis College - NY	Temple University
 2022-02-05	A		Saint Francis University - PA	Carnegie Mellon University
-2022-02-05	A		Saint Joseph's University	United States Naval Academy
 2022-02-05	A		San Diego Christian College	Point Loma Nazarene University
+2022-02-05	N	4-3	San Diego State University	Portland State University
 2022-02-05	N	4-3	San Diego State University	University of Portland
 2022-02-05	A		Schreiner University	St. Mary's University - TX
 2022-02-05	N		Schreiner University	Tabor College
 2022-02-05	N		Seattle University	University of North Dakota
 2022-02-05	A		Southeastern University	College of Coastal Georgia
 2022-02-05	A		Southwest Baptist University	Ouachita Baptist University
+2022-02-05	H	5-2	St. Thomas University (FL)	Ave Maria University
 2022-02-05	H	4-1	Stanford University	University of Southern California
 2022-02-05	A		Sterling College	Midland University
 2022-02-05	A	4-3	Stetson University	Mercer University
@@ -845,13 +843,15 @@ date	where	score	winner	loser
 2022-02-05	N		The Citadel	South Carolina State University
 2022-02-05	A		The Citadel	University of South Carolina Sumter
 2022-02-05	A		Tuskegee University	Shorter University
+2022-02-05	H	6-1	United States Naval Academy	Saint Joseph's University
 2022-02-05	A		University of Alabama at Birmingham	University of Alabama
 2022-02-05	H	4-0	University of California: Berkeley	University of California: Los Angeles
-2022-02-05	N		University of Florida	Florida State University
+2022-02-05	N	4-1	University of Florida	Florida State University
 2022-02-05	N		University of Idaho	University of Nebraska Omaha
 2022-02-05	N	4-1	University of Louisiana at Lafayette	Texas A&M University-Corpus Christi
 2022-02-05	A	4-3	University of Memphis	University of Alabama
 2022-02-05	N	4-0	University of Montana	Seattle University
+2022-02-05	H	6-1	University of North Carolina at Asheville	Emmanuel College - GA
 2022-02-05	H	6-1	University of North Carolina at Wilmington	Wofford College
 2022-02-05	A		University of North Georgia	Tusculum College
 2022-02-05	H	7-0	University of Pennsylvania	United States Naval Academy
@@ -899,6 +899,7 @@ date	where	score	winner	loser
 2022-02-06	A		Grace College & Seminary	University of Indianapolis
 2022-02-06	A		Hillsdale College	Lewis University
 2022-02-06	A		Hofstra University	Sacred Heart University
+2022-02-06	A		Idaho State University	Baylor University
 2022-02-06	A		Idaho State University	Baylor University
 2022-02-06	A		Illinois State University	Butler University
 2022-02-06	A		Jacksonville State University	University of New Orleans
@@ -953,6 +954,7 @@ date	where	score	winner	loser
 2022-02-06	A		University of San Francisco	University of California: Irvine
 2022-02-06	A		University of Southern California	University of California: Berkeley
 2022-02-06	A		University of Texas, Permian Basin	University of Texas at Arlington
+2022-02-06	A		University of the Incarnate Word	Baylor University
 2022-02-06	A		University of the Incarnate Word	Baylor University
 2022-02-06	A		University of the Incarnate Word	University of Mary Hardin-Baylor
 2022-02-06	N		University of the Pacific	University of Texas at San Antonio
