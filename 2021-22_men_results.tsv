@@ -446,7 +446,7 @@ date	where	score	winner	loser
 2022-01-22	A	6-0	University of California: Davis	Hope International University
 2022-01-22	N	7-0	University of California: Davis	Hope International University
 2022-01-22	H	4-0	University of Illinois	Chicago State University
-2022-01-22	N	4-0	University of Kentucky	Northern Kentucky University
+2022-01-22	A	4-0	University of Kentucky	Northern Kentucky University
 2022-01-22	H	7-0	University of Miami (FL)	University of North Florida
 2022-01-22	H	4-3	University of Mississippi	University of Alabama
 2022-01-22	N	6-1	University of Nevada (Reno)	Seattle University
@@ -677,7 +677,7 @@ date	where	score	winner	loser
 2022-01-30	N	4-1	University of Florida	Florida State University
 2022-01-30	H	4-1	University of Georgia	Virginia Commonwealth University
 2022-01-30	N	4-0	University of Hawaii	New Mexico State University
-2022-01-30	N	4-2	University of Kentucky	Mississippi State University
+2022-01-30	A	4-2	University of Kentucky	Mississippi State University
 2022-01-30	N	4-1	University of Miami (FL)	Clemson University
 2022-01-30	N	4-2	University of Mississippi	North Carolina State University
 2022-01-30	H	5-2	University of North Carolina at Charlotte	Presbyterian College
@@ -850,7 +850,6 @@ date	where	score	winner	loser
 2022-02-06	A		Cardinal Stritch University	Northern Illinois University
 2022-02-06	A		Cardinal Stritch University	Northern Illinois University
 2022-02-06	A		Colgate University	Saint Francis University - PA
-2022-02-06	A		Coppin State College	United States Naval Academy
 2022-02-06	A		Cowley County Community College	Drury University
 2022-02-06	A		Dartmouth College	Penn State University
 2022-02-06	N		Delta State University	Southwest Baptist University
@@ -899,6 +898,7 @@ date	where	score	winner	loser
 2022-02-06	A		Tennessee Technological University	Mississippi State University
 2022-02-06	A		Texas Tech University	University of Utah
 2022-02-06	A		Tiffin University	Davenport University
+2022-02-06	H	7-0	United States Naval Academy	Coppin State College
 2022-02-06	A		University of Arkansas	University of Oklahoma
 2022-02-06	A		University of California: Los Angeles	Stanford University
 2022-02-06	A		University of Central Florida	North Carolina State University
@@ -929,6 +929,7 @@ date	where	score	winner	loser
 2022-02-07	A		Mississippi Gulf Coast Community College	Blue Mountain College
 2022-02-07	N		Southeastern Oklahoma State University	University of Texas, Permian Basin
 2022-02-07	A		University of Texas	Baylor University
+2022-02-07	A		Virginia Commonwealth University	University of Kentucky
 2022-02-08	A		Butler University	University of Indianapolis
 2022-02-08	A		Chabot College	Santa Rosa Junior College
 2022-02-08	A		Coastal Carolina University	University of North Carolina at Wilmington
@@ -3112,6 +3113,7 @@ date	where	score	winner	loser
 2022-03-20	A		Troy State University	Georgia Southern University
 2022-03-20	A		University of Alabama at Birmingham	Old Dominion University
 2022-03-20	A		University of Arizona	University of Southern California
+2022-03-20	A		University of Denver	University of Nevada (Reno)
 2022-03-20	A		University of Georgia	University of Tennessee
 2022-03-20	A		University of Illinois at Chicago	Northern Kentucky University
 2022-03-20	A		University of Miami (FL)	University of Notre Dame
