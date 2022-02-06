@@ -1141,6 +1141,7 @@ date	where	score	winner	loser
 2022-01-22	H	6-1	University of Louisiana at Monroe	Grambling State University
 2022-01-22	H	7-0	University of Maryland	Coppin State College
 2022-01-22	H	7-0	University of Maryland	Georgetown University
+2022-01-22	A	7-0	University of Michigan	Oakland University
 2022-01-22	H	7-0	University of Michigan	Oakland University
 2022-01-22	H	7-0	University of Michigan	Western Michigan University
 2022-01-22	H	7-0	University of North Carolina at Asheville	Tusculum College
@@ -1490,6 +1491,7 @@ date	where	score	winner	loser
 2022-02-03	A	4-0	University of the Pacific	University of California: Riverside
 2022-02-04	H	5-2	Auburn University	Georgia Institute of Technology
 2022-02-04	H	6-1	Clemson University	Coastal Carolina University
+2022-02-04	H	5-4	Copiah-Lincoln Community College	Itawamba Community College
 2022-02-04	H	5-2	Creighton University	University of Nebraska Omaha
 2022-02-04	H	5-2	Dartmouth College	Boston College
 2022-02-04	H	6-1	Duquesne University	Mount St. Mary's University (MD)
@@ -1622,6 +1624,7 @@ date	where	score	winner	loser
 2022-02-06	A		Alabama Agricultural & Mechanical University	Auburn University
 2022-02-06	A		Anderson University - SC	Catawba College
 2022-02-06	A		Augustana University	Newman University
+2022-02-06	H	6-1	Bemidji State University	University of Minnesota: Duluth
 2022-02-06	A		Binghamton University	Boston University
 2022-02-06	A		Bradley University	University of Illinois at Chicago
 2022-02-06	A		Bucknell University	SUNY Buffalo
@@ -1641,7 +1644,6 @@ date	where	score	winner	loser
 2022-02-06	A		Flagler College	Palm Beach Atlantic University
 2022-02-06	A		George Mason University	University of Maryland
 2022-02-06	A		George Washington University	University of Maryland
-2022-02-06	A		Georgia Southern University	University of Central Florida
 2022-02-06	A		Hofstra University	Sacred Heart University
 2022-02-06	A		Illinois State University	University of Illinois
 2022-02-06	A		Indiana University-Purdue University Indianapolis	Western Kentucky University
@@ -1662,6 +1664,7 @@ date	where	score	winner	loser
 2022-02-06	A		Piedmont College	Young Harris College
 2022-02-06	A		Purdue University Northwest	Hillsdale College
 2022-02-06	A		San Jose State University	California State University: Northridge
+2022-02-06	H	7-0	Southern Illinois University Edwardsville	Western Illinois University
 2022-02-06	A		St. John's University (NY)	Rutgers University
 2022-02-06	A		Stephen F. Austin State University	University of Louisiana at Lafayette
 2022-02-06	A		Syracuse University	Drexel University
@@ -1672,9 +1675,9 @@ date	where	score	winner	loser
 2022-02-06	A		University of Arkansas	University of Kansas
 2022-02-06	A		University of California: Davis	University of California: Riverside
 2022-02-06	A		University of Central Arkansas	Samford University
+2022-02-06	H	7-0	University of Central Florida	Georgia Southern University
 2022-02-06	A		University of Findlay	Grand Valley State University
 2022-02-06	A		University of Louisville	Vanderbilt University
-2022-02-06	A		University of Minnesota: Duluth	Bemidji State University
 2022-02-06	A		University of Missouri: Columbia	University of Texas
 2022-02-06	A		University of Nebraska Omaha	Missouri State University
 2022-02-06	A		University of North Carolina at Charlotte	Dartmouth College
@@ -1695,7 +1698,6 @@ date	where	score	winner	loser
 2022-02-06	N	4-3	Upper Iowa University	Minnesota State University Moorhead
 2022-02-06	A		Valparaiso University	Western Michigan University
 2022-02-06	A		West Virginia University	Virginia Commonwealth University
-2022-02-06	A		Western Illinois University	Southern Illinois University Edwardsville
 2022-02-06	A		Wichita State University	University of Nebraska
 2022-02-06	A		William Woods University	Washburn University of Topeka
 2022-02-06	H	7-0	Winona State University	Minnesota State University Moorhead
@@ -1800,6 +1802,7 @@ date	where	score	winner	loser
 2022-02-11	A		California State University: Fresno	Brigham Young University
 2022-02-11	A		California State University: Long Beach	San Diego State University
 2022-02-11	N		Chicago State University	Western Illinois University
+2022-02-11	A		Colorado Mesa	Ottawa University Arizona
 2022-02-11	N		Colorado Mesa	Western New Mexico University
 2022-02-11	A		Dallas Baptist University	Newman University
 2022-02-11	A		Davidson College	University of North Carolina at Asheville
@@ -4817,6 +4820,7 @@ date	where	score	winner	loser
 2022-03-22	A		Denison University	Ohio Wesleyan University
 2022-03-22	A		DePaul University	Loyola Marymount University
 2022-03-22	N		Dominican University (IL)	Colorado Mesa
+2022-03-22	N		Dominican University of California	Colorado Mesa
 2022-03-22	A		Drexel University	College of William & Mary
 2022-03-22	A		Eastern Arizona College	Paradise Valley Community College
 2022-03-22	A		Fairleigh Dickinson University	Saint Francis College - NY
@@ -5553,7 +5557,6 @@ date	where	score	winner	loser
 2022-04-01	A		Christopher Newport University	Case Western Reserve University
 2022-04-01	A		Claremont-Mudd-Scripps Colleges	California Institute of Technology
 2022-04-01	A		Colorado Mesa	Metropolitan State University of Denver
-2022-04-01	N		Colorado State University: Pueblo	Colorado Mesa
 2022-04-01	N		Columbia University	University of Miami (FL)
 2022-04-01	A		Columbus State University	Flagler College
 2022-04-01	A		Copiah-Lincoln Community College	Northeast Mississippi Community College
@@ -5903,6 +5906,7 @@ date	where	score	winner	loser
 2022-04-03	A		Colgate University	Bucknell University
 2022-04-03	A		College of Saint Mary - NE	Hastings College
 2022-04-03	A		Colorado College	Metropolitan State University of Denver
+2022-04-03	A		Colorado Mesa	Colorado State University: Pueblo
 2022-04-03	N		Colorado State University	University of New Mexico
 2022-04-03	A		Concordia College - Moorhead	University of Wisconsin-Superior
 2022-04-03	A		Coppin State College	Towson University
@@ -6320,6 +6324,7 @@ date	where	score	winner	loser
 2022-04-09	A		College of St. Scholastica	Gustavus Adolphus College
 2022-04-09	A		College of William & Mary	Towson University
 2022-04-09	A		Colorado State University	Univ. of Nevada: Las Vegas
+2022-04-09	A		Colorado State University: Pueblo	Colorado Mesa
 2022-04-09	A		Columbia University	Harvard University
 2022-04-09	A		Columbus State University	Lander University
 2022-04-09	A		Concordia University - Austin	Howard Payne University

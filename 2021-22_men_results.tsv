@@ -516,7 +516,6 @@ date	where	score	winner	loser
 2022-01-26	H	6-1	Auburn University	Old Dominion University
 2022-01-26	H	5-2	Gardner-Webb University	Wofford College
 2022-01-26	H	7-0	Liberty University	College of William & Mary
-2022-01-26	H	5-2	University of Indianapolis	University of Northwestern Ohio
 2022-01-26	H	6-1	University of Pennsylvania	Temple University
 2022-01-27	H	7-2	Chabot College	Solano Community College
 2022-01-27	N	4-1	Indiana Wesleyan University	Montreat College
@@ -641,7 +640,8 @@ date	where	score	winner	loser
 2022-01-30	H	6-1	Brown University	Siena College
 2022-01-30	H	5-2	Butler University	Cleveland State University
 2022-01-30	H	6-0	California State University: Sacramento	American River College
-2022-01-30	N	5-0	Carleton College (MN)	University of Wisconsin-La Crosse
+2022-01-30	A	9-0	Carleton College (MN)	St. Mary's University - MN
+2022-01-30	N	8-1	Carleton College (MN)	University of Wisconsin-La Crosse
 2022-01-30	N	4-2	Chicago State University	Indiana University-Purdue University Indianapolis
 2022-01-30	N	4-3	Columbia University	Oklahoma State University
 2022-01-30	H	4-3	Cornell University	Penn State University
@@ -747,6 +747,7 @@ date	where	score	winner	loser
 2022-02-04	H	5-2	Gonzaga University	University of New Mexico
 2022-02-04	A	4-2	Hillsdale College	Lawrence Technological University
 2022-02-04	A	2-2	Holy Names University	William Jessup University
+2022-02-04	A	6-3	Itawamba Community College	Copiah-Lincoln Community College
 2022-02-04	H	5-2	James Madison University	Georgetown University
 2022-02-04	H	9-0	Jones College	Northeast Mississippi Community College
 2022-02-04	A	4-3	Liberty University	Elon University
@@ -776,6 +777,7 @@ date	where	score	winner	loser
 2022-02-04	A	4-3	Wayne State University (MI)	University of Toledo
 2022-02-04	H	6-2	Whittier College	Riverside Community College
 2022-02-04	A	6-1	Yale University	Butler University
+2022-02-05	A	6-3	Arizona Christian	Mesa Community College
 2022-02-05	H	4-3	Binghamton University	Fairleigh Dickinson University
 2022-02-05	H	7-0	Boston College	Siena College
 2022-02-05	H	5-2	Carnegie Mellon University	Duquesne University
@@ -787,6 +789,7 @@ date	where	score	winner	loser
 2022-02-05	H	6-1	Fordham University	Quinnipiac University
 2022-02-05	A	5-2	George Mason University	University of Mary Washington
 2022-02-05	H	4-3	Georgia Southern University	Gardner-Webb University
+2022-02-05	H	8-1	Grinnell College	Central College
 2022-02-05	A	3-2	Hastings College	Bethany College - KS
 2022-02-05	H	6-3	Hope College	Spring Arbor University
 2022-02-05	A	3-3	Huntington University	Aquinas College - MI
@@ -794,6 +797,7 @@ date	where	score	winner	loser
 2022-02-05	N	4-3	Idaho State University	University of the Incarnate Word
 2022-02-05	H	4-3	Indiana University	Yale University
 2022-02-05	H	4-3	Indiana University-Purdue University Indianapolis	Illinois State University
+2022-02-05	N	8-1	Jones College	Oxford College of Emory University
 2022-02-05	H	7-0	Keiser University	Warner University
 2022-02-05	A	4-3	Lake Superior State University	Cornerstone University
 2022-02-05	H	4-3	Lawrence Technological University	Lake Superior State University
@@ -841,6 +845,7 @@ date	where	score	winner	loser
 2022-02-05	H	5-2	Xavier University (Ohio)	Youngstown State University
 2022-02-06	A		Anderson University - SC	Catawba College
 2022-02-06	A		Augustana University	Newman University
+2022-02-06	H	7-0	Barry University	Florida Southern College
 2022-02-06	A		Belmont University	University of Tennessee: Chattanooga
 2022-02-06	N		Bethany Lutheran College	Hamline University
 2022-02-06	N		Bryant University	Fairfield University
@@ -858,7 +863,6 @@ date	where	score	winner	loser
 2022-02-06	A		Elon University	College of William & Mary
 2022-02-06	A		Fairfield University	United States Military Academy
 2022-02-06	A		Flagler College	Keiser University
-2022-02-06	A		Florida Southern College	Barry University
 2022-02-06	A		George Mason University	James Madison University
 2022-02-06	A		Georgetown University	United States Naval Academy
 2022-02-06	A		Georgia Institute of Technology	University of South Carolina
@@ -886,7 +890,7 @@ date	where	score	winner	loser
 2022-02-06	A		Piedmont College	Tuskegee University
 2022-02-06	A		Piedmont College	Young Harris College
 2022-02-06	A		Presbyterian College	East Tennessee State University
-2022-02-06	A		Princeton University	Indiana University
+2022-02-06	A	7-0	Princeton University	Indiana University
 2022-02-06	A		Radford University	University of North Carolina at Charlotte
 2022-02-06	A		Samford University	University of South Alabama
 2022-02-06	A		San Diego State University	University of Washington
@@ -2575,6 +2579,7 @@ date	where	score	winner	loser
 2022-03-12	A		Ferrum College	Maryville College
 2022-03-12	N		Franklin College	Kaskaskia College
 2022-03-12	A		Franklin College	Kentucky Wesleyan College
+2022-03-12	A		Fresno Pacific University	Colorado Mesa
 2022-03-12	A		Gadsden State Community College	Marion Military Institute
 2022-03-12	A		Grace College & Seminary	Campbellsville University
 2022-03-12	A		Grove City College	St. Bonaventure University
@@ -3071,6 +3076,7 @@ date	where	score	winner	loser
 2022-03-20	A		Bucknell University	Cornell University
 2022-03-20	A		Butler University	Youngstown State University
 2022-03-20	A		Capital University	Lourdes University
+2022-03-20	N		Carleton College (MN)	College of Wooster
 2022-03-20	A		Centre College	Hampden-Sydney College
 2022-03-20	N		Chabot College	Glendale Community College - CA
 2022-03-20	N		Chabot College	Ventura College
