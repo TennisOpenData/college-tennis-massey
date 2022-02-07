@@ -1509,6 +1509,7 @@ date	where	score	winner	loser
 2022-02-04	H	3-4	Lipscomb University	University of Tennessee: Martin
 2022-02-04	H	7-0	Middle Tennessee State University	Indiana University-Purdue University Indianapolis
 2022-02-04	H	6-1	Morningside College	Sterling College
+2022-02-04	N	5-0	Newberry College	Francis Marion University
 2022-02-04	A	5-2	North Carolina State University	University of Tennessee
 2022-02-04	H	7-0	Northern Illinois University	Western Illinois University
 2022-02-04	H	4-3	Point Loma Nazarene University	Portland State University
@@ -1517,6 +1518,7 @@ date	where	score	winner	loser
 2022-02-04	N	4-3	Slippery Rock University of Pennsylvania	Carnegie Mellon University
 2022-02-04	N	6-1	St. Cloud State University	University of Minnesota: Crookston
 2022-02-04	H	7-0	Stetson University	Florida Agricultural & Mechanical University
+2022-02-04	H	7-0	United States Military Academy	SUNY Stony Brook
 2022-02-04	H	7-0	Univ. of Nevada: Las Vegas	Weber State University
 2022-02-04	H	4-0	University of California: Los Angeles	University of California: Santa Barbara
 2022-02-04	H	6-1	University of Louisiana at Lafayette	Southern University & Agricultural & Mechanical
@@ -1558,7 +1560,9 @@ date	where	score	winner	loser
 2022-02-05	A	7-0	Dominican University of California	William Jessup University
 2022-02-05	H	4-3	Drake University	University of Nebraska - Kearney
 2022-02-05	A	6-1	Duke University	Furman University
+2022-02-05	N	4-1	Francis Marion University	Barton College
 2022-02-05	H	6-1	Furman University	Charleston Southern University
+2022-02-05	A	4-3	George Mason University	University of Mary Washington
 2022-02-05	H	5-2	Gonzaga University	University of South Dakota
 2022-02-05	A	5-0	Grand Canyon University	University of California: Riverside
 2022-02-05	H	5-2	Harvard University	Boston University
@@ -1627,7 +1631,6 @@ date	where	score	winner	loser
 2022-02-05	N	5-2	Wichita State University	Creighton University
 2022-02-05	H	6-1	Young Harris College	Reinhardt College
 2022-02-05	N	4-3	Youngstown State University	Weber State University
-2022-02-06	A		Abilene Christian University	University of New Mexico
 2022-02-06	A		Anderson University - SC	Catawba College
 2022-02-06	H	7-0	Auburn University	Alabama Agricultural & Mechanical University
 2022-02-06	H	7-0	Auburn University	Clemson University
@@ -1640,7 +1643,6 @@ date	where	score	winner	loser
 2022-02-06	A		College of Idaho	Lewis-Clark State College (ID)
 2022-02-06	A		College of St. Scholastica	St. Norbert College
 2022-02-06	A		Cowley County Community College	Drury University
-2022-02-06	A		Cumberland University	Murray State University
 2022-02-06	A		Cumberland University	Murray State University
 2022-02-06	A		DePauw University	Kenyon College
 2022-02-06	A		East Carolina University	North Carolina State University
@@ -1659,9 +1661,9 @@ date	where	score	winner	loser
 2022-02-06	A	4-1	McNeese State University	Grambling State University
 2022-02-06	A		Mercyhurst University	Walsh University
 2022-02-06	N	4-1	Michigan State University	Virginia Polytechnic Institute & State University
-2022-02-06	A		New Mexico Military Institute	Western New Mexico University
+2022-02-06	N	4-3	Mount Olive College	Francis Marion University
+2022-02-06	H	7-0	Murray State University	Cumberland University
 2022-02-06	H	7-0	North Carolina State University	University of South Carolina
-2022-02-06	A		Northern Illinois University	University of Notre Dame
 2022-02-06	A		Purdue University Northwest	Hillsdale College
 2022-02-06	H	5-2	Rutgers University	St. John's University (NY)
 2022-02-06	H	6-1	Saint Francis University - PA	Colgate University
@@ -1689,10 +1691,12 @@ date	where	score	winner	loser
 2022-02-06	H	7-0	University of Maryland	George Washington University
 2022-02-06	H	6-1	University of Nebraska	Wichita State University
 2022-02-06	A	4-3	University of Nebraska Omaha	Missouri State University
+2022-02-06	H	5-2	University of New Mexico	Abilene Christian University
 2022-02-06	H	4-3	University of New Orleans	Jacksonville State University
 2022-02-06	H	7-0	University of North Carolina at Asheville	Limestone University
 2022-02-06	A	6-1	University of North Carolina at Charlotte	Dartmouth College
 2022-02-06	A		University of North Georgia	Carson-Newman College
+2022-02-06	H	5-2	University of Notre Dame	Northern Illinois University
 2022-02-06	H	6-1	University of Notre Dame	Yale University
 2022-02-06	A	4-2	University of Oregon	University of Denver
 2022-02-06	N		University of Pikeville	University of Virginia's College at Wise
@@ -1711,6 +1715,7 @@ date	where	score	winner	loser
 2022-02-06	H	4-3	Virginia Commonwealth University	West Virginia University
 2022-02-06	N	4-0	Weber State University	University of Texas at El Paso
 2022-02-06	H	7-0	Western Kentucky University	Indiana University-Purdue University Indianapolis
+2022-02-06	H	6-1	Western New Mexico University	New Mexico Military Institute
 2022-02-06	A		William Woods University	Washburn University of Topeka
 2022-02-06	H	7-0	Winona State University	Minnesota State University Moorhead
 2022-02-06	A		Xavier University of Louisiana	University of South Alabama
@@ -2210,6 +2215,7 @@ date	where	score	winner	loser
 2022-02-17	A		Henderson State University	Arkansas Tech University
 2022-02-17	A		Keiser University	Palm Beach Atlantic University
 2022-02-17	A		Lees-McRae College	Lenoir-Rhyne College
+2022-02-17	A		Meridian Community College	Southwest Mississippi Community College
 2022-02-17	A		Mississippi Valley State University	Jackson State University
 2022-02-17	A		Nicholls State University	University of South Alabama
 2022-02-17	A		North Carolina A&T	Queens University of Charlotte
@@ -2766,6 +2772,7 @@ date	where	score	winner	loser
 2022-02-25	A		McMurry University	Schreiner University
 2022-02-25	N		McPherson College	William Woods University
 2022-02-25	A		Meridian Community College	East Texas Baptist University
+2022-02-25	N		Meridian Community College	Weatherford College
 2022-02-25	A		Middle Tennessee State University	Louisiana Tech University
 2022-02-25	A		Midland University	Rockhurst University
 2022-02-25	A		Midwestern State University	Collin County Community College
@@ -3151,6 +3158,7 @@ date	where	score	winner	loser
 2022-03-02	A		Gardner-Webb University	University of North Carolina at Asheville
 2022-03-02	A		Hendrix College	Rhodes College
 2022-03-02	A		Hood College	St. Mary's College - MD
+2022-03-02	A		Indiana Wesleyan University	Cumberland University
 2022-03-02	A		Kansas State University	University of Nebraska
 2022-03-02	A		Lancaster Bible College	Clarks Summit University
 2022-03-02	A		Lewis & Clark Community College	Missouri Baptist University
@@ -3742,7 +3750,6 @@ date	where	score	winner	loser
 2022-03-09	A		Lane College	LeMoyne-Owen College
 2022-03-09	N		Lawrence Technological University	Missouri Valley College
 2022-03-09	A		Longwood University	Norfolk State University
-2022-03-09	A		Marymount California University	California State University: Los Angeles
 2022-03-09	A		Marymount University	Harford Community College
 2022-03-09	A		Mercer University	Charleston Southern University
 2022-03-09	A		Michigan State University	West Virginia University
@@ -4865,6 +4872,7 @@ date	where	score	winner	loser
 2022-03-22	A		Radford University	Gardner-Webb University
 2022-03-22	A		Rider University	City University of New York: Queens College
 2022-03-22	A		Rio Hondo College	El Camino College
+2022-03-22	A		Southwest Mississippi Community College	Meridian Community College
 2022-03-22	A		Spokane Community College	Lewis-Clark State College (ID)
 2022-03-22	N		State College of Florida, Manatee-Sarasota	State University of West Georgia
 2022-03-22	A		State University of West Georgia	State College of Florida, Manatee-Sarasota
@@ -6275,6 +6283,7 @@ date	where	score	winner	loser
 2022-04-08	A		University of Oklahoma	Iowa State University
 2022-04-08	A		University of Oregon	University of California: Los Angeles
 2022-04-08	A		University of Rochester	Niagara University
+2022-04-08	A		University of Southern California	University of San Diego
 2022-04-08	A		University of Southern Indiana	Maryville University of Saint Louis
 2022-04-08	A		University of Tennessee: Martin	Belmont University
 2022-04-08	A		University of the Cumberlands	Thomas More College
