@@ -625,7 +625,7 @@ date	where	score	winner	loser
 2022-01-29	N	4-0	University of Northwestern Ohio	University of the Cumberlands
 2022-01-29	N	4-0	University of Oregon	Oklahoma State University
 2022-01-29	H	4-1	University of South Carolina	Louisiana State University
-2022-01-29	N	4-0	University of Tennessee	University of Memphis
+2022-01-29	A	4-0	University of Tennessee	University of Memphis
 2022-01-29	H	4-0	University of Texas	Columbia University
 2022-01-29	N	5-2	University of Toledo	Bucknell University
 2022-01-29	N	4-2	University of Tulsa	Wichita State University
@@ -669,7 +669,7 @@ date	where	score	winner	loser
 2022-01-30	N	4-0	Stanford University	Tulane University
 2022-01-30	H	7-0	Texas A&M University	Texas A&M University-Corpus Christi
 2022-01-30	H	4-1	Texas A&M University	University of Arizona
-2022-01-30	N	4-0	Texas Christian University	University of Tulsa
+2022-01-30	H	4-0	Texas Christian University	University of Tulsa
 2022-01-30	H	6-1	United States Military Academy	Marist College
 2022-01-30	H	7-0	United States Military Academy	Quinnipiac University
 2022-01-30	N	4-0	Univ. of Nevada: Las Vegas	Weber State University
@@ -677,12 +677,12 @@ date	where	score	winner	loser
 2022-01-30	N	4-0	University of Arkansas	University of Alabama
 2022-01-30	N	4-3	University of California: Los Angeles	Texas Tech University
 2022-01-30	H	4-3	University of Central Florida	University of Louisville
-2022-01-30	N	4-1	University of Florida	Florida State University
+2022-01-30	H	4-1	University of Florida	Florida State University
 2022-01-30	H	4-1	University of Georgia	Virginia Commonwealth University
 2022-01-30	N	4-0	University of Hawaii	New Mexico State University
 2022-01-30	A	4-2	University of Kentucky	Mississippi State University
 2022-01-30	N	4-1	University of Miami (FL)	Clemson University
-2022-01-30	N	4-2	University of Mississippi	North Carolina State University
+2022-01-30	H	4-2	University of Mississippi	North Carolina State University
 2022-01-30	H	5-2	University of North Carolina at Charlotte	Presbyterian College
 2022-01-30	H	7-0	University of North Florida	College of Charleston
 2022-01-30	H	7-0	University of North Florida	University of Charleston (WV)
@@ -894,6 +894,7 @@ date	where	score	winner	loser
 2022-02-06	A		Le Moyne College	St. Michael's College
 2022-02-06	A		Maryville University of Saint Louis	Quincy University
 2022-02-06	A		Mercyhurst University	Walsh University
+2022-02-06	H	7-2	Meridian Community College	Oxford College of Emory University
 2022-02-06	H	6-1	Middle Tennessee State University	Tennessee State University
 2022-02-06	H	6-1	Mississippi State University	Tennessee Technological University
 2022-02-06	H	4-0	Mississippi State University	Tennessee Technological University
@@ -906,7 +907,6 @@ date	where	score	winner	loser
 2022-02-06	H	4-0	Northwestern University	University of Illinois at Chicago
 2022-02-06	H	4-0	Ohio State University	University of Virginia
 2022-02-06	A	4-3	Old Dominion University	St. John's University (NY)
-2022-02-06	A		Oxford College of Emory University	Meridian Community College
 2022-02-06	A		Piedmont College	Tuskegee University
 2022-02-06	A	7-0	Princeton University	Indiana University
 2022-02-06	A	5-2	Siena College	Boston University
