@@ -37,6 +37,7 @@ date	where	score	winner	loser
 2021-09-08	A	0-9	North Central College	Illinois Wesleyan University
 2021-09-10	A	5-2	Franklin Pierce College	College of the Holy Cross
 2021-09-10	H	6-3	Nichols College	Wheaton College - MA
+2021-09-11	A	3-4	Anderson University - IN	Greenville College
 2021-09-11	H	7-2	Anderson University - IN	Webster University
 2021-09-11	H	1-8	Augustana College - IL	Illinois Wesleyan University
 2021-09-11	H	9-0	Gettysburg College	Catholic University of America
@@ -767,6 +768,7 @@ date	where	score	winner	loser
 2022-02-04	H	5-2	University of Denver	Northern Arizona University
 2022-02-04	A	4-3	University of Georgia	North Carolina State University
 2022-02-04	A	4-3	University of Montana	Boise State University
+2022-02-04	H	5-2	University of Northwestern Ohio	Case Western Reserve University
 2022-02-04	H	6-1	University of Oklahoma	Wichita State University
 2022-02-04	H	7-0	University of South Carolina	Clemson University
 2022-02-04	H	6-1	University of Utah	Loyola Marymount University
@@ -857,11 +859,10 @@ date	where	score	winner	loser
 2022-02-06	A		Belmont University	University of Tennessee: Chattanooga
 2022-02-06	N		Bethany Lutheran College	Hamline University
 2022-02-06	H	4-0	Boise State University	Seattle University
+2022-02-06	H	4-1	Boise State University	University of North Dakota
 2022-02-06	A		Bryant University	United States Military Academy
 2022-02-06	H	5-2	Butler University	Illinois State University
 2022-02-06	A		Campbellsville University	Bellarmine University
-2022-02-06	A		Cardinal Stritch University	Northern Illinois University
-2022-02-06	A		Cardinal Stritch University	Northern Illinois University
 2022-02-06	A	6-1	Colgate University	Saint Francis University - PA
 2022-02-06	H	7-0	College of William & Mary	Elon University
 2022-02-06	A		Cowley County Community College	Drury University
@@ -879,27 +880,29 @@ date	where	score	winner	loser
 2022-02-06	H	5-2	Lamar University	Oral Roberts University
 2022-02-06	N		Lawrence University	Wartburg College
 2022-02-06	A		Le Moyne College	St. Michael's College
-2022-02-06	A		Lipscomb University	Vanderbilt University
 2022-02-06	A		Maryville University of Saint Louis	Quincy University
 2022-02-06	A		Mercyhurst University	Walsh University
+2022-02-06	H	6-1	Middle Tennessee State University	Tennessee State University
 2022-02-06	H	6-1	Mississippi State University	Tennessee Technological University
 2022-02-06	H	4-0	Mississippi State University	Tennessee Technological University
 2022-02-06	A		New Mexico Military Institute	Western New Mexico University
 2022-02-06	H	4-0	North Carolina State University	University of Central Florida
 2022-02-06	A	5-2	Northern Arizona University	United States Air Force Academy
+2022-02-06	H	6-1	Northern Illinois University	Cardinal Stritch University
+2022-02-06	H	4-2	Northern Illinois University	Cardinal Stritch University
 2022-02-06	H	4-3	Northwestern University	Duke University
+2022-02-06	H	4-0	Northwestern University	University of Illinois at Chicago
 2022-02-06	H	4-0	Ohio State University	University of Virginia
 2022-02-06	A	4-3	Old Dominion University	St. John's University (NY)
 2022-02-06	A		Oxford College of Emory University	Meridian Community College
 2022-02-06	A		Piedmont College	Tuskegee University
 2022-02-06	A		Presbyterian College	East Tennessee State University
 2022-02-06	A	7-0	Princeton University	Indiana University
-2022-02-06	N	5-2	Siena College	Boston University
+2022-02-06	A	5-2	Siena College	Boston University
 2022-02-06	A		Southeastern Oklahoma State University	Austin College
 2022-02-06	A		Spokane Community College	Whitworth University
 2022-02-06	H	6-1	Stanford University	University of California: Los Angeles
 2022-02-06	A		Stetson University	Georgia State University
-2022-02-06	A		Tennessee State University	Middle Tennessee State University
 2022-02-06	H	4-3	Texas Christian University	University of Mississippi
 2022-02-06	A		Tiffin University	Davenport University
 2022-02-06	H	5-0	United States Naval Academy	Coppin State College
@@ -909,12 +912,10 @@ date	where	score	winner	loser
 2022-02-06	A		University of Dayton	University of Toledo
 2022-02-06	H	4-2	University of Denver	University of Nebraska
 2022-02-06	A		University of Findlay	Grand Valley State University
-2022-02-06	A		University of Illinois at Chicago	Northwestern University
 2022-02-06	A	4-3	University of Louisiana at Lafayette	Rice University
 2022-02-06	H	5-2	University of New Orleans	Jacksonville State University
 2022-02-06	A	4-3	University of North Carolina at Asheville	University of North Carolina at Greensboro
 2022-02-06	H	7-0	University of North Carolina at Charlotte	Radford University
-2022-02-06	A		University of North Dakota	Boise State University
 2022-02-06	A		University of North Georgia	Carson-Newman College
 2022-02-06	A	5-2	University of Notre Dame	Middle Tennessee State University
 2022-02-06	H	5-2	University of Oklahoma	University of Arkansas
@@ -932,6 +933,7 @@ date	where	score	winner	loser
 2022-02-06	H	4-0	University of Utah	Texas Tech University
 2022-02-06	H	4-0	University of Washington	San Diego State University
 2022-02-06	H	4-3	University of Wisconsin	Drake University
+2022-02-06	H	6-1	Vanderbilt University	Lipscomb University
 2022-02-06	A		Virginia Commonwealth University	University of Kentucky
 2022-02-06	H	6-1	Wake Forest University	North Carolina Central University
 2022-02-06	H	4-3	Wake Forest University	University of Georgia
@@ -1127,6 +1129,7 @@ date	where	score	winner	loser
 2022-02-12	A		Gonzaga University	University of Utah
 2022-02-12	N		Grand Canyon University	Santa Clara University
 2022-02-12	A		Grand Valley State University	Hillsdale College
+2022-02-12	A		Greenville College	Albion College
 2022-02-12	N		Grinnell College	Luther College
 2022-02-12	N		Grinnell College	Wheaton College - IL
 2022-02-12	A		Gustavus Adolphus College	St. Olaf College

@@ -139,6 +139,7 @@ date	where	score	winner	loser
 2021-09-10	A	8-1	SUNY at Purchase	Western Connecticut State University
 2021-09-10	H	7-0	Thomas Jefferson University	Molloy College
 2021-09-11	A	7-0	Adelphi University	Stonehill College
+2021-09-11	A	5-4	Anderson University - IN	Greenville College
 2021-09-11	H	8-1	Augustana College - IL	Illinois Wesleyan University
 2021-09-11	H	6-1	Bethel College - IN	University of Saint Francis - IN
 2021-09-11	H	9-0	Bridgewater State College	Castleton State College
@@ -1496,6 +1497,7 @@ date	where	score	winner	loser
 2022-02-04	H	5-2	Dartmouth College	Boston College
 2022-02-04	H	6-1	Duquesne University	Mount St. Mary's University (MD)
 2022-02-04	H	7-0	Eastern Michigan University	Lawrence Technological University
+2022-02-04	H	7-0	Ferris State University	Aquinas College - MI
 2022-02-04	H	5-2	Florida Atlantic University	Florida Gulf Coast University
 2022-02-04	N	4-0	Florida International University	Long Island University
 2022-02-04	H	5-1	Gonzaga University	Montana State University
@@ -1642,9 +1644,9 @@ date	where	score	winner	loser
 2022-02-06	A		Cumberland University	Murray State University
 2022-02-06	A		DePauw University	Kenyon College
 2022-02-06	A		East Carolina University	North Carolina State University
-2022-02-06	A		Fairleigh Dickinson University	Fordham University
 2022-02-06	A		Flagler College	Palm Beach Atlantic University
-2022-02-06	A		George Mason University	University of Maryland
+2022-02-06	H	6-1	Fordham University	Fairleigh Dickinson University
+2022-02-06	H	4-3	Georgia Institute of Technology	Northwestern University
 2022-02-06	A		Hofstra University	Sacred Heart University
 2022-02-06	H	5-2	Indiana University	Marquette University
 2022-02-06	H	5-2	James Madison University	Cornell University
@@ -1660,11 +1662,10 @@ date	where	score	winner	loser
 2022-02-06	A		New Mexico Military Institute	Western New Mexico University
 2022-02-06	H	7-0	North Carolina State University	University of South Carolina
 2022-02-06	A		Northern Illinois University	University of Notre Dame
-2022-02-06	A		Northwestern University	Georgia Institute of Technology
 2022-02-06	A		Purdue University Northwest	Hillsdale College
 2022-02-06	H	5-2	Rutgers University	St. John's University (NY)
 2022-02-06	H	6-1	Saint Francis University - PA	Colgate University
-2022-02-06	H	6-1	Sam Houston State University	University of the Incarnate Word
+2022-02-06	H	5-1	Sam Houston State University	University of the Incarnate Word
 2022-02-06	H	7-0	Southern Illinois University Edwardsville	Western Illinois University
 2022-02-06	A	4-3	Stephen F. Austin State University	University of Louisiana at Lafayette
 2022-02-06	H	5-2	SUNY Buffalo	Bucknell University
@@ -1684,6 +1685,7 @@ date	where	score	winner	loser
 2022-02-06	A		University of Findlay	Grand Valley State University
 2022-02-06	H	7-0	University of Illinois	Illinois State University
 2022-02-06	H	6-1	University of Illinois at Chicago	Bradley University
+2022-02-06	H	5-0	University of Maryland	George Mason University
 2022-02-06	H	7-0	University of Maryland	George Washington University
 2022-02-06	H	6-1	University of Nebraska	Wichita State University
 2022-02-06	A	4-3	University of Nebraska Omaha	Missouri State University
@@ -1705,7 +1707,7 @@ date	where	score	winner	loser
 2022-02-06	N	6-1	University of Wyoming	University of West Alabama
 2022-02-06	N	4-3	Upper Iowa University	Minnesota State University Moorhead
 2022-02-06	A		Valparaiso University	Western Michigan University
-2022-02-06	H	5-1	Vanderbilt University	University of Louisville
+2022-02-06	H	6-1	Vanderbilt University	University of Louisville
 2022-02-06	H	4-3	Virginia Commonwealth University	West Virginia University
 2022-02-06	N	4-0	Weber State University	University of Texas at El Paso
 2022-02-06	H	7-0	Western Kentucky University	Indiana University-Purdue University Indianapolis
