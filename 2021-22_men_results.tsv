@@ -57,11 +57,13 @@ date	where	score	winner	loser
 2021-09-11	N	7-0	Marian University - IN	Mount Vernon Nazarene University
 2021-09-11	A	7-0	Spring Arbor University	Bethel College - IN
 2021-09-11	N	6-1	Spring Arbor University	University of Saint Francis - IN
+2021-09-11	H	5-0	St. Vincent College	Penn State Altoona
 2021-09-11	H	7-2	Trine University	Franklin College
 2021-09-11	A	6-1	University of the District of Columbia	Frostburg State University
 2021-09-11	H	8-1	Wartburg College	Hamline University
 2021-09-12	H	4-2	Niagara University	Walsh University
 2021-09-12	A	7-0	Oakland City University	Hanover College
+2021-09-12	H	5-2	St. Vincent College	Mount Aloysius College
 2021-09-14	N	7-0	Goshen College	Bethel College - IN
 2021-09-14	H	4-3	Grace College & Seminary	Huntington University
 2021-09-14	A	6-1	Grace College & Seminary	Spring Arbor University
@@ -860,7 +862,6 @@ date	where	score	winner	loser
 2022-02-05	N	4-3	Southern Arkansas University	Delta State University
 2022-02-05	H	6-1	St. Mary's University - TX	Schreiner University
 2022-02-05	H	6-1	St. Mary's University - TX	Tabor College
-2022-02-05	H	7-0	St. Mary's University - TX	Tabor College
 2022-02-05	H	5-2	St. Thomas University (FL)	Ave Maria University
 2022-02-05	H	4-1	Stanford University	University of Southern California
 2022-02-05	A	4-3	Stetson University	Mercer University
@@ -972,6 +973,7 @@ date	where	score	winner	loser
 2022-02-06	H	7-0	Young Harris College	Piedmont College
 2022-02-07	H	6-1	Baylor University	University of Texas
 2022-02-07	A	5-2	Jacksonville State University	Jackson State University
+2022-02-07	N	5-2	Southern Arkansas University	Southwest Baptist University
 2022-02-07	H	7-0	University of Kentucky	Virginia Commonwealth University
 2022-02-08	A		Butler University	University of Indianapolis
 2022-02-08	A		Chabot College	Santa Rosa Junior College
@@ -1136,7 +1138,6 @@ date	where	score	winner	loser
 2022-02-12	A		Christopher Newport University	George Mason University
 2022-02-12	A		Coastal Alabama Community College	Huntingdon College
 2022-02-12	N		Coastal Alabama Community College	Mississippi Gulf Coast Community College
-2022-02-12	A		Colgate University	Cornell University
 2022-02-12	A		College of Coastal Georgia	Keiser University
 2022-02-12	A		Colorado Mesa	Arizona Christian
 2022-02-12	A		Concordia University - Irvine	Hawaii Pacific University
@@ -1214,6 +1215,8 @@ date	where	score	winner	loser
 2022-02-12	A		Tennessee State University	Lipscomb University
 2022-02-12	A		Tennessee State University	Samford University
 2022-02-12	A		Texas A&M University	University of South Florida
+2022-02-12	N		The Citadel	Tennessee Wesleyan College
+2022-02-12	A		The Citadel	Tennessee Wesleyan College
 2022-02-12	N		Tusculum College	University of Charleston (WV)
 2022-02-12	N		Tusculum College	Young Harris College
 2022-02-12	A		Univ. of Nevada: Las Vegas	Oklahoma State University
@@ -1295,7 +1298,6 @@ date	where	score	winner	loser
 2022-02-13	A		Southern Arkansas University	University of Texas at Arlington
 2022-02-13	A		SUNY Buffalo	Florida Gulf Coast University
 2022-02-13	A		Texas A&M University-Corpus Christi	Southern Methodist University
-2022-02-13	N		The Citadel	Tennessee Wesleyan College
 2022-02-13	A		The Citadel	Vanderbilt University
 2022-02-13	A		Troy State University	University of North Carolina at Wilmington
 2022-02-13	A		Tulane University	Auburn University
@@ -2630,6 +2632,7 @@ date	where	score	winner	loser
 2022-03-12	N		Boston University	University of New Mexico
 2022-03-12	A		Campbell University	Longwood University
 2022-03-12	A		Colby College	Massachusetts Institute of Technology
+2022-03-12	A		Colgate University	Cornell University
 2022-03-12	A		College of the Holy Cross	Brown University
 2022-03-12	A		Columbia University	Northwestern University
 2022-03-12	A		Concordia College - Moorhead	Gustavus Adolphus College
