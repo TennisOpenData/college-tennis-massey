@@ -110,6 +110,7 @@ date	where	score	winner	loser
 2021-09-18	H	5-2	Cedarville University	Ohio Northern University
 2021-09-18	H	9-0	College of Wooster	Mount Union College
 2021-09-18	H	6-1	Emory & Henry College	University of Virginia's College at Wise
+2021-09-18	H	6-2	Franklin College	Kentucky Wesleyan College
 2021-09-18	H	9-0	Franklin College	Manchester College
 2021-09-18	H	1-8	Greenville College	Illinois Wesleyan University
 2021-09-18	H	4-1	Huntington University	Judson University - IL
@@ -181,6 +182,7 @@ date	where	score	winner	loser
 2021-09-30	A	7-0	Missouri Valley College	Quincy University
 2021-09-30	A	8-1	Roger Williams University	University of Massachusetts Boston
 2021-09-30	H	4-3	St. Thomas Aquinas College	Thomas Jefferson University
+2021-10-01	H	4-3	Davenport University	Aquinas College - MI
 2021-10-01	A	5-2	Grand Valley State University	University of Illinois at Chicago
 2021-10-01	A	1-8	Wheaton College - IL	Illinois Wesleyan University
 2021-10-02	H	4-3	Davenport University	Cornerstone University
@@ -671,7 +673,7 @@ date	where	score	winner	loser
 2022-01-30	H	6-1	Northern Arizona University	Western New Mexico University
 2022-01-30	H	7-0	Northern Arizona University	Western New Mexico University
 2022-01-30	N	4-3	Northwestern University	Arizona State University
-2022-01-30	A	4-0	Ohio State University	University of North Carolina
+2022-01-30	N	4-0	Ohio State University	University of North Carolina
 2022-01-30	N	4-2	Princeton University	University of North Carolina at Wilmington
 2022-01-30	H	7-0	Purdue University	Chicago State University
 2022-01-30	H	6-1	Purdue University	Indiana University-Purdue University Indianapolis
@@ -996,6 +998,7 @@ date	where	score	winner	loser
 2022-02-08	H	6-1	Texas A&M University-Corpus Christi	University of Texas at Arlington
 2022-02-08	H	4-3	University of North Carolina at Wilmington	Coastal Carolina University
 2022-02-08	A	5-2	University of West Alabama	Mississippi College
+2022-02-08	A	0-1	Victor Valley College	Imperial Valley College
 2022-02-08	A	7-0	Wayne State University (MI)	Lawrence Technological University
 2022-02-09	A		Anderson University - SC	University of North Georgia
 2022-02-09	A		Boston College	Brown University
@@ -1344,6 +1347,7 @@ date	where	score	winner	loser
 2022-02-15	A		Concordia University - Irvine	University of California: Riverside
 2022-02-15	A		Copiah-Lincoln Community College	East Central Community College
 2022-02-15	A		Diablo Valley College	Reedley College
+2022-02-15	A		El Camino College	Imperial Valley College
 2022-02-15	A		Hinds Community College	Northeast Mississippi Community College
 2022-02-15	A		Itawamba Community College	Meridian Community College
 2022-02-15	A		Lewis University	Chicago State University
@@ -1411,6 +1415,8 @@ date	where	score	winner	loser
 2022-02-18	A		Hofstra University	Long Island University
 2022-02-18	A		Holmes Community College	Copiah-Lincoln Community College
 2022-02-18	A		Hope International University	Riverside Community College
+2022-02-18	A		Imperial Valley College	Fullerton College
+2022-02-18	A		Imperial Valley College	Orange Coast College
 2022-02-18	A		Irvine Valley College	Pomona-Pitzer Colleges
 2022-02-18	A		Jones College	Mississippi Gulf Coast Community College
 2022-02-18	A		Lamar University	University of Southern Mississippi
@@ -1716,6 +1722,7 @@ date	where	score	winner	loser
 2022-02-24	A		Belmont Abbey College	Lincoln Memorial University
 2022-02-24	A		Eckerd College	Embry-Riddle Aeronautical University - FL
 2022-02-24	A		Hofstra University	Rider University
+2022-02-24	A		Imperial Valley College	College of the Desert
 2022-02-24	A		Irvine Valley College	Riverside Community College
 2022-02-24	A		Keiser University	Valdosta State University
 2022-02-24	A		Lamar University	University of the Incarnate Word
@@ -2060,6 +2067,7 @@ date	where	score	winner	loser
 2022-03-01	A		Mercyhurst University	Saint Francis University - PA
 2022-03-01	A		Mississippi Gulf Coast Community College	Hinds Community College
 2022-03-01	A		Modesto Junior College	Chabot College
+2022-03-01	A		Mt. San Antonio College	Imperial Valley College
 2022-03-01	A		North Carolina A&T	Belmont Abbey College
 2022-03-01	A		Paradise Valley Community College	Mesa Community College
 2022-03-01	N		Piedmont College	St. Mary's University - MN
@@ -2101,6 +2109,7 @@ date	where	score	winner	loser
 2022-03-03	N		College of the Holy Cross	University of Toledo
 2022-03-03	A		Colorado Mesa	Biola University
 2022-03-03	A		Flagler College	Embry-Riddle Aeronautical University - FL
+2022-03-03	A		Imperial Valley College	Victor Valley College
 2022-03-03	N		Jacksonville College	Jones College
 2022-03-03	A		Keiser University	Lynn University
 2022-03-03	A		Lenoir-Rhyne College	Mars Hill University
@@ -2526,6 +2535,7 @@ date	where	score	winner	loser
 2022-03-10	N		Hampden-Sydney College	Otterbein University
 2022-03-10	A		Hawaii Pacific University	Point Loma Nazarene University
 2022-03-10	A		Howard Payne University	Texas A&M University-Texarkana
+2022-03-10	A		Imperial Valley College	El Camino College
 2022-03-10	A		Kansas Wesleyan University	Warner University
 2022-03-10	A		Kennesaw State University	Old Dominion University
 2022-03-10	N		Long Island University	Northwood University (MI)
@@ -3086,7 +3096,6 @@ date	where	score	winner	loser
 2022-03-19	A		Grand Valley State University	Ferris State University
 2022-03-19	N		Harvard University	University of Utah
 2022-03-19	N		Howard University	South Carolina State University
-2022-03-19	A		Indiana University	University of San Diego
 2022-03-19	A		Indiana University-Purdue University Indianapolis	Northern Kentucky University
 2022-03-19	A		Kentucky Wesleyan College	University of Findlay
 2022-03-19	A		Lander University	University of North Georgia
@@ -3263,6 +3272,7 @@ date	where	score	winner	loser
 2022-03-22	A		Clarks Summit University	College Misericordia
 2022-03-22	A		Coker College	Lenoir-Rhyne College
 2022-03-22	A		Colby College	Chapman University
+2022-03-22	A		College of the Desert	Imperial Valley College
 2022-03-22	N		Colorado College	Luther College
 2022-03-22	A		Copiah-Lincoln Community College	Holmes Community College
 2022-03-22	A		CUNY: Baruch College	SUNY at Purchase
@@ -3336,6 +3346,7 @@ date	where	score	winner	loser
 2022-03-24	A		Gustavus Adolphus College	Westmont College
 2022-03-24	A		Harford Community College	Rider University
 2022-03-24	A		Idaho State University	St. Mary's College - CA
+2022-03-24	A		Imperial Valley College	Mt. San Antonio College
 2022-03-24	A		Lewis University	University of Saint Francis - IL
 2022-03-24	A		Mars Hill University	Limestone University
 2022-03-24	A		McPherson College	Bethany College - KS
