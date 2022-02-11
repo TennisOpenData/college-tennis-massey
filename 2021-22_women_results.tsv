@@ -1765,6 +1765,7 @@ date	where	score	winner	loser
 2022-02-06	N	6-1	University of Wyoming	University of West Alabama
 2022-02-06	H	6-1	Vanderbilt University	University of Louisville
 2022-02-06	H	4-3	Virginia Commonwealth University	West Virginia University
+2022-02-06	H	5-2	Walsh University	Mercyhurst University
 2022-02-06	H	7-0	Washburn University of Topeka	William Woods University
 2022-02-06	N	4-0	Weber State University	University of Texas at El Paso
 2022-02-06	H	7-0	Western Kentucky University	Indiana University-Purdue University Indianapolis
@@ -1831,7 +1832,6 @@ date	where	score	winner	loser
 2022-02-11	A		Angelo State University	Ouachita Baptist University
 2022-02-11	A		Arkansas State University	University of Central Arkansas
 2022-02-11	A		Arkansas Tech University	University of Central Arkansas
-2022-02-11	N		Auburn University	North Carolina State University
 2022-02-11	A		Auburn University at Montgomery	Columbus State University
 2022-02-11	A		Augustana University	University of Minnesota: Duluth
 2022-02-11	A		Azusa Pacific University	Hawaii Pacific University
@@ -1851,7 +1851,7 @@ date	where	score	winner	loser
 2022-02-11	N		Chicago State University	Western Illinois University
 2022-02-11	A		Colorado Mesa	Ottawa University Arizona
 2022-02-11	N		Colorado Mesa	Western New Mexico University
-2022-02-11	N		Columbia University	Yale University
+2022-02-11	N	4-2	Columbia University	Yale University
 2022-02-11	N		Cowley County Community College	St. Petersburg College
 2022-02-11	A		Dallas Baptist University	Newman University
 2022-02-11	N		Dartmouth College	Harvard University
@@ -1859,15 +1859,13 @@ date	where	score	winner	loser
 2022-02-11	A		Delta State University	Henderson State University
 2022-02-11	A		Dominican University (IL)	Chaminade University of Honolulu
 2022-02-11	N		Drexel University	University of Connecticut
-2022-02-11	A		Duquesne University	University of Toledo
 2022-02-11	A		East Texas Baptist University	Texas Lutheran University
 2022-02-11	N		Eastern Arizona College	Tyler Junior College
 2022-02-11	A		Eastern Michigan University	University of Chicago
-2022-02-11	A		Eastern Michigan University	University of Illinois at Chicago
 2022-02-11	A		Eastern Washington University	University of Oregon
 2022-02-11	A		Fairleigh Dickinson University	New Jersey Institute of Technology
 2022-02-11	A		Flagler College	University of North Florida
-2022-02-11	A		Florida Gulf Coast University	Florida Agricultural & Mechanical University
+2022-02-11	A	5-2	Florida Gulf Coast University	Florida Agricultural & Mechanical University
 2022-02-11	A		Georgia Southwestern State University	Savannah College of Art & Design
 2022-02-11	A		Georgia Southwestern State University	Savannah College of Art and Design - Atlanta
 2022-02-11	A		Georgia State University	Mercer University
@@ -1888,6 +1886,7 @@ date	where	score	winner	loser
 2022-02-11	A		Missouri Baptist University	McKendree University
 2022-02-11	A		Murray State University	Lipscomb University
 2022-02-11	A		New Mexico Military Institute	Howard Payne University
+2022-02-11	N	4-2	North Carolina State University	Auburn University
 2022-02-11	A		Northeast Mississippi Community College	Copiah-Lincoln Community College
 2022-02-11	A		Northern Kentucky University	Western Kentucky University
 2022-02-11	A		Northwood University (MI)	Walsh University
@@ -1902,26 +1901,27 @@ date	where	score	winner	loser
 2022-02-11	A		Purdue University	University of Notre Dame
 2022-02-11	A		Quincy University	Lewis University
 2022-02-11	A		Seattle University	Portland State University
-2022-02-11	A		Siena College	SUNY Buffalo
 2022-02-11	A		Southeast Missouri State University	Missouri State University
-2022-02-11	A		Southeastern Louisiana University	University of South Alabama
 2022-02-11	A		Southwestern University (TX)	Tarleton State University
 2022-02-11	A		Spring Arbor University	Holy Cross College (Indiana)
 2022-02-11	A		St. Bonaventure University	SUNY Buffalo
 2022-02-11	N		St. Petersburg College	Tyler Junior College
 2022-02-11	A		State College of Florida, Manatee-Sarasota	Eastern Florida State College
 2022-02-11	A		State University of West Georgia	Point University
+2022-02-11	H	6-1	SUNY Buffalo	Siena College
 2022-02-11	A		SUNY Stony Brook	Seton Hall University
 2022-02-11	A		Tabor College	Emporia State University
 2022-02-11	N		Texas A&M University	University of California: Berkeley
 2022-02-11	N		Texas A&M University-Texarkana	Weatherford College
+2022-02-11	N	4-2	Tiffin University	Wayne State University (MI)
 2022-02-11	A		Trinity University - Texas	St. Mary's University - TX
 2022-02-11	A		Tulane University	University of Tulsa
 2022-02-11	A		University of Arkansas-Fort Smith	Christian Brothers University
 2022-02-11	A		University of Charleston (WV)	Lincoln Memorial University
 2022-02-11	N		University of Chicago	Eastern Michigan University
-2022-02-11	N		University of Georgia	University of Washington
+2022-02-11	N	4-0	University of Georgia	University of Washington
 2022-02-11	A		University of Houston	University of Alabama
+2022-02-11	H	4-3	University of Illinois at Chicago	Eastern Michigan University
 2022-02-11	A		University of Kansas	University of Nebraska
 2022-02-11	A		University of Memphis	Kansas State University
 2022-02-11	A		University of Nevada (Reno)	California State University: Sacramento
@@ -1929,18 +1929,19 @@ date	where	score	winner	loser
 2022-02-11	A		University of North Carolina at Wilmington	Campbell University
 2022-02-11	A		University of North Georgia	Valdosta State University
 2022-02-11	N		University of Oklahoma	University of Wisconsin
-2022-02-11	N		University of Richmond	Towson University
+2022-02-11	N	4-1	University of Richmond	Towson University
 2022-02-11	A		University of Saint Francis - IL	Northern Illinois University
 2022-02-11	A		University of San Francisco	University of California: Davis
+2022-02-11	H	4-0	University of South Alabama	Southeastern Louisiana University
 2022-02-11	A		University of Tennessee: Chattanooga	University of Southern Mississippi
 2022-02-11	N		University of Texas	University of Southern California
-2022-02-11	A		University of Texas at San Antonio	University of North Texas
+2022-02-11	A	0-3	University of Texas at San Antonio	University of North Texas
+2022-02-11	H	6-1	University of Toledo	Duquesne University
 2022-02-11	N	4-2	University of Virginia	University of Florida
-2022-02-11	A		Utah State University	Dixie State College
+2022-02-11	A	7-0	Utah State University	Dixie State College
 2022-02-11	A		Villanova University	University of Delaware
 2022-02-11	A		Wallace State Community College	Central Alabama Community College
 2022-02-11	A		Washington State University	University of Utah
-2022-02-11	A		Wayne State University (MI)	Tiffin University
 2022-02-11	A		West Valley College	Chabot College
 2022-02-11	A		Westmont College	University of California: Riverside
 2022-02-11	H	4-3	Wichita State University	Florida Atlantic University
@@ -1954,6 +1955,7 @@ date	where	score	winner	loser
 2022-02-12	A		Alcorn State University	Lamar University
 2022-02-12	A		Angelo State University	Henderson State University
 2022-02-12	A		Arizona State University	Oklahoma State University
+2022-02-12	N		Auburn University	University of Washington
 2022-02-12	A		Auburn University at Montgomery	Flagler College
 2022-02-12	N		Augustana University	St. Cloud State University
 2022-02-12	A		Austin Peay State University	Oakland City University
@@ -2041,6 +2043,7 @@ date	where	score	winner	loser
 2022-02-12	N		Minnesota State University, Mankato	University of Minnesota: Crookston
 2022-02-12	A		Mount St. Mary's University (MD)	Saint Joseph's University
 2022-02-12	A		New Mexico State University	University of New Mexico
+2022-02-12	N		North Carolina State University	University of Georgia
 2022-02-12	A		Northwood University (MI)	Ashland University
 2022-02-12	N		Nova Southeastern University	University of North Georgia
 2022-02-12	A		Oakland University	Ball State University
@@ -2117,6 +2120,7 @@ date	where	score	winner	loser
 2022-02-12	A		Western New Mexico University	Ottawa University Arizona
 2022-02-12	A		Westmont College	University of Redlands
 2022-02-12	A		William Jessup University	Whittier College
+2022-02-12	A		Yale University	Cornell University
 2022-02-12	A		Young Harris College	Tusculum College
 2022-02-13	A		Alabama Agricultural & Mechanical University	Troy State University
 2022-02-13	A		Alabama State University	University of South Alabama
@@ -2594,6 +2598,7 @@ date	where	score	winner	loser
 2022-02-19	N		University of Southern Mississippi	University of Texas at San Antonio
 2022-02-19	A		University of the Pacific	Northern Illinois University
 2022-02-19	A		University of the Sciences in Philadelphia	The College of New Jersey
+2022-02-19	A		University of the South: Sewanee	Trinity University - Texas
 2022-02-19	N		University of Virginia's College at Wise	West Virginia Wesleyan College
 2022-02-19	N		University of Wisconsin-Milwaukee	Wayne State University (MI)
 2022-02-19	A		Upper Iowa University	Bemidji State University
