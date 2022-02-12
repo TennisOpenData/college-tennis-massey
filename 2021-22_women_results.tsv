@@ -1549,7 +1549,6 @@ date	where	score	winner	loser
 2022-02-04	H	7-0	Northern Illinois University	Western Illinois University
 2022-02-04	H	5-4	Paradise Valley Community College	Imperial Valley College
 2022-02-04	H	4-3	Point Loma Nazarene University	Portland State University
-2022-02-04	A	2-2	Portland State University	Point Loma Nazarene University
 2022-02-04	H	6-1	Rutgers University	Drexel University
 2022-02-04	A	4-3	San Jose State University	California State University: Fullerton
 2022-02-04	N	4-3	Slippery Rock University of Pennsylvania	Carnegie Mellon University
@@ -1841,12 +1840,16 @@ date	where	score	winner	loser
 2022-02-11	H	6-3	Chabot College	West Valley College
 2022-02-11	N	7-0	Chicago State University	Western Illinois University
 2022-02-11	H	4-3	Coastal Carolina University	Presbyterian College
+2022-02-11	N	6-1	Colorado Mesa	Western New Mexico University
+2022-02-11	H	4-2	Colorado State University	Gonzaga University
 2022-02-11	N	4-2	Columbia University	Yale University
 2022-02-11	A	4-3	Drexel University	University of Connecticut
 2022-02-11	N	4-3	Eastern Michigan University	University of Chicago
 2022-02-11	A	5-2	Florida Gulf Coast University	Florida Agricultural & Mechanical University
 2022-02-11	A	4-3	Georgia State University	Mercer University
 2022-02-11	N	5-0	Harvard University	Dartmouth College
+2022-02-11	H	6-1	Hawaii Pacific University	Azusa Pacific University
+2022-02-11	H	5-2	Holy Cross College (Indiana)	Spring Arbor University
 2022-02-11	H	7-1	Itawamba Community College	Southwest Mississippi Community College
 2022-02-11	H	4-3	Lipscomb University	Murray State University
 2022-02-11	H	5-2	Louisiana Tech University	Oral Roberts University
@@ -1856,7 +1859,10 @@ date	where	score	winner	loser
 2022-02-11	H	6-1	New Jersey Institute of Technology	Fairleigh Dickinson University
 2022-02-11	N	4-2	North Carolina State University	Auburn University
 2022-02-11	H	4-3	Northern Illinois University	Marquette University
+2022-02-11	H	7-0	Northern Illinois University	University of Saint Francis - IL
+2022-02-11	H	6-1	Ottawa University Arizona	Colorado Mesa
 2022-02-11	N	4-1	Pepperdine University	Old Dominion University
+2022-02-11	N	4-3	Point Loma Nazarene University	Academy of Art University
 2022-02-11	A	6-1	Pomona-Pitzer Colleges	California State University: Los Angeles
 2022-02-11	H	7-0	Portland State University	Seattle University
 2022-02-11	A	4-0	Princeton University	Cornell University
@@ -2028,6 +2034,7 @@ date	where	score	winner	loser
 2022-02-12	A		Stephen F. Austin State University	University of Louisiana at Monroe
 2022-02-12	A		SUNY Buffalo	Syracuse University
 2022-02-12	A		SUNY Stony Brook	Lehigh University
+2022-02-12	N		Texas A&M University	Old Dominion University
 2022-02-12	N		Texas A&M University-Kingsville	Texas A&M University-Texarkana
 2022-02-12	N		Texas A&M University-Kingsville	Weatherford College
 2022-02-12	A		Texas State University: San Marcos	Northwestern State University
@@ -2057,6 +2064,7 @@ date	where	score	winner	loser
 2022-02-12	A		University of Saint Francis - IL	Concordia University Wisconsin
 2022-02-12	A		University of Scranton	Wilkes University
 2022-02-12	A		University of Sioux Falls	University of Minnesota: Duluth
+2022-02-12	N		University of Southern California	University of Wisconsin
 2022-02-12	A		University of St. Thomas (Texas)	St. Mary's University - TX
 2022-02-12	A		University of Tennessee: Martin	University of Alabama at Birmingham
 2022-02-12	A		University of Texas Rio Grande Valley	Prairie View A&M University
