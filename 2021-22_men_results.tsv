@@ -1154,6 +1154,7 @@ date	where	score	winner	loser
 2022-02-12	H	6-1	Duquesne University	Carnegie Mellon University
 2022-02-12	A	6-1	Fairfield University	Lafayette College
 2022-02-12	N	4-3	Fairleigh Dickinson University	St. Thomas Aquinas College
+2022-02-12	H	7-0	Flagler College	Auburn University at Montgomery
 2022-02-12	H	6-1	Florida Atlantic University	Stetson University
 2022-02-12	H	5-2	Furman University	Belmont University
 2022-02-12	N	6-1	Georgia Southern University	University of North Carolina at Greensboro
@@ -1175,7 +1176,7 @@ date	where	score	winner	loser
 2022-02-12	H	5-2	Michigan State University	Chicago State University
 2022-02-12	H	4-2	Midland University	Iowa Central Community College
 2022-02-12	H	6-1	Midland University	Simpson College - IA
-2022-02-12	H	7-0	Monmouth University	Drexel University
+2022-02-12	H	0-7	Monmouth University	Drexel University
 2022-02-12	H	7-0	Montana State University	Whitman College
 2022-02-12	H	7-0	Montana State University	Whitworth University
 2022-02-12	A	4-3	Morgan State University	Lehigh University
@@ -1243,7 +1244,6 @@ date	where	score	winner	loser
 2022-02-13	A		Georgia State University	Furman University
 2022-02-13	A		Grand Canyon University	University of New Mexico
 2022-02-13	A		Grinnell College	University of Wisconsin-Whitewater
-2022-02-13	A		Lafayette College	Saint Francis College - NY
 2022-02-13	A		Lee University	Spring Hill College
 2022-02-13	A		Lenoir-Rhyne College	Francis Marion University
 2022-02-13	A		Middle Tennessee State University	Indiana University
@@ -1251,9 +1251,9 @@ date	where	score	winner	loser
 2022-02-13	A		Morgan State University	Virginia Commonwealth University
 2022-02-13	A		Nicholls State University	Louisiana State University
 2022-02-13	A		Northwestern University	University of Notre Dame
-2022-02-13	A		Penn State University	Princeton University
 2022-02-13	A		Pepperdine University	University of Oregon
 2022-02-13	A		Presbyterian College	Davidson College
+2022-02-13	H	4-0	Princeton University	Penn State University
 2022-02-13	A		Purdue University	Louisiana State University
 2022-02-13	A		Purdue University Northwest	Hillsdale College
 2022-02-13	A		Quincy University	Saint Louis University
@@ -1266,8 +1266,8 @@ date	where	score	winner	loser
 2022-02-13	A		Seattle University	Eastern Washington University
 2022-02-13	A		Siena College	Colgate University
 2022-02-13	A		Southern Arkansas University	University of Texas at Arlington
+2022-02-13	H	7-0	Southern Methodist University	Texas A&M University-Corpus Christi
 2022-02-13	A		SUNY Buffalo	Florida Gulf Coast University
-2022-02-13	A		Texas A&M University-Corpus Christi	Southern Methodist University
 2022-02-13	A		The Citadel	Vanderbilt University
 2022-02-13	A		Tulane University	Auburn University
 2022-02-13	A		Univ. of Nevada: Las Vegas	Oklahoma State University
@@ -1281,6 +1281,7 @@ date	where	score	winner	loser
 2022-02-13	A		University of Georgia	Georgia Institute of Technology
 2022-02-13	N		University of Indianapolis	Southwest Baptist University
 2022-02-13	A		University of Kentucky	Duke University
+2022-02-13	H	7-0	University of Montana	Whitworth University
 2022-02-13	A		University of Nebraska Omaha	Marquette University
 2022-02-13	A		University of Nevada (Reno)	University of Utah
 2022-02-13	A		University of North Florida	Clemson University
@@ -1824,6 +1825,7 @@ date	where	score	winner	loser
 2022-02-26	A		Brown University	University of Richmond
 2022-02-26	A		Cameron University	Newman University
 2022-02-26	A		Campbell University	Duke University
+2022-02-26	N		Carleton College (MN)	College of St. Scholastica
 2022-02-26	N		Carthage College	University of Dubuque
 2022-02-26	N		Carthage College	University of Wisconsin-Whitewater
 2022-02-26	A		Coastal Carolina University	Duke University
@@ -2211,6 +2213,7 @@ date	where	score	winner	loser
 2022-03-05	A		Bucknell University	Dartmouth College
 2022-03-05	A		Butler University	Michigan State University
 2022-03-05	A		Capital University	Franciscan University of Steubenville
+2022-03-05	N		Carleton College (MN)	Concordia College - Moorhead
 2022-03-05	A		Centre College	Hanover College
 2022-03-05	A		Chabot College	University of California: Santa Cruz
 2022-03-05	A		Christian Brothers University	Mississippi College
@@ -3331,6 +3334,7 @@ date	where	score	winner	loser
 2022-03-23	N		Augustana College - IL	Lawrence University
 2022-03-23	N		Bowdoin College	George Fox University
 2022-03-23	A		Campbell University	North Carolina A&T
+2022-03-23	N		Carleton College (MN)	Union College - NY
 2022-03-23	A		Centre College	Virginia Wesleyan University
 2022-03-23	A		Christian Brothers University	Bethel College - TN
 2022-03-23	A		Clemson University	Georgia Institute of Technology
