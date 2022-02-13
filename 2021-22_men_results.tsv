@@ -1052,7 +1052,7 @@ date	where	score	winner	loser
 2022-02-09	H	7-0	University of the Incarnate Word	Our Lady of the Lake University of San Antonio
 2022-02-09	H	7-0	University of the Incarnate Word	Our Lady of the Lake University of San Antonio
 2022-02-10	H	7-0	Arizona Christian	Western New Mexico University
-2022-02-10	A	5-2	Fairleigh Dickinson University	Hofstra University
+2022-02-10	N	5-2	Fairleigh Dickinson University	Hofstra University
 2022-02-10	H	5-2	Georgia Southern University	College of Charleston
 2022-02-10	A	5-2	Indiana Wesleyan University	Grand Valley State University
 2022-02-10	H	4-0	St. John's University (NY)	Saint Francis College - NY
@@ -1130,15 +1130,12 @@ date	where	score	winner	loser
 2022-02-11	A	5-2	Youngstown State University	Marquette University
 2022-02-12	A		Abraham Baldwin College	Savannah College of Art and Design - Atlanta
 2022-02-12	A		Alabama Agricultural & Mechanical University	Samford University
-2022-02-12	A		Alcorn State University	Lamar University
-2022-02-12	A		Alcorn State University	Lamar University
 2022-02-12	H	5-3	Asbury University	Georgetown College
 2022-02-12	A		Auburn University at Montgomery	Flagler College
 2022-02-12	A		Augustana College - IL	Kalamazoo College
 2022-02-12	A		Austin College	University of Texas at Dallas
-2022-02-12	A		Ball State University	University of Dayton
-2022-02-12	A		Barton College	Campbell University
-2022-02-12	A		Barton College	Campbell University
+2022-02-12	A	4-3	Ball State University	University of Dayton
+2022-02-12	H	4-2	Baylor University	University of Virginia
 2022-02-12	A		Belmont Abbey College	North Carolina Wesleyan College
 2022-02-12	A		Belmont Abbey College	North Carolina Wesleyan College
 2022-02-12	A		Belmont University	Furman University
@@ -1150,6 +1147,8 @@ date	where	score	winner	loser
 2022-02-12	H	7-0	Brown University	Boston University
 2022-02-12	A		Bucknell University	Marist College
 2022-02-12	A		California Institute of Technology	Westmont College
+2022-02-12	H	7-0	Campbell University	Barton College
+2022-02-12	H	7-0	Campbell University	Barton College
 2022-02-12	A		Carnegie Mellon University	Duquesne University
 2022-02-12	N		Central College	North Central College
 2022-02-12	A		Centre College	Covenant College
@@ -1166,7 +1165,6 @@ date	where	score	winner	loser
 2022-02-12	A		Davenport University	Lawrence Technological University
 2022-02-12	N		Doane College	Grand View University
 2022-02-12	A		Drexel University	Monmouth University
-2022-02-12	A		Eastern Illinois University	Indiana University-Purdue University Indianapolis
 2022-02-12	N		Embry-Riddle Aeronautical University - FL	Florida National University
 2022-02-12	A		Emmanuel College - GA	Wofford College
 2022-02-12	A		Fairfield University	Lafayette College
@@ -1186,10 +1184,14 @@ date	where	score	winner	loser
 2022-02-12	A		Holy Names University	University of California: Davis
 2022-02-12	A		Hope International University	Claremont-Mudd-Scripps Colleges
 2022-02-12	N		Illinois Wesleyan University	Wartburg College
+2022-02-12	H	6-1	Indiana University-Purdue University Indianapolis	Eastern Illinois University
 2022-02-12	A		Iowa Central Community College	Midland University
 2022-02-12	A		Iowa Central Community College	Morningside College
+2022-02-12	H	7-0	Jacksonville State University	Wallace State Community College
 2022-02-12	N		John Carroll University	Shawnee State University
 2022-02-12	A		Kennesaw State University	Gardner-Webb University
+2022-02-12	H	7-0	Lamar University	Alcorn State University
+2022-02-12	H	5-0	Lamar University	Alcorn State University
 2022-02-12	A		Le Moyne College	Edinboro University of Pennsylvania
 2022-02-12	A		Limestone University	North Greenville College
 2022-02-12	A		Linfield University	Idaho State University
@@ -1199,21 +1201,22 @@ date	where	score	winner	loser
 2022-02-12	A		Merrimack College	Quinnipiac University
 2022-02-12	N		Midway University	Mount Vernon Nazarene University
 2022-02-12	A		Mississippi Gulf Coast Community College	Huntingdon College
+2022-02-12	H	7-0	Montana State University	Whitman College
 2022-02-12	A	4-3	Morgan State University	Lehigh University
 2022-02-12	A		Mount St. Mary's University (MD)	Saint Joseph's University
-2022-02-12	N		Nicholls State University	Purdue University
-2022-02-12	A		North Carolina Central University	North Carolina State University
+2022-02-12	H	7-0	North Carolina State University	North Carolina Central University
 2022-02-12	H	7-0	North Carolina State University	Presbyterian College
 2022-02-12	A		North Central College	Coe College
 2022-02-12	A		Northern Arizona University	University of Arizona
 2022-02-12	A		Northern Arizona University	University of Arizona
 2022-02-12	A		Oakland City University	Austin Peay State University
 2022-02-12	A		Ohio Wesleyan University	Denison University
-2022-02-12	A		Palm Beach Atlantic University	Saint Leo University
+2022-02-12	H	4-1	Oklahoma State University	Univ. of Nevada: Las Vegas
 2022-02-12	A		Point Loma Nazarene University	Fresno Pacific University
-2022-02-12	A		Portland State University	University of Washington
+2022-02-12	N	6-1	Purdue University	Nicholls State University
 2022-02-12	A		Rose-Hulman Institute of Technology	University of Southern Indiana
 2022-02-12	A		Saint Francis University - PA	Niagara University
+2022-02-12	H	7-0	Saint Leo University	Palm Beach Atlantic University
 2022-02-12	A		San Diego Christian College	University of Redlands
 2022-02-12	A		Savannah College of Art & Design	Warner University
 2022-02-12	A		Schreiner University	Howard Payne University
@@ -1225,39 +1228,39 @@ date	where	score	winner	loser
 2022-02-12	N		St. Ambrose University	Wartburg College
 2022-02-12	A		St. John's University - MN	College of St. Scholastica
 2022-02-12	A		St. John's University (NY)	College of St. Scholastica
-2022-02-12	A		St. John's University (NY)	Yale University
+2022-02-12	A	5-2	St. John's University (NY)	Yale University
 2022-02-12	A		St. Mary's College - CA	University of California: Davis
+2022-02-12	H	4-0	Stanford University	University of California: Berkeley
 2022-02-12	A		Stetson University	Florida Atlantic University
-2022-02-12	N		SUNY Buffalo	University of Alabama at Birmingham
 2022-02-12	A		Tabor College	Emporia State University
 2022-02-12	A		Tennessee State University	Lipscomb University
-2022-02-12	A		Texas A&M University	University of South Florida
+2022-02-12	A	4-3	Texas A&M University	University of South Florida
 2022-02-12	N		The Citadel	Tennessee Wesleyan College
 2022-02-12	A		The Citadel	Tennessee Wesleyan College
-2022-02-12	A		Troy State University	University of North Carolina at Wilmington
 2022-02-12	N		Tusculum College	University of Charleston (WV)
 2022-02-12	N		Tusculum College	Young Harris College
 2022-02-12	H	4-3	United States Military Academy	New Jersey Institute of Technology
 2022-02-12	H	5-2	United States Naval Academy	Bryant University
-2022-02-12	A		Univ. of Nevada: Las Vegas	Oklahoma State University
+2022-02-12	N	5-2	University of Alabama at Birmingham	SUNY Buffalo
 2022-02-12	A		University of Arkansas-Fort Smith	Rhodes College
-2022-02-12	A		University of California: Berkeley	Stanford University
 2022-02-12	A		University of Idaho	Lewis-Clark State College (ID)
-2022-02-12	A		University of Illinois	University of Notre Dame
 2022-02-12	N		University of Indianapolis	Washburn University of Topeka
 2022-02-12	A		University of Louisville	Michigan State University
-2022-02-12	N		University of Nebraska Omaha	Youngstown State University
+2022-02-12	N	4-3	University of Nebraska Omaha	Youngstown State University
+2022-02-12	H	6-1	University of North Carolina at Wilmington	Troy State University
+2022-02-12	H	6-1	University of North Dakota	Gustavus Adolphus College
 2022-02-12	A		University of North Florida	University of North Carolina at Asheville
+2022-02-12	H	4-0	University of Notre Dame	University of Illinois
 2022-02-12	A	4-3	University of Richmond	United States Naval Academy
 2022-02-12	A		University of Scranton	Wilkes University
+2022-02-12	H	4-0	University of Southern Mississippi	University of Tennessee: Chattanooga
 2022-02-12	A		University of St. Thomas (Texas)	St. Mary's University - TX
 2022-02-12	H	7-0	University of Tennessee	University of North Carolina at Charlotte
-2022-02-12	A		University of Tennessee: Chattanooga	University of Southern Mississippi
 2022-02-12	A		University of the Southwest	University of Texas, Permian Basin
 2022-02-12	A		University of the Southwest	University of Texas, Permian Basin
 2022-02-12	H	4-1	University of Utah	Gonzaga University
-2022-02-12	A	0-1	University of Virginia	Baylor University
 2022-02-12	A		University of Virginia's College at Wise	Randolph College
+2022-02-12	H	7-0	University of Washington	Portland State University
 2022-02-12	A		University of West Alabama	Columbus State University
 2022-02-12	H	6-1	University of West Florida	Lee University
 2022-02-12	A		University of Wisconsin-Eau Claire	Carleton College (MN)
@@ -1321,7 +1324,6 @@ date	where	score	winner	loser
 2022-02-13	A		SUNY Buffalo	Florida Gulf Coast University
 2022-02-13	A		Texas A&M University-Corpus Christi	Southern Methodist University
 2022-02-13	A		The Citadel	Vanderbilt University
-2022-02-13	A		Troy State University	University of North Carolina at Wilmington
 2022-02-13	A		Tulane University	Auburn University
 2022-02-13	A		Univ. of Nevada: Las Vegas	Oklahoma State University
 2022-02-13	A		University of Alabama	University of Tulsa
@@ -2597,6 +2599,7 @@ date	where	score	winner	loser
 2022-03-10	A		Michigan Technological University	Azusa Pacific University
 2022-03-10	A		Middle Tennessee State University	University of South Florida
 2022-03-10	A		Mt. San Antonio College	San Diego City College
+2022-03-10	A		North Carolina Central University	Tennessee State University
 2022-03-10	A		North Carolina State University	Wake Forest University
 2022-03-10	A		Paradise Valley Community College	Mesa Community College
 2022-03-10	N		Penn State Erie, The Behrend College	Capital University
