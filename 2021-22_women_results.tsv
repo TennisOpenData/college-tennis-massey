@@ -728,7 +728,6 @@ date	where	score	winner	loser
 2021-10-08	H	6-1	University of Nebraska Omaha	Midland University
 2021-10-08	H	6-1	University of Rhode Island	Monmouth University
 2021-10-08	N	6-0	University of the Cumberlands	Cumberland University
-2021-10-08	H	7-2	University of Wisconsin-Eau Claire	Bethel University (MN)
 2021-10-08	A	4-3	West Virginia Wesleyan College	Bloomsburg University of Pennsylvania
 2021-10-09	H	6-1	Ashland University	Franciscan University of Steubenville
 2021-10-09	A	9-0	Bethel College - IN	Manchester College
@@ -788,6 +787,7 @@ date	where	score	winner	loser
 2021-10-09	H	5-4	University of Massachusetts Boston	University of Massachusetts Dartmouth
 2021-10-09	H	7-0	University of the District of Columbia	Molloy College
 2021-10-09	A	4-3	University of the Sciences in Philadelphia	Goldey-Beacom College
+2021-10-09	H	7-2	University of Wisconsin-Eau Claire	Bethel University (MN)
 2021-10-09	H	9-0	University of Wisconsin-Eau Claire	University of Wisconsin-River Falls
 2021-10-09	A	9-0	University of Wisconsin-La Crosse	University of Wisconsin-Stevens Point
 2021-10-09	A	5-2	Upper Iowa University	Luther College
@@ -1508,6 +1508,7 @@ date	where	score	winner	loser
 2022-02-02	A	4-3	University of Alabama at Birmingham	Samford University
 2022-02-02	H	4-2	University of Texas	Baylor University
 2022-02-03	H	6-3	College of the Canyons	Santa Monica College
+2022-02-03	H	5-4	Glendale Community College - CA	Ventura College
 2022-02-03	H	7-0	Lynn University	Florida National University
 2022-02-03	H	6-1	Mount St. Mary's University (MD)	Coppin State College
 2022-02-03	A	4-1	Portland State University	San Diego Christian College
@@ -1969,16 +1970,15 @@ date	where	score	winner	loser
 2022-02-12	A	4-3	Eastern Michigan University	University of Wisconsin-Milwaukee
 2022-02-12	H	4-3	Elon University	Campbell University
 2022-02-12	N		Embry-Riddle Aeronautical University - FL	Florida National University
-2022-02-12	A		Erskine College	Georgia College & State University
 2022-02-12	A	4-3	Fairfield University	Lafayette College
-2022-02-12	A		Ferris State University	University of Findlay
 2022-02-12	H	6-1	Furman University	Marshall University
 2022-02-12	A	6-3	George Mason University	Christopher Newport University
 2022-02-12	A		George Mason University	Christopher Newport University
 2022-02-12	A		Georgetown University	United States Military Academy
+2022-02-12	H	6-1	Georgia College & State University	Erskine College
 2022-02-12	H	5-2	Georgia Southern University	Charleston Southern University
 2022-02-12	A		Grand Valley State University	Hillsdale College
-2022-02-12	N		Grand View University	College of Saint Mary - NE
+2022-02-12	N	4-3	Grand View University	College of Saint Mary - NE
 2022-02-12	N		Harding University	University of Nebraska - Kearney
 2022-02-12	H	4-0	Indiana University	Bellarmine University
 2022-02-12	H	5-0	Indiana University	Western Michigan University
@@ -1987,7 +1987,6 @@ date	where	score	winner	loser
 2022-02-12	A		Iowa Central Community College	Morningside College
 2022-02-12	N		Iowa Central Community College	St. Petersburg College
 2022-02-12	H	6-1	Jacksonville State University	Wallace State Community College
-2022-02-12	A		James Madison University	Liberty University
 2022-02-12	N		John Carroll University	Shawnee State University
 2022-02-12	H	4-0	Kansas State University	Florida Atlantic University
 2022-02-12	H	7-0	Keiser University	College of Coastal Georgia
@@ -1997,6 +1996,7 @@ date	where	score	winner	loser
 2022-02-12	H	5-1	Lamar University	Alcorn State University
 2022-02-12	A		Lane College	Mississippi College
 2022-02-12	A		Lee University	University of West Florida
+2022-02-12	H	4-1	Liberty University	James Madison University
 2022-02-12	H	7-0	Liberty University	Longwood University
 2022-02-12	A		Limestone University	North Greenville College
 2022-02-12	A		Lindenwood University	Principia College
@@ -2045,7 +2045,7 @@ date	where	score	winner	loser
 2022-02-12	A		Stephen F. Austin State University	University of Louisiana at Monroe
 2022-02-12	A	6-1	SUNY Stony Brook	Lehigh University
 2022-02-12	H	5-2	Syracuse University	SUNY Buffalo
-2022-02-12	N		Texas A&M University	Old Dominion University
+2022-02-12	N	4-1	Texas A&M University	Old Dominion University
 2022-02-12	N		Texas A&M University-Kingsville	Texas A&M University-Texarkana
 2022-02-12	N		Texas A&M University-Kingsville	Weatherford College
 2022-02-12	A	6-1	Troy State University	Florida Agricultural & Mechanical University
@@ -2060,6 +2060,7 @@ date	where	score	winner	loser
 2022-02-12	H	5-2	University of California: Davis	Santa Clara University
 2022-02-12	A		University of California: Irvine	George Fox University
 2022-02-12	N	7-0	University of Central Oklahoma	Dallas Baptist University
+2022-02-12	H	4-3	University of Findlay	Ferris State University
 2022-02-12	N		University of Indianapolis	Washburn University of Topeka
 2022-02-12	H	7-0	University of Louisiana at Lafayette	Southern University & Agricultural & Mechanical
 2022-02-12	H	4-3	University of Louisville	Saint Louis University
@@ -2084,7 +2085,6 @@ date	where	score	winner	loser
 2022-02-12	N		University of Southern California	University of Wisconsin
 2022-02-12	A		University of St. Thomas (Texas)	St. Mary's University - TX
 2022-02-12	A	4-3	University of Texas Rio Grande Valley	Prairie View A&M University
-2022-02-12	A		University of Texas Rio Grande Valley	Prairie View A&M University
 2022-02-12	A		University of the Pacific	California State University: Sacramento
 2022-02-12	A		University of Virginia's College at Wise	Lynchburg College
 2022-02-12	A		University of West Alabama	Columbus State University
@@ -3111,6 +3111,7 @@ date	where	score	winner	loser
 2022-02-27	A		George Washington University	University of Toledo
 2022-02-27	A		Georgia College & State University	Auburn University at Montgomery
 2022-02-27	A		Georgia Institute of Technology	Florida State University
+2022-02-27	A		Grace College & Seminary	Ferris State University
 2022-02-27	A		Grinnell College	University of Northern Iowa
 2022-02-27	A		Hampton University	Gardner-Webb University
 2022-02-27	A		Illinois State University	Purdue University
