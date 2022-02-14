@@ -2074,10 +2074,10 @@ date	where	score	winner	loser
 2022-02-13	H	6-1	East Carolina University	University of North Carolina at Greensboro
 2022-02-13	A		Eastern Michigan University	Holy Cross College (Indiana)
 2022-02-13	A	6-1	Eastern Michigan University	Valparaiso University
+2022-02-13	H	4-0	Elon University	Gardner-Webb University
 2022-02-13	A		Ferris State University	Tiffin University
 2022-02-13	A		Flagler College	University of North Florida
 2022-02-13	A		Florida Southern College	Barry University
-2022-02-13	A		Gardner-Webb University	Elon University
 2022-02-13	H	7-0	Georgia Southern University	South Carolina State University
 2022-02-13	H	4-0	Georgia State University	Lipscomb University
 2022-02-13	A		Gustavus Adolphus College	St. Mary's University - MN
@@ -2097,6 +2097,7 @@ date	where	score	winner	loser
 2022-02-13	A		Mississippi College	Henderson State University
 2022-02-13	H	4-3	Montana State University	University of Montana
 2022-02-13	N	4-1	New Jersey Institute of Technology	Georgetown University
+2022-02-13	H	6-1	Northwestern University	University of Notre Dame
 2022-02-13	A		Nova Southeastern University	Valdosta State University
 2022-02-13	N	4-3	Ohio State University	Auburn University
 2022-02-13	N		Old Dominion University	University of Wisconsin
@@ -2123,26 +2124,24 @@ date	where	score	winner	loser
 2022-02-13	H	7-0	University of Delaware	United States Naval Academy
 2022-02-13	A		University of Findlay	Bowling Green State University
 2022-02-13	N	4-0	University of Florida	University of Washington
-2022-02-13	N		University of Georgia	University of Virginia
 2022-02-13	H	0-7	University of Houston	Prairie View A&M University
 2022-02-13	H	6-1	University of Idaho	Whitman College
 2022-02-13	H	4-0	University of Illinois	University of Missouri: Columbia
 2022-02-13	H	4-3	University of Illinois at Chicago	Illinois State University
-2022-02-13	N		University of Indianapolis	Southwest Baptist University
+2022-02-13	N	6-0	University of Indianapolis	Southwest Baptist University
 2022-02-13	H	4-0	University of Kansas	University of Wyoming
 2022-02-13	H	5-1	University of Kansas	University of Wyoming
 2022-02-13	H	4-3	University of Kentucky	Penn State University
 2022-02-13	H	4-0	University of Kentucky	Western Kentucky University
-2022-02-13	A		University of Louisiana at Lafayette	McNeese State University
+2022-02-13	A	4-0	University of Louisiana at Lafayette	McNeese State University
 2022-02-13	H	7-0	University of Massachusetts Amherst	Binghamton University
 2022-02-13	H	4-1	University of Nebraska	University of Memphis
 2022-02-13	A		University of Nebraska - Kearney	Drury University
 2022-02-13	N	4-1	University of North Carolina	North Carolina State University
 2022-02-13	H	7-0	University of North Dakota	Minnesota State University Moorhead
 2022-02-13	H	6-1	University of North Texas	Middle Tennessee State University
-2022-02-13	A		University of Notre Dame	Northwestern University
 2022-02-13	N		University of Oklahoma	Pepperdine University
-2022-02-13	A		University of Portland	University of Oregon
+2022-02-13	H	6-1	University of Oregon	University of Portland
 2022-02-13	A		University of Rhode Island	Sacred Heart University
 2022-02-13	H	6-0	University of South Alabama	Alabama State University
 2022-02-13	N	2-4	University of Southern Mississippi	Sam Houston State University
@@ -2150,6 +2149,7 @@ date	where	score	winner	loser
 2022-02-13	A		University of Texas at Tyler	University of Texas at Arlington
 2022-02-13	N		University of the Cumberlands	Midway University
 2022-02-13	H	4-0	University of Utah	University of Minnesota
+2022-02-13	N	4-3	University of Virginia	University of Georgia
 2022-02-13	H	5-2	Utah State University	Weber State University
 2022-02-13	H	6-1	Virginia Polytechnic Institute & State University	Marshall University
 2022-02-13	A		Washburn University of Topeka	William Jewell College
@@ -2744,6 +2744,7 @@ date	where	score	winner	loser
 2022-02-24	A		University of New Orleans	South Carolina State University
 2022-02-24	A		University of North Carolina at Asheville	North Carolina A&T
 2022-02-25	A		Alabama Agricultural & Mechanical University	Jacksonville State University
+2022-02-25	N		Albany State University	Benedict College
 2022-02-25	A		Angelo State University	Northeastern State University
 2022-02-25	A		Antelope Valley College	Cypress College
 2022-02-25	A		Aquinas College - MI	Northwood University (MI)
@@ -5050,6 +5051,7 @@ date	where	score	winner	loser
 2022-03-23	A		University of New Orleans	Tulane University
 2022-03-23	A		University of the Ozarks	Schreiner University
 2022-03-23	A		West Virginia State University	Rollins College
+2022-03-24	N		Albany State University	Benedict College
 2022-03-24	N		Allegheny College	University of Wisconsin-Whitewater
 2022-03-24	A		Appalachian State University	Charleston Southern University
 2022-03-24	N		Arizona Christian	Colorado State University: Pueblo
