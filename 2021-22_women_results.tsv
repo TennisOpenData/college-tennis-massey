@@ -1554,7 +1554,7 @@ date	where	score	winner	loser
 2022-02-04	H	6-1	Rutgers University	Drexel University
 2022-02-04	A	4-3	San Jose State University	California State University: Fullerton
 2022-02-04	N	4-3	Slippery Rock University of Pennsylvania	Carnegie Mellon University
-2022-02-04	N	6-1	St. Cloud State University	University of Minnesota: Crookston
+2022-02-04	A	6-1	St. Cloud State University	University of Minnesota: Crookston
 2022-02-04	H	7-0	Stetson University	Florida Agricultural & Mechanical University
 2022-02-04	H	7-0	United States Military Academy	SUNY Stony Brook
 2022-02-04	H	7-0	Univ. of Nevada: Las Vegas	Weber State University
@@ -2049,6 +2049,7 @@ date	where	score	winner	loser
 2022-02-12	A	4-3	University of North Carolina at Wilmington	North Carolina Central University
 2022-02-12	N	4-1	University of Oklahoma	University of Texas
 2022-02-12	N	6-1	University of Portland	Eastern Washington University
+2022-02-12	A	7-2	University of Saint Francis - IL	Concordia University Wisconsin
 2022-02-12	H	7-0	University of San Diego	California State University: Long Beach
 2022-02-12	A	5-2	University of Sioux Falls	University of Minnesota: Duluth
 2022-02-12	N	4-3	University of Southern California	University of Wisconsin
@@ -2093,12 +2094,14 @@ date	where	score	winner	loser
 2022-02-13	H	5-2	Northwestern State University	Stephen F. Austin State University
 2022-02-13	H	6-1	Northwestern University	University of Notre Dame
 2022-02-13	N	4-3	Ohio State University	Auburn University
+2022-02-13	N	4-2	Old Dominion University	University of Wisconsin
 2022-02-13	H	4-0	Portland State University	University of California: Irvine
 2022-02-13	A	4-0	Princeton University	Harvard University
 2022-02-13	A	7-0	Rutgers University	University of Connecticut
 2022-02-13	A	4-3	Saint Francis University - PA	St. Bonaventure University
 2022-02-13	A	4-0	Saint Louis University	Bellarmine University
 2022-02-13	H	7-0	Samford University	University of Tennessee: Martin
+2022-02-13	A	5-2	Siena College	Colgate University
 2022-02-13	H	9-0	Skidmore College	Rochester Institute of Technology
 2022-02-13	A	4-3	Southern Methodist University	University of South Florida
 2022-02-13	H	5-0	Syracuse University	Niagara University
@@ -2120,11 +2123,13 @@ date	where	score	winner	loser
 2022-02-13	A	4-0	University of Louisiana at Lafayette	McNeese State University
 2022-02-13	H	7-0	University of Massachusetts Amherst	Binghamton University
 2022-02-13	H	4-1	University of Nebraska	University of Memphis
+2022-02-13	A	7-0	University of Nebraska - Kearney	Drury University
 2022-02-13	N	4-1	University of North Carolina	North Carolina State University
 2022-02-13	H	7-0	University of North Dakota	Minnesota State University Moorhead
 2022-02-13	H	6-1	University of North Texas	Middle Tennessee State University
 2022-02-13	N	4-2	University of Oklahoma	Pepperdine University
 2022-02-13	H	6-1	University of Oregon	University of Portland
+2022-02-13	H	6-0	University of Saint Francis - IL	Illinois Wesleyan University
 2022-02-13	H	6-0	University of South Alabama	Alabama State University
 2022-02-13	N	2-4	University of Southern Mississippi	Sam Houston State University
 2022-02-13	N	4-2	University of Texas	University of California: Berkeley
@@ -5275,6 +5280,7 @@ date	where	score	winner	loser
 2022-03-26	A		Erskine College	Mount Olive College
 2022-03-26	A		Fairfield University	Monmouth University
 2022-03-26	A		Fairmont State University	Davis & Elkins College
+2022-03-26	A		Florida Southern College	Barry University
 2022-03-26	A		Fordham University	Temple University
 2022-03-26	A		Fort Hays State University	Northwest Missouri State University
 2022-03-26	A		Furman University	Clemson University
