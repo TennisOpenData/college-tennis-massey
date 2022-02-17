@@ -1679,7 +1679,7 @@ date	where	score	winner	loser
 2022-02-05	N	6-1	University of Massachusetts Amherst	St. Bonaventure University
 2022-02-05	A	4-0	University of Massachusetts Amherst	United States Military Academy
 2022-02-05	H	4-3	University of Miami (FL)	Old Dominion University
-2022-02-05	A	5-3	University of Minnesota: Duluth	University of Minnesota: Crookston
+2022-02-05	A	5-2	University of Minnesota: Duluth	University of Minnesota: Crookston
 2022-02-05	A	5-2	University of North Carolina	University of Michigan
 2022-02-05	H	6-1	University of North Carolina at Asheville	Emmanuel College - GA
 2022-02-05	H	7-0	University of North Carolina at Asheville	Emmanuel College - GA
@@ -2258,7 +2258,7 @@ date	where	score	winner	loser
 2022-02-17	A		California State University: Northridge	University of California: Davis
 2022-02-17	A		Coastal Alabama Community College	Hinds Community College
 2022-02-17	A		College of the Canyons	Bakersfield College
-2022-02-17	A		Delaware State University	George Washington University
+2022-02-17	H	7-0	George Washington University	Delaware State University
 2022-02-17	A		Georgia Institute of Technology	University of Tennessee: Chattanooga
 2022-02-17	A		Glendale Community College - CA	Antelope Valley College
 2022-02-17	A		Henderson State University	Arkansas Tech University
@@ -2274,10 +2274,10 @@ date	where	score	winner	loser
 2022-02-17	N		Texas A&M University-Kingsville	Auburn University at Montgomery
 2022-02-17	N		United States Air Force Academy	Rollins College
 2022-02-17	A		University of Hawaii	University of California: San Diego
-2022-02-17	A		University of Richmond	Virginia Commonwealth University
 2022-02-17	A		University of Tampa	Eckerd College
 2022-02-17	A		University of West Alabama	Alabama State University
 2022-02-17	A		Ventura College	Santa Monica College
+2022-02-17	H	7-0	Virginia Commonwealth University	University of Richmond
 2022-02-18	A		Abraham Baldwin College	Augusta University
 2022-02-18	N		Alabama Agricultural & Mechanical University	Southern University & Agricultural & Mechanical
 2022-02-18	N		Alcorn State University	Bethune-Cookman College
@@ -2318,7 +2318,6 @@ date	where	score	winner	loser
 2022-02-18	A		Holy Names University	Academy of Art University
 2022-02-18	A		Hope International University	Claremont-Mudd-Scripps Colleges
 2022-02-18	A		Jones College	Mississippi Gulf Coast Community College
-2022-02-18	N		Lamar University	Louisiana State University at Alexandria
 2022-02-18	A		LeMoyne-Owen College	Lane College
 2022-02-18	A		LeTourneau University	Austin College
 2022-02-18	N		Liberty University	University of North Texas
@@ -3811,6 +3810,7 @@ date	where	score	winner	loser
 2022-03-08	N		Carnegie Mellon University	Christopher Newport University
 2022-03-08	A		Chabot College	West Valley College
 2022-03-08	A		Copiah-Lincoln Community College	Itawamba Community College
+2022-03-08	A		Cornerstone University	Warner University
 2022-03-08	A		Cosumnes  River College	Sierra College
 2022-03-08	N		Covenant College	Otterbein University
 2022-03-08	N		Creighton University	Seton Hall University
@@ -4169,6 +4169,7 @@ date	where	score	winner	loser
 2022-03-12	A		Grand View University	University of Dubuque
 2022-03-12	A		Grinnell College	University of Wisconsin-Whitewater
 2022-03-12	A		Hanover College	Centre College
+2022-03-12	A		Hardin-Simmons University	University of Redlands
 2022-03-12	A		Holy Cross College (Indiana)	University of Cincinnati
 2022-03-12	A		Holy Names University	Point Loma Nazarene University
 2022-03-12	N		Howard Payne University	Newman University
@@ -7474,6 +7475,7 @@ date	where	score	winner	loser
 2022-04-17	A		Temple University	University of Tulsa
 2022-04-17	A		Texas A&M University	University of Missouri: Columbia
 2022-04-17	A		University of California: Santa Barbara	California State University: Fullerton
+2022-04-17	A		University of Chicago	Washington University in St. Louis
 2022-04-17	A		University of Georgia	Auburn University
 2022-04-17	A		University of Louisville	Wake Forest University
 2022-04-17	A		University of Massachusetts Amherst	Saint Joseph's University
