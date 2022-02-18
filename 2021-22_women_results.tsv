@@ -928,6 +928,7 @@ date	where	score	winner	loser
 2021-10-19	H	5-3	Gordon College	Salve Regina University
 2021-10-19	H	7-2	Grove City College	St. Vincent College
 2021-10-19	H	6-1	North Park University	Elmhurst College
+2021-10-19	H	5-0	Plymouth State University	Salem State University
 2021-10-19	H	6-0	Roger Williams University	Western New England University
 2021-10-19	H	5-2	Thomas Jefferson University	University of the Sciences in Philadelphia
 2021-10-19	H	9-0	Westminster College - Pennsylvania	Thiel College
@@ -1929,6 +1930,7 @@ date	where	score	winner	loser
 2022-02-11	A	4-3	State University of West Georgia	Point University
 2022-02-11	H	6-1	SUNY Buffalo	Siena College
 2022-02-11	H	6-1	SUNY Buffalo	St. Bonaventure University
+2022-02-11	H	7-0	Tarleton State University	Southwestern University (TX)
 2022-02-11	A	7-0	Texas A&M University-Corpus Christi	University of St. Thomas (Texas)
 2022-02-11	A	5-0	Texas A&M University-Corpus Christi	University of St. Thomas (Texas)
 2022-02-11	N	0-2	Texas A&M University-Texarkana	Weatherford College
@@ -2244,6 +2246,7 @@ date	where	score	winner	loser
 2022-02-15	A	5-4	Diablo Valley College	Reedley College
 2022-02-15	A	9-0	Hinds Community College	Northeast Mississippi Community College
 2022-02-15	H	9-0	Jones College	Southwest Mississippi Community College
+2022-02-15	H	8-1	Meridian Community College	Itawamba Community College
 2022-02-15	H	6-1	Saint Leo University	University of Tampa
 2022-02-15	A	7-0	Stetson University	Rollins College
 2022-02-15	H	7-0	Texas A&M University-Corpus Christi	University of Texas Rio Grande Valley
@@ -2267,6 +2270,7 @@ date	where	score	winner	loser
 2022-02-16	A	4-0	University of Tulsa	Wichita State University
 2022-02-17	A	7-0	Biola University	California State University: Los Angeles
 2022-02-17	H	7-0	George Washington University	Delaware State University
+2022-02-17	A	7-0	Georgia Institute of Technology	University of Tennessee: Chattanooga
 2022-02-17	A	4-2	Keiser University	Palm Beach Atlantic University
 2022-02-17	H	7-0	Limestone University	Southern Wesleyan University
 2022-02-17	N	7-0	United States Air Force Academy	Rollins College
@@ -2300,8 +2304,8 @@ date	where	score	winner	loser
 2022-02-18	A		Eastern Michigan University	Michigan State University
 2022-02-18	A		Eastern Michigan University	Northwood University (MI)
 2022-02-18	A		Fairleigh Dickinson University	St. John's University (NY)
-2022-02-18	N		Florida Agricultural & Mechanical University	Mississippi Valley State University
-2022-02-18	A		Florida International University	University of North Florida
+2022-02-18	N	5-0	Florida Agricultural & Mechanical University	Mississippi Valley State University
+2022-02-18	A	4-3	Florida International University	University of North Florida
 2022-02-18	A		Folsom Lake College	Cosumnes  River College
 2022-02-18	N		Franciscan University of Steubenville	University of Wisconsin-Superior
 2022-02-18	A		Georgia State University	University of North Carolina at Greensboro
@@ -3067,7 +3071,6 @@ date	where	score	winner	loser
 2022-02-26	A		Transylvania University	Asbury University
 2022-02-26	A		Trinity University - Texas	Pomona-Pitzer Colleges
 2022-02-26	A		Tulane University	University of Louisiana at Lafayette
-2022-02-26	A		Tyler Junior College	McNeese State University
 2022-02-26	A		Univ. of Nevada: Las Vegas	Stanford University
 2022-02-26	A		University of Alabama at Birmingham	University of South Alabama
 2022-02-26	A		University of Arkansas-Fort Smith	Harding University
@@ -3137,6 +3140,7 @@ date	where	score	winner	loser
 2022-02-27	A		Denison University	College of Wooster
 2022-02-27	A		Duke University	University of Notre Dame
 2022-02-27	A		East Tennessee State University	Miami University - OH
+2022-02-27	A		Embry-Riddle Aeronautical University - FL	University of Tampa
 2022-02-27	A		Fairleigh Dickinson University	United States Naval Academy
 2022-02-27	A		Florida Gulf Coast University	University of South Florida
 2022-02-27	A		Florida International University	University of North Texas
@@ -3207,7 +3211,6 @@ date	where	score	winner	loser
 2022-02-27	A		University of Pennsylvania	Old Dominion University
 2022-02-27	A		University of Pikeville	Point University
 2022-02-27	A		University of Portland	University of Montana
-2022-02-27	A		University of Tampa	Embry-Riddle Aeronautical University - FL
 2022-02-27	A		University of Tennessee: Chattanooga	Western Kentucky University
 2022-02-27	A		University of Texas	University of California: Berkeley
 2022-02-27	A		University of Texas at Arlington	Southern Methodist University
@@ -3466,6 +3469,7 @@ date	where	score	winner	loser
 2022-03-05	A		California State University: Fresno	Azusa Pacific University
 2022-03-05	A		California State University: Fresno	California State University: Fullerton
 2022-03-05	A		California State University: Long Beach	University of Hawaii
+2022-03-05	A		Central Alabama Community College	East Central Community College
 2022-03-05	N		Central Alabama Community College	Hinds Community College
 2022-03-05	A		Christian Brothers University	Mississippi College
 2022-03-05	A		Clarks Summit University	Albright College
@@ -6436,6 +6440,7 @@ date	where	score	winner	loser
 2022-04-05	A		Texas Wesleyan University	Texas Lutheran University
 2022-04-05	A		University of Hawaii	University of Southern California
 2022-04-05	A		University of Montevallo	Auburn University at Montgomery
+2022-04-05	A		Ursinus College	Muhlenberg College
 2022-04-05	A		Villanova University	Saint Joseph's University
 2022-04-05	A		Wellesley College	Springfield College
 2022-04-05	A		West Chester University of Pennsylvania	Shippensburg University of Pennsylvania
@@ -7546,6 +7551,7 @@ date	where	score	winner	loser
 2022-04-18	A		Rose-Hulman Institute of Technology	DePauw University
 2022-04-18	A		University of Memphis	Southern Methodist University
 2022-04-19	A		Alfred University	Rochester Institute of Technology
+2022-04-19	A		Bryn Mawr College	Muhlenberg College
 2022-04-19	A		California University of Pennsylvania	Slippery Rock University of Pennsylvania
 2022-04-19	A		Cedarville University	Indiana University East
 2022-04-19	A		Chowan College	Barton College
