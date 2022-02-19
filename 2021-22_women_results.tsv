@@ -2305,7 +2305,6 @@ date	where	score	winner	loser
 2022-02-18	H	7-0	East Tennessee State University	Western Carolina University
 2022-02-18	A		East Texas Baptist University	University of Mary Hardin-Baylor
 2022-02-18	A		Eastern Florida State College	St. Petersburg College
-2022-02-18	A		Eastern Michigan University	Michigan State University
 2022-02-18	A	7-0	Eastern Michigan University	Northwood University (MI)
 2022-02-18	A		Eastern Michigan University	Northwood University (MI)
 2022-02-18	N	5-0	Florida Agricultural & Mechanical University	Mississippi Valley State University
@@ -2334,11 +2333,11 @@ date	where	score	winner	loser
 2022-02-18	A		Marquette University	University of Wisconsin
 2022-02-18	N		Martin Luther College	St. Catherine University
 2022-02-18	A		Maryville University of Saint Louis	Drury University
+2022-02-18	H	6-1	Michigan State University	Eastern Michigan University
 2022-02-18	A		Michigan Technological University	Lewis University
 2022-02-18	H	6-1	Middle Tennessee State University	Samford University
 2022-02-18	A		Mississippi Gulf Coast Community College	Jones College
 2022-02-18	A		Montana State University	Tarleton State University
-2022-02-18	A		Nicholls State University	University of South Alabama
 2022-02-18	N		Norfolk State University	Virginia Polytechnic Institute & State University
 2022-02-18	A		North Carolina State University	University of Kansas
 2022-02-18	A		Northeast Mississippi Community College	Itawamba Community College
@@ -2364,12 +2363,14 @@ date	where	score	winner	loser
 2022-02-18	A		Southeastern Oklahoma State University	Dallas Baptist University
 2022-02-18	H	4-0	St. John's University (NY)	Fairleigh Dickinson University
 2022-02-18	H	4-0	St. John's University (NY)	Wagner College
-2022-02-18	A		St. Mary's College - CA	Stanford University
+2022-02-18	H	7-0	Stanford University	St. Mary's College - CA
 2022-02-18	A		State College of Florida, Manatee-Sarasota	Hillsborough Community College
 2022-02-18	A		State University of West Georgia	University of Montevallo
 2022-02-18	A		SUNY Stony Brook	University of Connecticut
 2022-02-18	N		Texas A&M University-Kingsville	Georgia College & State University
 2022-02-18	A		Texas Lutheran University	Concordia University - Austin
+2022-02-18	H	7-0	Texas Tech University	University of Houston
+2022-02-18	H	7-0	Tulane University	University of Louisiana at Monroe
 2022-02-18	A		Tuskegee University	Huntingdon College
 2022-02-18	A		Tyler Junior College	Midwestern State University
 2022-02-18	A	4-0	United States Military Academy	Rollins College
@@ -2377,14 +2378,13 @@ date	where	score	winner	loser
 2022-02-18	H	6-1	Univ. of Nevada: Las Vegas	University of North Dakota
 2022-02-18	H	6-1	University of Arizona	Northern Arizona University
 2022-02-18	A		University of California: Irvine	California Institute of Technology
+2022-02-18	H	7-0	University of California: Santa Barbara	Washington State University
 2022-02-18	A		University of Central Florida	Louisiana State University
 2022-02-18	A		University of Colorado	Portland State University
 2022-02-18	A	1-6	University of Delaware	Rutgers University
 2022-02-18	A		University of Hawaii	San Diego State University
-2022-02-18	A		University of Houston	Texas Tech University
 2022-02-18	A		University of Illinois: Springfield	Purdue University Northwest
 2022-02-18	A		University of Iowa	Iowa State University
-2022-02-18	A		University of Louisiana at Monroe	Tulane University
 2022-02-18	A	5-2	University of Maryland	College of William & Mary
 2022-02-18	A		University of Memphis	University of Alabama
 2022-02-18	A		University of Missouri: St. Louis	McKendree University
@@ -2392,6 +2392,7 @@ date	where	score	winner	loser
 2022-02-18	N	6-1	University of Montana	Dixie State College
 2022-02-18	A		University of Nebraska - Kearney	Augustana University
 2022-02-18	A		University of San Francisco	California State University: Fresno
+2022-02-18	H	6-1	University of South Alabama	Nicholls State University
 2022-02-18	A		University of South Carolina Sumter	Benedict College
 2022-02-18	A		University of St. Thomas - MN	University of Northern Iowa
 2022-02-18	A		University of Texas, Permian Basin	Tarleton State University
@@ -2403,7 +2404,6 @@ date	where	score	winner	loser
 2022-02-18	A		University of Wisconsin-Superior	St. Mary's University - MN
 2022-02-18	A		Valdosta State University	Embry-Riddle Aeronautical University - FL
 2022-02-18	A		Walsh University	Ferris State University
-2022-02-18	A		Washington State University	University of California: Santa Barbara
 2022-02-18	H	4-0	Wayne State University (MI)	University of Findlay
 2022-02-18	A		West Valley College	City College of San Francisco
 2022-02-18	A	5-2	West Virginia University	Marshall University
