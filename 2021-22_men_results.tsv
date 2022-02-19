@@ -789,7 +789,7 @@ date	where	score	winner	loser
 2022-02-04	H	5-2	Gonzaga University	University of New Mexico
 2022-02-04	A	4-2	Hillsdale College	Lawrence Technological University
 2022-02-04	H	9-0	Hinds Community College	Southwest Mississippi Community College
-2022-02-04	A	2-2	Holy Names University	William Jessup University
+2022-02-04	A	4-2	Holy Names University	William Jessup University
 2022-02-04	H	5-4	Huntingdon College	Gadsden State Community College
 2022-02-04	A	6-3	Itawamba Community College	Copiah-Lincoln Community College
 2022-02-04	H	5-2	James Madison University	Georgetown University
@@ -1465,6 +1465,8 @@ date	where	score	winner	loser
 2022-02-16	H	4-3	University of Tulsa	University of Arkansas
 2022-02-17	H	7-0	Campbell University	North Carolina Central University
 2022-02-17	A	5-2	Elon University	Longwood University
+2022-02-17	H	5-1	Folsom Lake College	Mission College
+2022-02-17	H	9-0	Folsom Lake College	Reedley College
 2022-02-17	A	5-1	Keiser University	Palm Beach Atlantic University
 2022-02-17	A	5-2	Lander University	Emmanuel College - GA
 2022-02-17	A	4-3	North Carolina State University	University of North Carolina
@@ -1481,6 +1483,7 @@ date	where	score	winner	loser
 2022-02-18	H	5-4	Benedict College	University of South Carolina Sumter
 2022-02-18	H	7-0	Boston College	Babson College
 2022-02-18	H	6-1	Claremont-Mudd-Scripps Colleges	Point Loma Nazarene University
+2022-02-18	H	8-1	Claremont-Mudd-Scripps Colleges	University of California: Santa Cruz
 2022-02-18	H	7-0	College of William & Mary	University of Richmond
 2022-02-18	H	6-1	Collin County Community College	Texas A&M University-Texarkana
 2022-02-18	N	4-0	Columbia University	Dartmouth College
@@ -1490,6 +1493,7 @@ date	where	score	winner	loser
 2022-02-18	H	5-2	Duquesne University	Saint Francis University - PA
 2022-02-18	A	4-0	East Tennessee State University	Texas A&M University-Corpus Christi
 2022-02-18	H	5-2	Embry-Riddle Aeronautical University - FL	Valdosta State University
+2022-02-18	A	8-1	Folsom Lake College	Cosumnes  River College
 2022-02-18	N	7-0	Harding University	University of Texas at Dallas
 2022-02-18	N	4-0	Harvard University	Brown University
 2022-02-18	A	6-1	Hofstra University	Long Island University
@@ -1497,14 +1501,17 @@ date	where	score	winner	loser
 2022-02-18	H	6-1	Indiana Institute of Technology	Indiana University East
 2022-02-18	H	6-1	Indiana University-Purdue University Indianapolis	Holy Cross College (Indiana)
 2022-02-18	H	9-0	Itawamba Community College	Northeast Mississippi Community College
+2022-02-18	H	6-3	Jones College	Mississippi Gulf Coast Community College
 2022-02-18	H	6-1	Kennesaw State University	University of Tennessee: Chattanooga
 2022-02-18	A	4-3	Lamar University	University of Southern Mississippi
 2022-02-18	A	5-2	Limestone University	Converse College
 2022-02-18	H	4-2	Middle Tennessee State University	Auburn University
 2022-02-18	H	9-0	Modesto Junior College	Reedley College
 2022-02-18	A	7-0	Monmouth University	New Jersey Institute of Technology
+2022-02-18	N	3-4	New Mexico State University	DePaul University
 2022-02-18	H	7-0	Northern Arizona University	University of California: San Diego
 2022-02-18	N	4-3	Northern Kentucky University	Eastern Illinois University
+2022-02-18	A	4-1	Ohio State University	University of Washington
 2022-02-18	A	7-0	Ouachita Baptist University	Newman University
 2022-02-18	H	4-3	Portland State University	Pacific University
 2022-02-18	N	4-3	Princeton University	University of Pennsylvania
@@ -1530,6 +1537,7 @@ date	where	score	winner	loser
 2022-02-18	H	6-1	University of Nebraska Omaha	Chicago State University
 2022-02-18	H	4-1	University of North Carolina at Charlotte	Coastal Carolina University
 2022-02-18	H	6-1	University of North Carolina at Wilmington	University of North Carolina at Greensboro
+2022-02-18	H	7-0	University of Notre Dame	Western Michigan University
 2022-02-18	H	4-0	University of San Diego	Lincoln Memorial University
 2022-02-18	H	4-0	University of San Diego	Loyola Marymount University
 2022-02-18	H	7-0	University of South Alabama	Nicholls State University
@@ -1541,6 +1549,8 @@ date	where	score	winner	loser
 2022-02-18	A	5-2	University of the Incarnate Word	University of Texas Rio Grande Valley
 2022-02-18	A	7-0	University of Toledo	Marquette University
 2022-02-18	N	4-1	University of West Florida	University of Hawaii at Hilo
+2022-02-18	H	6-1	Vanderbilt University	Belmont University
+2022-02-18	H	5-0	Vanderbilt University	Tennessee State University
 2022-02-18	N	4-3	Wake Forest University	University of Georgia
 2022-02-18	A	6-1	Wayne State University (MI)	University of Findlay
 2022-02-18	A	7-2	Western New Mexico University	Hardin-Simmons University
@@ -1586,6 +1596,7 @@ date	where	score	winner	loser
 2022-02-19	A		College of St. Scholastica	Hamline University
 2022-02-19	A		College of Wooster	John Carroll University
 2022-02-19	A		Colorado Mesa	Idaho State University
+2022-02-19	A		Columbia University	Cornell University
 2022-02-19	N		Columbus State University	Saint Leo University
 2022-02-19	A		Concordia College - Moorhead	St. John's University - MN
 2022-02-19	A		Coppin State College	Lafayette College
@@ -1674,11 +1685,15 @@ date	where	score	winner	loser
 2022-02-19	N	4-2	University of Charleston (WV)	Edinboro University of Pennsylvania
 2022-02-19	A		University of Findlay	Northwood University (MI)
 2022-02-19	N		University of Florida	University of Virginia
+2022-02-19	A		University of Georgia	University of Washington
 2022-02-19	A		University of Idaho	Gonzaga University
 2022-02-19	A		University of Illinois at Chicago	University of Nebraska Omaha
+2022-02-19	A		University of Kentucky	Baylor University
+2022-02-19	N		University of Mississippi	University of Southern California
 2022-02-19	A		University of North Alabama	University of Memphis
 2022-02-19	A		University of North Carolina at Charlotte	Clemson University
 2022-02-19	A		University of North Carolina at Greensboro	Fairfield University
+2022-02-19	A		University of North Georgia	University of Indianapolis
 2022-02-19	A		University of Northwestern Ohio	Lawrence Technological University
 2022-02-19	N		University of South Carolina	University of Tennessee
 2022-02-19	A		University of the Pacific	University of California: Irvine
