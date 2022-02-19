@@ -1156,6 +1156,7 @@ date	where	score	winner	loser
 2022-02-11	H	6-1	University of Arkansas	Drake University
 2022-02-11	H	4-3	University of California: Davis	California State University: Sacramento
 2022-02-11	H	4-2	University of California: Santa Barbara	San Diego State University
+2022-02-11	H	8-1	University of California: Santa Cruz	William Jessup University
 2022-02-11	A	6-1	University of Charleston (WV)	Lincoln Memorial University
 2022-02-11	H	7-0	University of Delaware	Villanova University
 2022-02-11	A	6-1	University of Denver	United States Air Force Academy
@@ -1177,7 +1178,6 @@ date	where	score	winner	loser
 2022-02-11	N	6-1	Wayne State University (MI)	Tiffin University
 2022-02-11	N	4-3	Western New Mexico University	Colorado Mesa
 2022-02-11	H	4-0	Wichita State University	Creighton University
-2022-02-11	A	1-3	William Jessup University	University of California: Santa Cruz
 2022-02-11	A	7-2	Wisconsin Lutheran College	Lawrence University
 2022-02-11	A	7-2	Wisconsin Lutheran College	Lawrence University
 2022-02-11	H	6-1	Xavier University (Ohio)	Indiana University-Purdue University Indianapolis
@@ -1505,7 +1505,9 @@ date	where	score	winner	loser
 2022-02-18	H	6-1	Kennesaw State University	University of Tennessee: Chattanooga
 2022-02-18	A	4-3	Lamar University	University of Southern Mississippi
 2022-02-18	A	5-2	Limestone University	Converse College
+2022-02-18	H	5-2	Lincoln Memorial University	West Virginia Wesleyan College
 2022-02-18	H	4-2	Middle Tennessee State University	Auburn University
+2022-02-18	H	5-2	Midland University	Colorado College
 2022-02-18	H	9-0	Modesto Junior College	Reedley College
 2022-02-18	A	7-0	Monmouth University	New Jersey Institute of Technology
 2022-02-18	N	3-4	New Mexico State University	DePaul University
@@ -1546,6 +1548,7 @@ date	where	score	winner	loser
 2022-02-18	N	4-3	University of Texas	University of Florida
 2022-02-18	H	4-3	University of Texas at Arlington	Oral Roberts University
 2022-02-18	N	5-0	University of Texas at San Antonio	New Mexico State University
+2022-02-18	N	4-3	University of Texas at San Antonio	Troy State University
 2022-02-18	A	5-2	University of the Incarnate Word	University of Texas Rio Grande Valley
 2022-02-18	A	7-0	University of Toledo	Marquette University
 2022-02-18	N	4-1	University of West Florida	University of Hawaii at Hilo
@@ -1607,6 +1610,7 @@ date	where	score	winner	loser
 2022-02-19	A		DePaul University	Texas A&M University-Corpus Christi
 2022-02-19	A		Drake University	Utah State University
 2022-02-19	A		Duke University	University of Illinois
+2022-02-19	N		East Tennessee State University	Troy State University
 2022-02-19	A		Elmhurst College	Wartburg College
 2022-02-19	A		Emory & Henry College	Lincoln Memorial University
 2022-02-19	N		Fairleigh Dickinson University	Villanova University
@@ -1715,7 +1719,6 @@ date	where	score	winner	loser
 2022-02-20	N		Alcorn State University	Prairie View A&M University
 2022-02-20	N		Ashland University	Fairmont State University
 2022-02-20	N		Ball State University	Indiana University-Purdue University Indianapolis
-2022-02-20	A		Belmont University	Samford University
 2022-02-20	A		Binghamton University	New Jersey Institute of Technology
 2022-02-20	A		Butler University	Indiana University
 2022-02-20	A		California State University: Sacramento	St. Mary's College - CA
