@@ -1576,7 +1576,7 @@ date	where	score	winner	loser
 2022-02-19	N		Abilene Christian University	New Mexico State University
 2022-02-19	N		Abraham Baldwin College	Marion Military Institute
 2022-02-19	N		Abraham Baldwin College	Wallace State Community College
-2022-02-19	N	4-0	Alabama State University	Mississippi Valley State University
+2022-02-19	N		Alabama State University	Mississippi Valley State University
 2022-02-19	N		Alabama State University	Prairie View A&M University
 2022-02-19	A		American River College	Fresno City College
 2022-02-19	A		American River College	Reedley College
@@ -1598,7 +1598,6 @@ date	where	score	winner	loser
 2022-02-19	A		Brescia University	University of Southern Indiana
 2022-02-19	A		Brigham Young University	University of New Mexico
 2022-02-19	A		Buena Vista University	Midland University
-2022-02-19	A		Campbell University	Elon University
 2022-02-19	A		Campbellsville University	Indiana University Southeast
 2022-02-19	N		Capital University	Manchester College
 2022-02-19	A		Capital University	Wabash College
@@ -1627,6 +1626,7 @@ date	where	score	winner	loser
 2022-02-19	A	4-2	Duke University	University of Illinois
 2022-02-19	N	4-2	East Tennessee State University	Troy State University
 2022-02-19	A		Elmhurst College	Wartburg College
+2022-02-19	H	5-2	Elon University	Campbell University
 2022-02-19	A		Emory & Henry College	Lincoln Memorial University
 2022-02-19	N		Fairleigh Dickinson University	Villanova University
 2022-02-19	A		Flagler College	Rollins College
@@ -1648,14 +1648,12 @@ date	where	score	winner	loser
 2022-02-19	N	4-3	James Madison University	Northern Illinois University
 2022-02-19	A		John Brown University	Evangel University
 2022-02-19	A	7-0	Keiser University	Southeastern University
-2022-02-19	N		Lamar University	University of Alabama at Birmingham
+2022-02-19	N	5-2	Lamar University	University of Alabama at Birmingham
 2022-02-19	A		Le Moyne College	Colgate University
-2022-02-19	A		Lewis & Clark College	Portland State University
 2022-02-19	A		Lewis University	University of Chicago
 2022-02-19	A		Loras College	St. Mary's University - MN
 2022-02-19	N		Loras College	University of Wisconsin-Superior
 2022-02-19	A		Lourdes University	Lawrence Technological University
-2022-02-19	N		Loyola Marymount University	University of Oregon
 2022-02-19	A		Luther College	Augustana College - IL
 2022-02-19	A		Manchester College	Wabash College
 2022-02-19	N		Martin Methodist College	St. Mary's University - TX
@@ -1667,14 +1665,13 @@ date	where	score	winner	loser
 2022-02-19	N		Milligan College	University of Virginia's College at Wise
 2022-02-19	A		Milwaukee School of Engineering	North Central College
 2022-02-19	A		Niagara University	Daemen College
-2022-02-19	A		Northern Kentucky University	University of Illinois
 2022-02-19	N		Oral Roberts University	University of Texas at Dallas
 2022-02-19	A		Ouachita Baptist University	Washburn University of Topeka
 2022-02-19	A		Penn State Erie, The Behrend College	Otterbein University
 2022-02-19	A		Point Loma Nazarene University	University of Redlands
+2022-02-19	H	7-0	Portland State University	Lewis & Clark College
 2022-02-19	A	7-0	Presbyterian College	Belmont Abbey College
 2022-02-19	A		Presbyterian College	Belmont Abbey College
-2022-02-19	A		Rice University	Tulane University
 2022-02-19	A		Rose-Hulman Institute of Technology	North Central College
 2022-02-19	A		Saint Francis College - NY	Siena College
 2022-02-19	A	4-3	Saint Joseph's University	Bucknell University
@@ -1696,8 +1693,9 @@ date	where	score	winner	loser
 2022-02-19	H	4-3	Texas A&M University-Corpus Christi	DePaul University
 2022-02-19	N	4-0	Texas Christian University	University of Texas
 2022-02-19	A		Thomas More College	Cedarville University
-2022-02-19	N		United States Air Force Academy	United States Military Academy
-2022-02-19	A		Univ. of Nevada: Las Vegas	University of Arizona
+2022-02-19	H	6-1	Tulane University	Rice University
+2022-02-19	N	4-0	United States Air Force Academy	United States Military Academy
+2022-02-19	H	6-1	University of Arizona	Univ. of Nevada: Las Vegas
 2022-02-19	H	5-2	University of California: Irvine	University of the Pacific
 2022-02-19	A		University of California: Santa Cruz	California Institute of Technology
 2022-02-19	N	4-2	University of Charleston (WV)	Edinboro University of Pennsylvania
@@ -1705,6 +1703,7 @@ date	where	score	winner	loser
 2022-02-19	A		University of Findlay	Northwood University (MI)
 2022-02-19	N	4-2	University of Florida	University of Virginia
 2022-02-19	A		University of Georgia	University of Washington
+2022-02-19	H	4-0	University of Illinois	Northern Kentucky University
 2022-02-19	A		University of Kentucky	Baylor University
 2022-02-19	N		University of Louisiana at Lafayette	University of Texas at San Antonio
 2022-02-19	N		University of Mississippi	University of Southern California
@@ -1714,8 +1713,9 @@ date	where	score	winner	loser
 2022-02-19	N	5-2	University of North Carolina at Greensboro	Fairfield University
 2022-02-19	A		University of North Georgia	University of Indianapolis
 2022-02-19	A		University of Northwestern Ohio	Lawrence Technological University
+2022-02-19	N	7-0	University of Oregon	Loyola Marymount University
 2022-02-19	N	4-0	University of Pennsylvania	Brown University
-2022-02-19	N		University of South Carolina	University of Tennessee
+2022-02-19	N	4-2	University of Tennessee	University of South Carolina
 2022-02-19	A		University of the Sciences in Philadelphia	The College of New Jersey
 2022-02-19	A		University of the South: Sewanee	Trinity University - Texas
 2022-02-19	N	4-3	University of Toledo	Illinois State University
@@ -1738,6 +1738,7 @@ date	where	score	winner	loser
 2022-02-20	N		Ashland University	Fairmont State University
 2022-02-20	N		Ball State University	Indiana University-Purdue University Indianapolis
 2022-02-20	A		Binghamton University	New Jersey Institute of Technology
+2022-02-20	N		Brown University	Dartmouth College
 2022-02-20	A		Bryant University	University of North Carolina at Wilmington
 2022-02-20	A		Butler University	Indiana University
 2022-02-20	A		California State University: Sacramento	St. Mary's College - CA
@@ -1803,6 +1804,7 @@ date	where	score	winner	loser
 2022-02-20	A		University of Nebraska Omaha	University of Nebraska
 2022-02-20	A		University of North Carolina	University of Illinois
 2022-02-20	A		University of Oregon	University of San Diego
+2022-02-20	N		University of Pennsylvania	Yale University
 2022-02-20	A		University of Pikeville	Milligan College
 2022-02-20	A		University of Saint Francis - IL	Lake Forest College
 2022-02-20	N		University of Saint Francis - IN	Wartburg College
