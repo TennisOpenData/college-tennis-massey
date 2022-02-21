@@ -763,6 +763,7 @@ date	where	score	winner	loser
 2022-02-02	H	4-0	University of Mississippi	Alcorn State University
 2022-02-03	H	5-2	Brown University	Bryant University
 2022-02-03	H	7-0	Lynn University	Florida National University
+2022-02-03	H	9-0	Mesa Community College	Imperial Valley College
 2022-02-03	H	4-1	Mississippi State University	University of Memphis
 2022-02-03	H	4-0	Mississippi State University	University of North Alabama
 2022-02-03	H	7-0	Mount St. Mary's University (MD)	Coppin State College
@@ -1487,6 +1488,7 @@ date	where	score	winner	loser
 2022-02-17	H	7-2	Wisconsin Lutheran College	Ripon College
 2022-02-18	A	4-2	Abilene Christian University	Texas A&M University-Corpus Christi
 2022-02-18	H	4-3	Austin Peay State University	University of Southern Indiana
+2022-02-18	H	4-1	Ave Maria University	Ottawa University Arizona
 2022-02-18	N	4-1	Barry University	Delta State University
 2022-02-18	N	4-1	Baylor University	University of Mississippi
 2022-02-18	H	5-2	Belmont Abbey College	Tusculum College
@@ -1507,6 +1509,7 @@ date	where	score	winner	loser
 2022-02-18	A	4-0	East Tennessee State University	Texas A&M University-Corpus Christi
 2022-02-18	H	5-2	Embry-Riddle Aeronautical University - FL	Valdosta State University
 2022-02-18	A	8-1	Folsom Lake College	Cosumnes  River College
+2022-02-18	H	5-2	Fresno Pacific University	American River College
 2022-02-18	H	4-0	Georgia Gwinnett College	Lindsey Wilson College
 2022-02-18	H	8-1	Gustavus Adolphus College	Grinnell College
 2022-02-18	N	7-0	Harding University	University of Texas at Dallas
@@ -1543,6 +1546,7 @@ date	where	score	winner	loser
 2022-02-18	A	4-3	Quincy University	Missouri Baptist University
 2022-02-18	H	4-3	Reinhardt College	Point University
 2022-02-18	N	4-3	Saint Leo University	University of Indianapolis
+2022-02-18	N	4-2	Savannah College of Art & Design	Ottawa University Arizona
 2022-02-18	N	7-2	Seward County Community College	Texas A&M University-Texarkana
 2022-02-18	A	5-1	Shorter University	Rhodes College
 2022-02-18	A	7-0	St. Mary's University - TX	Christian Brothers University
@@ -1564,6 +1568,7 @@ date	where	score	winner	loser
 2022-02-18	H	4-1	University of Miami (FL)	Georgia State University
 2022-02-18	H	7-0	University of Miami (FL)	Mercer University
 2022-02-18	H	6-1	University of Nebraska Omaha	Chicago State University
+2022-02-18	H	4-0	University of New Mexico	Brigham Young University
 2022-02-18	H	4-1	University of North Carolina at Charlotte	Coastal Carolina University
 2022-02-18	H	6-1	University of North Carolina at Wilmington	University of North Carolina at Greensboro
 2022-02-18	H	7-0	University of Notre Dame	Western Michigan University
@@ -1591,6 +1596,7 @@ date	where	score	winner	loser
 2022-02-19	N	4-1	Abilene Christian University	New Mexico State University
 2022-02-19	N	6-3	Abraham Baldwin College	Wallace State Community College
 2022-02-19	N	4-0	Alabama State University	Mississippi Valley State University
+2022-02-19	A	9-0	American River College	Reedley College
 2022-02-19	A	6-1	Anderson University - SC	Young Harris College
 2022-02-19	N	9-0	Asbury University	Ohio Northern University
 2022-02-19	N	6-1	Augustana University	Bethel University (MN)
@@ -1635,6 +1641,7 @@ date	where	score	winner	loser
 2022-02-19	A	5-4	Hope International University	California Institute of Technology
 2022-02-19	H	7-0	Idaho State University	Colorado Mesa
 2022-02-19	N	4-3	James Madison University	Northern Illinois University
+2022-02-19	A	4-3	John Brown University	Evangel University
 2022-02-19	H	5-4	Kalamazoo College	Coe College
 2022-02-19	A	7-0	Keiser University	Southeastern University
 2022-02-19	H	4-3	Lafayette College	Coppin State College
@@ -1686,6 +1693,7 @@ date	where	score	winner	loser
 2022-02-19	N	4-3	University of Louisiana at Lafayette	University of Texas at San Antonio
 2022-02-19	H	7-0	University of Memphis	University of North Alabama
 2022-02-19	H	7-0	University of Nebraska Omaha	University of Illinois at Chicago
+2022-02-19	H	4-0	University of New Mexico	Brigham Young University
 2022-02-19	A	4-3	University of North Carolina at Charlotte	Clemson University
 2022-02-19	N	5-2	University of North Carolina at Greensboro	Fairfield University
 2022-02-19	A	4-0	University of Northwestern Ohio	Lawrence Technological University
@@ -1744,6 +1752,7 @@ date	where	score	winner	loser
 2022-02-20	A	4-3	Southern Methodist University	University of Nebraska
 2022-02-20	N	4-3	Texas Christian University	Ohio State University
 2022-02-20	A	4-3	The College of New Jersey	Lafayette College
+2022-02-20	H	8-1	Trinity University - Texas	Hardin-Simmons University
 2022-02-20	H	6-1	United States Naval Academy	Fairleigh Dickinson University
 2022-02-20	H	7-0	United States Naval Academy	Villanova University
 2022-02-20	A	4-1	University of Alabama at Birmingham	University of Southern Mississippi
@@ -1763,6 +1772,7 @@ date	where	score	winner	loser
 2022-02-20	N	4-1	University of Pennsylvania	Yale University
 2022-02-20	H	7-0	University of Portland	Portland State University
 2022-02-20	H	4-0	University of San Diego	University of Oregon
+2022-02-20	N	4-1	University of South Carolina	University of Kentucky
 2022-02-20	N	4-1	University of Southern California	Stanford University
 2022-02-20	N	4-2	University of Tennessee	Baylor University
 2022-02-20	H	4-3	University of Tennessee: Chattanooga	Lipscomb University
@@ -2258,7 +2268,6 @@ date	where	score	winner	loser
 2022-03-03	N		Adrian College	Wartburg College
 2022-03-03	A		Chabot College	American River College
 2022-03-03	A		Christopher Newport University	Whittier College
-2022-03-03	A		College of the Holy Cross	Cleveland State University
 2022-03-03	N		College of the Holy Cross	University of Toledo
 2022-03-03	A		Colorado Mesa	Biola University
 2022-03-03	N		Fairmont State University	Tiffin University
@@ -2267,7 +2276,6 @@ date	where	score	winner	loser
 2022-03-03	N		Jacksonville College	Jones College
 2022-03-03	A		Keiser University	Lynn University
 2022-03-03	A		Lenoir-Rhyne College	Mars Hill University
-2022-03-03	A		Mesa Community College	Glendale Community College - CA
 2022-03-03	N		Mount Vernon Nazarene University	Wartburg College
 2022-03-03	A		Oklahoma Wesleyan University	Hardin-Simmons University
 2022-03-03	A		Riverside Community College	Orange Coast College
@@ -2503,7 +2511,6 @@ date	where	score	winner	loser
 2022-03-06	N		Brevard College	Cairn University
 2022-03-06	A		Campbell University	College of Charleston
 2022-03-06	A		Clemson University	University of Notre Dame
-2022-03-06	N		Colorado College	Trinity University - Texas
 2022-03-06	A		Columbus State University	Barry University
 2022-03-06	A		CUNY: Baruch College	Yeshiva University
 2022-03-06	A		Denison University	Kalamazoo College
@@ -2648,6 +2655,7 @@ date	where	score	winner	loser
 2022-03-08	A		Embry-Riddle Aeronautical University - FL	Lee University
 2022-03-08	A		Fairleigh Dickinson University	Temple University
 2022-03-08	A		Folsom Lake College	Shasta College
+2022-03-08	A		Fresno City College	Reedley College
 2022-03-08	A		Fresno Pacific University	Point Loma Nazarene University
 2022-03-08	A		Fullerton College	Riverside Community College
 2022-03-08	A		Gardner-Webb University	Longwood University
@@ -3244,6 +3252,7 @@ date	where	score	winner	loser
 2022-03-17	A		University of Southern Indiana	Mars Hill University
 2022-03-17	A		University of Texas at San Antonio	Florida Atlantic University
 2022-03-17	A		University of the Southwest	Mesa Community College
+2022-03-17	A		University of the Southwest	Mesa Community College
 2022-03-17	A		University of Wisconsin	University of San Diego
 2022-03-17	A		Ventura College	Fullerton College
 2022-03-17	A		Wayne State University (MI)	Barry University
@@ -3606,6 +3615,7 @@ date	where	score	winner	loser
 2022-03-22	A		Newman University	Cowley County Community College
 2022-03-22	A		Orange Coast College	Ventura College
 2022-03-22	A		Pacific University	Whittier College
+2022-03-22	A		Reedley College	Solano Community College
 2022-03-22	A		Rider University	City University of New York: Queens College
 2022-03-22	A		San Diego City College	Victor Valley College
 2022-03-22	A		Savannah College of Art and Design - Atlanta	Bluefield College

@@ -1516,6 +1516,7 @@ date	where	score	winner	loser
 2022-02-03	H	6-3	College of the Canyons	Santa Monica College
 2022-02-03	H	5-4	Glendale Community College - CA	Ventura College
 2022-02-03	H	7-0	Lynn University	Florida National University
+2022-02-03	H	9-0	Mesa Community College	Imperial Valley College
 2022-02-03	H	6-1	Mount St. Mary's University (MD)	Coppin State College
 2022-02-03	A	4-1	Portland State University	San Diego Christian College
 2022-02-03	A	5-4	Rio Hondo College	Cypress College
@@ -1859,6 +1860,7 @@ date	where	score	winner	loser
 2022-02-10	H	4-3	University of Mary Washington	Towson University
 2022-02-10	H	7-0	University of Montevallo	Central Alabama Community College
 2022-02-10	H	7-0	University of the Incarnate Word	Our Lady of the Lake University of San Antonio
+2022-02-10	H	7-2	University of the South: Sewanee	Cumberland University
 2022-02-10	A	6-1	Western New Mexico University	Arizona Christian
 2022-02-11	A	7-0	Angelo State University	Ouachita Baptist University
 2022-02-11	A	7-0	Augustana University	University of Minnesota: Duluth
@@ -2283,6 +2285,7 @@ date	where	score	winner	loser
 2022-02-17	A	4-2	Keiser University	Palm Beach Atlantic University
 2022-02-17	A	7-0	Lander University	Converse College
 2022-02-17	H	7-0	Limestone University	Southern Wesleyan University
+2022-02-17	A	3-1	Reedley College	Folsom Lake College
 2022-02-17	H	6-3	Santa Monica College	Ventura College
 2022-02-17	H	7-0	St. Thomas University (FL)	Ottawa University Arizona
 2022-02-17	N	7-0	United States Air Force Academy	Rollins College
@@ -2296,6 +2299,7 @@ date	where	score	winner	loser
 2022-02-18	A	6-3	American River College	Sierra College
 2022-02-18	H	5-2	Augusta University	Abraham Baldwin College
 2022-02-18	H	4-2	Augustana University	University of Nebraska - Kearney
+2022-02-18	H	4-0	Ave Maria University	Ottawa University Arizona
 2022-02-18	H	6-1	Baylor University	Southern Methodist University
 2022-02-18	H	7-0	Brigham Young University	University of Nevada (Reno)
 2022-02-18	A	4-3	Bryant University	Siena College
@@ -2347,6 +2351,7 @@ date	where	score	winner	loser
 2022-02-18	H	4-3	Rhodes College	Shorter University
 2022-02-18	H	7-0	Rice University	Texas State University: San Marcos
 2022-02-18	H	5-2	San Diego State University	University of Hawaii
+2022-02-18	N	4-0	Savannah College of Art & Design	Ottawa University Arizona
 2022-02-18	H	7-0	Seton Hall University	Binghamton University
 2022-02-18	N	5-2	Southern University & Agricultural & Mechanical	Bethune-Cookman College
 2022-02-18	H	4-0	St. John's University (NY)	Fairleigh Dickinson University
@@ -2426,6 +2431,7 @@ date	where	score	winner	loser
 2022-02-19	H	7-0	Idaho State University	Colorado Mesa
 2022-02-19	A	6-1	Illinois State University	University of Nebraska Omaha
 2022-02-19	H	4-0	Jackson State University	Southern University & Agricultural & Mechanical
+2022-02-19	A	4-3	John Brown University	Evangel University
 2022-02-19	A	7-0	Keiser University	Southeastern University
 2022-02-19	A	8-1	Kennesaw State University	Emory University
 2022-02-19	H	5-2	Lafayette College	Coppin State College
@@ -2501,6 +2507,7 @@ date	where	score	winner	loser
 2022-02-19	H	4-0	University of Tennessee	Indiana University
 2022-02-19	N	5-2	University of Texas Rio Grande Valley	Montana State University
 2022-02-19	H	5-2	University of the Incarnate Word	Trinity University - Texas
+2022-02-19	N	9-0	University of the South: Sewanee	Christopher Newport University
 2022-02-19	H	7-0	University of West Alabama	State University of West Georgia
 2022-02-19	N	4-3	University of Wisconsin-Milwaukee	Wayne State University (MI)
 2022-02-19	H	7-0	Valparaiso University	Marian University - IN
@@ -2515,6 +2522,7 @@ date	where	score	winner	loser
 2022-02-19	H	6-1	Wofford College	Presbyterian College
 2022-02-19	A	5-2	Yale University	Rutgers University
 2022-02-19	H	6-1	Youngstown State University	Saint Francis University - PA
+2022-02-20	A	6-1	Academy of Art University	University of California: Santa Cruz
 2022-02-20	N	7-0	Alabama Agricultural & Mechanical University	Bethune-Cookman College
 2022-02-20	H	4-2	Arizona State University	Kansas State University
 2022-02-20	H	5-2	Auburn University	Tulane University
@@ -2523,6 +2531,7 @@ date	where	score	winner	loser
 2022-02-20	A	5-2	Bucknell University	Siena College
 2022-02-20	H	4-3	California Polytechnic State University	University of California: Davis
 2022-02-20	A	5-2	California State University: Fullerton	University of California: San Diego
+2022-02-20	H	9-0	Case Western Reserve University	Otterbein University
 2022-02-20	H	4-3	Colgate University	Niagara University
 2022-02-20	A	5-2	College of Saint Mary - NE	Bethel College - KS
 2022-02-20	A	7-0	Colorado College	Hastings College
@@ -2536,7 +2545,7 @@ date	where	score	winner	loser
 2022-02-20	A	5-2	Harding University	Collin County Community College
 2022-02-20	H	7-0	Idaho State University	College of Idaho
 2022-02-20	A	5-2	Illinois State University	Creighton University
-2022-02-20	H	7-0	Iowa State University	Drake University
+2022-02-20	A	7-0	Iowa State University	Drake University
 2022-02-20	H	4-3	Jackson State University	Alabama State University
 2022-02-20	H	7-0	James Madison University	Coppin State College
 2022-02-20	H	5-2	James Madison University	Morgan State University
@@ -2559,6 +2568,7 @@ date	where	score	winner	loser
 2022-02-20	A	4-3	St. Cloud State University	Minnesota State University Moorhead
 2022-02-20	A	5-2	St. Mary's College - CA	California State University: Sacramento
 2022-02-20	H	7-0	Stephen F. Austin State University	University of Texas at Tyler
+2022-02-20	H	7-0	Tarleton State University	University of Texas Rio Grande Valley
 2022-02-20	H	7-2	Transylvania University	Ohio Northern University
 2022-02-20	H	9-0	Trinity University - Texas	Hardin-Simmons University
 2022-02-20	H	7-0	Univ. of Nevada: Las Vegas	Dixie State College
@@ -2595,6 +2605,7 @@ date	where	score	winner	loser
 2022-02-20	H	6-1	University of Texas at Arlington	Cameron University
 2022-02-20	H	7-0	University of Texas at Arlington	Southeastern Oklahoma State University
 2022-02-20	H	6-1	University of the Incarnate Word	Weatherford College
+2022-02-20	A	7-2	University of the South: Sewanee	Washington & Lee University
 2022-02-20	H	7-0	University of Wyoming	Metropolitan State University of Denver
 2022-02-20	N	6-1	Upper Iowa University	University of Minnesota: Crookston
 2022-02-20	H	5-4	Virginia Wesleyan University	Chowan College
@@ -2633,6 +2644,7 @@ date	where	score	winner	loser
 2022-02-22	A		Indiana University-Purdue University Indianapolis	University of Indianapolis
 2022-02-22	A		Meridian Community College	Blue Mountain College
 2022-02-22	A		Meridian Community College	Northeast Mississippi Community College
+2022-02-22	A		Mesa Community College	Ottawa University Arizona
 2022-02-22	A		Mission College	West Valley College
 2022-02-22	A		Nazareth College of Rochester	Rochester Institute of Technology
 2022-02-22	A		North Carolina A&T	Elon University
@@ -3449,6 +3461,7 @@ date	where	score	winner	loser
 2022-03-05	A		Maryville College	Emory & Henry College
 2022-03-05	A		McNeese State University	Stephen F. Austin State University
 2022-03-05	A		Merrimack College	Fairfield University
+2022-03-05	A		Mesa Community College	Eastern Arizona College
 2022-03-05	A		Miami University - OH	Lipscomb University
 2022-03-05	A		Midland University	Midway University
 2022-03-05	A		Millsaps College	Belhaven College
@@ -3764,7 +3777,6 @@ date	where	score	winner	loser
 2022-03-08	N		Lynn University	Wingate University
 2022-03-08	A		Marian University - IN	Savannah College of Art & Design
 2022-03-08	N		Marywood University	Northwestern College - MN
-2022-03-08	A		Mesa Community College	Eastern Arizona College
 2022-03-08	A		Michigan Technological University	Biola University
 2022-03-08	N		Millersville University of Pennsylvania	Winona State University
 2022-03-08	A		Mission College	Canada College
@@ -5052,6 +5064,7 @@ date	where	score	winner	loser
 2022-03-22	A		Radford University	Gardner-Webb University
 2022-03-22	A		Rider University	City University of New York: Queens College
 2022-03-22	A		Rio Hondo College	El Camino College
+2022-03-22	A		Santa Clara University	California Polytechnic State University
 2022-03-22	A		Southwest Mississippi Community College	Meridian Community College
 2022-03-22	A		Spokane Community College	Lewis-Clark State College (ID)
 2022-03-22	N		State College of Florida, Manatee-Sarasota	State University of West Georgia
