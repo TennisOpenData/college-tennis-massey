@@ -15,7 +15,6 @@ date	where	score	winner	loser
 2021-08-28	H	9-0	North Central College	Central College
 2021-08-28	H	6-3	North Central College	Purdue University Northwest
 2021-08-28	A	9-0	Purdue University Northwest	Illinois Institute of Technology
-2021-08-28	N	7-0	Purdue University Northwest	Illinois Institute of Technology
 2021-08-28	N	5-4	University of Dubuque	Cornell College
 2021-09-01	H	8-1	Concordia University Wisconsin	Carroll University - Wisconsin
 2021-09-01	A	5-4	North Park University	Wisconsin Lutheran College
@@ -39,7 +38,6 @@ date	where	score	winner	loser
 2021-09-03	H	4-0	Indiana Wesleyan University	Olivet Nazarene University
 2021-09-03	A	8-1	Iowa Central Community College	Buena Vista University
 2021-09-03	N	4-2	Lawrence Technological University	Holy Cross College (Indiana)
-2021-09-03	H	7-0	Oakland City University	Illinois College
 2021-09-03	H	9-0	Oakland City University	Illinois College
 2021-09-03	A	4-2	Olivet Nazarene University	Huntington University
 2021-09-03	A	9-0	Roger Williams University	Simmons University
@@ -69,8 +67,6 @@ date	where	score	winner	loser
 2021-09-04	A	5-4	Johnson University	Brevard College
 2021-09-04	N	5-4	Lake Forest College	Edgewood College
 2021-09-04	H	8-1	Luther College	Minnesota State University, Mankato
-2021-09-04	H	5-4	Luther College	Minnesota State University, Mankato
-2021-09-04	H	6-3	Luther College	Minnesota State University, Mankato
 2021-09-04	H	5-0	Marian University - IN	University of Saint Francis - IN
 2021-09-04	A	6-3	Minnesota State University, Mankato	Luther College
 2021-09-04	H	9-0	North Central College	Carroll University - Wisconsin
@@ -80,7 +76,6 @@ date	where	score	winner	loser
 2021-09-04	H	8-1	Ripon College	Marian University - WI
 2021-09-04	A	7-2	Rutgers University - Camden	Fairleigh Dickinson University: Florham
 2021-09-04	A	7-0	Seton Hill University	St. Vincent College
-2021-09-04	A	9-0	Seton Hill University	St. Vincent College
 2021-09-04	A	7-0	Spring Arbor University	Goshen College
 2021-09-04	N	7-0	Spring Arbor University	Mount Vernon Nazarene University
 2021-09-04	A	9-0	State Univ. of New York at New Paltz	SUNY at Oswego
@@ -101,7 +96,6 @@ date	where	score	winner	loser
 2021-09-05	H	9-0	University of Wisconsin-Stevens Point	Marian University - WI
 2021-09-05	H	8-1	University of Wisconsin-Stevens Point	Wisconsin Lutheran College
 2021-09-05	H	9-0	Wartburg College	St. Ambrose University
-2021-09-05	H	8-0	Wartburg College	St. Ambrose University
 2021-09-05	A	9-0	Wisconsin Lutheran College	Marian University - WI
 2021-09-06	A	5-2	Colby-Sawyer College	St. Michael's College
 2021-09-06	H	7-0	Cornerstone University	Bethel College - IN
@@ -119,7 +113,6 @@ date	where	score	winner	loser
 2021-09-08	A	6-3	CUNY: Hunter College	Manhattanville College
 2021-09-08	H	5-2	Edinboro University of Pennsylvania	Allegheny College
 2021-09-08	A	6-1	McKendree University	Lewis & Clark Community College
-2021-09-08	A	4-1	McKendree University	Lewis & Clark Community College
 2021-09-08	A	9-0	North Central College	Illinois Wesleyan University
 2021-09-08	H	6-1	St. Michael's College	State Univ. of New York College at Plattsburgh
 2021-09-08	H	5-4	The College of New Jersey	State Univ. of New York at New Paltz
@@ -290,7 +283,6 @@ date	where	score	winner	loser
 2021-09-17	A	7-2	Mount St. Mary College - NY	Bard College
 2021-09-17	H	7-2	North Central College	Millikin University
 2021-09-17	A	7-2	Shawnee State University	Marietta College
-2021-09-17	A	5-2	Shawnee State University	Marietta College
 2021-09-17	H	9-0	St. Ambrose University	University of Dubuque
 2021-09-17	N	4-3	St. Bonaventure University	Niagara University
 2021-09-17	A	6-3	State Univ. of New York College at Cortland	Alfred University
@@ -337,7 +329,6 @@ date	where	score	winner	loser
 2021-09-18	H	6-3	Marietta College	Concordia University Ann Arbor
 2021-09-18	N	6-1	Metropolitan State University of Denver	Fort Hays State University
 2021-09-18	A	8-1	Millikin University	North Park University
-2021-09-18	N	5-2	Minnesota State University Moorhead	Wartburg College
 2021-09-18	N	6-3	Minnesota State University Moorhead	Wartburg College
 2021-09-18	A	7-2	Mount St. Mary College - NY	CUNY: Lehman College
 2021-09-18	A	8-1	Nazareth College of Rochester	Hartwick College
@@ -441,7 +432,7 @@ date	where	score	winner	loser
 2021-09-25	H	8-0	Albright College	Juniata College
 2021-09-25	H	9-0	Allegheny College	Mount Union College
 2021-09-25	H	8-1	Cairn University	Gwynedd-Mercy College
-2021-09-25	N	7-2	Carleton College (MN)	Southwest Minnesota State University
+2021-09-25	H	7-2	Carleton College (MN)	Southwest Minnesota State University
 2021-09-25	A	9-0	Cedarville University	Muskingum University
 2021-09-25	H	5-2	Clarion University of Pennsylvania	Thiel College
 2021-09-25	H	9-0	Colby-Sawyer College	University of Saint Joseph (CT)
@@ -488,7 +479,6 @@ date	where	score	winner	loser
 2021-09-26	A	4-3	Franklin Pierce College	University of New Haven
 2021-09-26	A	7-2	Husson University	Northern Vermont University - Johnson
 2021-09-26	A	5-4	Johnson C. Smith University	Brevard College
-2021-09-26	A	5-2	Johnson C. Smith University	Brevard College
 2021-09-26	H	7-2	Lake Forest College	Ripon College
 2021-09-26	A	7-0	Le Moyne College	St. Anselm College
 2021-09-26	H	5-4	Penn State Altoona	Mount Aloysius College
@@ -507,13 +497,13 @@ date	where	score	winner	loser
 2021-09-27	H	7-2	Fairleigh Dickinson University: Florham	CUNY: Brooklyn College
 2021-09-27	A	9-0	Gordon College	Eastern Nazarene College
 2021-09-27	A	5-2	Grove City College	Clarion University of Pennsylvania
-2021-09-27	A	4-3	Grove City College	Clarion University of Pennsylvania
 2021-09-27	A	6-1	Hope College	Spring Arbor University
 2021-09-27	H	5-2	Le Moyne College	Southern New Hampshire University
 2021-09-27	H	7-0	Morningside College	Buena Vista University
 2021-09-27	H	6-3	Mount St. Mary College - NY	Sage Colleges of New York
 2021-09-28	A	9-0	Alvernia College	Lancaster Bible College
 2021-09-28	A	6-3	Bethel College - IN	Trine University
+2021-09-28	H	7-0	Fort Hays State University	Bethany College - CA
 2021-09-28	A	8-1	Grove City College	Lycoming College
 2021-09-28	A	6-2	Iowa Central Community College	Central College
 2021-09-28	A	5-4	Loras College	Wartburg College
@@ -585,7 +575,6 @@ date	where	score	winner	loser
 2021-10-02	A	9-0	Central College	University of Dubuque
 2021-10-02	A	7-0	Chestnut Hill College	Post University
 2021-10-02	H	5-2	Concordia University - Nebraska	Wartburg College
-2021-10-02	H	4-2	Concordia University - Nebraska	Wartburg College
 2021-10-02	A	7-2	Concordia University Chicago	Alverno College
 2021-10-02	H	9-0	Concordia University Wisconsin	Milwaukee School of Engineering
 2021-10-02	A	4-3	Cornerstone University	Saginaw Valley State University
@@ -695,7 +684,6 @@ date	where	score	winner	loser
 2021-10-07	A	4-3	Monmouth University	Lafayette College
 2021-10-07	H	5-4	Mount St. Mary College - NY	Manhattanville College
 2021-10-07	H	6-1	Northwestern College - IA	Iowa Central Community College
-2021-10-07	H	4-1	Northwestern College - IA	Iowa Central Community College
 2021-10-07	A	6-3	St. Joseph's College - Long Island	Yeshiva University
 2021-10-07	A	6-3	University of Wisconsin-Oshkosh	Ripon College
 2021-10-08	A	9-0	Augustana College - IL	Elmhurst College
@@ -959,7 +947,6 @@ date	where	score	winner	loser
 2021-10-26	H	5-0	CUNY: Baruch College	CUNY: Brooklyn College
 2021-10-26	N	5-0	CUNY: Hunter College	CUNY: John Jay College
 2021-10-26	H	7-0	Daemen College	D'Youville College
-2021-10-26	H	5-0	Daemen College	D'Youville College
 2021-10-27	A	6-1	Anderson University - SC	North Greenville College
 2021-10-28	N	5-2	CUNY: Baruch College	CUNY: Hunter College
 2021-10-29	N	4-1	City University of New York: Queens College	St. Thomas Aquinas College
@@ -1368,7 +1355,6 @@ date	where	score	winner	loser
 2022-01-29	H	7-0	University of Minnesota	University of St. Thomas - MN
 2022-01-29	N	4-1	University of Mississippi	University of Michigan
 2022-01-29	A	7-0	University of Montana	Lewis-Clark State College (ID)
-2022-01-29	A	5-2	University of Montana	Lewis-Clark State College (ID)
 2022-01-29	A	5-0	University of Montana	Lewis-Clark State College (ID)
 2022-01-29	H	6-1	University of Nebraska Omaha	University of Northern Iowa
 2022-01-29	A	4-1	University of Nevada (Reno)	Santa Clara University
@@ -1474,12 +1460,10 @@ date	where	score	winner	loser
 2022-02-01	A	6-1	Newberry College	Erskine College
 2022-02-01	A	6-3	Pacific Lutheran University	Paradise Valley Community College
 2022-02-01	H	7-0	Radford University	Bluefield State College
-2022-02-01	H	7-0	Texas A&M University-Corpus Christi	Texas A&M University-Kingsville
 2022-02-01	H	4-0	Texas Christian University	University of Houston
 2022-02-01	H	5-2	University of South Alabama	University of West Alabama
 2022-02-01	A	9-0	West Valley College	Diablo Valley College
 2022-02-02	H	4-3	Arizona Christian	Pacific Lutheran University
-2022-02-02	H	5-4	Arizona Christian	Pacific Lutheran University
 2022-02-02	H	7-0	Augusta University	Benedict College
 2022-02-02	H	5-2	California State University: Fresno	St. Mary's College - CA
 2022-02-02	A	6-1	California State University: Fullerton	Point Loma Nazarene University
@@ -1665,7 +1649,6 @@ date	where	score	winner	loser
 2022-02-05	A	5-2	University of Minnesota: Duluth	University of Minnesota: Crookston
 2022-02-05	A	5-2	University of North Carolina	University of Michigan
 2022-02-05	H	6-1	University of North Carolina at Asheville	Emmanuel College - GA
-2022-02-05	H	7-0	University of North Carolina at Asheville	Emmanuel College - GA
 2022-02-05	H	5-2	University of North Carolina at Charlotte	Boston College
 2022-02-05	H	4-3	University of North Carolina at Wilmington	Presbyterian College
 2022-02-05	N	7-0	University of North Dakota	Gustavus Adolphus College
@@ -1688,7 +1671,6 @@ date	where	score	winner	loser
 2022-02-05	A	6-1	Western Carolina University	Gardner-Webb University
 2022-02-05	N	7-0	Whitworth University	College of Idaho
 2022-02-05	N	5-2	Wichita State University	Creighton University
-2022-02-05	H	7-0	William Jewell College	Baker University
 2022-02-05	H	6-1	Wingate University	Lees-McRae College
 2022-02-05	H	6-1	Young Harris College	Reinhardt College
 2022-02-05	N	4-3	Youngstown State University	Weber State University
@@ -2215,7 +2197,6 @@ date	where	score	winner	loser
 2022-02-13	A	7-0	University of Nebraska - Kearney	Drury University
 2022-02-13	N	4-1	University of North Carolina	North Carolina State University
 2022-02-13	H	7-0	University of North Dakota	Minnesota State University Moorhead
-2022-02-13	H	5-2	University of North Florida	Flagler College
 2022-02-13	H	6-1	University of North Texas	Middle Tennessee State University
 2022-02-13	N	4-2	University of Oklahoma	Pepperdine University
 2022-02-13	H	6-1	University of Oregon	University of Portland
@@ -2296,7 +2277,6 @@ date	where	score	winner	loser
 2022-02-17	N	5-2	Southern University & Agricultural & Mechanical	Bethune-Cookman College
 2022-02-17	H	7-0	St. Thomas University (FL)	Ottawa University Arizona
 2022-02-17	N	9-0	United States Air Force Academy	Rollins College
-2022-02-17	N	7-0	United States Air Force Academy	Rollins College
 2022-02-17	A	6-1	University of Hawaii	University of California: San Diego
 2022-02-17	A	7-0	University of Tampa	Eckerd College
 2022-02-17	H	6-3	University of the South: Sewanee	Carson-Newman College
@@ -3011,7 +2991,6 @@ date	where	score	winner	loser
 2022-02-26	A	7-0	Western Illinois University	St. Ambrose University
 2022-02-26	A	7-0	Westmont College	William Jessup University
 2022-02-26	H	5-4	Wilkes University	Lebanon Valley College of Pennsylvania
-2022-02-26	H	6-1	William Jewell College	Missouri Valley College
 2022-02-26	A	4-3	Winona State University	Gustavus Adolphus College
 2022-02-26	A	6-1	Winona State University	Minnesota State University, Mankato
 2022-02-26	A	4-3	Wisconsin Lutheran College	University of Saint Francis - IL
