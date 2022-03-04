@@ -639,7 +639,6 @@ date	where	score	winner	loser
 2022-01-29	H	4-1	Univ. of Nevada: Las Vegas	University of California: Riverside
 2022-01-29	N	4-1	University of Arizona	Texas Tech University
 2022-01-29	H	7-0	University of California: Davis	American River College
-2022-01-29	N	4-0	University of California: Riverside	Weber State University
 2022-01-29	H	7-2	University of Chicago	North Central College
 2022-01-29	H	4-0	University of Florida	Princeton University
 2022-01-29	N	4-1	University of Hawaii	Weber State University
@@ -667,6 +666,7 @@ date	where	score	winner	loser
 2022-01-29	N	5-2	Vanderbilt University	University of Wisconsin
 2022-01-29	H	4-1	Wake Forest University	University of Notre Dame
 2022-01-29	A	4-3	Washburn University of Topeka	University of Nebraska Omaha
+2022-01-29	N	0-4	Weber State University	University of California: Riverside
 2022-01-29	H	6-1	Xavier University (Ohio)	Cleveland State University
 2022-01-30	H	6-1	Auburn University	University of Wisconsin
 2022-01-30	H	4-0	Baylor University	College of William & Mary
@@ -1092,7 +1092,7 @@ date	where	score	winner	loser
 2022-02-09	H	7-0	University of the Incarnate Word	Our Lady of the Lake University of San Antonio
 2022-02-10	H	7-0	Arizona Christian	Western New Mexico University
 2022-02-10	A	9-0	East Central Community College	Holmes Community College
-2022-02-10	N	5-2	Fairleigh Dickinson University	Hofstra University
+2022-02-10	A	5-2	Fairleigh Dickinson University	Hofstra University
 2022-02-10	H	5-2	Georgia Southern University	College of Charleston
 2022-02-10	A	5-2	Indiana Wesleyan University	Grand Valley State University
 2022-02-10	H	6-1	Palm Beach Atlantic University	Southeastern University
