@@ -2428,7 +2428,7 @@ date	where	score	winner	loser
 2022-03-03	A	9-0	Mesa Community College	Glendale Community College - AZ
 2022-03-03	N	8-1	Mississippi Gulf Coast Community College	Jacksonville College
 2022-03-03	A	7-0	North Carolina A&T	King University
-2022-03-03	A	4-0	Pepperdine University	University of Nebraska
+2022-03-03	N	4-0	Pepperdine University	University of Nebraska
 2022-03-03	H	6-1	Radford University	University of North Carolina at Greensboro
 2022-03-03	H	7-2	Rhodes College	Hendrix College
 2022-03-03	A	8-1	Riverside Community College	Orange Coast College
@@ -2580,6 +2580,7 @@ date	where	score	winner	loser
 2022-03-05	H	5-2	Xavier University (Ohio)	Saint Francis University - PA
 2022-03-05	H	7-0	Yale University	Bryant University
 2022-03-06	H	4-1	Alabama State University	University of Southern Mississippi
+2022-03-06	H	5-2	Bellarmine University	Tennessee State University
 2022-03-06	A	5-2	Elon University	Wofford College
 2022-03-06	N	4-0	Keiser University	United States Military Academy
 2022-03-06	A	4-3	Liberty University	Georgia State University
@@ -2587,7 +2588,13 @@ date	where	score	winner	loser
 2022-03-06	H	7-0	Northern Arizona University	Eastern Washington University
 2022-03-06	H	7-0	Presbyterian College	Mercer University
 2022-03-06	H	4-1	Rice University	Texas A&M University-Corpus Christi
+2022-03-06	H	7-0	University of Dayton	Saint Francis University - PA
 2022-03-06	H	4-3	University of Louisville	Georgia Institute of Technology
+2022-03-06	H	4-1	University of Miami (FL)	North Carolina State University
+2022-03-06	H	5-2	University of North Carolina at Greensboro	Samford University
+2022-03-06	H	4-3	University of South Carolina	Louisiana State University
 2022-03-06	H	6-1	University of Tulsa	University of North Dakota
 2022-03-06	A	4-0	University of Utah	San Diego State University
 2022-03-06	A	4-2	University of Virginia	University of North Carolina
+2022-03-06	A	7-0	Wake Forest University	Florida State University
+2022-03-06	A	4-1	Wichita State University	University of Texas at Arlington

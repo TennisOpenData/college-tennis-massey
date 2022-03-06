@@ -1084,7 +1084,7 @@ date	where	score	winner	loser
 2022-01-22	H	7-0	Ball State University	Eastern Illinois University
 2022-01-22	H	6-0	Boston College	New Jersey Institute of Technology
 2022-01-22	H	4-3	Bucknell University	Villanova University
-2022-01-22	H	4-3	California Polytechnic State University	Gonzaga University
+2022-01-22	N	4-3	California Polytechnic State University	Gonzaga University
 2022-01-22	H	6-1	Clemson University	Western Carolina University
 2022-01-22	H	5-1	Clemson University	Western Carolina University
 2022-01-22	A	4-3	Cleveland State University	University of Dayton
@@ -1375,7 +1375,7 @@ date	where	score	winner	loser
 2022-01-29	H	5-2	University of Toledo	Youngstown State University
 2022-01-29	H	4-3	University of Virginia	Stanford University
 2022-01-29	A	4-3	University of Washington	University of California: Los Angeles
-2022-01-29	N	7-0	University of Wisconsin	Bradley University
+2022-01-29	A	7-0	University of Wisconsin	Bradley University
 2022-01-29	A	7-0	University of Wisconsin	Northern Illinois University
 2022-01-29	A	6-1	University of Wisconsin-Milwaukee	Cardinal Stritch University
 2022-01-29	H	4-3	Valparaiso University	Saint Louis University
@@ -1938,7 +1938,7 @@ date	where	score	winner	loser
 2022-02-11	A	4-3	University of North Georgia	Valdosta State University
 2022-02-11	H	4-0	University of North Texas	University of Texas at San Antonio
 2022-02-11	H	6-1	University of Notre Dame	Purdue University
-2022-02-11	N	4-0	University of Oklahoma	University of Wisconsin
+2022-02-11	A	4-0	University of Oklahoma	University of Wisconsin
 2022-02-11	H	7-0	University of Oregon	Eastern Washington University
 2022-02-11	N	4-2	University of Pennsylvania	Brown University
 2022-02-11	H	7-2	University of Puget Sound	Pacific Lutheran University
@@ -2115,7 +2115,7 @@ date	where	score	winner	loser
 2022-02-12	N	6-1	University of Portland	Eastern Washington University
 2022-02-12	A	7-2	University of Saint Francis - IL	Concordia University Wisconsin
 2022-02-12	H	7-0	University of San Diego	California State University: Long Beach
-2022-02-12	N	4-3	University of Southern California	University of Wisconsin
+2022-02-12	A	4-3	University of Southern California	University of Wisconsin
 2022-02-12	H	8-0	University of Texas at Dallas	Austin College
 2022-02-12	A	4-3	University of Texas Rio Grande Valley	Prairie View A&M University
 2022-02-12	H	4-0	University of Texas, Permian Basin	University of the Southwest
@@ -3457,17 +3457,27 @@ date	where	score	winner	loser
 2022-03-06	A	4-2	Colorado State University	Grand Canyon University
 2022-03-06	H	7-0	Duke University	Virginia Polytechnic Institute & State University
 2022-03-06	A	6-1	Georgia Institute of Technology	Boston College
+2022-03-06	H	4-0	Georgia State University	Alabama State University
 2022-03-06	A	6-1	Iowa State University	College of William & Mary
 2022-03-06	H	6-1	Kennesaw State University	Florida Agricultural & Mechanical University
 2022-03-06	A	4-0	Louisiana State University at Alexandria	Southeastern Louisiana University
 2022-03-06	A	4-2	Michigan State University	Marshall University
 2022-03-06	H	7-0	New Jersey Institute of Technology	Quinnipiac University
+2022-03-06	H	4-3	North Carolina State University	University of Miami (FL)
 2022-03-06	A	7-0	Northern Illinois University	Chicago State University
+2022-03-06	H	7-0	Old Dominion University	Harvard University
 2022-03-06	A	5-2	Temple University	Keiser University
+2022-03-06	H	5-2	Texas A&M University	University of Florida
+2022-03-06	H	4-3	Univ. of Nevada: Las Vegas	University of Portland
 2022-03-06	H	4-0	University of Arizona	Washington State University
+2022-03-06	A	4-0	University of California: Los Angeles	University of Utah
 2022-03-06	A	5-2	University of California: Santa Barbara	Texas Christian University
+2022-03-06	H	5-2	University of Dayton	Saint Francis University - PA
 2022-03-06	A	4-3	University of Delaware	West Virginia University
 2022-03-06	H	6-1	University of Georgia	Mississippi State University
+2022-03-06	H	4-3	University of Northern Iowa	University of Wisconsin-Milwaukee
+2022-03-06	A	5-2	University of Notre Dame	University of Louisville
+2022-03-06	H	4-0	University of Oklahoma	University of Illinois
 2022-03-06	A	4-0	University of Pennsylvania	Penn State University
 2022-03-06	A	6-1	University of South Carolina	Louisiana State University
 2022-03-06	A	5-1	University of Southern California	University of Colorado
