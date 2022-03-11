@@ -1404,7 +1404,7 @@ date	where	score	winner	loser
 2022-01-30	H	7-0	Mercer University	Abraham Baldwin College
 2022-01-30	H	7-0	Mercer University	Emmanuel College - GA
 2022-01-30	H	5-2	Michigan State University	DePaul University
-2022-01-30	A	4-3	Middle Tennessee State University	Austin Peay State University
+2022-01-30	N	4-3	Middle Tennessee State University	Austin Peay State University
 2022-01-30	H	4-3	Montana State University	Oral Roberts University
 2022-01-30	A	7-0	Murray State University	Bellarmine University
 2022-01-30	H	4-0	North Carolina State University	Wake Forest University
@@ -2640,7 +2640,7 @@ date	where	score	winner	loser
 2022-02-20	H	7-0	Idaho State University	College of Idaho
 2022-02-20	A	5-2	Illinois State University	Creighton University
 2022-02-20	N	7-0	Indiana University Kokomo	Carlow University
-2022-02-20	A	7-0	Iowa State University	Drake University
+2022-02-20	H	7-0	Iowa State University	Drake University
 2022-02-20	H	4-3	Jackson State University	Alabama State University
 2022-02-20	H	7-0	James Madison University	Coppin State College
 2022-02-20	H	5-2	James Madison University	Morgan State University
@@ -3499,7 +3499,7 @@ date	where	score	winner	loser
 2022-03-05	H	4-3	McKendree University	Oakland City University
 2022-03-05	H	5-2	McPherson College	Texas A&M University-Texarkana
 2022-03-05	A	7-0	Metropolitan State University of Denver	Emporia State University
-2022-03-05	A	4-2	Miami University - OH	Lipscomb University
+2022-03-05	N	4-2	Miami University - OH	Lipscomb University
 2022-03-05	N	7-0	Midland University	Midway University
 2022-03-05	H	5-2	Midwestern State University	Northeastern State University
 2022-03-05	H	4-3	Midwestern State University	Washburn University of Topeka
@@ -3883,10 +3883,16 @@ date	where	score	winner	loser
 2022-03-10	N	6-1	West Liberty University	Milligan College
 2022-03-10	H	7-0	Western New Mexico University	Sul Ross State University
 2022-03-11	H	5-0	College of Charleston	University of Richmond
+2022-03-11	H	4-3	Florida Agricultural & Mechanical University	Alabama Agricultural & Mechanical University
 2022-03-11	H	5-2	Florida Atlantic University	Virginia Commonwealth University
 2022-03-11	H	4-0	Florida International University	Valparaiso University
+2022-03-11	N	4-0	Jackson State University	Bethune-Cookman College
 2022-03-11	A	7-2	Meridian Community College	Copiah-Lincoln Community College
+2022-03-11	H	4-0	Norfolk State University	Hampton University
 2022-03-11	H	7-0	Oakland City University	Midway University
+2022-03-11	A	4-0	Penn State University	East Carolina University
 2022-03-11	N	9-0	Pfeiffer University	Albion College
+2022-03-11	N	6-1	Radford University	Providence College
 2022-03-11	H	5-0	University of Charleston (WV)	University of Richmond
+2022-03-11	A	4-3	University of Missouri: Columbia	University of Kentucky
 2022-03-26	N	5-0	Albany State University	Clark Atlanta University
