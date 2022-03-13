@@ -2309,7 +2309,7 @@ date	where	score	winner	loser
 2022-02-27	A	4-1	Chicago State University	Saint Louis University
 2022-02-27	N	5-1	Claremont-Mudd-Scripps Colleges	Brandeis University
 2022-02-27	H	8-1	Coe College	Augustana College - IL
-2022-02-27	A	8-1	Colgate University	University of Rochester
+2022-02-27	A	6-1	Colgate University	University of Rochester
 2022-02-27	H	4-1	College of William & Mary	Brown University
 2022-02-27	H	6-3	College of Wooster	Ohio Northern University
 2022-02-27	N	5-2	Davenport University	Eckerd College
@@ -3060,6 +3060,7 @@ date	where	score	winner	loser
 2022-03-11	H	6-1	St. John's University (NY)	Drexel University
 2022-03-11	A	4-3	St. Mary's College - CA	University of California: Davis
 2022-03-11	N	4-3	St. Mary's College - CA	University of San Francisco
+2022-03-11	H	4-3	St. Thomas Aquinas College	Edinboro University of Pennsylvania
 2022-03-11	N	7-0	St. Thomas University (FL)	St. John's University - MN
 2022-03-11	N	7-0	St. Thomas University (FL)	St. John's University (NY)
 2022-03-11	H	4-0	Stanford University	University of Utah
@@ -3103,6 +3104,7 @@ date	where	score	winner	loser
 2022-03-12	H	4-1	Arizona State University	Texas Tech University
 2022-03-12	H	7-0	Brown University	College of the Holy Cross
 2022-03-12	H	4-3	California Polytechnic State University	Utah State University
+2022-03-12	H	7-0	Clemson University	The Citadel
 2022-03-12	H	7-0	Clemson University	University of North Carolina at Wilmington
 2022-03-12	H	6-1	Colgate University	Marist College
 2022-03-12	H	6-1	College of Charleston	New Jersey City University
@@ -3111,6 +3113,9 @@ date	where	score	winner	loser
 2022-03-12	H	6-1	Cornell University	University of Nebraska
 2022-03-12	H	6-1	Davidson College	The Citadel
 2022-03-12	A	5-0	Lindsey Wilson College	Shawnee State University
+2022-03-12	H	6-3	Massachusetts Institute of Technology	Colby College
+2022-03-12	A	4-3	North Carolina A&T	Davidson College
+2022-03-12	H	4-1	Northern Kentucky University	Saint Louis University
 2022-03-12	H	4-0	Northwestern University	University of Illinois at Chicago
 2022-03-12	A	4-3	Ohio State University	University of Texas
 2022-03-12	N	4-1	Penn State University	University of Idaho
@@ -3121,7 +3126,9 @@ date	where	score	winner	loser
 2022-03-12	H	5-2	Thomas Jefferson University	Adelphi University
 2022-03-12	N	4-0	Tulane University	Michigan State University
 2022-03-12	H	4-3	Univ. of Nevada: Las Vegas	DePaul University
+2022-03-12	H	4-3	Univ. of Nevada: Las Vegas	Seattle University
 2022-03-12	N	4-1	University of Denver	Loyola Marymount University
+2022-03-12	N	4-1	University of Hawaii	St. Mary's College - CA
 2022-03-12	A	5-2	University of Memphis	Florida Gulf Coast University
 2022-03-12	N	4-1	University of Nevada (Reno)	New Mexico State University
 2022-03-12	N	7-0	University of New Mexico	Boston University
