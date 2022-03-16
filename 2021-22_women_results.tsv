@@ -854,6 +854,7 @@ date	where	score	winner	loser
 2021-10-15	N	5-1	Grinnell College	Lake Forest College
 2021-10-15	H	4-0	Johnson University	Mississippi University for Women
 2021-10-15	N	5-0	Lake Forest College	Lawrence University
+2021-10-15	H	5-4	Maryville College	Mississippi University for Women
 2021-10-15	H	5-2	Monmouth University	Wagner College
 2021-10-15	A	5-4	Nazareth College of Rochester	Houghton College
 2021-10-15	H	8-1	Sarah Lawrence College	Mount St. Mary College - NY
@@ -4101,6 +4102,7 @@ date	where	score	winner	loser
 2022-03-10	H	4-3	California State University: Northridge	Youngstown State University
 2022-03-10	H	5-2	Cameron University	University of Nebraska - Kearney
 2022-03-10	N	7-2	Carnegie Mellon University	Kenyon College
+2022-03-10	H	5-2	Carson-Newman College	Tennessee Wesleyan College
 2022-03-10	H	8-1	Chapman University	Holy Names University
 2022-03-10	A	9-0	Coastal Alabama Community College	Bevill State Community College
 2022-03-10	N	7-0	Cornerstone University	Cedarville University
@@ -4294,6 +4296,7 @@ date	where	score	winner	loser
 2022-03-12	A	4-3	Louisiana Tech University	Nicholls State University
 2022-03-12	H	4-0	Lynn University	Wayne State University (MI)
 2022-03-12	A	4-3	Marshall University	Miami University - OH
+2022-03-12	H	6-3	Middlebury College	Tufts University
 2022-03-12	A	4-0	Midwestern State University	Southern Arkansas University
 2022-03-12	N	4-2	Midwestern State University	University of Montevallo
 2022-03-12	A	5-2	Murray State University	Western Kentucky University
@@ -4404,6 +4407,7 @@ date	where	score	winner	loser
 2022-03-13	H	4-1	Loyola Marymount University	University of Pennsylvania
 2022-03-13	H	6-1	Mars Hill University	Meredith College
 2022-03-13	H	5-2	Michigan State University	Indiana University
+2022-03-13	H	8-1	Middlebury College	Bates College
 2022-03-13	A	7-0	Mississippi College	Spring Hill College
 2022-03-13	A	7-0	Missouri Western State University	Henderson State University
 2022-03-13	A	9-0	Mount Union College	Ursuline College
@@ -4523,6 +4527,7 @@ date	where	score	winner	loser
 2022-03-15	H	5-4	Chabot College	Canada College
 2022-03-15	N	9-0	Colby-Sawyer College	Curry College
 2022-03-15	H	5-2	College of Charleston	Elon University
+2022-03-15	H	6-3	College of Notre Dame of Maryland	Trinity College - Washington, DC
 2022-03-15	N	6-2	College of St. Scholastica	Roger Williams University
 2022-03-15	N	7-2	College of St. Scholastica	University of Saint Francis - IN
 2022-03-15	H	8-1	College of the Canyons	Antelope Valley College
@@ -4530,10 +4535,12 @@ date	where	score	winner	loser
 2022-03-15	H	7-0	Columbus State University	Clark Atlanta University
 2022-03-15	N	4-0	East Tennessee State University	Harvard University
 2022-03-15	N	7-0	East Tennessee State University	University of Northern Iowa
+2022-03-15	A	9-0	Endicott College	Drew University
 2022-03-15	A	5-2	Erskine College	Young Harris College
-2022-03-15	N	6-6	Fairleigh Dickinson University	Skidmore College
+2022-03-15	N	6-1	Fairleigh Dickinson University	Skidmore College
 2022-03-15	H	6-1	Florida Gulf Coast University	Cleveland State University
 2022-03-15	N	9-0	Franklin & Marshall College	St. Lawrence University
+2022-03-15	A	5-2	Frostburg State University	Harford Community College
 2022-03-15	N	4-3	George Mason University	Lehigh University
 2022-03-15	H	7-0	Goldey-Beacom College	Millersville University of Pennsylvania
 2022-03-15	N	4-2	Harvard University	United States Naval Academy
@@ -4569,7 +4576,9 @@ date	where	score	winner	loser
 2022-03-15	N	8-1	Springfield College	Hamline University
 2022-03-15	N	9-0	St. Mary's College - MD	Agnes Scott College
 2022-03-15	N	5-2	St. Mary's University - TX	Indiana University of Pennsylvania
+2022-03-15	N	4-2	St. Thomas Aquinas College	Rockhurst University
 2022-03-15	H	7-0	Stephen F. Austin State University	Binghamton University
+2022-03-15	N	7-0	Tennessee Wesleyan College	Milligan College
 2022-03-15	A	5-2	Texas A&M University-Kingsville	Concordia University - Irvine
 2022-03-15	N	5-4	Transylvania University	Bethel University (MN)
 2022-03-15	H	4-2	Union College - NY	Campbellsville University
@@ -4591,6 +4600,10 @@ date	where	score	winner	loser
 2022-03-15	N	6-2	Washington College	Webster University
 2022-03-15	N	7-2	Webster University	Western New England University
 2022-03-15	H	6-1	Wofford College	Fairfield University
+2022-03-16	N	9-0	Bethel University (MN)	Carthage College
+2022-03-16	H	7-0	Nova Southeastern University	Hillsdale College
 2022-03-16	N	8-1	St. Lawrence University	State Univ. of New York at New Paltz
-2022-03-16	N	6-1	United States Naval Academy	Bradley University
+2022-03-16	N	5-2	United States Naval Academy	Bradley University
+2022-03-16	N	7-0	United States Naval Academy	Merrimack College
+2022-03-16	H	7-0	University of Florida	University of Alabama at Birmingham
 2022-03-26	N	5-0	Albany State University	Clark Atlanta University
