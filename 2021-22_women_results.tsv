@@ -3786,7 +3786,6 @@ date	where	score	winner	loser
 2022-03-06	H	4-3	DePaul University	Middle Tennessee State University
 2022-03-06	A	6-1	Dominican University (IL)	Holy Names University
 2022-03-06	A	6-1	Dominican University of California	Holy Names University
-2022-03-06	N	9-0	Drew University	Sweet Briar College
 2022-03-06	H	5-2	Drury University	Arkansas Tech University
 2022-03-06	H	7-0	Duke University	Virginia Polytechnic Institute & State University
 2022-03-06	A	6-1	Eastern Illinois University	Indiana University-Purdue University Indianapolis
@@ -3848,6 +3847,7 @@ date	where	score	winner	loser
 2022-03-06	H	5-2	St. Bonaventure University	Siena College
 2022-03-06	A	7-0	St. John's University (NY)	Lehigh University
 2022-03-06	H	6-1	St. Mary's University - TX	University of Texas Rio Grande Valley
+2022-03-06	N	9-0	Sweet Briar College	Drew University
 2022-03-06	H	4-0	Syracuse University	Clemson University
 2022-03-06	A	5-2	Temple University	Keiser University
 2022-03-06	H	5-2	Texas A&M University	University of Florida
@@ -3902,6 +3902,7 @@ date	where	score	winner	loser
 2022-03-07	N	4-3	Augustana University	Oakland University
 2022-03-07	A	4-3	Ball State University	Azusa Pacific University
 2022-03-07	N	6-1	Barry University	Valdosta State University
+2022-03-07	N	8-1	Berry College	Sweet Briar College
 2022-03-07	N	8-0	Cairn University	Albion College
 2022-03-07	N	4-0	California State University: Long Beach	United States Military Academy
 2022-03-07	A	7-0	Charleston Southern University	Hampton University
@@ -3934,7 +3935,6 @@ date	where	score	winner	loser
 2022-03-07	N	6-1	Seton Hill University	Shippensburg University of Pennsylvania
 2022-03-07	H	7-0	Southeastern University	Cornerstone University
 2022-03-07	N	8-0	St. John Fisher College	Buena Vista University
-2022-03-07	N	8-1	Sweet Briar College	Berry College
 2022-03-07	N	9-0	Sweet Briar College	Messiah College
 2022-03-07	H	6-1	Tennessee Wesleyan College	Cardinal Stritch University
 2022-03-07	N	5-4	Trine University	Northwestern College - MN
@@ -4601,6 +4601,7 @@ date	where	score	winner	loser
 2022-03-15	N	7-2	Webster University	Western New England University
 2022-03-15	H	6-1	Wofford College	Fairfield University
 2022-03-16	H	4-3	Arkansas Tech University	Northeastern State University
+2022-03-16	A	6-1	Auburn University at Montgomery	Christian Brothers University
 2022-03-16	N	9-0	Bethel University (MN)	Carthage College
 2022-03-16	N	7-2	Bowdoin College	Washington University in St. Louis
 2022-03-16	N	6-0	Dickinson College	Colby-Sawyer College
@@ -4608,20 +4609,25 @@ date	where	score	winner	loser
 2022-03-16	N	6-2	Hamline University	University of Saint Francis - IN
 2022-03-16	N	4-1	Hawaii Pacific University	University of Indianapolis
 2022-03-16	A	9-0	Henderson State University	University of the Ozarks
+2022-03-16	A	4-0	Liberty University	Texas State University: San Marcos
 2022-03-16	H	6-1	Louisiana Tech University	University of New Orleans
 2022-03-16	H	7-0	Mercyhurst University	Fairmont State University
 2022-03-16	N	7-0	Minnesota State University Moorhead	Stevenson University
+2022-03-16	H	6-1	Nicholls State University	Loyola University New Orleans
 2022-03-16	H	7-0	Nova Southeastern University	Hillsdale College
 2022-03-16	N	5-2	Quinnipiac University	Franklin Pierce College
 2022-03-16	N	5-2	Saint Joseph's University	Franklin & Marshall College
 2022-03-16	N	7-0	Saint Leo University	University of Northern Iowa
 2022-03-16	H	6-1	Sam Houston State University	Binghamton University
 2022-03-16	N	8-1	St. Lawrence University	State Univ. of New York at New Paltz
+2022-03-16	H	5-2	St. Mary's College - CA	San Jose State University
 2022-03-16	H	6-1	Texas A&M University-Corpus Christi	New Jersey Institute of Technology
 2022-03-16	A	4-1	Texas Tech University	University of Nebraska
 2022-03-16	N	5-2	United States Naval Academy	Bradley University
 2022-03-16	N	7-0	United States Naval Academy	Merrimack College
 2022-03-16	H	7-0	University of Florida	University of Alabama at Birmingham
 2022-03-16	H	7-0	University of Georgia	Ohio State University
+2022-03-16	A	7-0	University of Texas at El Paso	Arizona Christian
 2022-03-16	N	7-0	University of West Alabama	Angelo State University
+2022-03-16	A	4-0	Western Kentucky University	Alabama State University
 2022-03-26	N	5-0	Albany State University	Clark Atlanta University
