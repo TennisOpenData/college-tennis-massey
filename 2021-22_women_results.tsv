@@ -2218,7 +2218,7 @@ date	where	score	winner	loser
 2022-02-13	H	5-4	College of Wooster	John Carroll University
 2022-02-13	N	5-2	Columbia University	University of Pennsylvania
 2022-02-13	A	7-2	Concordia University - Austin	Austin College
-2022-02-13	A	4-2	Concordia University - Irvine	University of Hawaii at Hilo
+2022-02-13	N	4-2	Concordia University - Irvine	University of Hawaii at Hilo
 2022-02-13	A	4-3	Dartmouth College	Cornell University
 2022-02-13	A	6-1	DePaul University	Northern Illinois University
 2022-02-13	H	6-1	East Carolina University	University of North Carolina at Greensboro
@@ -4552,6 +4552,7 @@ date	where	score	winner	loser
 2022-03-15	A	7-0	Angelo State University	Spring Hill College
 2022-03-15	H	4-3	Augusta University	University of Illinois: Springfield
 2022-03-15	H	7-0	Austin Peay State University	McKendree University
+2022-03-15	H	5-4	Bakersfield College	Santa Monica College
 2022-03-15	H	4-3	Biola University	University of Hawaii at Hilo
 2022-03-15	N	4-3	Bradley University	Merrimack College
 2022-03-15	H	5-4	Chabot College	Canada College
@@ -4700,19 +4701,23 @@ date	where	score	winner	loser
 2022-03-17	H	7-2	Claremont-Mudd-Scripps Colleges	University of the South: Sewanee
 2022-03-17	N	8-1	Colby-Sawyer College	Stevenson University
 2022-03-17	H	6-1	College of Charleston	Davidson College
+2022-03-17	H	5-4	College of the Canyons	Bakersfield College
 2022-03-17	A	6-1	College of William & Mary	University of North Carolina at Wilmington
 2022-03-17	N	9-0	College of Wooster	LeTourneau University
 2022-03-17	H	4-3	Concordia University - Irvine	University of Hawaii at Hilo
 2022-03-17	N	9-0	Denison University	Coe College
+2022-03-17	N	5-4	Denison University	Pacific University
 2022-03-17	N	6-1	Fairleigh Dickinson University	Saint Joseph's University
 2022-03-17	H	5-2	Florida International University	East Tennessee State University
 2022-03-17	N	6-1	George Mason University	Colgate University
 2022-03-17	H	4-0	Georgia Southern University	University of Rhode Island
+2022-03-17	H	5-4	Glendale Community College - CA	Antelope Valley College
 2022-03-17	H	4-0	Grand Canyon University	Drake University
 2022-03-17	N	5-2	Howard University	Norfolk State University
 2022-03-17	N	6-2	Ithaca College	Asbury University
 2022-03-17	H	5-2	Jacksonville State University	University of North Alabama
 2022-03-17	A	4-0	James Madison University	Coastal Carolina University
+2022-03-17	H	5-2	John Brown University	Bethany College - KS
 2022-03-17	N	7-2	Kalamazoo College	Coe College
 2022-03-17	N	7-2	Lancaster Bible College	Agnes Scott College
 2022-03-17	H	4-3	Lander University	University of Illinois: Springfield
@@ -4726,6 +4731,7 @@ date	where	score	winner	loser
 2022-03-17	N	8-1	Principia College	St. Mary's College - MD
 2022-03-17	N	7-0	Rhodes College	Minnesota State University Moorhead
 2022-03-17	H	7-0	Saint Leo University	Quincy University
+2022-03-17	A	5-4	Santa Monica College	Ventura College
 2022-03-17	N	4-3	South Carolina State University	Delaware State University
 2022-03-17	A	4-3	Southeast Missouri State University	Gardner-Webb University
 2022-03-17	H	7-0	Southwest Baptist University	William Woods University
