@@ -3101,7 +3101,6 @@ date	where	score	winner	loser
 2022-02-26	H	6-1	Illinois State University	Eastern Illinois University
 2022-02-26	H	4-2	Indiana University	Cornell University
 2022-02-26	N	4-0	Iowa State University	Washington State University
-2022-02-26	H	6-3	Ithaca College	Rochester Institute of Technology
 2022-02-26	H	6-1	Keiser University	Ave Maria University
 2022-02-26	A	4-3	Kennesaw State University	Georgia State University
 2022-02-26	H	5-2	Lander University	Erskine College
@@ -3140,6 +3139,7 @@ date	where	score	winner	loser
 2022-02-26	H	4-3	Queens University of Charlotte	University of North Georgia
 2022-02-26	H	7-0	Radford University	North Carolina A&T
 2022-02-26	A	5-0	Roanoke College	Mary Baldwin College
+2022-02-26	A	9-0	Rochester Institute of Technology	Ithaca College
 2022-02-26	H	7-0	Sacred Heart University	Wagner College
 2022-02-26	A	7-0	Santa Clara University	California State University: Sacramento
 2022-02-26	H	6-1	Savannah College of Art & Design	College of Coastal Georgia
@@ -5366,6 +5366,7 @@ date	where	score	winner	loser
 2022-03-22	A	4-2	Yale University	Florida International University
 2022-03-23	N	5-4	Allegheny College	Augustana College - IL
 2022-03-23	N	5-2	Ave Maria University	Middle Georgia State College
+2022-03-23	N	4-0	Benedict College	Savannah State University
 2022-03-23	H	8-1	California Lutheran University	University of California: Santa Cruz
 2022-03-23	A	5-2	Clark Atlanta University	Spring Hill College
 2022-03-23	H	7-0	Cleveland State University	Niagara University
@@ -5419,17 +5420,25 @@ date	where	score	winner	loser
 2022-03-23	A	7-2	Wagner College	New Jersey City University
 2022-03-23	H	8-1	Washington & Lee University	Centre College
 2022-03-23	A	4-3	Wilmington University (DE)	University of the District of Columbia
+2022-03-24	A	4-3	Albany State University	Spring Hill College
+2022-03-24	H	4-0	Auburn University at Montgomery	Southern Arkansas University
+2022-03-24	A	7-0	Austin Peay State University	University of the Cumberlands
 2022-03-24	A	4-3	Barry University	Nova Southeastern University
 2022-03-24	A	8-1	Berry College	Covenant College
+2022-03-24	H	7-0	Biola University	Metropolitan State University of Denver
 2022-03-24	H	6-1	California State University: Long Beach	Dartmouth College
 2022-03-24	H	8-1	Connecticut College	Wheaton College - MA
 2022-03-24	A	6-1	Dallas Baptist University	University of Texas, Permian Basin
 2022-03-24	A	6-1	East Tennessee State University	Mercer University
 2022-03-24	A	5-4	Eastern Arizona College	Mesa Community College
 2022-03-24	A	9-0	El Camino College	Cypress College
+2022-03-24	A	7-0	Fort Hays State University	Bethany College - CA
 2022-03-24	A	7-0	Fort Hays State University	Bethany College - KS
 2022-03-24	H	7-0	Friends University	Sterling College
 2022-03-24	H	7-0	Furman University	Wofford College
+2022-03-24	A	7-0	Idaho State University	Arizona Christian
+2022-03-24	H	5-4	Ithaca College	University of Rochester
+2022-03-24	H	8-1	Lancaster Bible College	Eastern University
 2022-03-24	A	6-1	Lewis University	University of Saint Francis - IL
 2022-03-24	H	7-0	Limestone University	Mars Hill University
 2022-03-24	H	6-1	Lincoln Memorial University	Catawba College
@@ -5439,30 +5448,102 @@ date	where	score	winner	loser
 2022-03-24	H	4-3	Northwest Missouri State University	Southwest Baptist University
 2022-03-24	A	5-2	Old Dominion University	United States Naval Academy
 2022-03-24	H	5-1	Paradise Valley Community College	Glendale Community College - AZ
+2022-03-24	H	4-0	Saint Louis University	Missouri State University
+2022-03-24	H	4-0	Santa Clara University	University of California: San Diego
+2022-03-24	N	6-0	Savannah State University	LeMoyne-Owen College
+2022-03-24	N	4-0	Savannah State University	Tuskegee University
 2022-03-24	N	5-2	Southern Methodist University	University of Denver
-2022-03-24	N	4-2	State University of West Georgia	University of Wisconsin-Eau Claire
+2022-03-24	H	5-2	Spring Hill College	Fort Valley State University
+2022-03-24	H	4-1	Spring Hill College	Fort Valley State University
+2022-03-24	H	6-1	Spring Hill College	LeMoyne-Owen College
+2022-03-24	H	4-2	State University of West Georgia	University of Wisconsin-Eau Claire
 2022-03-24	H	4-3	Tabor College	Ottawa University
 2022-03-24	H	4-1	University of Central Florida	Yale University
 2022-03-24	A	5-0	University of St. Thomas - MN	Bethune-Cookman College
+2022-03-24	H	4-0	University of the Pacific	Portland State University
 2022-03-24	N	5-4	Wellesley College	Gustavus Adolphus College
+2022-03-24	A	6-1	Young Harris College	Piedmont College
+2022-03-25	A	5-2	Arizona Christian	William Jessup University
+2022-03-25	H	6-1	Auburn University	University of Arkansas
 2022-03-25	A	4-3	Ball State University	SUNY Buffalo
+2022-03-25	A	4-0	Brigham Young University	Gonzaga University
 2022-03-25	H	4-3	Butler University	Western Kentucky University
+2022-03-25	A	7-0	California State University: Stanislaus	Grossmont College
+2022-03-25	H	4-3	Cameron University	University of Texas at Tyler
 2022-03-25	H	7-2	Claremont-Mudd-Scripps Colleges	Middlebury College
+2022-03-25	A	5-2	Clark Atlanta University	Spring Hill College
+2022-03-25	N	4-1	Colgate University	Merrimack College
+2022-03-25	A	6-3	College of Saint Benedict	College of St. Scholastica
+2022-03-25	H	5-2	Columbus State University	Augusta University
+2022-03-25	A	6-1	Converse College	Chowan College
+2022-03-25	H	6-1	Creighton University	Oral Roberts University
+2022-03-25	H	7-0	Cumberland University	Missouri Baptist University
+2022-03-25	H	6-1	Elon University	Norfolk State University
+2022-03-25	H	5-2	Flagler College	Eastern Florida State College
 2022-03-25	A	4-3	Florida Gulf Coast University	Stetson University
 2022-03-25	H	4-2	Florida State University	Duke University
 2022-03-25	H	6-1	Francis Marion University	Erskine College
 2022-03-25	A	9-0	Hillsborough Community College	State College of Florida, Manatee-Sarasota
 2022-03-25	A	7-0	Indiana University East	Ohio Christian University
+2022-03-25	H	5-2	Indiana University-Purdue University Indianapolis	Western Illinois University
+2022-03-25	A	6-1	Lees-McRae College	Southern Wesleyan University
 2022-03-25	H	6-1	Liberty University	Jacksonville State University
+2022-03-25	A	4-3	Lipscomb University	Bellarmine University
+2022-03-25	H	6-3	Lycoming College	Alfred University
+2022-03-25	A	4-0	Lynn University	Valdosta State University
+2022-03-25	H	5-4	McMurry University	Texas A&M University-Texarkana
+2022-03-25	H	6-1	Miami University - OH	Bowling Green State University
 2022-03-25	A	7-0	Midwestern State University	Western New Mexico University
+2022-03-25	A	7-0	Missouri Western State University	Newman University
+2022-03-25	H	9-0	Muhlenberg College	Penn State Berks
+2022-03-25	A	5-2	North Carolina State University	Boston College
 2022-03-25	H	6-1	Northwestern State University	University of the Incarnate Word
+2022-03-25	A	7-0	Oakland City University	Indiana University Kokomo
+2022-03-25	H	4-1	Princeton University	Old Dominion University
+2022-03-25	H	4-3	Sam Houston State University	Stephen F. Austin State University
+2022-03-25	A	4-3	Savannah State University	Spring Hill College
+2022-03-25	A	6-1	Southeast Missouri State University	Eastern Illinois University
+2022-03-25	H	5-2	Southern Illinois University Edwardsville	University of Tennessee: Martin
 2022-03-25	A	5-2	Southwest Baptist University	Washburn University of Topeka
+2022-03-25	H	6-1	St. John's University (NY)	Georgetown University
 2022-03-25	H	4-3	St. Mary's University - TX	Angelo State University
+2022-03-25	H	5-2	Stanford University	University of Southern California
+2022-03-25	H	6-1	Tarleton State University	University of Texas at El Paso
+2022-03-25	A	4-3	Texas A&M University	University of Tennessee
+2022-03-25	A	7-0	Texas A&M University-Corpus Christi	Southeastern Louisiana University
+2022-03-25	A	7-0	Texas A&M University-Corpus Christi	Southeastern University
+2022-03-25	H	4-2	Texas Christian University	West Virginia University
+2022-03-25	H	4-2	Texas Tech University	Iowa State University
+2022-03-25	H	6-1	Towson University	Hofstra University
+2022-03-25	N	6-3	Trinity College - Connecticut	Grinnell College
+2022-03-25	A	4-0	United States Air Force Academy	University of New Mexico
 2022-03-25	H	4-0	United States Military Academy	College of the Holy Cross
 2022-03-25	H	4-0	United States Military Academy	Lafayette College
+2022-03-25	H	6-1	University of Alabama	University of Missouri: Columbia
+2022-03-25	N	4-3	University of Arizona	Rice University
 2022-03-25	H	6-1	University of Central Oklahoma	Northeastern State University
 2022-03-25	H	7-0	University of Florida	University of Mississippi
+2022-03-25	H	4-1	University of Georgia	Louisiana State University
+2022-03-25	H	4-3	University of Illinois	University of Maryland
+2022-03-25	A	5-2	University of Michigan	University of Minnesota
+2022-03-25	H	9-0	University of Minnesota: Duluth	University of Wisconsin-Superior
+2022-03-25	H	6-1	University of North Florida	Kennesaw State University
+2022-03-25	A	5-2	University of North Georgia	Tusculum College
+2022-03-25	H	5-2	University of Notre Dame	Virginia Polytechnic Institute & State University
+2022-03-25	H	5-2	University of Oregon	Washington State University
 2022-03-25	H	4-1	University of Richmond	George Mason University
+2022-03-25	H	4-3	University of Saint Katherine	Westmont College
 2022-03-25	A	4-2	University of San Diego	University of Portland
+2022-03-25	A	6-1	University of San Francisco	University of the Pacific
+2022-03-25	H	4-3	University of South Carolina	Mississippi State University
+2022-03-25	H	4-2	University of South Florida	University of Houston
+2022-03-25	A	4-1	University of Texas	Oklahoma State University
+2022-03-25	A	9-0	University of Texas at Dallas	East Texas Baptist University
+2022-03-25	H	6-1	University of Toledo	Northern Illinois University
+2022-03-25	A	6-1	University of Virginia	University of Louisville
+2022-03-25	H	7-0	University of West Alabama	Lee University
+2022-03-25	A	6-1	Vanderbilt University	University of Kentucky
+2022-03-25	A	6-1	Wake Forest University	Syracuse University
 2022-03-25	H	5-4	Wallace State Community College	Central Alabama Community College
 2022-03-25	A	7-0	Wayne State University (MI)	Purdue University Northwest
+2022-03-25	H	4-3	Western Michigan University	Eastern Michigan University
