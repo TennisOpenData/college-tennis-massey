@@ -17,6 +17,7 @@ date	where	score	winner	loser
 2021-08-28	A	9-0	Purdue University Northwest	Illinois Institute of Technology
 2021-08-28	N	5-4	University of Dubuque	Cornell College
 2021-09-01	H	8-1	Concordia University Wisconsin	Carroll University - Wisconsin
+2021-09-01	A	5-4	North Park University	Wisconsin Lutheran College
 2021-09-01	H	9-0	Ripon College	Lakeland College
 2021-09-01	A	7-2	State Univ. of New York College at Geneseo	Nazareth College of Rochester
 2021-09-01	H	5-4	University of Pittsburgh at Greensburg	Franciscan University of Steubenville
@@ -56,6 +57,7 @@ date	where	score	winner	loser
 2021-09-04	A	5-4	Central College	Coe College
 2021-09-04	H	6-3	Coe College	Simpson College - IA
 2021-09-04	N	9-0	Concordia University Wisconsin	Alverno College
+2021-09-04	A	8-1	Concordia University Wisconsin	Wisconsin Lutheran College
 2021-09-04	A	8-1	Cornell College	Buena Vista University
 2021-09-04	A	8-1	CUNY: Hunter College	Western Connecticut State University
 2021-09-04	A	6-3	D'Youville College	Alfred University
@@ -96,6 +98,7 @@ date	where	score	winner	loser
 2021-09-05	H	9-0	University of Wisconsin-Stevens Point	Marian University - WI
 2021-09-05	H	8-1	University of Wisconsin-Stevens Point	Wisconsin Lutheran College
 2021-09-05	H	9-0	Wartburg College	St. Ambrose University
+2021-09-05	A	9-0	Wisconsin Lutheran College	Marian University - WI
 2021-09-06	A	5-2	Colby-Sawyer College	St. Michael's College
 2021-09-06	H	7-0	Cornerstone University	Bethel College - IN
 2021-09-06	A	7-0	Cowley County Community College	McPherson College
@@ -364,6 +367,7 @@ date	where	score	winner	loser
 2021-09-18	A	5-2	Westminster College - Pennsylvania	California University of Pennsylvania
 2021-09-18	A	8-1	Westminster College - Pennsylvania	St. Vincent College
 2021-09-18	A	6-1	William Jewell College	Missouri Valley College
+2021-09-18	A	9-0	Wisconsin Lutheran College	Lakeland College
 2021-09-19	H	5-2	Assumption College	St. Anselm College
 2021-09-19	A	6-3	Augustana College - IL	Carroll University - Wisconsin
 2021-09-19	A	6-3	Carleton College (MN)	Luther College
@@ -606,6 +610,7 @@ date	where	score	winner	loser
 2021-10-02	H	5-4	Hartwick College	Alfred University
 2021-10-02	N	5-0	Husson University	Thomas College - ME
 2021-10-02	H	6-3	Illinois College	Monmouth College
+2021-10-02	H	6-3	Illinois Institute of Technology	Wisconsin Lutheran College
 2021-10-02	H	7-2	Illinois Wesleyan University	Elmhurst College
 2021-10-02	A	4-1	Lake Superior State University	Aquinas College - MI
 2021-10-02	A	7-2	Lawrence University	Ripon College
@@ -659,6 +664,7 @@ date	where	score	winner	loser
 2021-10-03	A	8-1	University of Pittsburgh at Greensburg	Mount Aloysius College
 2021-10-03	H	7-2	University of Scranton	Lebanon Valley College of Pennsylvania
 2021-10-03	A	4-1	Vassar College	College of the Holy Cross
+2021-10-03	H	9-0	Wisconsin Lutheran College	Milwaukee School of Engineering
 2021-10-04	A	6-3	Endicott College	Wheaton College - MA
 2021-10-04	A	6-3	Judson University - IL	Saint Mary's College - IN
 2021-10-04	A	6-1	St. Thomas Aquinas College	Thomas Jefferson University
@@ -3231,6 +3237,7 @@ date	where	score	winner	loser
 2022-02-26	H	7-0	William Jewell College	Missouri Valley College
 2022-02-26	A	4-3	Winona State University	Gustavus Adolphus College
 2022-02-26	A	6-1	Winona State University	Minnesota State University, Mankato
+2022-02-26	A	4-3	Wisconsin Lutheran College	University of Saint Francis - IL
 2022-02-26	N	4-0	Xavier University of Louisiana	Louisiana State University in Shreveport
 2022-02-26	N	4-0	Yale University	Troy State University
 2022-02-26	A	5-2	Young Harris College	North Greenville College
@@ -4368,6 +4375,7 @@ date	where	score	winner	loser
 2022-03-12	H	5-4	George Fox University	Pacific University
 2022-03-12	H	4-2	Georgetown College	Bethel College - TN
 2022-03-12	A	9-0	Grand View University	University of Dubuque
+2022-03-12	H	6-3	Grand View University	Wisconsin Lutheran College
 2022-03-12	H	4-3	Harding University	Missouri Western State University
 2022-03-12	H	8-1	Hillsborough Community College	Abraham Baldwin College
 2022-03-12	H	9-0	Huntingdon College	Berea College
@@ -5767,6 +5775,7 @@ date	where	score	winner	loser
 2022-03-26	A	4-3	Oral Roberts University	University of Nebraska Omaha
 2022-03-26	H	4-3	Ottawa University	McPherson College
 2022-03-26	A	4-0	Ottawa University Arizona	William Jessup University
+2022-03-26	H	9-0	Penn State Harrisburg	St. Elizabeth University
 2022-03-26	H	4-0	Pepperdine University	Loyola Marymount University
 2022-03-26	A	6-3	Pfeiffer University	North Carolina Wesleyan College
 2022-03-26	A	9-0	Piedmont College	Maryville College
@@ -6043,21 +6052,28 @@ date	where	score	winner	loser
 2022-03-29	H	4-3	Western Illinois University	Quincy University
 2022-03-29	A	7-2	Whitworth University	Whittier College
 2022-03-29	H	6-1	Wingate University	Lenoir-Rhyne College
+2022-03-30	H	6-1	Butler University	Indiana University-Purdue University Indianapolis
 2022-03-30	A	6-1	East Carolina University	North Carolina Central University
 2022-03-30	H	8-1	Eastern University	Rosemont College
+2022-03-30	H	7-0	Fairmont State University	Frostburg State University
 2022-03-30	H	4-3	Florida Atlantic University	Brown University
 2022-03-30	H	4-3	Georgia Southern University	Mercer University
 2022-03-30	H	5-2	Illinois State University	Saint Louis University
+2022-03-30	H	9-0	Lebanon Valley College of Pennsylvania	Cabrini College
 2022-03-30	H	7-0	McPherson College	Sterling College
 2022-03-30	H	7-0	Mercyhurst University	Seton Hill University
 2022-03-30	H	5-2	Millersville University of Pennsylvania	Salem University (WV)
 2022-03-30	A	4-3	Ottawa University	Bethany College - KS
+2022-03-30	A	6-3	Schreiner University	University of Mary Hardin-Baylor
 2022-03-30	H	7-0	Slippery Rock University of Pennsylvania	Clarion University of Pennsylvania
+2022-03-30	H	7-0	Stanford University	University of Hawaii
 2022-03-30	A	5-2	State University of West Georgia	Shorter University
 2022-03-30	H	7-0	Temple University	Morgan State University
 2022-03-30	H	7-0	University of Cincinnati	Northern Kentucky University
 2022-03-30	A	4-3	University of Delaware	Charleston Southern University
+2022-03-30	A	4-0	University of Georgia	Georgia Institute of Technology
 2022-03-30	A	5-2	University of Pikeville	Midway University
 2022-03-30	H	5-2	University of the Cumberlands	Campbellsville University
 2022-03-30	H	7-0	West Chester University of Pennsylvania	East Stroudsburg University of Pennsylvania
+2022-03-30	H	9-0	Westminster College - Pennsylvania	Thiel College
 2022-03-30	A	8-1	William Paterson University of New Jersey	St. Elizabeth University
