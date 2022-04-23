@@ -4264,7 +4264,7 @@ date	where	score	winner	loser
 2022-03-10	A	6-3	West Valley College	College of the Desert
 2022-03-10	H	7-0	Western New Mexico University	Sul Ross State University
 2022-03-10	H	6-1	Xavier University of Louisiana	Olivet Nazarene University
-2022-03-11	H	4-0	Alabama State University	Prairie View A&M University
+2022-03-11	N	4-0	Alabama State University	Prairie View A&M University
 2022-03-11	N	4-2	Alcorn State University	Grambling State University
 2022-03-11	N	5-2	Aquinas College - MI	Bethel College - IN
 2022-03-11	H	4-3	Arizona Christian	Hope International University
@@ -8079,7 +8079,9 @@ date	where	score	winner	loser
 2022-04-22	A	4-1	California State University: Fresno	Boise State University
 2022-04-22	N	4-0	Charleston Southern University	University of North Carolina at Asheville
 2022-04-22	N	4-0	Coastal Carolina University	University of Louisiana at Monroe
+2022-04-22	H	4-2	Columbia University	University of Pennsylvania
 2022-04-22	N	4-2	DePaul University	Butler University
+2022-04-22	N	4-2	Duke University	Wake Forest University
 2022-04-22	N	4-0	East Tennessee State University	Samford University
 2022-04-22	H	4-3	Eastern Michigan University	Western Michigan University
 2022-04-22	N	4-3	Florida Agricultural & Mechanical University	Alabama Agricultural & Mechanical University
@@ -8105,7 +8107,6 @@ date	where	score	winner	loser
 2022-04-22	N	4-2	Sam Houston State University	Stephen F. Austin State University
 2022-04-22	N	4-1	San Jose State University	Utah State University
 2022-04-22	H	7-0	Southern Illinois University Edwardsville	Eastern Illinois University
-2022-04-22	N	4-3	Southern Methodist University	University of Tulsa
 2022-04-22	N	4-0	St. John's University (NY)	University of Connecticut
 2022-04-22	A	4-3	SUNY Buffalo	University of Toledo
 2022-04-22	N	4-2	Texas A&M University	Vanderbilt University
@@ -8118,6 +8119,7 @@ date	where	score	winner	loser
 2022-04-22	H	4-1	University of Florida	University of Arkansas
 2022-04-22	N	4-2	University of Georgia	University of South Carolina
 2022-04-22	N	4-1	University of Kansas	Baylor University
+2022-04-22	N	4-0	University of Memphis	University of South Florida
 2022-04-22	H	4-1	University of Michigan	University of Illinois
 2022-04-22	H	4-0	University of New Orleans	University of the Incarnate Word
 2022-04-22	N	4-1	University of North Carolina	Florida State University
@@ -8126,8 +8128,10 @@ date	where	score	winner	loser
 2022-04-22	N	4-0	University of Oklahoma	Kansas State University
 2022-04-22	N	4-0	University of South Alabama	Texas State University: San Marcos
 2022-04-22	N	4-2	University of South Dakota	Oral Roberts University
+2022-04-22	N	4-2	University of Tennessee	Auburn University
 2022-04-22	N	4-0	University of Texas	Iowa State University
 2022-04-22	N	4-2	University of Texas at Arlington	Troy State University
+2022-04-22	N	4-3	University of Tulsa	Southern Methodist University
 2022-04-22	N	4-2	University of Virginia	North Carolina State University
 2022-04-22	N	4-1	University of Wyoming	University of Nevada (Reno)
 2022-04-22	N	4-1	Valparaiso University	SUNY Stony Brook
