@@ -1554,7 +1554,7 @@ trnId	first	last	state	country
 943139	Gadin	Arun	AZ	USA
 984784	Gautam	Arun	FL	USA
 932190	Kiyosh	Arun	OR	USA
-932191	Shrish	Arun	OR	USA
+932191	Shrish	Arun	FL	USA
 903400	Jai Krishnan	Arun Rajhesh	MA	USA
 896446	Arjun	Arunachalam	TX	USA
 993814	Manav	Arunanthi	MA	USA
@@ -5551,7 +5551,7 @@ trnId	first	last	state	country
 217001	Jonathan	Carpenter	CA	USA
 853713	Liam	Carpenter	CA	USA
 748516	Mikeal	Carpenter	MD	USA
-936170	Oliver	Carpenter	DC	USA
+936170	Oliver	Carpenter	CA	USA
 949389	Zachary	Carpenter	TX	USA
 956547	Zeke	Carpenter	MS	USA
 893691	Brandon	Carpico	OH	USA
@@ -11269,7 +11269,7 @@ trnId	first	last	state	country
 941096	Ayden	Fletcher	IA	USA
 826918	Broc	Fletcher	IN	USA
 1010439	Gravity	Fletcher	AR	USA
-936000	Louie	Fletcher		USA
+936000	Louie	Fletcher	FL	USA
 993195	Clement	Fleury	AZ	USA
 960108	Eli	Flick	IN	USA
 995847	Maximilian	Flick	CA	USA
@@ -13127,7 +13127,7 @@ trnId	first	last	state	country
 1009874	Tyler	Gonzales	MO	USA
 1008824	Constantine	Gonzales-Urias	WY	USA
 915384	Adrian	Gonzalez	TX	USA
-944094	Alan	Gonzalez		MEX
+944094	Alan	Gonzalez		USA
 944095	Alejandro	Gonzalez		MEX
 988277	Alejandro	Gonzalez	TX	USA
 1018453	Alex	Gonzalez	LA	USA
@@ -16119,7 +16119,7 @@ trnId	first	last	state	country
 979727	Mason	Hsieh	CA	USA
 968800	Michael	Hsieh	CO	USA
 886193	Ryan	Hsieh	CA	USA
-883733	William	Hsieh	CA	USA
+883733	William	Hsieh	FL	USA
 933580	Brandon	Hsiung	CA	USA
 990919	Aaron	Hsu	NY	USA
 1020906	Aaron	Hsu	CA	USA
@@ -19128,7 +19128,6 @@ trnId	first	last	state	country
 854325	Roger	Kiss	CA	USA
 392400	Chad	Kissell	PA	USA
 814893	William	Kistler	GA	USA
-1002017	Ka	Kit Terry Lau		CHN
 950951	Noah	Kitayama	TX	USA
 916103	Carson	Kitchen	IN	USA
 893556	Ian	Kitchen	CO	USA
@@ -20703,6 +20702,7 @@ trnId	first	last	state	country
 1002655	Justin	Lau	NY	USA
 1014206	Kohen	Lau	CA	USA
 983201	Luke	Lau		GBR
+1032668	Terry	Lau	FL	USA
 855656	Timmy	Lau	NJ	USA
 825068	Nick	Lauandos	FL	USA
 942664	Jameson	Laughlin	IN	USA
@@ -29119,7 +29119,7 @@ trnId	first	last	state	country
 954677	Elias	Peter		GER
 997555	Julian	Peter		GER
 957133	Xavier	Peter-Gooding		BAR
-1005921	Patrik	Petera		CZE
+874017	Patrick	Petera	FL	USA
 1008007	Yanis	Peterhans		SUI
 904222	Cole	Petering	OK	USA
 974200	Aaron	Peters	CO	USA
@@ -30638,7 +30638,7 @@ trnId	first	last	state	country
 956315	Cristian	Ramirez	FL	USA
 1019499	David	Ramirez	FL	VEN
 1011334	Dominick	Ramirez	CA	USA
-923212	Felipe	Ramirez		MEX
+923212	Felipe	Ramirez	TX	USA
 939871	Grant	Ramirez	MA	USA
 1019654	Guilherme	Ramirez		BRA
 783250	Humberto	Ramirez	FL	USA
@@ -31742,6 +31742,7 @@ trnId	first	last	state	country
 937297	Esteban	Rocha		PER
 876111	Francisco	Rocha		POR
 964312	Henrique	Rocha	AL	POR
+1035237	Henrique	Rocha	AL	USA
 972188	Victor	Rocha		BRA
 982489	Alexander	Roche	NY	USA
 945737	Matis	Roche		FRA
@@ -32657,7 +32658,7 @@ trnId	first	last	state	country
 935311	Kyubin	Sakong		KOR
 952199	Shaan	Sakraney	CA	USA
 1020538	Sricharan	Sakshi	MO	USA
-986399	N.	Sakulvongtana		THA
+986399	Nitiwat	Sakulvongtana		THA
 982920	Punch	Sakulvongtana	TN	THA
 1018852	Sei	Sakurai		JPN
 927322	Aaram	Salam	KS	USA
@@ -35942,7 +35943,7 @@ trnId	first	last	state	country
 876449	Nicholas	Stec	IL	USA
 1019807	Owen	Stechschulte	FL	USA
 862097	Carson	Stecklein	IA	USA
-918619	Nicolas	Steden		
+918619	Nicolas	Steden		MEX
 924078	Justin	Steed	UT	USA
 983317	Logan	Steed	UT	USA
 999001	William	Steedman	GA	USA
@@ -37110,7 +37111,7 @@ trnId	first	last	state	country
 938193	Gray	Taylor	TX	USA
 994188	Grayer	Taylor	AR	USA
 1003730	Hudson	Taylor	FL	USA
-1011193	Ian	Taylor	TX	USA
+1011193	Ian	Taylor	TX	U
 902031	Jackson	Taylor	GA	USA
 1010761	Jackson	Taylor	WA	USA
 894558	Jacob	Taylor	IL	USA
@@ -39909,7 +39910,7 @@ trnId	first	last	state	country
 869544	Lorenzo	Weaver	GA	USA
 960892	Parks	Weaver	GA	USA
 925487	Robert	Weaver	WA	USA
-919940	Vincent	Weaver	GA	
+919940	Vincent	Weaver	GA	USA
 989021	Alexander	Webb	En	GBR
 988862	Braydon	Webb	TX	USA
 977848	Cadell	Webb	CO	USA
@@ -40299,7 +40300,7 @@ trnId	first	last	state	country
 977443	Cullen	Whitman	TX	USA
 1010766	Josiah	Whitman	OR	USA
 968434	Noah	Whitman	TX	USA
-958674	Sebastion	Whitman	KS	USA
+958674	Sebastion	Whitman	MS	USA
 990635	Cormac	Whitney	CA	USA
 1020614	Noah	Whitney	AK	USA
 960895	Sam	Whitt	GA	USA
